@@ -16,4 +16,3 @@ config.local.js
 basement_dist
 .idea
 .yarnrc
-commitlint.config.js
