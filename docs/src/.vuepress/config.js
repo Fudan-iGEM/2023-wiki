@@ -18,7 +18,8 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'shortcut icon', href: 'https://static.igem.wiki/common/icons/favicons/igem-2022.svgs' }]
   ],
 
   /**
@@ -28,18 +29,20 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
+    displayAllHeaders: true,
     editLinks: false,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Home',
+        link: '/',
       },
-      {
-        text: 'Config',
-        link: '/config/'
+      { text: 'Team', items:[
+          { text: 'Team', link: '/team/' },
+          { text: 'Attributions', link: '/attributions/' }
+        ],
       },
       {
         text: 'VuePress',
