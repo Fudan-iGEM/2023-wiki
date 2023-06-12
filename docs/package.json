@@ -1,0 +1,19 @@
+{
+  "name": "fudan",
+  "version": "0.0.1",
+  "description": "Team Fudan 2023 Wiki",
+  "main": "index.js",
+  "authors": {
+    "name": "Zhiyue Chen",
+    "email": "20301050198@fudan.edu.cn"
+  },
+  "repository": "https://gitlab.igem.org/2023/fudan/fudan",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
