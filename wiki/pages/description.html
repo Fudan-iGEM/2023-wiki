@@ -7,51 +7,74 @@
 
 <div class="row mt-4">
   <div class="col">
-    <div class="bd-callout bd-callout-info">
-      <h4>Bronze Medal Criterion #3</h4>
-      <p>Describe how and why you chose your iGEM project.<p>
-      <hr>
-      <p>Please see the <a href="https://competition.igem.org/judging/medals">2023 Medals Page</a> for more information.</p>
-    </div>
-  </div>
-</div>
+    <h1>Project Description</h1>
+    <h2>Background &amp; Inspiration</h2>
+    <p>In his novel <em>The Songs of the Distant Earth</em>, Arthur C. Clarke, often referred to as the &quot;Great Space Prophet,&quot; envisions a future where humanity, having predicted the imminent supernova explosion of the sun, reestablishes civilization on the distant planet Salazar through space migration. In our current era, with the advancement of human civilization and aerospace technology, Earth&#39;s ecological environment is facing irreversible damage. This leads us to contemplate: When the Earth is no longer suitable for human habitation, new life may dawn on other planets.</p>
+    <p>Among the planets in the solar system, Mars stands out as the most suitable for interstellar navigation and space migration. As the closest Earth-like planet, it has been the subject of significant exploration. Mars boasts a gravity one-third that of Earth&#39;s and a soil rich in water (mostly in the form of ice), which can be converted into liquid water to serve as a foundation for biological survival. In comparison to the Moon, Mars possesses a relatively stable atmosphere consisting primarily of 95% carbon dioxide and 3% nitrogen <sup class='md-footnote'><a href='#dfref-footnote-1' name='ref-footnote-1'>1</a></sup>.</p>
+    <p>However, before we can colonize Mars, modifications are necessary. The term &quot;terraforming,&quot; coined by Jack Williamson in 1942, refers to the planetary engineering that artificially alters the surface environment of celestial bodies to resemble Earth&#39;s climate, temperature, and ecological conditions. Nevertheless, terraforming Mars is no easy task. Even with its favorable gravity, atmosphere, and water resources, the grand plan of human colonization of Mars encounters numerous significant challenges. Among these challenges, soil plays a crucial role. Without soil, the establishment of a terrestrial ecosystem becomes arduous, and the foundation for human settlement is lost. The Martian surface is predominantly covered in bare rock, primarily composed of basalt, with regolith consisting mainly of silicate rock and sulfate rock. The chemical composition is primarily: O (50%), Si (15% - 30%), Fe (12% - 16%), Mg (5%), Ca (3% - 8%), S (3% - 4%), Al (2% - 7%), K (2%) <sup class='md-footnote'><a href='#dfref-footnote-2' name='ref-footnote-2'>2</a></sup>. To transform this barren rock into soil conducive to the establishment of an ecosystem from scratch poses a significant challenge in the process of Martian transformation.</p>
+    <p>Drawing inspiration from the early stages of terrestrial succession on Earth, we find that pioneer lichens play a vital role in shaping the planet&#39;s environment. Lichens are symbiotic organisms consisting of fungi and either chlorophyta or cyanobacteria. They grow on dry rocks or tree bark and secrete organic acids and mucopolysaccharides, which accelerate rock weathering and soil formation, creating favorable conditions for the emergence of other species and vegetation. The photosynthetic green algae provide nutrients for carbon and nitrogen fixation, while the fungi provide water and minerals, preventing excessive evaporation. However, directly applying lichens to improve the Martian surface is not practical due to the significant differences in crust and atmospheric composition between Earth and Mars. Lichens that thrive on Earth may not survive in extraterrestrial environments.</p>
+    <p>So, how can we draw inspiration from lichens and apply their principles to terraforming the Martian surface?</p>
+    <p>&nbsp;</p>
+    <h2>Overview</h2>
+    <p>Our team proposes the development of an ecological biofilm inspired by the functions of lichens that can adapt to the Martian environment and facilitate the transformation of barren rocks into soil. Autotrophic cyanobacteria will be responsible for nitrogen fixation and carbon fixation, providing oxygen and organic matter essential for <em>Escherichia coli</em> metabolism. <em>E. coli</em>, with its genetic components modified to mimic the role of fungi in lichens, will secrete chemical weathering agents to erode rock debris and express elements that enable the biofilm to adapt to the harsh Martian environment, promoting its functionality. The ecological membrane, evenly spread on the rocks, will facilitate the transformation of rock debris into soil suitable for supporting life, enabling future habitation, agriculture, and animal husbandry on Mars. This project aims to accelerate the terraforming of Mars and provide technical support for future space exploration endeavors.</p>
+    <p>&nbsp;</p>
+    <h2>Identify the problems</h2>
+    <ol start='' >
+    <li><p>The barren rocks on Mars lack organic nutrients, necessitating the ability of the ecological biofilm to grow autotrophically using solar energy and atmospheric components, without relying on external nutrients. It should be able to accumulate organic matter and transport it extracellularly for use by heterotrophic bacteria.</p>
+    </li>
+    <li><p>Martian regolith primarily consists of silicate rock and sulfate rock. The ecological biofilm needs to secrete organic acids to dissolve these rock components. (Mars rocks are also rich in phosphorus <sup class='md-footnote'><a href='#dfref-footnote-3' name='ref-footnote-3'>3</a></sup>, an important component of genetic material and widely involved in energy metabolism and membrane synthesis. Phosphate recycling can be achieved by expressing it in <em>E. coli</em> <sup class='md-footnote'><a href='#dfref-footnote-4' name='ref-footnote-4'>4</a></sup>). (High concentrations of perchlorate in Martian soil are toxic to organisms. Perchlorate reductase and chlorite dismutase can be expressed in <em>E. coli</em> to decompose sodium perchlorate. Various anaerobic microorganisms can degrade perchlorate into non-toxic chlorate and oxygen, utilizing organic matter such as acetic acid, ethanol, lactic acid or inorganic matter like hydrogen, zero-valent iron, elemental sulfur, etc.) <sup class='md-footnote'><a href='#dfref-footnote-5' name='ref-footnote-5'>5</a></sup>.</p>
+    </li>
+    <li><p>Mars experiences significant atmospheric pressure drops of about 30% due to the formation of dry ice in the polar regions during winter. This results in two atmospheric maximum and two atmospheric minimum periods each year, leading to global airflow cycles and violent storms on Mars <sup class='md-footnote'><a href='#dfref-footnote-6' name='ref-footnote-6'>6</a></sup>. The ecological membrane needs to possess high adhesion ability and resistance to high wind speeds.</p>
+    </li>
+    <li><p>Mars has a thin atmosphere, strong surface radiation, and significant temperature differences between day and night <sup class='md-footnote'><a href='#dfref-footnote-6-1' name='ref-footnote-6-1'>6</a></sup> (surface temperatures can reach 28 °C during the day and drop as low as -132 °C at night, averaging -52 °C). The ecological membrane should incorporate anti-radiation and temperature buffering mechanisms.</p>
+    </li>
+    <li><p>Maintaining a certain bacterial density within the biofilm is crucial for material exchange and quorum sensing among bacteria.</p>
+    </li>
+    <li><p>Mars experiences large temperature variations, making it difficult to maintain stable liquid water. Gaseous water is only present for a few hours per day, which is insufficient time for microorganisms to acquire the water they need for normal survival <sup class='md-footnote'><a href='#dfref-footnote-7' name='ref-footnote-7'>7</a></sup>. Ensuring a secure water source for bacteria in this dry environment remains a significant problem (unresolved).</p>
+    </li>
+    <li><p>The low atmospheric nitrogen pressure on Mars presents challenges for nitrogen fixation organisms in ensuring a sufficient supply of nitrogen sources <sup class='md-footnote'><a href='#dfref-footnote-8' name='ref-footnote-8'>8</a></sup> (unresolved).</p>
+    <p>&nbsp;</p>
+    <h2>Symbiotic System</h2>
+    <h3>Cyanobacteria (&amp; <em>Escherichia coli</em>)</h3>
+    <p>Cyanobacteria have the ability to fix carbon dioxide through photosynthesis, producing sucrose as a carbon source for the symbiotic membrane in space. However, we have encountered two problems in this process, as learned from the 2022 ShanghaiTech solution <sup class='md-footnote'><a href='#dfref-footnote-9' name='ref-footnote-9'>9</a></sup>.</p>
+    <p>The first problem is that wild-type cyanobacteria lack natural sucrose transporters, preventing them from secreting sucrose outside the cell. As a result, the carbon source cannot be utilized by <em>Escherichia coli</em>. To address this, we plan to express the sucrose transporter gene cscB in cyanobacteria, which will facilitate the secretion of sucrose into the extracellular environment.</p>
+    <p>The second problem involves the difficulty that wild-type <em>Escherichia coli</em> faces in utilizing sucrose as the sole carbon source. To overcome this, we suggest expressing the β-glucosidase gene SacaC in <em>Escherichia coli</em>. This gene enables <em>E. coli</em> to break down sucrose into glucose and fructose, thus promoting the utilization of sucrose as a carbon source by <em>E. coli</em>.</p>
+    <h3><em>Escherichia coli</em></h3>
+    <h4>Interaction Module</h4>
+    <p>Most of the co-culture systems used in previous iGEM projects involve directly mixing two microorganisms. However, this approach often leads to uneven distribution of microorganisms, making it challenging to regulate their metabolic relationship and ensure the stable operation of the system. Through our research, we discovered that the fixed spatial structure formed by the biofilm of fungi in lichen symbionts plays a crucial role in their adaptation to the environment, providing them with a strong ability to store water and nutrients. Drawing inspiration from this, we propose using Living Assembled Material by Bacterial Adhesion (LAMBA) <sup class='md-footnote'><a href='#dfref-footnote-10' name='ref-footnote-10'>10</a></sup> to express adhesive antigen-antibody pairs on the surface of cyanobacteria and engineered bacteria. This will allow for the orderly arrangement and self-assembly of these microorganisms, forming a biofilm-like structure. This unique interaction module enables the predictable and controllable spatial combination of the two microorganisms, providing our &quot;pioneer bacteria&quot; with a physical framework to enhance their environmental adaptability.</p>
+    <h4>Organic Acid Module</h4>
+    <p>To facilitate the weathering of bare rocks on Mars, we require the biofilm capable of dissolving the predominant silicate rocks in the regolith. Under similar pH conditions, organic acids are more effective than inorganic acids. Commonly used organic acids, such as oxalic acid, citric acid, acetic acid, and malic acid, simulate the natural dissolution process of silicate minerals. In our project, we plan to adopt the strategy proposed by CAU China 2022 <sup class='md-footnote'><a href='#dfref-footnote-11' name='ref-footnote-11'>11</a></sup>, which involves modifying the TCA cycle in <em>Escherichia coli</em> by introducing obcA and obcB genes. This modification enables the bacteria to produce oxalates. Down-regulating oxdC and gltA can reduce oxalate degradation, inhibit the conversion of oxalacetic acid to citric acid, and increase oxalate production. The FpOAR protein acts as an oxalate efflux protein, facilitating the efflux of oxalate into the extracellular environment.</p>
+    <h4>Exopolysaccharides Module</h4>
+    <p>drther promote the dissolution of silicate minerals. The side chain groups of polysaccharides contain hydrogen and oxygen bonds, which provide strong adsorption capacity. As a result, the &quot;bacteria-mineral complexes&quot; primarily exhibit significant adsorption effects on the metabolites secreted by the bacteria (such as organic acids and certain inorganic ions). Additionally, these complexes bind the cells around the minerals together, forming a polymeric structure. To enhance the transformation of bare rocks into soil, we plan to draw inspiration from the work of XJTU-China in 2022 <sup class='md-footnote'><a href='#dfref-footnote-12' name='ref-footnote-12'>12</a></sup>. Specifically, we aim to overexpress PgmA and GalU, two crucial rate-limiting enzymes in the exopolysaccharide synthesis pathway, in <em>Escherichia coli</em>&#39;s membrane. This overexpression will increase the expression of exopolysaccharides, further promoting the conversion of bare rocks into soil based on organic acids.</p>
+    <h4>Anti-UV Module</h4>
+    <p>The thin atmosphere of Mars exposes the bacterial membrane sprayed on its surface to radiation, posing a risk of ultraviolet (UV) light damaging the organisms&#39; genomes. Drawing from research conducted at 2009 Tokyo Tech<sup class='md-footnote'><a href='#dfref-footnote-13' name='ref-footnote-13'>13</a></sup>, our plan is to enhance the expression of melanin in <em>Escherichia coli</em>. Melanin efficiently absorbs heat and UV light, providing protection to the E. coli genome against UV damage. Additionally, it helps absorb radiation heat, enabling the membrane to better withstand cold temperatures at night. To increase melanin expression, we will promote the overexpression of melA tyrosinase, which catalyzes the conversion of tyrosine into dopa quinone. Subsequently, dopa quinone undergoes a non-enzymatic chain reaction to form melanin. Temperature-sensitive promoters can also be utilized: when the surface temperature of Mars is low, <em>E. coli</em> produces more melanin, resulting in a black appearance and warming the surface. Conversely, when the temperature exceeds a certain threshold, melanin production ceases, and the color of E. coli turns white.</p>
+    <h4>Anti-Freeze Module</h4>
+    <p>Mars experiences significant temperature variations between day and night, and the low temperatures at night can lead to the formation of ice crystals in the cells of the bacterial strain. This phenomenon causes a loss of cell water and physical damage to the cell membrane. Taking inspiration from antifreeze proteins (AFP), our plan involves expressing AFP in <em>E. coli</em> to enhance the adaptability of the ecological biofilm to extremely low temperatures.</p>
+    <p>&nbsp;</p>
+    <h2>Function Summary</h2>
+    <p>Through modular design of the ecological membrane, we have successfully integrated photoautotrophic cyanobacteria to capture carbon and transfer it as a carbon source to heterotrophic <em>Escherichia coli</em>. The physical framework of the ecological membrane is established using antigen-antibody binding. In <em>Escherichia coli</em>, we have achieved expression of organic acids and extracellular polysaccharides that facilitate the weathering of barren rocks, along with components for UV protection and temperature buffering that enable biofilm adaptation to the Martian environment. This pioneering biofilm design aims to promote the transformation of Mars&#39; surface into a habitable environment.</p>
+    <p>Looking ahead, we envision a diverse array of microorganisms comprising the &quot;pioneer membrane&quot; that can be mixed, amplified, and stored in a specialized container for transportation. Upon arrival at the destination, they can be mixed with inducers for pre-assembly and sprayed onto the Martian rock surface by space explorers, initiating the seeding process of the &quot;pioneer membrane.&quot; Once seeded, the membrane will undergo self-growth and expansion, facilitating the colonization of Mars and accelerating the ecological succession process within the Martian environment.</p>
+    <p>&nbsp;</p>
+    </li>
 
-<div class="row mt-4">
-  <div class="col-lg-8">
-    <h2>What should this page contain?</h2>
-    <hr>
-    <ul>
-      <li>A clear and concise description of your project.</li>
-      <li>A detailed explanation of why your team chose to work on this particular project.</li>
-      <li>References and sources to document your research.</li>
-      <li>Use illustrations and other visual resources to explain your project.</li>
-    </ul>
-  </div>
-  <div class="col-lg-4">
-    <h2>Inspirations</h2>
-    <hr>
-    <ul>
-      <li><a href="https://2022.igem.wiki/dtu-denmark/description">2022 DTU-Denmark</a></li>
-      <li><a href="https://2019.igem.org/Team:ITESO_Guadalajara/Description">2019 ITESO Guadalajara</a></li>
-      <li><a href="https://2020.igem.org/Team:Technion-Israel/Description">2020 Technion Israel</a></li>
-      <li><a href="https://2020.igem.org/Team:Botchan_Lab_Tokyo/Description">2020 Botchan Lab Tokyo</a></li>
-      <li><a href="https://2020.igem.org/Team:St_Andrews/Description">2020 St Andrews</a></li>
-      <li><a href="https://2020.igem.org/Team:MIT/Description">2020 MIT</a></li>
-    </ul>
-  </div>
-</div>
-
-<div class="row mt-4">
-  <div class="col-lg-8">
-    <h2>Some advice</h2>
-    <hr>
-    <p>We encourage you to put up a lot of information and content on your wiki, but we also encourage you to include summaries as much as possible. If you think of the sections in your project description as the sections in a publication, you should try to be concise, accurate, and unambiguous in your achievements. Your Project Description should include more information than your project abstract.</p>
-  </div>
-  <div class="col-lg-4">
+    </ol>
     <h2>References</h2>
-    <hr>
-    <p>iGEM teams are encouraged to record references you use during the course of your research. They should be posted somewhere on your wiki so that judges and other visitors can see how you thought about your project and what works inspired you.</p>
+    <p>&nbsp;</p>
+    <p><strong><em>Drafted in Chinese, manual translated into English, then embellished by chatGPT</em></strong></p>
+    <div class='footnotes-area'  ><hr/>
+    <div class='footnote-line'><span class='md-fn-count'>1</span> Ouyang Ziyuan, Xiao Fugen. Mars and its Environment [J]. Spacecraft Environmental Engineering,2012,29(06):591-601. <a name='dfref-footnote-1' href='#ref-footnote-1' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>2</span> Wray, J., Hansen, S., Dufek, J. <em>et al.</em> Prolonged magmatic activity on Mars inferred from the detection of felsic rocks. <em>Nature Geosci</em> <strong>6</strong>, 1013–1017 (2013). <a href='https://doi.org/10.1038/ngeo1994' target='_blank' class='url'>https://doi.org/10.1038/ngeo1994</a> <a name='dfref-footnote-2' href='#ref-footnote-2' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>3</span> <a href='https://www.cjss.ac.cn/article/doi/10.11728/cjss2021.01.129' target='_blank' class='url'>https://www.cjss.ac.cn/article/doi/10.11728/cjss2021.01.129</a> <a name='dfref-footnote-3' href='#ref-footnote-3' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>4</span> <a href='https://2017.igem.org/Team:Manchester' target='_blank' class='url'>https://2017.igem.org/Team:Manchester</a> <a name='dfref-footnote-4' href='#ref-footnote-4' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>5</span> <a href='https://2021.igem.org/Team:MTU-CORK' target='_blank' class='url'>https://2021.igem.org/Team:MTU-CORK</a> <a name='dfref-footnote-5' href='#ref-footnote-5' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>6</span> Martian atmosphere [J]. Nature Exploration,2005(6):21. <a name='dfref-footnote-6' href='#ref-footnote-6' title='回到文档' class='reversefootnote' >↩</a> <a name='dfref-footnote-6-1' href='#ref-footnote-6-1' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>7</span> Li Danming, Li Yi. Research and simulation experiment of water extraction method from Martian soil [J]. Chinese Journal of Spaceflight, 2019,27(1):10-14. <a name='dfref-footnote-7' href='#ref-footnote-7' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>8</span> <a href='https://www.sciencealert.com/cyanobacteria-can-be-grown-in-mars-conditions-opening-avenues-for-human-life-support' target='_blank' class='url'>https://www.sciencealert.com/cyanobacteria-can-be-grown-in-mars-conditions-opening-avenues-for-human-life-support</a> <a name='dfref-footnote-8' href='#ref-footnote-8' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>9</span> <a href='https://2022.igem.wiki/shanghaitech-china/' target='_blank' class='url'>https://2022.igem.wiki/shanghaitech-china/</a> <a name='dfref-footnote-9' href='#ref-footnote-9' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>10</span> Chen, B., Kang, W., Sun, J. <em>et al.</em> Programmable living assembly of materials by bacterial adhesion. <em>Nat Chem Biol</em> <strong>18</strong>, 289–294 (2022). <a href='https://doi.org/10.1038/s41589-021-00934-z' target='_blank' class='url'>https://doi.org/10.1038/s41589-021-00934-z</a> <a name='dfref-footnote-10' href='#ref-footnote-10' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>11</span> <a href='https://2022.igem.wiki/scu-china/overview.html' target='_blank' class='url'>https://2022.igem.wiki/scu-china/overview.html</a> <a name='dfref-footnote-11' href='#ref-footnote-11' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>12</span> <a href='https://2022.igem.wiki/xjtu-china/index.html' target='_blank' class='url'>https://2022.igem.wiki/xjtu-china/index.html</a> <a name='dfref-footnote-12' href='#ref-footnote-12' title='回到文档' class='reversefootnote' >↩</a></div>
+    <div class='footnote-line'><span class='md-fn-count'>13</span> <a href='https://2009.igem.org/Team:Tokyo_Tech' target='_blank' class='url'>https://2009.igem.org/Team:Tokyo_Tech</a> <a name='dfref-footnote-13' href='#ref-footnote-13' title='回到文档' class='reversefootnote' >↩</a></div></div>
   </div>
 </div>
-
 {% endblock %}
