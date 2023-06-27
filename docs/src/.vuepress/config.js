@@ -62,6 +62,12 @@ module.exports = {
       ],
     }
   },
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-mathjax3'))
+      md.use(require('markdown-it-footnote'))
+    }
+  },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
