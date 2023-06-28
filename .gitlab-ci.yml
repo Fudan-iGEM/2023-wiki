@@ -1,16 +1,5 @@
 image: node:16.20-alpine3.17
 
-stages:
-  - deploy
-
-build:
-  stage: build
-  script:
-    - yarn install
-    - yarn docs:build
-  only:
-    - dev
-
 pages:
   stage: deploy
   script:
