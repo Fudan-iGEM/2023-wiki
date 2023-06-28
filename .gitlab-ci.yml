@@ -9,4 +9,5 @@ pages:
     paths:
     - public
   only:
+  - dev
   - main
