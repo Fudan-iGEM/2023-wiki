@@ -1,7 +1,6 @@
 image: node:16.20-alpine3.17
 
 stages:
-  - build
   - deploy
 
 build:
