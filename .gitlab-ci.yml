@@ -1,14 +1,10 @@
-image: node:16.15-alpine3.16
+image: python:3.6
 
 pages:
   stage: build
-  cache:
-    paths:
-      - node_modules/
   script:
-    - echo start building
-    - npm install
-    - npm run docs:build
+    - pip install --no-cache-dir -r dependencies.txt
+    - FLASK_APP=app.py flask freeze
   artifacts:
     paths:
       - public

@@ -9,23 +9,20 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
-  base:'/dev/',
-  dest:'../public',
-
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['link', { rel: 'icon', href: '/igem-2022.svg' }],
+    ['link', { rel: 'icon', href: 'https://static.igem.wiki/common/icons/favicons/igem-2022.svg' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'apple-touch-icon', href: '/igem-2022.svg' }],
-    ['link', { rel: 'mask-icon', href: '/igem-2022.svg' , color:"#999"}],
-    ['meta', { name: 'msapplication-TileImage', content: '/igem-2022.svg' }],
+    ['link', { rel: 'apple-touch-icon', href: 'https://static.igem.wiki/common/icons/favicons/igem-2022.svg' }],
+    ['link', { rel: 'mask-icon', href: 'https://static.igem.wiki/common/icons/favicons/igem-2022.svg' , color:"#999"}],
+    ['meta', { name: 'msapplication-TileImage', content: 'https://static.igem.wiki/common/icons/favicons/igem-2022.svg' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     ['link', { rel: 'shortcut icon', href: 'https://static.igem.wiki/common/icons/favicons/igem-2022.svg' }]
   ],
