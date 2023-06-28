@@ -1,15 +1,25 @@
 image: node:16.20-alpine3.17
 
-pages:
+stages:
+  - build
+  - deploy
+
+build:
   stage: build
-  cache:
-    paths:
-      - node_modules/
   script:
     - yarn install
     - yarn docs:build
+
+pages:
+  stage: deploy
+  script:
+    - rm -rf public
+    - mkdir public && cp -rf docs/src/.vuepress/dist/* public
+
+
   artifacts:
     paths:
     - public
-  only:
+    - docs/src/.vuepress/dist
+only:
   - dev
