@@ -24,6 +24,20 @@ def serve():
     freezer.run()
 
 
+# for dev
+@app.route('/dev/')
+def home():
+    return render_template('index.html')
+
+
+@app.route('/dev/<page>')
+def pages(page):
+    if '.html' in page:
+        return render_template(page.lower())
+    return render_template(page.lower() + '.html')
+
+
+'''
 @app.route('/')
 def home():
     return render_template('index.html')
@@ -34,7 +48,7 @@ def pages(page):
     if '.html' in page:
         return render_template(page.lower())
     return render_template(page.lower() + '.html')
-
+'''
 
 # Main Function, Runs at http://0.0.0.0:8080
 if __name__ == "__main__":

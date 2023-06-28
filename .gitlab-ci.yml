@@ -1,12 +1,15 @@
-image: python:3.6
+image: node:16.20.0
 
 pages:
   stage: build
+  cache:
+    paths:
+      - node_modules/
   script:
-  - pip install --no-cache-dir -r dependencies.txt
-  - FLASK_APP=app.py flask freeze
+    - yarn install
+    - yarn docs:build
   artifacts:
     paths:
     - public
   only:
-  - main
+  - dev
