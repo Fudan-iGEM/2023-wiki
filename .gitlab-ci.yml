@@ -20,6 +20,10 @@ pages:
   artifacts:
     paths:
     - public
-    - docs/src/.vuepress/dist
   only:
     - dev
+
+cache:
+  paths:
+    - node_modules
+    - docs/src/.vuepress/dist
