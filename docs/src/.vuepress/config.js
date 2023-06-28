@@ -9,6 +9,8 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
+  base:'/dev/',
+  dest:'../public',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -35,7 +37,6 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
-    base:'/dev/',
     displayAllHeaders: true,
     editLinks: false,
     docsDir: '',

@@ -1,15 +1,15 @@
+image: node:16.20-alpine3.17
+
 pages:
-  stage: deploy
+  cache:
+    paths:
+      - node_modules/
   script:
-    - rm -rf public
-    - mkdir public && cp -rf docs/src/.vuepress/dist/* public
+    - echo start building
+    - npm install
+    - npm run docs:build
   artifacts:
     paths:
-    - public
+      - public
   only:
     - dev
-
-cache:
-  paths:
-    - node_modules
-    - docs/src/.vuepress/dist
