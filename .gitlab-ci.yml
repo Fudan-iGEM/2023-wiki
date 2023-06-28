@@ -9,17 +9,17 @@ build:
   script:
     - yarn install
     - yarn docs:build
+  only:
+    - dev
 
 pages:
   stage: deploy
   script:
     - rm -rf public
     - mkdir public && cp -rf docs/src/.vuepress/dist/* public
-
-
   artifacts:
     paths:
     - public
     - docs/src/.vuepress/dist
-only:
-  - dev
+  only:
+    - dev
