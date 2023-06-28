@@ -1,6 +1,7 @@
 image: node:16.20-alpine3.17
 
 pages:
+  stage: build
   cache:
     paths:
       - node_modules/
