@@ -15,6 +15,7 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
+  dest: 'public',
   head: [
     ['link', { rel: 'icon', href: 'https://static.igem.wiki/teams/4765/wiki/czy/logo-czy.ico' }],
     ['link', { rel: 'stylesheet', href: '/iconfont/iconfont.css' }],
