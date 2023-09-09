@@ -6,7 +6,8 @@ pages:
     paths:
       - node_modules/
   script:
-    - npm install
+    - apk add --no-cache git
+    - yarn install
     - npm run docs:build
   artifacts:
     paths:
