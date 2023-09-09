@@ -39,6 +39,7 @@ module.exports = {
   themeConfig: {
     logo:'https://static.igem.wiki/teams/4765/wiki/czy/logo-czy.ico',
     authorAvatar:'https://static.igem.wiki/teams/4765/wiki/czy/logo-czy.svg',
+    noFoundPageByTencent: false,
     nav: [
       {
         text: 'Home',
