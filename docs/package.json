@@ -14,6 +14,12 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-clean-urls": "^1.1.2"
+  },
+  "dependencies": {
+    "lottie-web": "^5.12.2",
+    "vue-typed-js": "^0.1.2",
+    "vuepress-theme-reco": "^1.6.17"
   }
 }

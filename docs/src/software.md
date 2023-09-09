@@ -1,8 +1,10 @@
 ---
 sidebar: auto
 sidebarDepth: 2
+title: Software
+author: Zhiyue Chen
+date: 2023-9-30
 ---
-# Software
 Improve your part design with 50000+ parts！
 
 Try our public PartHub [here](http://3.238.241.161:5000/)!
