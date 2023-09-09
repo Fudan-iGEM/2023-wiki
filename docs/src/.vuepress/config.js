@@ -19,7 +19,6 @@ module.exports = {
   base:'/fudan/',
   head: [
     ['link', { rel: 'icon', href: 'https://static.igem.wiki/teams/4765/wiki/czy/logo-czy.ico' }],
-    ['link', { rel: 'stylesheet', href: '/iconfont/iconfont.css' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],

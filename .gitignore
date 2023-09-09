@@ -2,7 +2,7 @@ env
 venv
 .vscode
 __pycache__
-public
+/public/
 pids
 logs
 node_modules
