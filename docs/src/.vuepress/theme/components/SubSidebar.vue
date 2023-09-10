@@ -24,6 +24,9 @@ export default defineComponent({
       style: { width: this.headers.length > 0 ? '12rem' : '0' }
     }, [
       ...this.headers.map(header => {
+          if (header.level>2){
+              return;
+          }
         return h('li', {
           class: {
             active: this.isLinkActive(header),
@@ -51,7 +54,7 @@ export default defineComponent({
   li
     padding .2rem 0
     cursor pointer
-    border-left 1px solid var(--border-color)
+    //border-left 1px solid var(--border-color)
     a
       padding 0.35rem 1rem 0.35rem 0rem
       color var(--text-color)
@@ -59,7 +62,7 @@ export default defineComponent({
       a
        color $accentColor
     &.active
-      border-left 1px solid $accentColor
+      border-left 3px solid $accentColor
       a
        color $accentColor
     &.level-1

@@ -1,4 +1,4 @@
 ---
 sidebar: auto
-sidebarDepth: 2
+title: Description
 ---

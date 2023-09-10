@@ -68,7 +68,7 @@ export default defineComponent({
   margin: 0px auto;
   .hero {
     text-align: center;
-    height:calc(100vh - var(--navbar-height));
+    min-height:calc(100vh - var(--navbar-height));
     display: flex;
     flex-direction: column;
     justify-content: center;

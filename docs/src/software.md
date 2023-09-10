@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-sidebarDepth: 2
+sidebarDepth: 1
 title: Software
 author: Zhiyue Chen
 date: 2023-9-30

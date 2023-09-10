@@ -4,7 +4,7 @@
           <a href="http://www.yfc.cn/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/yf-capital-logo-czy.png"></a>
           <a href="https://www.fudan.edu.cn/en/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/fudan-logo-czy.svg"></a>
           <a href="https://life.fudan.edu.cn/main.htm"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/sky-logo-czy.png"></a>
-          <a href="#"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/pure-logo.svg"></a>
+          <a href="https://2023.igem.wiki/fudan/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/pure-logo.svg"></a>
       </div>
       <div class="copyright">
           <p><small>© 2023 - Content on this site is licensed under a <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International license</a>.</small></p>

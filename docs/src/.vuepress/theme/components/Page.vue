@@ -303,7 +303,7 @@ function flatten (items, res) {
   .page
     padding-right 0
     .page-title
-      padding: 0 1rem;
+      padding: 7rem 2.5rem;
     .page-edit
       .edit-link
         margin-bottom .5rem
