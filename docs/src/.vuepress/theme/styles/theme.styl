@@ -156,12 +156,18 @@ table
   overflow-x: auto
 
 tr
-  border-top 1px solid var(--border-color)
-  &:nth-child(2n)
-    background-color var(--code-color)
+  //border-top 1px solid var(--border-color)
+  //&:nth-child(2n)
+    //background-color $tableBgColor
+  &:last-child
+    border-bottom 0.3rem solid $accentColor
 
-th, td
-  border 1px solid var(--border-color)
+th
+  border-bottom 0.3rem solid $accentColor
+  border-top 0.3rem solid $accentColor
+  padding .6em 1em
+td
+  //border 1px solid var(--border-color)
   padding .6em 1em
 
 .theme-container
@@ -187,7 +193,10 @@ th, td
 .iconfont
   font-family: "iconfont",HarmonyOS_Sans, Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif !important
   font-size: 1rem;
-  color: var(--text-color-sub);
+  color: var(--text-color-sub)
+
+.footnote-ref
+  font-size 0.6rem
 
 /************** 滚动条 **************/
 ::-webkit-scrollbar
