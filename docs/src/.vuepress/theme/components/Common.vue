@@ -18,9 +18,6 @@
       </div>
     </div>
     <div v-else>
-        <transition name="fade">
-          <Password v-if="!isHasKey" />
-        </transition>
         <div v-if="isHasKey">
           <Navbar v-if="shouldShowNavbar" @toggle-sidebar="toggleSidebar"/>
 
@@ -29,9 +26,6 @@
           <Sidebar :items="sidebarItems" @toggle-sidebar="toggleSidebar">
             <slot name="sidebar-bottom" slot="bottom"/>
           </Sidebar>
-
-          <Password v-if="!isHasPageKey" :isPage="true"></Password>
-          <slot v-else></slot>
         </div>
     </div>
   </div>
@@ -137,10 +131,10 @@ export default defineComponent({
       isSidebarOpen.value = typeof to === 'boolean' ? to : !isSidebarOpen.value
     }
     const handleLoading = () => {
-      const time = instance.$frontmatter.home && sessionStorage.getItem('firstLoad') == undefined ? 1000 : 0
+      const time = instance.$frontmatter.home && sessionStorage.getItem('firstLoad') === undefined ? 1000 : 0
       setTimeout(() => {
         firstLoad.value = false
-        if (sessionStorage.getItem('firstLoad') == undefined) sessionStorage.setItem('firstLoad', false)
+        if (sessionStorage.getItem('firstLoad') === undefined) sessionStorage.setItem('firstLoad', false)
       }, time)
     }
 

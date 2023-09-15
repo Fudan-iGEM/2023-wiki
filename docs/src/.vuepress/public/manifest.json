@@ -1,6 +1,7 @@
 {
   "name": "iGEM Fudan 2023",
   "short_name": "B.Home",
+  "version": "0.1.0",
   "display": "standalone",
   "background_color": "#fff",
   "start_url": "\\",

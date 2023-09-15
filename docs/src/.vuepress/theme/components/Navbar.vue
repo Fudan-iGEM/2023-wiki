@@ -23,7 +23,7 @@
       } : {}">
 
       <Mode />
-      <SearchBox v-else-if="$themeConfig.search !== false && $frontmatter.search !== false"/>
+      <SearchBox v-if="$themeConfig.search !== false && $frontmatter.search !== false"/>
       <NavLinks class="can-hide"/>
     </div>
   </header>
