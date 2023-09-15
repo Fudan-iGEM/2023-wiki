@@ -1,21 +1,15 @@
 <template>
   <div class="theme-container" :class="pageClasses">
     <div v-if="!absoluteEncryption">
-      <transition name="fade">
-        <Password v-show="!firstLoad && !isHasKey" class="password-wrapper-out" key="out" />
-      </transition>
-
       <div :class="{ 'hide': firstLoad || !isHasKey }">
         <Navbar v-if="shouldShowNavbar" @toggle-sidebar="toggleSidebar" />
 
         <div class="sidebar-mask" @click="toggleSidebar(false)"></div>
 
         <Sidebar :items="sidebarItems" @toggle-sidebar="toggleSidebar">
-          <PersonalInfo slot="top" />
           <slot name="sidebar-bottom" slot="bottom"/>
         </Sidebar>
 
-        <Password v-show="!isHasPageKey" :isPage="true" class="password-wrapper-in" key="in"></Password>
         <div :class="{ 'hide': !isHasPageKey }">
           <slot></slot>
         </div>
@@ -33,7 +27,6 @@
           <div class="sidebar-mask" @click="toggleSidebar(false)"></div>
 
           <Sidebar :items="sidebarItems" @toggle-sidebar="toggleSidebar">
-            <PersonalInfo slot="top" />
             <slot name="sidebar-bottom" slot="bottom"/>
           </Sidebar>
 
@@ -48,14 +41,12 @@
 import { defineComponent, computed, ref, onMounted } from 'vue'
 import Navbar from '@theme/components/Navbar'
 import Sidebar from '@theme/components/Sidebar'
-import PersonalInfo from '@theme/components/PersonalInfo'
-import Password from '@theme/components/Password'
 import SubSidebar from '@theme/components/SubSidebar'
 import { setTimeout } from 'timers'
 import { useInstance } from '@theme/helpers/composable'
 
 export default defineComponent({
-  components: { Sidebar, Navbar, Password, PersonalInfo, SubSidebar },
+  components: { Sidebar, Navbar, SubSidebar },
 
   props: {
     sidebar: {
@@ -191,21 +182,6 @@ export default defineComponent({
     left 0
     right 0
     margin auto
-  .password-wrapper-out
-    position absolute
-    z-index 21
-    top 0
-    bottom 0
-    left 0
-    right 0
-    margin auto
-  .password-wrapper-in
-    position absolute
-    z-index 8
-    top 0
-    bottom 0
-    left 0
-    right 0
   .hide
     height 100vh
     overflow hidden

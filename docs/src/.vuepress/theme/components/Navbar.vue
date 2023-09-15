@@ -23,9 +23,6 @@
       } : {}">
 
       <Mode />
-      <AlgoliaSearchBox
-        v-if="isAlgoliaSearch"
-        :options="algolia"/>
       <SearchBox v-else-if="$themeConfig.search !== false && $frontmatter.search !== false"/>
       <NavLinks class="can-hide"/>
     </div>
@@ -34,7 +31,6 @@
 
 <script>
 import { defineComponent, ref, onMounted, computed } from 'vue'
-import AlgoliaSearchBox from '@AlgoliaSearchBox'
 import SearchBox from '@SearchBox'
 import SidebarButton from '@theme/components/SidebarButton'
 import NavLinks from '@theme/components/NavLinks'
@@ -42,20 +38,11 @@ import Mode from '@theme/components/Mode'
 import { useInstance } from '@theme/helpers/composable'
 
 export default defineComponent({
-  components: { SidebarButton, NavLinks, SearchBox, AlgoliaSearchBox, Mode },
+  components: { SidebarButton, NavLinks, SearchBox, Mode },
 
   setup (props, ctx) {
     const instance = useInstance()
     const linksWrapMaxWidth = ref(null)
-
-    const algolia = computed(() => {
-      return instance.$themeLocaleConfig.algolia || instance.$themeConfig.algolia || {}
-    })
-
-    const isAlgoliaSearch = computed(() => {
-      return algolia.value && algolia.value.apiKey && algolia.value.indexName
-    })
-
     function css (el, property) {
       // NOTE: Known bug, will return 'auto' if style value is 'auto'
       const win = el.ownerDocument.defaultView
@@ -84,7 +71,7 @@ export default defineComponent({
       window.addEventListener('resize', handleLinksWrapWidth, false)
     })
 
-    return { linksWrapMaxWidth, algolia, isAlgoliaSearch, css }
+    return { linksWrapMaxWidth, css }
   }
 })
 </script>
