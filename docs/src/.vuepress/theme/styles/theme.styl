@@ -113,6 +113,7 @@ h1, h2, h3, h4, h5, h6
   font-family Quicksand, Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif
   font-weight 500
   line-height 1.25
+  color $accentColor
   .content__default:not(.custom) > &
     margin-top (2.1rem - $navbarHeight)
     padding-top $navbarHeight
@@ -170,6 +171,9 @@ td
   //border 1px solid var(--border-color)
   padding .6em 1em
 
+li::marker
+  color $accentColor
+
 .theme-container
   &.sidebar-open
     .sidebar-mask
@@ -193,7 +197,7 @@ td
 .iconfont
   font-family: "iconfont",HarmonyOS_Sans, Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif !important
   font-size: 1rem;
-  color: var(--text-color-sub)
+  color: var(--text-color)
 
 .footnote-ref
   font-size 0.6rem

@@ -178,7 +178,7 @@ export default defineComponent({
     position fixed
     top 5rem
     bottom 5rem
-    right 2rem
+    right 1rem
     overflow-y scroll
     &::-webkit-scrollbar
       width: 0

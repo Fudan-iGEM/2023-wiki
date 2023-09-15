@@ -2,7 +2,7 @@
   <div class="footer-wrapper">
       <div class="logos">
           <a href="http://www.yfc.cn/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/yf-capital-logo-czy.png"></a>
-          <a href="https://www.fudan.edu.cn/en/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/fudan-logo-czy.svg"></a>
+          <a href="https://www.fudan.edu.cn/en/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/fudan-logo-accent-czy.svg"></a>
           <a href="https://life.fudan.edu.cn/main.htm"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/sky-logo-czy.png"></a>
           <a href="https://2023.igem.wiki/fudan/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/logo-square-czy.svg"></a>
       </div>
@@ -24,7 +24,8 @@ export default defineComponent({
 <style lang="stylus" scoped>
   .footer-wrapper {
     padding: 1.5rem 2.5rem;
-    border-top: 1px solid var(--border-color);
+    border-top-left-radius 1rem
+    border-top-right-radius 1rem
     text-align: center;
     color: lighten($textColor, 25%);
     background-color: #f0fffc;

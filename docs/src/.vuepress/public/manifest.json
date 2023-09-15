@@ -1,10 +1,11 @@
 {
   "name": "iGEM Fudan 2023",
-  "short_name": "Fudan",
+  "short_name": "B.Home",
   "display": "standalone",
   "background_color": "#fff",
   "start_url": "\\",
   "description": "wiki of iGEM Fudan 2023",
+  "theme_color": "#e37654",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",

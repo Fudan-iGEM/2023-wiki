@@ -63,12 +63,12 @@ export default defineComponent({
   --navbar-height: $navbarHeight;
 }
 .home {
-  padding: $navbarHeight 2rem 0;
+  padding: 0 2rem 0;
   max-width: 960px;
   margin: 0px auto;
   .hero {
     text-align: center;
-    min-height:calc(100vh - var(--navbar-height));
+    min-height:100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;

@@ -81,13 +81,15 @@ export default defineComponent({
   align-items center
   justify-content center
   .info-content{
+    font-family Quicksand, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif
     color $accentColor
+    font-weight 600
   }
 }
 .iconfont
   display inline-block
   font-size 1.2rem
-  line-height 1.5rem
+  line-height 1rem
   &:not(:last-child)
     margin-right 1rem
   span

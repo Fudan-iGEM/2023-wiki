@@ -174,6 +174,7 @@ export default defineComponent({
     margin auto
   input
     font-family Quicksand, Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif
+    font-weight 600
     cursor text
     width 10rem
     height: 2rem

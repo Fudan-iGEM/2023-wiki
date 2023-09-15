@@ -91,7 +91,7 @@ export default defineComponent({
         line-height 1.7rem
         position relative
         border-bottom none
-        font-weight 400
+        font-weight 500
         margin-bottom 0
         padding 0 1.5rem 0 1.25rem
         &:hover
@@ -142,7 +142,7 @@ export default defineComponent({
       // make the arrow always down at desktop
       border-left 4px solid transparent
       border-right 4px solid transparent
-      border-top 6px solid var(--text-color-sub)
+      border-top 6px solid var(--text-color)
       border-bottom 0
     .nav-dropdown
       display none

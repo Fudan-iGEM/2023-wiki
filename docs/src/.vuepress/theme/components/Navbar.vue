@@ -101,6 +101,8 @@ $navbar-horizontal-padding = 1.5rem
   background var(--default-color-5)
   backdrop-filter blur(12px)
   -webkit-backdrop-filter blur(12px)
+  border-bottom-left-radius 0.75rem
+  border-bottom-right-radius 0.75rem
   a, span, img
     display inline-block
   .logo

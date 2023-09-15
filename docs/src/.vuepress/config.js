@@ -19,7 +19,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: 'https://static.igem.wiki/teams/4765/wiki/czy/logo-czy.ico' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#e37654' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: 'https://static.igem.wiki/teams/4765/wiki/czy/icon-ios-czy.ico' }],
@@ -113,6 +113,7 @@ module.exports = {
     'vuepress-plugin-clean-urls':{
       normalSuffix: '/',
       indexSuffix: '/',
-    }
+    },
+    '@vuepress/nprogress':true
   }
 }

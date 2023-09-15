@@ -231,9 +231,11 @@ function flatten (items, res) {
   background-image url("https://static.igem.wiki/teams/4765/wiki/czy/space-bg-czy.png")
   background-repeat no-repeat
   background-position center right
+  border-bottom-left-radius 1rem
+  border-bottom-right-radius 1rem
 .page
   position relative
-  padding-top 5rem
+  padding-top 0
   padding-bottom 2rem
   padding-right 14rem
   display block
@@ -241,11 +243,12 @@ function flatten (items, res) {
     display flex
     max-width: $contentWidth;
     margin: 0 auto;
-    padding: 7rem 2.5rem;
+    padding: 10rem 2.5rem;
     color var(--text-color)
     justify-content space-between
     align-items center
     .title
+      user-select none
       color $accentColor
       font-size 5rem
       font-family Handjet, Ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif

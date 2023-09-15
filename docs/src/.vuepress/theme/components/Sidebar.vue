@@ -21,6 +21,7 @@ export default defineComponent({
 
 <style lang="stylus">
 .sidebar
+  border-bottom-right-radius 1rem
   font-family Quicksand, Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif
   &&::-webkit-scrollbar
     width: 0

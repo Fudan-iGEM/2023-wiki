@@ -14,17 +14,17 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3",
-    "vuepress-plugin-clean-urls": "^1.1.2",
+    "@vuepress/plugin-active-header-links": "^1.9.9",
+    "@vuepress/plugin-back-to-top": "^1.9.9",
+    "@vuepress/plugin-medium-zoom": "^1.9.9",
+    "@vuepress/plugin-nprogress": "^1.9.10",
+    "@vuepress/plugin-pwa": "^1.9.9",
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-mathjax3": "^4.3.2",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
-    "@vuepress/plugin-active-header-links": "^1.9.9",
-    "@vuepress/plugin-back-to-top": "^1.9.9",
-    "@vuepress/plugin-medium-zoom": "^1.9.9",
-    "@vuepress/plugin-nprogress": "^1.9.9",
-    "@vuepress/plugin-pwa": "^1.9.9"
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-clean-urls": "^1.1.2"
   },
   "dependencies": {
     "lottie-web": "^5.12.2",

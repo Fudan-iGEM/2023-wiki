@@ -1944,7 +1944,7 @@
     "@vuepress/types" "1.9.10"
     medium-zoom "^1.0.4"
 
-"@vuepress/plugin-nprogress@1.9.10", "@vuepress/plugin-nprogress@^1.9.9":
+"@vuepress/plugin-nprogress@1.9.10", "@vuepress/plugin-nprogress@^1.9.10":
   version "1.9.10"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-nprogress/-/plugin-nprogress-1.9.10.tgz#945142c2db4a2a11942c063d5d0f01bc5d295f49"
   integrity sha512-I1kkm6yWUQd7vwiV3lEDVpVP0Lr04K0zlczU502lDUa1RufSZ7vt+mlF5fOM28GqT+pKTEToWmm+VNT/R3qvMQ==
