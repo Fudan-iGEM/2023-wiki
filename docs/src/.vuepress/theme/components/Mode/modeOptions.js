@@ -35,7 +35,7 @@ const modeOptions = {
     '--box-shadow-hover': '0 2px 16px 0 rgba(0, 0, 0, .7)',
     '--text-color': 'rgba(255, 255, 255, .8)',
     '--text-color-sub': '#8B8B8B',
-    '--border-color': 'rgba(0, 0, 0, .3)',
+    '--border-color': '#eaecef',
     '--code-color': 'rgba(0, 0, 0, .3)',
     '--mask-color': '#000'
   }
