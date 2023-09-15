@@ -6,6 +6,7 @@
   "start_url": "\\",
   "description": "wiki of iGEM Fudan 2023",
   "theme_color": "#e37654",
+  "force_update_on_any_version": true,
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
