@@ -14,6 +14,7 @@
 <script>
 import { defineComponent, computed, ref, onMounted } from 'vue'
 import Home from '@theme/components/Home'
+import HomeBlog from '@theme/components/HomeBlog'
 import Page from '@theme/components/Page'
 import Footer from '@theme/components/Footer'
 import Common from '@theme/components/Common'
@@ -22,7 +23,7 @@ import { useInstance } from '@theme/helpers/composable'
 import { ModuleTransition } from '@vuepress-reco/core/lib/components'
 
 export default defineComponent({
-  components: { Home, Page, Common, Footer, ModuleTransition },
+  components: { HomeBlog, Home, Page, Common, Footer, ModuleTransition },
   setup (props, ctx) {
     const instance = useInstance()
 

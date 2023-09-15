@@ -12,7 +12,7 @@
               :strings="[$page.title]">
                 <h1 class="typing"></h1>
             </vue-typed-js>
-            <lottie :options="rocketOptions" :width='200'></lottie>
+            <lottie :options="rocketOptions" width=200></lottie>
           </div>
         </div>
       </ModuleTransition>

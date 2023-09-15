@@ -1,16 +1,25 @@
 {
-  "name": "vuepress-theme-fudan",
-  "version": "0.1.0",
-  "description": "Vuepress theme for team Fudan iGEM 2023.",
+  "name": "vuepress-theme-reco",
+  "version": "1.6.17",
+  "description": "A simple and beautiful vuepress Blog & Doc theme.",
   "keywords": [
     "vuepress",
     "vue",
     "theme"
   ],
-  "homepage": "https://2023.igem.wiki/fudan/",
-  "author": "Zhiyue Chen",
+  "homepage": "https://vuepress-theme-reco.recoluan.com",
+  "bugs": {
+    "url": "https://github.com/vuepress-reco/vuepress-theme-reco/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuepress-reco/vuepress-theme-reco.git"
+  },
+  "license": "MIT",
+  "author": "reco_luan",
   "main": "index.js",
   "dependencies": {
+    "@vuepress-reco/core": "^1.6.14-beta.0",
     "@vuepress-reco/vuepress-plugin-back-to-top": "^1.6.13",
     "@vuepress-reco/vuepress-plugin-comments": "^1.6.13",
     "@vuepress-reco/vuepress-plugin-pagation": "^1.6.17",
@@ -20,5 +29,8 @@
     "md5": "2.2.1",
     "vue-click-outside": "1.1.0",
     "vuepress-plugin-smooth-scroll": "^0.0.9"
-  }
+  },
+  "gitHead": "c908ae370ec5aace28b648267ccddd1c3a5172bf",
+  "_from": "vuepress-theme-reco@0.2.1",
+  "_resolved": "https://registry.npmmirror.com/vuepress-theme-reco/download/vuepress-theme-reco-0.2.1.tgz"
 }
