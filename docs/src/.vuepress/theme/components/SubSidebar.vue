@@ -64,6 +64,9 @@ export default defineComponent({
     &.active
       border-left 3px solid $accentColor
       a
+       transition ease 0.4s
+       font-size 1.1rem
+       font-weight 700
        color $accentColor
     &.level-1
       padding-left .4rem

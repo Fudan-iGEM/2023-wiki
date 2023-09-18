@@ -267,6 +267,17 @@ function flatten (items, res) {
       height 1.8rem
       content ''
       border-left 5px solid $accentColor
+  .theme-reco-content h3
+    position relative
+    padding-left 0.8rem
+    &::before
+      position absolute
+      left 0
+      //top 3.5rem
+      display block
+      height 1.6rem
+      content ''
+      border-left 5px solid $accentColor
   .page-edit
     @extend $wrapper
     padding-top 1rem
