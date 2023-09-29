@@ -10,9 +10,9 @@
               :fadeOut="true"
               :typeSpeed="200"
               :strings="[$page.title]">
-                <h1 class="typing"></h1>
+                <h1 class="typing" style="color: #fff6f0;"></h1>
             </vue-typed-js>
-            <lottie :options="rocketOptions" width=200></lottie>
+            <lottie :options="rocketOptions" :width=150></lottie>
           </div>
         </div>
       </ModuleTransition>
@@ -228,9 +228,9 @@ function flatten (items, res) {
 <style lang="stylus">
 @require '../styles/wrapper.styl'
 .page-title-with-bg
-  background-image url("https://static.igem.wiki/teams/4765/wiki/czy/space-bg-czy.png")
+  background-image url("https://static.igem.wiki/teams/4765/wiki/czy/bg-header-czy-4x.jpg")
   background-repeat no-repeat
-  background-position center right
+  background-position bottom center
   border-bottom-left-radius 1rem
   border-bottom-right-radius 1rem
 .page
@@ -243,18 +243,17 @@ function flatten (items, res) {
     display flex
     max-width: $contentWidth;
     margin: 0 auto;
-    padding: 10rem 2.5rem;
-    color var(--text-color)
+    padding: 8rem 2.5rem;
     justify-content space-between
     align-items center
     .title
       user-select none
-      color $accentColor
-      font-size 5rem
+      color #fff6f0
+      font-size 7rem
       font-family Handjet, Ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif
       .typing
-        height 5rem
-        font-size 5rem
+        height 7rem
+        font-size 7rem
         font-family Handjet, Ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif
   .theme-reco-content h2
     position relative
@@ -318,6 +317,11 @@ function flatten (items, res) {
     padding-right 0
     .page-title
       padding: 7rem 2.5rem;
+      .title
+        font-size 5rem
+        .typing
+          height 5rem
+          font-size 5rem
     .page-edit
       .edit-link
         margin-bottom .5rem
