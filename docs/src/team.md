@@ -117,7 +117,7 @@ Zhenmao, responsible for Design and Engineering, is a Biotechnology major with a
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/zsl.jpg" style="width: 16rem">
 <br>
 <div>
-<p><small style="color: gray">Siliang Zhang</small></p>
+<p><small style="color: gray">Siliang Zhan</small></p>
 </div>
 </div>
 
