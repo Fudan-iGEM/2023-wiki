@@ -80,9 +80,12 @@ module.exports = {
         link: '/safety/',
       },
       {
-        text: 'Human Practices',
+        text: 'Human Practices',items:[
+          { text: 'Integrated Human Practice', link: '/human-practices/' },
+          { text: 'Education', link: '/education/' },
+          { text: 'Sustainable', link: '/sustainable/' },
+        ],
         icon: 'iconfont icon-smile',
-        link: '/human-practices/',
       },
     ],
   },
