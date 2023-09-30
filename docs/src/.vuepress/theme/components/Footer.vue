@@ -30,7 +30,7 @@ export default defineComponent({
     text-align: center;
     color: lighten($textColor, 25%);
     background-color: #f0fffc;
-    > span {
+    a > span {
       margin-left 1rem
       > i {
         margin-right .5rem

@@ -4,11 +4,7 @@ title: Software
 author: Zhiyue Chen
 date: 2023-9-30
 ---
-Improve your part design with 50000+ parts！
-
-Try our public PartHub [here](http://3.238.241.161:5000/)!
-
-## Description
+## Introduction
 
 For more information, please visit our wiki page [Software | Fudan - iGEM 2022](https://2022.igem.wiki/fudan/software)
 ![multi-device.png (3011×2006) (igem.wiki)](https://static.igem.wiki/teams/4162/wiki/software/multi-device.png) 
