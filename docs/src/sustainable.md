@@ -10,7 +10,7 @@ style='width:80%'>
 <br>
 </div>
 <div style="text-align: center;">
-<img src="https://static.igem.wiki/teams/4765/wiki/lcy/4.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/lcy/sdg-aliggn.png"
 style='width:80%'>
 <br>
 </div>
@@ -27,8 +27,8 @@ Furthermore, as the project has advanced, we've come to realize that SDGs are cl
 ## SDG4 QUALITY EDUCATION
 
 <div style="text-align: center;">
-<img src="https://static.igem.wiki/teams/4765/wiki/lcy/e-sdg-goals-icons-individual-rgb-04.png"
-style='width:50%'>
+<img src="https://static.igem.wiki/teams/4765/wiki/lcy/sdg4.svg"
+style='width:25%'>
 <br>
 </div>
 
@@ -52,13 +52,7 @@ style='width:80%'>
 ## SDG13 CLIMATE ACTION & SDG15 LIFE ON LAND
 
 <div style="text-align: center;">
-<img src="https://static.igem.wiki/teams/4765/wiki/lcy/e-sdg-goals-icons-individual-rgb-13-440x440.png"
-style='width:50%'>
-<br>
-</div>
-
-<div style="text-align: center;">
-<img src="https://static.igem.wiki/teams/4765/wiki/lcy/e-web-goal-15-0.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/lcy/sdg-13-15.png"
 style='width:50%'>
 <br>
 </div>
