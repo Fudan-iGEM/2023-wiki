@@ -14,6 +14,7 @@
   padding 0.6rem
   top 1.275rem
   left 1rem
+  fill var(--text-color)
   .icon
     display block
     width 1.25rem
