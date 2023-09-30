@@ -48,9 +48,10 @@ export default defineComponent({
 <style lang="stylus" scoped>
 .sub-sidebar-wrapper
   width 12rem
+  font-family Quicksand, Ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif
   padding-left 0
   list-style none
-  font-size 12px
+  font-size 0.8rem
   li
     padding .2rem 0
     cursor pointer
@@ -58,6 +59,7 @@ export default defineComponent({
     a
       padding 0.35rem 1rem 0.35rem 0rem
       color var(--text-color)
+      font-weight 500
     &:hover
       a
        color $accentColor
@@ -65,8 +67,7 @@ export default defineComponent({
       border-left 3px solid $accentColor
       a
        transition ease 0.4s
-       font-size 1.1rem
-       font-weight 700
+       font-size 1rem
        color $accentColor
     &.level-1
       padding-left .4rem
