@@ -263,7 +263,7 @@ function flatten (items, res) {
       left 0
       //top 3.5rem
       display block
-      height 2.2rem
+      height 2.4rem
       content ''
       border-left 5px solid $accentColor
   .theme-reco-content h3
