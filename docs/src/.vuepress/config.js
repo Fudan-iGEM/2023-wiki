@@ -46,7 +46,8 @@ module.exports = {
       },
       { text: 'Team', items:[
           { text: 'Team', link: '/team/' },
-          { text: 'Attributions', link: '/attributions/' }
+          { text: 'Attributions', link: '/attributions/' },
+          { text: 'Collaborations', link: '/collaborations/' },
         ],
         icon: 'iconfont icon-team',
       },
