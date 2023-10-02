@@ -14,7 +14,7 @@ title: Attributions
     });
   </script>
   <iframe
-    style='width: 100%'
+    style='width: 100%; background-color: #fff6f0'
     id="igem-attribution-form"
     src="https://attributions.igem.org?team=Fudan&year=2023"
   >
