@@ -8,13 +8,13 @@ date: 2023-10-2
 
 This year, we made a bold attempt to explore outer space and target modifying the environment of terrestrial planets, which will **benefit all mankind** in the future. In contrast to our past work, it's extremely hard to determine all the stakeholders since our project will work for all humans. However, we still gave priority to human practice and successfully forged a bond with **space researchers**, **distinguished biologists**, and **specialists in Environmental Ethics**.
 
-To get a comprehensive and unambiguous idea of the existing challenges, current situations, and future growth of our project, we mapped out **three main lines** in our HP work:
+To get a comprehensive and clear idea of the potential implementation, experimental design, and safety concerns of our project, we mapped out **three main lines** in our HP work:
 
-1.  [**Determining the Value**](#determining-the-value): In this part, we aimed to determine the current challenges and probabilities in space exploration. Through communication with **professors in astrobiology**, **leading experts in space exploration**, and **senior instructors in entrepreneurship**, we got a more detailed idea of the **academic**, **environmental**, **and commercial values** of our project.
+1.  [**Determining the Value**](#determining-the-value): In this part, we aimed to determine the current challenges and possibilities in space exploration. Through communication with **professors in astrobiology**, **leading biologists in space exploration**, and **senior instructors in entrepreneurship**, we got a more detailed idea of the **innovation**, **environmental**, **and commercial values** of our project.
 
-2. [**Fulfilling the Plan**](#fulfilling-the-plan): In this part, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed a symbiotic system, functional system, and survival system** in our engineering bacteria.
+2. [**Implementing the Project**](#implementing-the-project): To put our idea into practice, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed four interdependent systems:** symbiotic, functional, survival, and metabolic regulation in our engineering bacteria(see more details in [Description](/description/)).
 
-3. [**Addressing the Risk**](#addressing-the-risk): In this part, we focused on the potential risks of our project, which would threaten the interests of all mankind. With the insight of **specialists in Environmental Ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues.**
+3. [**Managing the Risk**](#managing-the-risk): For further development of our project, we gave careful consideration to the potential risks that would threaten the interests of all mankind. Drawing on the expertise of **specialists in biological ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues.**
 
 This year, all of our HP work follows **the STAR loop**(shown below).
 
@@ -36,13 +36,15 @@ style='width:70%'>
 
 **Stimulation**
 
-In the early stage, we attempted to **build a symbiotic system** that resembles lichen with cyanobacteria and *E. Coli*. We assumed that this system enables engineered *E. Coli* to survive on the surface of terrestrial planets and to promote the progress of terraforming through its metabolites.  We wondered that:
+In the early stage, we attempted to **build a symbiotic system** that resembles lichen with cyanobacteria and *E. Coli*. We assumed that this system enables engineered *E. Coli* to survive on the surface of terrestrial planets and promote terraforming progress through its metabolites.
+
+We wondered that:
 
 1. Is there enough **essential substance** for life to survive existing on terrestrial planets?
 
 2. What's the characteristic of the **environment** on the surface of terrestrial planets?
 
-3. Is there any possibility to light the dawn of life on terrestrial planets?
+3. Is there any possibility of lighting the dawn of life on terrestrial planets?
 
 **Target**
 
@@ -66,16 +68,13 @@ On account of distance and time, we interviewed Prof. Li online on July 15th. Sh
 3. So far, the soil of the moon which is far more infertile than Martian soil has proved to be capable of supporting life. The symbiotic system to promote the terraforming of Mars **is worth trying**.
 4. Research has shown a potential association of vigorous minerals with life activity in harsh environments like highlands and deserts on Earth. Similar minerals have been found on Mars, indicating another probable condition for life.
 
-Besides, Prof. Li pointed out the challenges for life to survive on the surface of Mars. For example, the environment, with huge temperature differences, intense radiation, and frequent storms, makes it extremely difficult to keep enough nutrients. The water in crystalline form can hardly be directly absorbed and used by creatures.  The lack of phosphorus will also be a key limiting factor for life.
+Besides, Prof. Li pointed out the challenges for life to survive on the surface of Mars. For example, the environment, **with huge temperature differences, intense radiation, and frequent storms**, makes it extremely difficult to keep enough nutrients. The water in crystalline form can hardly be directly absorbed and used by creatures.  The lack of phosphorus will also be a key limiting factor for life.
 
 Finally, Prof. Li reminds us of the heterogeneity of the Martian surface environment and the process of **biological weathering** on Earth. She encouraged us to imagine more possibilities and was glad to have further communication with us.
 
 **Review**
 
-With the insights of Prof. Li, we:
-
-1. Take **Mars** as the representative of the terrestrial planet.
-2. Involve an **anti-UV module** and an **anti-freeze module** in our engineered bacteria.
+With the insights of Prof. Li, we took **Mars** as the representative of the terrestrial planet and involved an **anti-UV module** and an **anti-freeze module** in our engineered bacteria. Besides, we found that **organic acids** played an important role in Earth's biological weathering processes[^1][^2][^3]. With [the collaboration of CAU-China](/collaboration/), we introduced an Oxalic Acid Module to promote the terraforming progress of Mars.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/liyan.png"
@@ -94,7 +93,9 @@ style='width:70%'>
 
 **Stimulation**
 
-Although Prof. Li spoke highly of our project,  we remain concerned about the significance and acceptability of modifying the environment of terrestrial planets with biological techniques. We wondered that:
+Although Prof. Li spoke highly of our project,  we remain concerned about the significance and acceptability of modifying the environment of terrestrial planets with biological techniques.
+
+We wondered that:
 
 1. Are there any successful examples of applying biological techniques to space exploration?
 2.  How will mankind on Earth benefit from our project in the short term?
@@ -105,7 +106,7 @@ The iGEM Technology hosted a space webinar entitled *Synthetic Biology in Space:
 
 **Action**
 
-On July 27th, our team members participated in the webinar and benefited a lot. In terms of previous iGEM projects, both Dr. Christiane Hahn and Dr. Rodrigo Coutinho de Almeida spoke highly of the **symbiotic system** consisting of yeast and cyanobacteria. Elaborating on the challenges, Dr. Christiane considered the survival of cells in the harsh environment of space as the first issue. As she mentioned, the ability to **resist cold, radiation, and drought** matters for biological samples to survive in space. Meanwhile, she reminded us that the achievements of space research might be applied to address problems on Earth.
+On July 27th, our team members participated in the webinar and benefited a lot. Reviewing previous iGEM projects related to space, both Dr. Christiane Hahn and Dr. Rodrigo Coutinho de Almeida spoke highly of the **symbiotic system** consisting of yeast and cyanobacteria. Elaborating on the challenges, Dr. Christiane considered the survival of cells in the harsh environment of space as the first issue. As she mentioned, the ability to **resist cold, radiation, and drought** matters for biological samples to survive in space. Meanwhile, she reminded us that the achievements of space research might be applied to address problems on Earth.
 
 **Review**
 
@@ -128,7 +129,9 @@ style='width:70%'>
 
 **Stimulation**
 
-Although our project has a great prospect, it will cost huge amounts of time and money to fulfill our plan. For the sustainable development of our project, it's necessary to gain support from the industry of synthetic biology. We wondered that:
+Although our project has a great prospect, it will cost huge amounts of time and money to fulfill our plan. For the sustainable development of our project, it's necessary to gain support from the industry of synthetic biology.
+
+We wondered that:
 
 1. How to promote the rapid development of the industry of synthetic biology?
 2. Are there any **commercial values** related to our project？
@@ -148,7 +151,7 @@ style='width:30%'>
 
 **Action**
 
-We had lunch with Mr. Zhang and shared our opinions on the industry of synthetic biology. Mr. Zhang pointed out that the subjective agency of living creatures could potentially join hands with synthetic biology techniques. He believed that the combination of **human intelligence** and **the instinct of creatures** would further unleash the potential of synthetic biology.
+We had lunch with Mr. Zhang and shared our opinions on the industry of synthetic biology. Mr. Zhang pointed out that the subjective agency of living creatures could potentially join hands with synthetic biology techniques. He believed that the combination of **artificial bio-bricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
 
 In terms of our project, Mr. Zhang believed that its environmental benefits could bring about commercial values, just like the invention of new energy cars. What really matters is to **find a suitable application** so that the reward can overcome the cost.
 
@@ -163,12 +166,12 @@ style='width:70%'>
 
 **Review**
 
-With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry(see more details in <u>Implementation</u>). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. [A follow-up](#follow-up-with-dr-jingwei-zhang-feasibility-of-a-suicide-switch) was taken with him about the safety concerns.
+With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry(see more details in [Implementation](/implementation/)). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. [A follow-up](#follow-up-with-dr-jingwei-zhang-feasibility-of-a-suicide-switch) was taken with him about the safety concerns.
 
 
 
 
-## Fulfilling the Plan
+## Implementing the Project
 
 
 ### Prof. Changming Fang: How to Build a Good Symbiotic System
@@ -177,7 +180,9 @@ With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial v
 
 **Simulation**
 
-This year, we decided to build a symbiotic system that resembles lichen with cyanobacteria and *E. Coli*. However, our team members have little idea of lichen and no experience in building a symbiotic system before. We wondered that:
+This year, we decided to build a symbiotic system that resembles lichen with cyanobacteria and *E. Coli*. However, our team members have little idea of lichen and no experience in building a symbiotic system.
+
+We wondered that:
 
 1. What's the function of bacteria and fungus in the symbiotic system of lichen?
 
@@ -200,13 +205,13 @@ style='width:30%'>
 
 **Action**
 
-We had a pleasant conversation with him about our symbiotic system design. Prof. Fang made a detailed explanation of the composition of lichen. Algae mainly **provide energy and essential substances like **saccharides** through photosynthesis while fungi provide the necessary ions for algae. Besides, fungi can maintain the **physical structure** of lichen by secreting **polysaccharides**. The physical structure is quite necessary for lichens, which equips them with a strong ability to absorb and keep water. With this ability, lichens can form sheet-like structures to keep water under dry conditions and quickly rejuvenate when adequate water is available.
+We had a pleasant conversation with him about our symbiotic system design. Prof. Fang made a detailed explanation of the composition of lichen. Algae mainly **provide energy and essential substances** like **saccharides** through photosynthesis while fungi provide the necessary ions for algae. Besides, fungi can maintain the **physical structure** of lichen by secreting **polysaccharides**. The physical structure is quite necessary for lichens, which equips them with a strong ability to absorb and keep water. With this ability, lichens can form sheet-like structures to keep water under dry conditions and quickly rejuvenate when adequate water is available.
 
 Considering our experimental design, Prof. Fang pointed out huge challenges in engineering the symbiotic system of lichens. Since the structural paradigm of lichens has undergone a long evolutionary evolution, the delicate composition remains unknown to humans in many aspects. He recommended we build a physical structure to make our symbiotic system more tolerant of the environment. He also reminded us of **the association between physiological characteristics and the environment**.
 
 **Review**
 
-With the professional suggestions of Prof. Fang, we introduced **a cell-cell adhesion Module** into our symbiotic system. With this module, we could construct a **biofilm** with a programmable physical structure through antigen-nanobody interaction. The biofilm would contribute to the survival of our symbiotic system on the surface of Mars. (see more details in <u>Description</u>)
+With the professional suggestions of Prof. Fang, we introduced **a cell-cell adhesion Module** into our symbiotic system. This module could construct a **biofilm** with a programmable physical structure through antigen-nanobody interaction. The biofilm would contribute to our symbiotic system's survival on the Martian surface. (see more details in [Description](/description/))
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/fcm.jpg"
@@ -224,7 +229,9 @@ style='width:70%'>
 
 **Simulation**
 
-Considering the harsh environment on the surface of terrestrial planets, we need to genetically engineer *E. Col*i so that our symbiotic system can survive for a long time. We wondered that:
+Considering the harsh environment on the surface of terrestrial planets, we need to genetically engineer *E. Coli* so that our symbiotic system can survive for a long time.
+
+We wondered that:
 
 1. How do some special microbes **survive the extreme environment**?
 2. How can we **test** the survival ability of our engineered *E. Coli*?
@@ -246,47 +253,16 @@ style='width:30%'>
 
 During the interview, Prof. Quan mentioned many microbes adapting to extreme living conditions, which inspired us a lot. He suggested we **pay attention to the microbes that survive harsh environments on Earth**. For example, the rhodospirillaceaes, as a kind of anaerobic photosynthetic bacteria, can produce energy and saccharides through photosynthesis but not rely on oxygen to survive, which is more suitable for the hypoxic environment in space.
 
-For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept.
+For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, We can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
 
 **Review**
-With the idea of Prof. Quan, we focused on **Tardigrada**, the most mysterious creatures on Earth that could survive in space, and found a special protein named mtSSB. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**. We involved this bio-brick as the core of our survival system. (see more details in <u>Parts</u>)
+With the idea of Prof. Quan, we focused on **Tardigrada**, the most mysterious creature on Earth that could survive in space, and found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**[^4]. We involved this bio-brick as the core of our survival system. (see more details in [Part: BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016)).
 
 [全哲学老师访谈照片]
 
-### CAU-China: How to Confer Biological Weathering Capabilities to *E. coli*
-
-<p style="font-size: 1rem">📅 Date: Sep. 20th  👤 Participants: Zhe Dong, Yijun Wang, Siliang Zhan</p>
-
-**Simulation**
-
-Inspired by Prof. Li, we learned about the role of **organic acids** in Earth's weathering processes. As a result, we were planning to engineer *E. coli* to produce oxalic acid. We wondered that:
-
-1. How to **modify the metabolic pathways** of *Escherichia coli* to enable oxalic acid production?
-2. How to minimize the impact of oxalic acid on the survival of *Escherichia coli*?
-
-**Target**
-
-CAU-China has extensive experience in utilizing *E. coli* for oxalic acid production. Their oxalic acid secretion pathway received a nomination for the iGEM 2022 Best New Composite Part.
-
-**Action**
-
-We had a friendly communication with CAU-China. They informed us that oxalic acid production in *E. coli* can be achieved by **heterologous expression** of the *obcA* and *obcB* genes. Since *obcA* and *obcB* are closely located in the genome, they can be expressed under the same promoter with the same ribosome binding site (RBS). Additionally, since oxalic acid production will impact the growth of *E. coli*, they suggested we **introduce the oxalic acid efflux protein**, FpOAR, to enhance *E. coli*'s survivability in the presence of oxalic acid. Lastly, **they empowered us to adopt their oxalic acid secretion pathway** in our project.
-
-**Review**
-
-Through discussions with CAU-China, we established the genetic circuit for oxalic acid production. (see more details in <u>Design</u>)
-
-<div style="text-align: center;">
-	<img src="https://static.igem.wiki/teams/4765/wiki/hp/cau-tiny.jpg"
-style='width:70%'>
-	<br>
-	<div>
-		<p><small style="color: gray">The communication between CAU-China and Fudan</small></p>
-	</div>
-</div>
 
 
-## Addressing the Risk
+## Managing the Risk
 
 ### The Environmental Ethics: Safety and Moral Concerns
 
@@ -369,5 +345,22 @@ Dr. Jingwei Zhang pointed out the potential defect of a "Suicide Switch". For on
 
 **Review**
 
-We found the "Suicide Switch" unreliable because of the harsh environment in space. The safety concerns are required to be addressed by other means(see more details in <u>Safety</u>)
+We found the "Suicide Switch" unreliable because of the harsh environment in space. The safety concerns are required to be addressed by other means(see more details in [Safety](/safety/))
+
+
+
+### Reference
+
+[^1]: Brunner, I., Plötze, M., Rieder, S., Zumsteg, A., Furrer, G., & Frey, B. (2011). Pioneering fungi from the Damma glacier forefield in the Swiss Alps can promote granite weathering: Pioneering fungi. Geobiology, 9(3), 266–279. https://doi.org/10.1111/j.1472-4669.2011.00274.x
+
+[^2]: Cama, J., & Ganor, J. (2006). The effects of organic acids on the dissolution of silicate minerals: A case study of oxalate catalysis of kaolinite dissolution. Geochimica et Cosmochimica Acta, 70(9), 2191–2209. https://doi.org/10.1016/j.gca.2006.01.028
+
+[^3]: Chen, J., Blume, H.-P., & Beyer, L. (2000). Weathering of rocks induced by lichen colonization—A review. CATENA, 39(2), 121–146. https://doi.org/10.1016/S0341-8162(99)00085-5
+
+[^4]: Hibshman, J. D., Clark-Hachtel, C. M., Bloom, K. S., & Goldstein, B. (2023). A bacterial expression cloning screen reveals tardigrade single-stranded DNA-binding proteins as potent desicco-protectants (2023.08.21.554171). bioRxiv. https://doi.org/10.1101/2023.08.21.554171
+
+
+
+
+
 
