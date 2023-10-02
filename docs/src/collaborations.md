@@ -129,7 +129,7 @@ style='width:70%'>
 
 ## With various clubs and associations
 
-We extend our sincere gratitude to the societies and associations that have collaborated with us in [education](/education/)), visualization, [human practices](/human-practices/), and many other areas. You can find more information about them on specific web pages.
+We extend our sincere gratitude to the societies and associations that have collaborated with us in [education](/education/), visualization, [human practices](/human-practices/), and many other areas. You can find more information about them on specific web pages.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/logos.png"
