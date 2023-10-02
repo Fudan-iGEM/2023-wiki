@@ -10,11 +10,11 @@ This year, we made a bold attempt to explore outer space and target modifying th
 
 To get a comprehensive and unambiguous idea of the existing challenges, current situations, and future growth of our project, we mapped out **three main lines** in our HP work:
 
-1.  [**Determining the Value**:](#determining-the-value) In this part, we aimed to determine the current challenges and probabilities in space exploration. Through communication with **professors in astrobiology**, **leading experts in space exploration**, and **senior instructors in entrepreneurship**, we got a more detailed idea of the **academic**, **environmental**, **and commercial values** of our project.
+1.  [**Determining the Value**](#determining-the-value): In this part, we aimed to determine the current challenges and probabilities in space exploration. Through communication with **professors in astrobiology**, **leading experts in space exploration**, and **senior instructors in entrepreneurship**, we got a more detailed idea of the **academic**, **environmental**, **and commercial values** of our project.
 
-2. [**Fulfilling the Plan:**](#fulfilling-the-plan) In this part, we turned to **experts in soil ecosystems, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed a symbiotic system, functional system, and survival system** in our engineering bacteria.
+2. [**Fulfilling the Plan**](#fulfilling-the-plan): In this part, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed a symbiotic system, functional system, and survival system** in our engineering bacteria.
 
-3. [**Addressing the Risk:**](#addressing-the-risk) In this part, we focused on the potential risks of our project, which would threaten the interests of all mankind. With the insight of **specialists in Environmental Ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues.**
+3. [**Addressing the Risk**](#addressing-the-risk): In this part, we focused on the potential risks of our project, which would threaten the interests of all mankind. With the insight of **specialists in Environmental Ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues.**
 
 This year, all of our HP work follows **the STAR loop**(shown below).
 
@@ -163,7 +163,7 @@ style='width:70%'>
 
 **Review**
 
-With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry(see more details in <u>Implementation</u>). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. [A follow-up](Follow up with Dr. Jingwei Zhang: Feasibility of a Suicide Switch) was taken with him about the safety concerns.
+With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry(see more details in <u>Implementation</u>). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. [A follow-up](#follow-up-with-dr-jingwei-zhang-feasibility-of-a-suicide-switch) was taken with him about the safety concerns.
 
 
 
