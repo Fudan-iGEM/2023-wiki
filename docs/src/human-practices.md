@@ -35,6 +35,7 @@ style='width:70%'>
 <p style="font-size: 1rem">📅 Date: Jul. 15th  👤Participants: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang</p>
 
 **Stimulation**
+
 In the early stage, we attempted to **build a symbiotic system** that resembles lichen with cyanobacteria and *E. Coli*. We assumed that this system enables engineered *E. Coli* to survive on the surface of terrestrial planets and to promote the progress of terraforming through its metabolites.  We wondered that:
 
 1. Is there enough **essential substance** for life to survive existing on terrestrial planets?
@@ -44,6 +45,7 @@ In the early stage, we attempted to **build a symbiotic system** that resembles 
 3. Is there any possibility to light the dawn of life on terrestrial planets?
 
 **Target**
+
 Prof. Li is now an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done great research on the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. Recently, she has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
 
 <div style="text-align: center;">
@@ -55,7 +57,8 @@ style='width:30%'>
 	</div>
 </div>
 
-**Action**  
+**Action**
+
 On account of distance and time, we interviewed Prof. Li online on July 15th. She described our project as **an interesting and daring innovation in the academic field** and was generous with professional advice. In response to our questions, she recommended **Mars** as the terrestrial planet with a high probability of life.  In her opinion:
 
 1. Though nitrogen accounts for only 0.1% of the Martian atmosphere, it is enough to build a complete nitrogen cycle essential for life.
@@ -68,6 +71,7 @@ Besides, Prof. Li pointed out the challenges for life to survive on the surface 
 Finally, Prof. Li reminds us of the heterogeneity of the Martian surface environment and the process of **biological weathering** on Earth. She encouraged us to imagine more possibilities and was glad to have further communication with us.
 
 **Review**
+
 With the insights of Prof. Li, we:
 
 1. Take **Mars** as the representative of the terrestrial planet.
@@ -123,6 +127,7 @@ style='width:70%'>
 <p style="font-size: 1rem">📅 Date: Sep. 20th  👤Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
 
 **Stimulation**
+
 Although our project has a great prospect, it will cost huge amounts of time and money to fulfill our plan. For the sustainable development of our project, it's necessary to gain support from the industry of synthetic biology. We wondered that:
 
 1. How to promote the rapid development of the industry of synthetic biology?
@@ -194,11 +199,13 @@ style='width:30%'>
 </div>
 
 **Action**
+
 We had a pleasant conversation with him about our symbiotic system design. Prof. Fang made a detailed explanation of the composition of lichen. Algae mainly **provide energy and essential substances like **saccharides** through photosynthesis while fungi provide the necessary ions for algae. Besides, fungi can maintain the **physical structure** of lichen by secreting **polysaccharides**. The physical structure is quite necessary for lichens, which equips them with a strong ability to absorb and keep water. With this ability, lichens can form sheet-like structures to keep water under dry conditions and quickly rejuvenate when adequate water is available.
 
 Considering our experimental design, Prof. Fang pointed out huge challenges in engineering the symbiotic system of lichens. Since the structural paradigm of lichens has undergone a long evolutionary evolution, the delicate composition remains unknown to humans in many aspects. He recommended we build a physical structure to make our symbiotic system more tolerant of the environment. He also reminded us of **the association between physiological characteristics and the environment**.
 
 **Review**
+
 With the professional suggestions of Prof. Fang, we introduced **a cell-cell adhesion Module** into our symbiotic system. With this module, we could construct a **biofilm** with a programmable physical structure through antigen-nanobody interaction. The biofilm would contribute to the survival of our symbiotic system on the surface of Mars. (see more details in <u>Description</u>)
 
 <div style="text-align: center;">
