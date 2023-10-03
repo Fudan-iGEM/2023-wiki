@@ -2,8 +2,10 @@
 sidebar: auto
 title: Education
 author:
+- Qingying Yang
 - Zhe Dong
-authorlink: 
+authorlink:
+- /fudan/team/#qingying-yang-the-passionate-enthusiast
 - /fudan/team/#zhe-dong-the-multitasking-dynamo
 date: 2023-9-30
 ---
