@@ -1,7 +1,7 @@
 <template>
   <div class="info">
     <span v-if="pageInfo.frontmatter.author || $themeConfig.author" class="iconfont icon-user">
-        <span class="info-content">{{ pageInfo.frontmatter.author || $themeConfig.author }}</span>
+        <span class="info-content"><a :href="pageInfo.frontmatter.authorlink">{{ pageInfo.frontmatter.author || $themeConfig.author }}</a></span>
     </span>
     <span v-if="pageInfo.frontmatter.date" class="iconfont icon-calendar"><span class="info-content">{{ formatDateValue(pageInfo.frontmatter.date) }}</span></span>
     <reco-icon

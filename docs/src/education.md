@@ -2,6 +2,7 @@
 sidebar: auto
 title: Education
 author: Zhe Dong
+authorlink: /team/#zhe-dong-the-multitasking-dynamo
 date: 2023-9-30
 
 ---
