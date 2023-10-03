@@ -2,7 +2,7 @@
 sidebar: auto
 title: Software
 author: Zhiyue Chen
-authorlink: /team/#zhiyue-chen-the-software-wizard
+authorlink: /fudan/team/#zhiyue-chen-the-software-wizard
 date: 2023-9-30
 ---
 ## Introduction

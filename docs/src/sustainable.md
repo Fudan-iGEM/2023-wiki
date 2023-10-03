@@ -2,7 +2,7 @@
 sidebar: auto
 title: Sustainable
 author: Chenye Li
-authorlink: /team/#chenye-li-the-education-advocate
+authorlink: /fudan/team/#chenye-li-the-education-advocate
 date: 2023-9-30
 ---
 <div style="text-align: center;">
