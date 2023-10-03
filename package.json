@@ -8,6 +8,7 @@
     "@vuepress/plugin-medium-zoom": "^1.9.9",
     "@vuepress/plugin-nprogress": "^1.9.10",
     "@vuepress/plugin-pwa": "^1.9.9",
+    "browserslist": "^4.22.1",
     "conventional-changelog-cli": "^3.0.0",
     "husky": "^8.0.3",
     "markdown-it-footnote": "^3.0.3",
@@ -29,6 +30,7 @@
     "docs:dev": "vuepress dev docs/src"
   },
   "dependencies": {
+    "browser-detect": "^0.2.28",
     "docs": "^0.3.2-canary.0",
     "lottie-web": "^5.12.2",
     "vue-typed-js": "^0.1.2",

@@ -102,7 +102,10 @@ module.exports = {
       );
     }
   },
-
+  browserslist: [
+    'last 2 versions',
+    '> 1%'
+  ],
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */

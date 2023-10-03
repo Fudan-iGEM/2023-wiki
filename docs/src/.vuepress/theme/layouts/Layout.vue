@@ -21,6 +21,8 @@ import Common from '@theme/components/Common'
 import { resolveSidebarItems } from '@theme/helpers/utils'
 import { useInstance } from '@theme/helpers/composable'
 import { ModuleTransition } from '@vuepress-reco/core/lib/components'
+import browserslist from 'browserslist'
+import browserDetect from 'browser-detect';
 
 export default defineComponent({
   components: { HomeBlog, Home, Page, Common, Footer, ModuleTransition },
@@ -59,6 +61,25 @@ export default defineComponent({
     })
 
     return { sidebarItems, homeCom, show, path }
+  },
+  mounted() {
+      const browsers = browserslist(this.$site.browserslist);
+      const bd = browserDetect();
+      const browserVersion = bd.name + ' ' + parseFloat(bd.version);
+      let isNeo = true;
+      for (let browser of browsers) {
+          const [name, version] = browser.split(' ');
+          if (name === bd.name && parseFloat(bd.version) < version) {
+              alert('Your browser version is too low, for full experience of our wiki please use the latest version of chrome to visit.');
+          }
+          else if (name ===bd.name && parseFloat(bd.version) >= version){
+              isNeo = false;
+              break;
+          }
+      }
+      if (isNeo === true){
+          alert('For full experience of our wiki please use the latest version of chrome to visit.');
+      }
   }
 })
 </script>
