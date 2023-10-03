@@ -1,6 +1,6 @@
 ---
 title: Part Collection
-author: Siliang Zhan
+author: Zhikai Jiang
 date: 2023-10-3
 ---
 Our parts could be divided into four major groups:

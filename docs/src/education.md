@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 title: Education
-author: Zhe Dong, Xiaohan Jiang, Chenye Li, Yijun Wang, Qingying Yang 
+author: Zhe Dong
 date: 2023-9-30
 
 ---
