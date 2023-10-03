@@ -357,7 +357,7 @@ style='width:80%'>
 
 ### Peer Talking: Discovering Potential iGEMers
 
-**Summer camp:** **Talking synthetic biology with junior high school students **
+**Summer camp:** **Talking synthetic biology with junior high school students**
 
 | Information      |                                                 |
 | ---------------- | ----------------------------------------------- |
