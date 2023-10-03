@@ -82,7 +82,7 @@ module.exports = {
       },
       {
         text: 'Human Practices',items:[
-          { text: 'Integrated Human Practice', link: '/human-practices/' },
+          { text: 'Integrated Human Practices', link: '/human-practices/' },
           { text: 'Education', link: '/education/' },
           { text: 'Sustainable', link: '/sustainable/' },
         ],
