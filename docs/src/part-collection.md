@@ -1,6 +1,9 @@
 ---
 title: Part Collection
-author: Zhikai Jiang
+author:
+- Zhikai Jiang
+authorlink:
+- /fudan/team/#zhikai-jiang-the-model-specialist
 date: 2023-10-3
 ---
 Our parts could be divided into four major groups:

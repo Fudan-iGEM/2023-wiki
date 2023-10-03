@@ -1,8 +1,10 @@
 ---
 sidebar: auto
 title: Human Practices
-author: Zhe Dong
-authorlink: /fudan/team/#zhe-dong-the-multitasking-dynamo
+author:
+- Zhe Dong
+authorlink:
+- /fudan/team/#zhe-dong-the-multitasking-dynamo
 date: 2023-10-2
 ---
 ## Overview

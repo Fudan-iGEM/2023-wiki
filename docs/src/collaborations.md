@@ -1,8 +1,10 @@
 ---
 sidebar: auto
 title: Collaborations
-author: Zhikai Jiang
-authorlink: /fudan/team/#zhikai-jiang-the-model-specialist
+author:
+- Zhikai Jiang
+authorlink:
+- /fudan/team/#zhikai-jiang-the-model-specialist
 date: 2023-10-2
 ---
 

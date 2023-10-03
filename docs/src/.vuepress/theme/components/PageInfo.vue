@@ -1,7 +1,7 @@
 <template>
   <div class="info">
     <span v-if="pageInfo.frontmatter.author || $themeConfig.author" class="iconfont icon-user">
-        <span><a class="info-content" :href="pageInfo.frontmatter.authorlink">{{ pageInfo.frontmatter.author || $themeConfig.author }}</a></span>
+        <span class="info-content" v-for="(authorinfo, index) in pageInfo.frontmatter.author.map((item, index) => [item, pageInfo.frontmatter.authorlink[index]])" :key="authorinfo"><a :href="authorinfo[1]">{{ authorinfo[0] }}</a><span v-if="index < pageInfo.frontmatter.author.map((item, index) => [item, pageInfo.frontmatter.authorlink[index]]).length - 1">, </span></span>
     </span>
     <span v-if="pageInfo.frontmatter.date" class="iconfont icon-calendar"><span class="info-content">{{ formatDateValue(pageInfo.frontmatter.date) }}</span></span>
     <reco-icon
@@ -84,6 +84,14 @@ export default defineComponent({
     font-family Quicksand, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif
     color $accentColor
     font-weight 600
+    margin-left 0
+    margin-right 0
+    a{
+      font-weight 600
+    }
+    span{
+      margin-left 0
+    }
   }
 }
 .iconfont

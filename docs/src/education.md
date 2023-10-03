@@ -1,10 +1,11 @@
 ---
 sidebar: auto
 title: Education
-author: Zhe Dong
-authorlink: /fudan/team/#zhe-dong-the-multitasking-dynamo
+author:
+- Zhe Dong
+authorlink: 
+- /fudan/team/#zhe-dong-the-multitasking-dynamo
 date: 2023-9-30
-
 ---
 
 ## Overview
