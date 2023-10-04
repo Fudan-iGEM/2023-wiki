@@ -215,7 +215,7 @@ style='width:80%'>
 
 **Workshop: How to approach scientific problems?**
 
-We hosted 10 high school students and staff from the museum on our campus. We began with a workshop titled ***"How to Approach Scientific Problems"***. We outlined a scientific research process, emphasizing how to tackle challenges and research literature. We also initiated a discussion about synthetic biology and our iGEM project. The students actively participated, sharing their ideas about our project and synthetic biology.
+We hosted 10 high school students and staff from the museum on our campus. We began with a workshop titled **"How to Approach Scientific Problems"**. We outlined a scientific research process, emphasizing how to tackle challenges and research literature. We also initiated a discussion about synthetic biology and our iGEM project. The students actively participated, sharing their ideas about our project and synthetic biology.
 
 <img src="https://static.igem.wiki/teams/4765/wiki/education/zibo-3.jpg"
 style='width:80%'>
