@@ -71,6 +71,8 @@ export default defineComponent({
           const [name, version] = browser.split(' ');
           if (name === bd.name && parseFloat(bd.version) < version) {
               alert('Your browser version is too low, for full experience of our wiki please use the latest version of chrome to visit.');
+              isNeo = false;
+              break;
           }
           else if (name ===bd.name && parseFloat(bd.version) >= version){
               isNeo = false;
