@@ -5,7 +5,6 @@ author:
 - Chenye Li
 authorlink: 
 - /fudan/team/#chenye-li-the-education-advocate
-date: 2023-10-5
 ---
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/lcy/3823344.jpg"

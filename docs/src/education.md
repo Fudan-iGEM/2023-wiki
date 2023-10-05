@@ -7,7 +7,6 @@ author:
 authorlink:
   - /fudan/team/#zhe-dong-the-multitasking-dynamo
   - /fudan/team/#qingying-yang-the-passionate-enthusiast
-date: 2023-10-5
 ---
 
 ## Overview
