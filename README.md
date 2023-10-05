@@ -6,6 +6,9 @@ Images, photos, icons and fonts **MUST** be stored on `static.igem.wiki` using [
 
 For up-to-date requirements, resources, help and guidance, visit [competition.igem.org/deliverables/team-wiki](https://competition.igem.org/deliverables/team-wiki).
 
+We use vue to build our wiki for 2023, not using Flask.
+
+
 ## Getting started
 
 You should probably only edit the files inside folders `static`, `wiki` and `wiki > pages`.
@@ -18,7 +21,7 @@ You should probably only edit the files inside folders `static`, `wiki` and `wik
 1. Once you are done, save the changes by **committing** them to the *main branch* of the repository
 1. An automated script will build, test and deploy your wiki, which should take less than 30 seconds.
 
-## About this Template
+## About this Flask Template
 
 ### Files
 
