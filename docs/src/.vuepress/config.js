@@ -84,6 +84,7 @@ module.exports = {
         text: 'Human Practices',items:[
           { text: 'Integrated Human Practices', link: '/human-practices/' },
           { text: 'Education', link: '/education/' },
+          { text: 'Inclusivity', link: '/inclusivity/' },
           { text: 'Sustainable', link: '/sustainable/' },
         ],
         icon: 'iconfont icon-smile',
