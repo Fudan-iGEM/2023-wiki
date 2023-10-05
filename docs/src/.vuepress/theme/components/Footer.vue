@@ -8,7 +8,7 @@
       </div>
       <hr>
       <div class="copyright">
-          <p>Contact us: <a href="mailto:igem@fudan.edu.cn">igem@fudan.edu.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="">Watch our promotion video!</a></p>
+          <p>Contact us: <a href="mailto:igem@fudan.edu.cn">igem@fudan.edu.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bilibili.com/video/BV1yw411i769/">Watch our promotion video!</a></p>
           <p><small>© 2023 - Content on this site is licensed under a <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International license</a>.</small></p>
         <p><small>The repository used to create this website is available at <a href="https://gitlab.igem.org/2023/fudan">gitlab.igem.org/2023/fudan</a>.</small></p>
       </div>
