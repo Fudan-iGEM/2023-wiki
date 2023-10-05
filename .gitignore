@@ -11,6 +11,8 @@ coverage/
 run
 .DS_Store
 .nyc_output
+bs4/
+selenium/
 .basement
 config.local.js
 basement_dist

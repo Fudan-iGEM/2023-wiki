@@ -1,6 +1,8 @@
 | | | Part Name | Description | Part Type | Designer(s) | Length |
 |----|----|----|----|----|----|----|
-| |  | BBa_K4765000 | image demonstration | DNA | Siliang Zhan | Length:  6 bp | 
+| |  | BBa_K2644007 | smURFP | DNA | Yiran Cheng | Length:  402 bp | 
+| |  | BBa_K4162001 | StayGold = (n2)oxStayGold(c4)v2.0 | Coding | Weiwen Chen | Length:  711 bp | 
+| |  | BBa_K4162006 | T7_RBS | RBS | Weiwen Chen | Length:  17 bp | 
 | |  | BBa_K4765001 | intimin | Coding | Siliang Zhan | Length:  1968 bp | 
 | |  | BBa_K4765002 | Ag1, Akt3PH from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  354 bp | 
 | |  | BBa_K4765003 | Nb1, 3AKH13 from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  372 bp | 
