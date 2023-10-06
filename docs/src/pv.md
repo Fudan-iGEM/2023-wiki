@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: Results
+title: Promotion Video
 author:
 - Team
 authorlink:
@@ -9,4 +9,10 @@ authorlink:
 
 Back to https://2023.igem.wiki/fudan/
 
-To check scencs behind our promotion video, please visit https://2023.igem.wiki/fudan/pv
+image
+
+image
+
+image
+
+image

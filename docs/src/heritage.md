@@ -1,0 +1,71 @@
+---
+sidebar: auto
+title: Heritage
+author:
+- Team
+authorlink:
+- /fudan/team/
+---
+
+<p>Updated on 2022-10-25: We are the only in-person team participating the Grand Jamboree from mainland China this year. We traveled through Hong Kong with affordable flight tickets, and arrived in Paris on Oct 23.</p>
+<p>Fudan University has been taking part in <a href="https://old.igem.org/Timeline" target="_blank">iGEM Competition</a> since 2011. <!-- 19 Years of the iGEM Competition --> Among one of the first teams in China to participate in iGEM, we have deepened our understanding in synthetic biology over the years and endeavored to pass down both our knowledge and our passion, for follew teams that come.</p>
+
+<p>Below is the complete list of our iGEM projects.</p>
+
+<table class="striped">
+  <thead><tr><th>Team&#160;Name</th><th>Title</th><th>Leader</th><th>Year</th><th>Awards</th><th>Social</th></tr></thead>
+  <tbody>
+    <tr><td>Fudan&#8209;Shanghai</td><td>E.tree, neon light and the dinner service</td><td>Ruojun&#160;Wang</td><td><a href="https://old.igem.org/Team.cgi?team_id=604" rel="noreferrer" target="_blank">2011</a></td>
+      <td><a href="https://old.igem.org/Results?year=2011&amp;division=igem&amp;region=Asia" target="_blank">Gold Medal (Asia)</a></td>
+      <td></td></tr>
+    <tr><td>Fudan_Lux</td><td>Biowave, Nano-tubular Highways, Labcloud</td><td>Jianpei&#160;Niu</td><td><a href="https://old.igem.org/Team.cgi?team_id=785" rel="noreferrer" target="_blank">2012</a></td>
+      <td><a href="https://old.igem.org/Results?year=2012&amp;division=igem&amp;region=Asia" target="_blank">Gold Medal (Asia)</a></td>
+      <td></td></tr>
+    <tr><td>Fudan_D</td><td>Telomere related construction of programmable time switch in yeast</td><td>Xiaoting&#160;Zhu</td><td><a href="https://old.igem.org/Team.cgi?team_id=798" rel="noreferrer" target="_blank">2012</a></td>
+      <td>Safety Commendation (Asia); <a href="https://old.igem.org/Results?year=2012&amp;division=igem&amp;region=Asia" target="_blank">Silver Medal (Asia)</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-twitter-48.png" alt="twitter" />FDU_iGEM</td></tr>
+    <tr><td>Fudan</td><td>ALeader: leading the advance of RNA synthetic biology</td><td>Haotian&#160;Guo</td><td><a href="https://old.igem.org/Team.cgi?team_id=1100" rel="noreferrer" target="_blank">2013</a></td>
+      <td>Advance to World Championship; <a href="https://old.igem.org/Results?year=2013&amp;division=igem&amp;region=Asia" target="_blank">Gold Medal (Asia)</a></td>
+      <td></td></tr>
+    <tr><td>Fudan</td><td>Tet and Cre-dependent genetic logic circuits in mammalian cells</td><td>Xuanye&#160;Cao</td><td><a href="https://old.igem.org/Team.cgi?team_id=1440" rel="noreferrer" target="_blank">2014</a></td>
+      <td><a href="https://old.igem.org/Results?year=2014&amp;division=igem" target="_blank">Gold Medal</a></td>
+      <td></td></tr>
+    <tr><td>Fudan</td><td>Cyclize it!</td><td>Xilin&#160;Jiang</td><td><a href="https://old.igem.org/Team.cgi?team_id=1777" rel="noreferrer" target="_blank">2015</a></td>
+      <td><a href="https://old.igem.org/Results?year=2015&amp;division=igem" target="_blank">Silver Medal</a></td>
+      <td></td></tr>
+    <tr><td>Fudan</td><td>AdVENTURE: Replicative-deficient Adenovirus Targeting at Cancer Energy Pathways</td><td>Yang&#160;Xie</td><td><a href="https://old.igem.org/Team.cgi?team_id=1925" rel="noreferrer" target="_blank">2016</a></td>
+      <td><a href="https://old.igem.org/Results?year=2016&amp;division=igem" target="_blank">Bronze Medal</a></td>
+      <td></td></tr>
+    <tr><td>Fudan</td><td>SwordS: antigen density targeting with customized therapeutic responses via SynNotch-Stripe system</td><td>Zijie&#160;Yang</td><td><a href="https://old.igem.org/Team.cgi?team_id=2446" rel="noreferrer" target="_blank">2017</a></td>
+      <td><a href="https://2017.igem.org/Competition/Results" target="_blank">Best Therapeutics Project</a>; Nominated for Software, New Composite Part, Part Collection; <a href="https://old.igem.org/Results?year=2017&amp;division=igem" target="_blank">Gold Medal</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-twitter-48.png" alt="twitter" />Fudan_iGEM</td></tr>
+    <tr><td>Fudan_China</td><td>MemOrderY: A sequential memory device that monitors the changing of signals</td><td>Tian&#160;Huang, Yixin&#160;Ma</td><td><a href="https://old.igem.org/Team.cgi?team_id=2460" rel="noreferrer" target="_blank">2017</a></td>
+      <td><a href="https://old.igem.org/Results?year=2017&amp;division=igem" target="_blank">Silver Medal</a></td>
+      <td></td></tr>
+    <tr><td>Fudan</td><td>ENABLE across-membrane binary computing in mammalian cells</td><td>Ziyan&#160;Yu, Rongrong&#160;Du</td><td><a href="https://old.igem.org/Team.cgi?team_id=2549" rel="noreferrer" target="_blank">2018</a></td>
+      <td><a href="https://old.igem.org/Results?year=2018&amp;division=igem" target="_blank">Silver Medal</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-twitter-48.png" alt="twitter" />Fudan_iGEM</td></tr>
+    <tr><td>Fudan&#8209;CHINA</td><td>Synthetic Transducer Engineering Platform (STEP)</td><td>Kaifeng&#160;Jin, Zixuan&#160;Zhang</td><td><a href="https://old.igem.org/Team.cgi?team_id=2886" rel="noreferrer" target="_blank">2018</a></td>
+      <td><a href="https://old.igem.org/Results?year=2018&amp;division=igem" target="_blank">Bronze Medal</a></td>
+      <td></td></tr>
+    <tr><td>Fudan</td><td>ALTER, a more patient-friendly therapeutic approach to lactose intolerance</td><td>Jianyi&#160;Hu, Dehao&#160;Zhu</td><td><a href="https://old.igem.org/Team.cgi?team_id=3245" rel="noreferrer" target="_blank">2019</a></td>
+      <td>Nominated for Part Collection; <a href="https://old.igem.org/Results?year=2019&amp;division=igem" target="_blank">Gold Medal</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-twitter-48.png" alt="twitter" />IgemF</td></tr>
+    <tr><td>Fudan&#8209;TSI</td><td>R-Evolution: an in vivo sequence-specific toolbox for continuous mutagenesis</td><td>Chuyue&#160;Zhang, Yuchang&#160;Li</td><td><a href="https://old.igem.org/Team.cgi?team_id=3257" rel="noreferrer" target="_blank">2019</a></td>
+      <td>Nominated for Model, Measurement; <a href="https://old.igem.org/Results?year=2019&amp;division=igem" target="_blank">Gold Medal</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-twitter-48.png" alt="twitter" />Fudan_iGEM</td></tr>
+    <tr><td>Fudan</td><td><a href="https://video.igem.org/w/g5dMeUWTQR7epNvkBJ41Xd" target="_blank">Bone appetite</a>: make calcium supplement sustainable</td><td>Shizhen&#160;Tian</td><td><a href="https://old.igem.org/Team.cgi?team_id=3606" rel="noreferrer" target="_blank">2020</a></td>
+      <td><a href="https://2020.igem.org/Competition/Results" target="_blank">Best Sustainable Development Impact</a>; Nominated for Education, Inclusive, New Compositie Part, Part Collection; <a href="https://old.igem.org/Results?year=2020&amp;division=igem" target="_blank">Gold Medal</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-twitter-48.png" alt="twitter" />Fudan_iGEM</td></tr>
+    <tr><td>Fudan</td><td><a href="https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV" target="_blank">Candicamera</a>: a testing scheme for resource-limited regions</td><td>Xin&#160;Lan</td><td><a href="https://old.igem.org/Team.cgi?team_id=3790" rel="noreferrer" target="_blank">2021</a></td>
+      <td>Nominated for New Basic Part, Measurement, Inclusivity, Sustainability; <a href="https://old.igem.org/Results?year=2021&amp;division=igem" target="_blank">Gold Medal</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-wechat-48.png" alt="wechat" />Fudan_iGEM</td></tr>
+
+    <tr><td>Fudan</td><td><a href="https://video.igem.org/w/5iD5aPZDNkiiezQcNeH42o" target="_blank">Rester</a>: a Vitamin A biomanufacturing cell factory for skincare products</td><td>Yihan&#160;Fang</td><td><a href="https://old.igem.org/Team.cgi?team_id=4162" rel="noreferrer" target="_blank">2022</a></td>
+      <td><a href="https://jamboree.igem.org/2022/results/special-awards" target="_blank">Best New Basic Part, Best Part Collection, Best Measurement</a>; Nominated for Software Tool, New Compositie Part; <a href="https://old.igem.org/Results?year=2022&amp;division=igem" target="_blank">Gold Medal</a></td>
+      <td><img style="width:18px;display:block" src="static/win11-wechat-48.png" alt="wechat" />Fudan_iGEM</td></tr>
+  </tbody>
+</table>
+
+<p>This page was updated from our <a href="https://2021.igem.org/Team:Fudan/Heritage" target="_blank">2021</a>, <a href="https://2020.igem.org/Team:Fudan/Heritage" target="_blank">2020</a> and <a href="https://2019.igem.org/Team:Fudan-TSI/Heritage" target="_blank">2019</a> pages.<br/>
+For more details about our winter-break training, please visit our <a href="http://2018.igem.org/Team:Fudan/Heritage" target="_blank">2018 page</a>.</p>

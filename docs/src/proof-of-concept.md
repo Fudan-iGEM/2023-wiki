@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: Results
+title: Proof of concept
 author:
 - Team
 authorlink:

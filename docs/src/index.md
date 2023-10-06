@@ -2,8 +2,8 @@
 home: true
 heroImage: https://static.igem.wiki/teams/4765/wiki/czy/logo-czy.svg
 tagline: Team Fudan 2023 Wiki
-actionText: Quick Start →
-actionLink: /guide/
+actionText: TBA
+actionLink: /#
 features:
 - title: Feature 1 Title
   details: Feature 1 Description

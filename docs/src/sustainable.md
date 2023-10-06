@@ -6,6 +6,7 @@ author:
 authorlink: 
 - /fudan/team/#chenye-li-the-education-advocate
 ---
+
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/lcy/3823344.jpg"
 style='width:80%'>
@@ -16,7 +17,6 @@ style='width:80%'>
 style='width:80%'>
 <br>
 </div>
-
 
 
 The United Nations, with its 193 member states, established 17 Sustainable Development Goals (SDGs) during the 2015 United Nations Sustainable Development Summit. These SDGs aim to comprehensively address development issues across the social, economic, and environmental dimensions from 2015 to 2030.

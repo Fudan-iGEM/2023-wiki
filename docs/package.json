@@ -7,7 +7,7 @@
     "name": "Zhiyue Chen",
     "email": "20301050198@fudan.edu.cn"
   },
-  "repository": "https://gitlab.igem.org/2023/fudan/fudan",
+  "repository": "https://gitlab.igem.org/2023/fudan",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"

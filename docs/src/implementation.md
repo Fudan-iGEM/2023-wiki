@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: Results
+title: Implementation
 author:
 - Team
 authorlink:
