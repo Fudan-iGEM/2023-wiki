@@ -1,16 +1,16 @@
 <template>
   <div class="footer-wrapper">
       <div class="logos">
-          <a href="http://www.yfc.cn/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/yf-logo-accent.png"></a>
-          <a href="https://www.fudan.edu.cn/en/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/fudan-logo-accent-czy.svg"></a>
-          <a href="https://life.fudan.edu.cn/main.htm"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/sky-logo-accent-czy.png"></a>
-          <a href="https://2023.igem.wiki/fudan/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/logo-square-czy.svg"></a>
+          <a href="http://www.yfc.cn/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/yf-logo-accent.png"></a>
+          <a href="https://www.fudan.edu.cn/en/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/fudan-logo-accent-czy.svg"></a>
+          <a href="https://life.fudan.edu.cn/main.htm" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/sky-logo-accent-czy.png"></a>
+          <a href="https://2023.igem.wiki/fudan/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/logo-square-czy.svg"></a>
       </div>
       <hr>
       <div class="copyright">
-          <p>Contact us: <a href="mailto:igem@fudan.edu.cn">igem@fudan.edu.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bilibili.com/video/BV1yw411i769/">Watch our promotion video!</a></p>
-          <p><small>© 2023 - Content on this site is licensed under a <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International license</a>.</small></p>
-        <p><small>The repository used to create this website is available at <a href="https://gitlab.igem.org/2023/fudan">gitlab.igem.org/2023/fudan</a>.</small></p>
+        <p>Contact us: <a href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bilibili.com/video/BV1yw411i769/" target="_blank">Watch our promotion video!</a></p>
+        <p><small>&copy; 2023 - Content on this site is licensed under a <a class="subfoot" href="https://gitlab.igem.org/2023/fudan/-/raw/main/LICENSE" rel="license" target="_blank">Creative Commons Attribution 4.0 International license</a>.</small></p>
+        <p><small>The repository used to create this website is available at <a href="https://gitlab.igem.org/2023/fudan" target="_blank">gitlab.igem.org/2023/fudan</a>.</small></p>
       </div>
     </div>
 </template>
