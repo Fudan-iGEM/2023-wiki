@@ -182,7 +182,7 @@ The first step in the optimization of cellular metabolism using the pRAP system 
 
 ### Assumption 1
 
-We expect the optimal state of cellular metabolism to be flux-balanced, when the fluxes of the reactions in the pRAP system should be equal, which can be expressed as
+We expect the optimal state of cellular metabolism to be flux-balanced, when the fluxes of the reactions in the pRAP system should be equal, which can be expressed as:
 
 $$
 flux_1 = flux_2 = ... = flux_n
@@ -191,19 +191,19 @@ The significance of this assumption is that it prevents metabolic stress caused 
 
 ### Assumption 2
 
-The substrate should not be overstacked and should be kept more stationary, which we denote here as follows
+The substrate should not be overstacked and should be kept more stationary, which we denote here as follows:
 $$
 \frac{[S_1]}{k_{m,1}} = \frac{[S_2]}{k_{m,2}} = ... = \frac{[S_n]}{k_{m,n}}
 $$
-From the Michaelis-Menten equation we could find
+From the Michaelis-Menten equation we could find:
 $$
 v_n = \frac{k_{cat,n}c_n[S_n]}{k_{m,n}+[S_n]}=\frac{k_{cat,n}c_n}{\frac{k_{m,n}}{[S_n]}+1}
 $$
-and $flux_n$ could be expressed as
+and $flux_n$ could be expressed as:
 $$
 flux_n = v_n \times A_n
 $$
-Combining these equations and **Assumption 1** we can conclude
+Combining these equations and **Assumption 1** we can conclude:
 $$
 c_n\propto\frac{1}{A_nk_{cat,n}}
 $$
@@ -235,6 +235,8 @@ As shown in workflow, after calculating the optimal enzyme concentration through
 | Variable                 | Description                                                  |
 | :----------------------- | :----------------------------------------------------------- |
 | $[G_n]$                  | gene concentration of $reaction_n$                           |
+| $[mR_{n}]$               | mRNA concentration of $reaction_n$                           |
+| $[P_{n}]$                | protein concentration of $reaction_n$                        |
 | $\alpha_{p,n}$           | translation initiation rate of $reaction_n$                  |
 | $\alpha_{m,n}$           | transcription initiation rate $reaction_n$                   |
 | $\delta_{n}$             | mRNA degradation rate of $reaction_n$                        |
@@ -244,7 +246,7 @@ As shown in workflow, after calculating the optimal enzyme concentration through
 | $\Delta G_{mRNA:rRNA,n}$ | free energy change when16S rRNA cofolds and hybridizes with the mRNA subsequence at the 16S rRNA-binding site of $reaction_n$ |
 | $\Delta G_{start,n}$     | free energy change when anticodon hybridizes to the start codon of $reaction_n$ |
 | $\Delta G_{spacing,n}$   | energetic penalty for a nonoptimal distance between the 16S rRNA-binding site and the start codon of $reaction_n$ |
-| $\Delta G_{standby,n}$   | free enegy change when the standby site is folded of $reaction_n$ |
+| $\Delta G_{standby,n}$   | free energy change when the standby site is folded of $reaction_n$ |
 | $\Delta G_{mRNA,n}$      | the free energy change when mRNA is folded of of $reaction_n$ |
 | $R$                      | gas constant                                                 |
 | $T$                      | culture temperature                                          |
@@ -280,7 +282,7 @@ $$
 \alpha_{p,n}[mR_n]=\lambda[P_i]
 $$
 
-Combining these two equations we can represent the relationship between protein concentration and transcription as well as translation below.
+Combining these two equations we can represent the relationship between protein concentration and transcription as well as translation below:
 $$
 c_n = \frac{\alpha_{p,n}}{\delta_n} \cdot \frac{\alpha_{m,n}[G_n]}{\lambda}
 $$
@@ -321,7 +323,7 @@ Let's start with the RBS design mode. We employ a Gibbs free energy based thermo
 $$
 \Delta G_{total,n} = \Delta G_{final,n} - \Delta G_{initial,n}\\= \Delta G_{mRNA:rRNA,n} + \Delta G_{start,n} + \Delta G_{spacing,n} - \Delta G_{standby,n} - \Delta G_{mRNA,n}
 $$
-And the translation initiation rate could be presented by Boltzmann weight ($exp(\Delta G_{total,n}/ RT)$) through an emperical formula:
+And the translation initiation rate could be presented by Boltzmann weight ($exp(\Delta G_{total,n}/ RT)$) through an empirical formula:
 $$
 \alpha_{p,n} = K \cdot exp(-\beta \Delta G_{total,n})
 $$
