@@ -16,6 +16,7 @@
           </div>
         </div>
       </ModuleTransition>
+      <div style="text-align: center"><h1 class="for-print" style="color:#e37654;">{{$page.title}}</h1></div>
       <PageInfo :pageInfo="$page" :showAccessNumber="showAccessNumber"></PageInfo>
       <!-- 这里使用 v-show，否则影响 SSR -->
       <Content class="theme-reco-content" />
@@ -233,6 +234,8 @@ function flatten (items, res) {
   background-position bottom center
   border-bottom-left-radius 1rem
   border-bottom-right-radius 1rem
+.for-print
+  display none
 .page
   position relative
   padding-top 0

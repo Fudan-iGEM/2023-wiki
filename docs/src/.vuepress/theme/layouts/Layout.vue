@@ -92,4 +92,12 @@ export default defineComponent({
 @media print
   .navbar
     display none
+  .page-title-with-bg
+    display none
+  .for-print
+    display block
+  .logos
+    display none
+  .logo
+    display none
 </style>
