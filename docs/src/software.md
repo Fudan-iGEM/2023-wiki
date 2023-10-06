@@ -13,6 +13,14 @@ Live demo of RAP is available. Visit our live demo [here](http://54.169.242.254:
 
 ## Overview
 
+### Highlights
+
+- Intuitive WebUI with APIs for advanced development
+- Compatible with and leveraging GeneBank format and easy integration with SnapGene
+- Support throughout the DBTL cycle
+- Experimentally validated results
+- Comprehensive documentation and tutorials
+
 Improving chassis metabolism is crucial for applications in synthetic biology. And the design of synthetic biology applications often involves multiple enzymes working together to form a cascade reaction. Flux imbalance frequently occur in unoptimized cascade events, which may lead to things like the appearance of the speed limit step, the occurrence of metabolic stress on cells, and the accumulation of cytotoxic intermediates. The success of the Ribozyme-Assisted Polycistronic co-expression system (pRAP system) and the benefits of replacing multiple promoter co-expression system in improving chassis metabolism have been demonstrated by [Fudan iGEM 2022](https://2022.igem.wiki/fudan/parts#composite). However, the Fudan iGEM 2022 has two shortcomings for the use of the pRAP system:
 
 1. Lack of quantitative regulation for the pRAP system. Fudan iGEM 2022 regulates the expression of different proteins in pRAP by qualitatively changing the intensity of ribosome binding site (RBS).
@@ -29,14 +37,6 @@ RAP has gone through several DBTL cycles (see 链接), leading to a concise work
     	<p><small style="color: gray">Figure 1: Workflow of RAP</small></p>
     </div>
 </div>
-
-### Highlights
-
-- Intuitive WebUI with APIs for advanced development
-- Compatible with and leveraging GeneBank format and easy integration with SnapGene
-- Support throughout the DBTL cycle
-- Experimentally validated results
-- Comprehensive documentation and tutorials
 
 In summary, RAP has led to a revolution in gene circuit design, offering new perspectives as well as strategies for handling the flux optimization. The software is freely available at our [team’s GitLab repository](https://gitlab.igem.org/2023/software-tools/fudan).
 
