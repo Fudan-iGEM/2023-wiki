@@ -1,8 +1,42 @@
 | | | Part Name | Description | Part Type | Designer(s) | Length |
 |----|----|----|----|----|----|----|
-| |  | BBa_K2644007 | smURFP | DNA | Yiran Cheng | Length:  402 bp | 
+| |  | BBa_B0010 | T1 from E. coli rrnB | Terminator | Randy Rettberg | Length:  80 bp | 
+| |  | BBa_B0016 | Terminator (T7 RNAP specific, T_Phi) | Terminator | Sri Kosuri | Length:  48 bp | 
+| | U | BBa_J23100 | constitutive promoter family member | Regulatory | John Anderson | Length:  35 bp | 
+| |  | BBa_K1378003 | Microvirin (MVN)---a lectin from Microcystis aeruginosa | Coding | Meng Liuyi & Zhang Zijian | Length:  327 bp | 
+| |  | BBa_K2150031 | T7 promoter without RBS | Regulatory | Jianyi Huang | Length:  20 bp | 
+| |  | BBa_K2306003 | Secretory-abundant heat soluble protein 33020 (SAHS 33020) | Coding | Guillermo Serena Ruiz | Length:  509 bp | 
+| |  | BBa_K3331001 | E.coli galU | Coding | Wang Weizhe | Length:  909 bp | 
+| |  | BBa_K3331002 | E.coli pgmA | Coding | Wang Weizhe | Length:  1641 bp | 
+| |  | BBa_K3457006 | lac operator | Regulatory | Yixian Yang | Length:  25 bp | 
 | |  | BBa_K4162001 | StayGold = (n2)oxStayGold(c4)v2.0 | Coding | Weiwen Chen | Length:  711 bp | 
 | |  | BBa_K4162006 | T7_RBS | RBS | Weiwen Chen | Length:  17 bp | 
+| |  | BBa_K4765001 | intimin | Coding | Siliang Zhan | Length:  1968 bp | 
+| |  | BBa_K4765002 | Ag1, Akt3PH from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  354 bp | 
+| |  | BBa_K4765003 | Nb1, 3AKH13 from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  372 bp | 
+| |  | BBa_K4765004 | Ag2, EPEA from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  18 bp | 
+| |  | BBa_K4765005 | Nb2, antiEPEA from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  384 bp | 
+| |  | BBa_K4765006 | Ag3, P53TA from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  312 bp | 
+| |  | BBa_K4765007 | Nb3, R4P43 from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  339 bp | 
+| |  | BBa_K4765008 | INPNC | Coding | Siliang Zhan | Length:  924 bp | 
+| |  | BBa_K4765009 | LCA | Coding | Siliang Zhan | Length:  828 bp | 
+| |  | BBa_K4765010 | MysA codon optimized | Coding | Siliang Zhan | Length:  1233 bp | 
+| |  | BBa_K4765011 | MysB codon optimized | Coding | Siliang Zhan | Length:  834 bp | 
+| |  | BBa_K4765012 | MysC codon optimized | Coding | Siliang Zhan | Length:  1386 bp | 
+| |  | BBa_K4765013 | MysD codon optimized | Coding | Siliang Zhan | Length:  1107 bp | 
+| |  | BBa_K4765014 | MysH codon optimized | Coding | Siliang Zhan | Length:  804 bp | 
+| |  | BBa_K4765015 | AnAFP | Coding | Siliang Zhan | Length:  612 bp | 
+| |  | BBa_K4765016 | Hypsibius exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) | Coding | Siliang Zhan | Length:  621 bp | 
+| |  | BBa_K4765017 | linker after INPNC | DNA | Siliang Zhan | Length:  48 bp | 
+| |  | BBa_K4765018 | FEN1 | Coding | Siliang Zhan | Length:  1185 bp | 
+| |  | BBa_K4765019 | XRCC1 | Coding | Siliang Zhan | Length:  2226 bp | 
+| |  | BBa_K4765020 | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 | RNA | Siliang Zhan | Length:  44 bp | 
+| |  | BBa_K4765021 | stem-loop, from 10.1021/acssynbio.2c00416 | RNA | Siliang Zhan | Length:  20 bp | 
+| |  | BBa_K4765022 | mScarlet | Coding | Siliang Zhan | Length:  699 bp | 
+| |  | BBa_K4765025 | Rv Dsup codon optimized | Coding | Siliang Zhan | Length:  1188 bp | 
+| |  | BBa_K4765111 | Twister P1  + T7_RBS + AnAFP + stem-loop | DNA | Siliang Zhan | Length:  693 bp | 
+| |  | BBa_K4765112 | Twister P1 + T7_RBS + SAHS 33020 + stem-loop | DNA | Siliang Zhan | Length:  590 bp | 
+| |  | BBa_K4765113 | Twister P1 + T7_RBS + H. ex mtSSB + stem-loop | DNA | Siliang Zhan | Length:  702 bp | 
 | |  | BBa_K4765001 | intimin | Coding | Siliang Zhan | Length:  1968 bp | 
 | |  | BBa_K4765002 | Ag1, Akt3PH from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  354 bp | 
 | |  | BBa_K4765003 | Nb1, 3AKH13 from 10.1016/j.cell.2018.06.041 | Coding | Siliang Zhan | Length:  372 bp | 
