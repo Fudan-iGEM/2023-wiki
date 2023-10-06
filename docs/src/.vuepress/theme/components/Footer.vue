@@ -9,7 +9,7 @@
       <hr>
       <div class="copyright">
         <p>Contact us: <a href="mailto:igem@fudan.edu.cn" target="_blank">igem@fudan.edu.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bilibili.com/video/BV1yw411i769/" target="_blank">Watch our promotion video!</a></p>
-        <p><small>&copy; 2023 - Content on this site is licensed under a <a class="subfoot" href="https://gitlab.igem.org/2023/fudan/-/raw/main/LICENSE" rel="license" target="_blank">Creative Commons Attribution 4.0 International license</a>.</small></p>
+        <p><small>&copy; 2023 - Content on this site is licensed under a <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" rel="license" target="_blank">Creative Commons Attribution 4.0 International license</a>.</small></p>
         <p><small>The repository used to create this website is available at <a href="https://gitlab.igem.org/2023/fudan" target="_blank">gitlab.igem.org/2023/fudan</a>.</small></p>
       </div>
     </div>
