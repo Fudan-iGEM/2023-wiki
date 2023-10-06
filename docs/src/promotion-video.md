@@ -76,7 +76,7 @@ Modified <i>E. coli</i><br>
 secretes chemical weathering agents for erosion and exhibits robust resistance against harsh environment on Mars.<br>
 分泌有机酸腐蚀岩石碎屑，并表达使菌膜适应火星严苛环境和促进菌膜功能建立的的相应元件。
 
-<img src="https://static.igem.wiki/teams/4765/wiki/wyj/pv2.png" alt="screenshot 2 from pv">
+<img src="https://static.igem.wiki/teams/4765/wiki/wyj/pv3.png" alt="screenshot 2 from pv">
 
 <img src="https://static.igem.wiki/teams/4765/wiki/wyj/pv6.png" alt="screenshot 6 from pv">
 
