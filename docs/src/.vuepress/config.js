@@ -65,7 +65,7 @@ module.exports = {
       },
       {
         text: 'Parts',items:[
-          { text: 'Part collection', link: '/part-collection/' },
+          { text: 'Part Collection', link: '/part-collection/' },
           { text: 'Registry', link: 'http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan' },
         ],
         icon: 'iconfont icon-experiment',
@@ -82,11 +82,11 @@ module.exports = {
       },
       {
         text: 'Human Practices',items:[
-          { text: 'Integrated human practices', link: '/human-practices/' },
+          { text: 'Integrated Human Practices', link: '/human-practices/' },
           { text: 'Education', link: '/education/' },
           { text: 'Inclusivity', link: '/inclusivity/' },
           { text: 'Sustainable', link: '/sustainable/' },
-          { text: 'Promotion video', link: '/promotion-video/' },
+          { text: 'Promotion Video', link: '/promotion-video/' },
         ],
         icon: 'iconfont icon-smile',
       },
