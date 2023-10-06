@@ -12,13 +12,51 @@ from bs4 import BeautifulSoup # 4.12.2
 from time import sleep
 
 
-z = sorted(['BBa_K4162006','BBa_K4162001','BBa_K2644007'])
+z = sorted([
+    'BBa_K3331001',
+    'BBa_K3331002',
+    'BBa_K4765020',
+    'BBa_K4162006',
+    'BBa_K4765001',
+    'BBa_K4765002',
+    'BBa_K4765021',
+    'BBa_K4765003',
+    'BBa_K4765004',
+    'BBa_K4765005',
+    'BBa_K4765006',
+    'BBa_K4765007',
+    'BBa_K4765008',
+    'BBa_K4765017',
+    'BBa_K1378003',
+    'BBa_K4765009',
+    'BBa_K4765015',
+    'BBa_K2306003',
+    'BBa_K4765016',
+    'BBa_K4765025',
+    'BBa_K4765018',
+    'BBa_K4765019',
+    'BBa_K2150031',
+    'BBa_K3457006',
+    'BBa_B0016',
+    'BBa_K4765010',
+    'BBa_K4765011',
+    'BBa_K4765012',
+    'BBa_K4765013',
+    'BBa_K4765014',
+    'BBa_J23100',
+    'BBa_K4162001',
+    'BBa_K4765022',
+    'BBa_B0010',
+    'BBa_K4765113',
+    'BBa_K4765112',
+    'BBa_K4765111' ])
 z += range(1, 25)
 z += range(101, 130)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
-fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length |\n')
-fff.write('|----|----|----|----|----|----|----|\n')
+fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | |\n')
+fff.write('|----|----|----|----|----|----|----|----|\n')
+subparts = []
 
 for zz in z:
     if str(zz).startswith('BBa_'):
@@ -49,6 +87,8 @@ for zz in z:
     print(p3)
     p4 = p1.find('div', {'class': 'compatibility_div'}).get_text().find('COMPATIBLE WITH RFC[10]') > -1
     print('RFC[10]', p4)
+    if p4 != True:
+        sleep(99)
     td = []
     favorited = ''
     for tr in p2:
@@ -66,10 +106,25 @@ for zz in z:
             started = True
         if tr_text.startswith('Group Favorite') and tr_text.find('Yes') > -1:
             favorited = 'U'
-    fff.write('| %s | %s | %s | \n' % (favorited, ' | '.join(td), p3) )
+    fff.write('| %s | %s | %s | ' % (favorited, ' | '.join(td), p3) )
+    p5 = p1.find_all('table', {'id' : 'subpart_table'})[0].find_all('input')
+    if p5:
+        subpartss = 0
+        fff.write('| ')
+        for inp in p5:
+            if inp['value'] and inp['value'].startswith('BBa_'):
+                subpartss += 1
+                fff.write('%s ' % inp['value'] )
+                if inp['value'] not in subparts:
+                    subparts.append( inp['value'] )
+        print('!! subpart_table count %d BBa_' % subpartss)
+        fff.write('\n')
+    else:
+        fff.write('| basic\n')
     print('\n\n')
 
 fff.close()
-print('CAUTION: remove files in parts-html for update')
-print('Check with http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan')
+print('\n'.join(["'%s'," % x for x in subparts]))
+print('\n\nCAUTION: remove files in parts-html for update\n')
+print('Validate with http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan\n\n\n\n')
 driver.quit()
