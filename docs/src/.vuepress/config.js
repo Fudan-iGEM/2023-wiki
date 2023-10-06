@@ -67,7 +67,7 @@ module.exports = {
       },
       {
         text: 'Parts',items:[
-          { text: 'Improved parts', link: '/improve' },
+          { text: 'Improved Parts', link: '/improve' },
           { text: 'Part Collection', link: '/part-collection' },
           { text: 'Registry', link: 'http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan' },
         ],

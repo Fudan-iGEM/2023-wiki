@@ -1,6 +1,7 @@
 <template>
   <div class="info">
-    <span v-if="pageInfo.frontmatter.author || $themeConfig.author" class="iconfont icon-user">
+    <span v-if="pageInfo.frontmatter.author || $themeConfig.author" class="iconfont icon-user"
+      style="padding-top: 2rem;padding-bottom: 1.5rem">
         <span class="info-content" v-for="(authorinfo, index) in pageInfo.frontmatter.author.map((item, index) => [item, pageInfo.frontmatter.authorlink[index]])" :key="authorinfo"><a :href="authorinfo[1]">{{ authorinfo[0] }}</a><span v-if="index < pageInfo.frontmatter.author.map((item, index) => [item, pageInfo.frontmatter.authorlink[index]]).length - 1">, </span></span>
     </span>
     <reco-icon
