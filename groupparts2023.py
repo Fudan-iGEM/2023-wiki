@@ -54,8 +54,8 @@ z += range(1, 25)
 z += range(101, 130)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
-fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length |\n')
-fff.write('|----|----|----|----|----|----|----|\n')
+fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | |\n')
+fff.write('|----|----|----|----|----|----|----|----|\n')
 subparts = []
 
 for zz in z:
@@ -106,18 +106,21 @@ for zz in z:
             started = True
         if tr_text.startswith('Group Favorite') and tr_text.find('Yes') > -1:
             favorited = 'U'
-    fff.write('| %s | %s | %s | \n' % (favorited, ' | '.join(td), p3) )
+    fff.write('| %s | %s | %s | ' % (favorited, ' | '.join(td), p3) )
     p5 = p1.find_all('table', {'id' : 'subpart_table'})[0].find_all('input')
     if p5:
         subpartss = 0
+        fff.write('| ')
         for inp in p5:
             if inp['value'] and inp['value'].startswith('BBa_'):
                 subpartss += 1
+                fff.write('%s ' % inp['value'] )
                 if inp['value'] not in subparts:
                     subparts.append( inp['value'] )
         print('!! subpart_table count %d BBa_' % subpartss)
+        fff.write('\n')
     else:
-        fff.write('| basic')
+        fff.write('| basic\n')
     print('\n\n')
 
 fff.close()
