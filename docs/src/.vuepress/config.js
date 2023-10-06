@@ -48,6 +48,7 @@ module.exports = {
           { text: 'Team', link: '/team/' },
           { text: 'Attributions', link: '/attributions/' },
           { text: 'Collaborations', link: '/collaborations/' },
+          { text: 'Heritage', link: '/heritage/' },
         ],
         icon: 'iconfont icon-team',
       },
@@ -64,9 +65,8 @@ module.exports = {
       },
       {
         text: 'Parts',items:[
-          { text: 'Part Collection', link: '/part-collection/' },
-          { text: 'Parts', link: '/parts/' },
-          { text: 'Improve', link: '/improve/' },
+          { text: 'Part collection', link: '/part-collection/' },
+          { text: 'Registry', link: 'http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan' },
         ],
         icon: 'iconfont icon-experiment',
       },
@@ -82,9 +82,10 @@ module.exports = {
       },
       {
         text: 'Human Practices',items:[
-          { text: 'Integrated Human Practices', link: '/human-practices/' },
+          { text: 'Integrated human practices', link: '/human-practices/' },
           { text: 'Education', link: '/education/' },
           { text: 'Inclusivity', link: '/inclusivity/' },
+          { text: 'Promotion video', link: '/pv/' },
           { text: 'Sustainable', link: '/sustainable/' },
         ],
         icon: 'iconfont icon-smile',
