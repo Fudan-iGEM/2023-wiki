@@ -10,6 +10,7 @@ pages:
     - yarn install
     - npm run docs:build
   artifacts:
+    expire_in: 1h30min
     paths:
       - public
   only:
