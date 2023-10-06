@@ -8,7 +8,7 @@ authorlink:
 ---
 
 ::: tip
-Live demo of RAP available. Visit our live demo [here](http://54.169.242.254:5000/)!
+Live demo of RAP is available. Visit our live demo [here](http://54.169.242.254:5000/)!
 :::
 
 ## Overview
