@@ -1,6 +1,6 @@
 # Team Fudan 2023 Wiki
 
-We use [vue](https://vuejs.org/) to build our wiki on [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/), not using [Flask](https://palletsprojects.com/p/flask/).
+We use [Vue.js](https://vuejs.org/) to build our wiki as an [Progressive Web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) on [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/), not using [Flask](https://palletsprojects.com/p/flask/).
 
 This repository **MUST** contain all coding assets to generate your team's wiki (HTML, CSS, JavaScript, TypeScript, Python, etc).
 
