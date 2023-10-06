@@ -29,6 +29,9 @@
     <ModuleTransition delay="0.32">
       <Content class="home-center" v-show="recoShowModule" custom/>
     </ModuleTransition>
+     <div style="text-align: center">
+         <iframe title="Fudan: B.HOME — Biofilm Harnessing for Offworld Mankind Establishment (2023) - Project Promotion [English]" width="60%" height="500px" src="https://video.igem.org/videos/embed/cb83de45-1af6-40f9-bb2a-29754852a3b5?subtitle=en" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+     </div>
   </div>
 </template>
 
@@ -64,7 +67,7 @@ export default defineComponent({
 }
 .home {
   padding: 0 2rem 0;
-  max-width: 960px;
+  max-width: 80%;
   margin: 0px auto;
   .hero {
     text-align: center;

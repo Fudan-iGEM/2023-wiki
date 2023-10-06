@@ -88,7 +88,7 @@ module.exports = {
           { text: 'Integrated Human Practices', link: '/human-practices' },
           { text: 'Education', link: '/education' },
           { text: 'Inclusivity', link: '/inclusivity' },
-          { text: 'Promotion Video', link: '/promotion-video' },
+          { text: 'Promotion Video', link: 'https://video.igem.org/w/r8AoMzrsD8vA6cKcgCZ156?subtitle=en' },
           { text: 'Sustainable', link: '/sustainable' },
         ],
         icon: 'iconfont icon-smile',
