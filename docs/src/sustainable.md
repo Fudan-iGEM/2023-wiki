@@ -56,7 +56,7 @@ style='width:80%'>
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/lcy/sdg15.svg"
-style='width:50%'>
+style='width:25%'>
 <br>
 </div>
 
