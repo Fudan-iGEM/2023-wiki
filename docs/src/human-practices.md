@@ -6,6 +6,7 @@ author:
 authorlink:
 - /fudan/team/#zhe-dong-the-multitasking-dynamo
 ---
+
 ## Overview
 
 This year, we made a bold attempt to explore outer space and target modifying the environment of terrestrial planets, which will **benefit all mankind** in the future. In contrast to our past work, it's extremely hard to determine all the stakeholders since our project will work for all humans. However, we still gave priority to human practice and successfully forged a bond with **space researchers**, **distinguished biologists**, and **specialists in Environmental Ethics**.

@@ -2,6 +2,7 @@
 sidebar: auto
 title: Team
 ---
+
 Welcome to our Fudan iGEM 2023 introduction, where you meet the exceptional individuals propelling our project forward. As a diverse and dedicated team of 10 aspiring members, guided by 2 experienced instructors, we are united by our shared passion for synthetic biology. Together, we've embarked on a journey to develop an ecological biofilm to accelerate the geological terraforming on terrestrial planets.
 
 <div style="text-align: center;">

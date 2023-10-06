@@ -2,6 +2,7 @@
 sidebar: auto
 title: Attributions
 ---
+
 <div>
   <script type="text/javascript">
     // Listen to size change and update form height

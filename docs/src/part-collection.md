@@ -33,7 +33,7 @@ Our parts could be divided into four major groups:
 - BBa_K4765119 - BBa_K4765120
 - BBa_K4765129 - BBa_K4765130
 
-The above four groups together constitute a coherent part collection for our biofilm to survive and exert effects. Below list [all the parts](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) we built for our project. Please click the name to see deails **on the Registry**.
+The above four groups together constitute a coherent part collection for our biofilm to survive and exert effects. Below list [all the parts](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) we built for our project. Please click the name to see deails in **the Registry**.
 
 | Part Name | Type   | Description | length |
 |----|----|----|----|
