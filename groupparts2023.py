@@ -110,7 +110,6 @@ for zz in z:
     p5 = p1.find_all('table', {'id' : 'subpart_table'})[0].find_all('input')
     if p5:
         subpartss = 0
-        fff.write('| ')
         for inp in p5:
             if inp['value'] and inp['value'].startswith('BBa_'):
                 subpartss += 1
@@ -118,9 +117,9 @@ for zz in z:
                 if inp['value'] not in subparts:
                     subparts.append( inp['value'] )
         print('!! subpart_table count %d BBa_' % subpartss)
-        fff.write('\n')
+        fff.write('|\n')
     else:
-        fff.write('| basic\n')
+        fff.write('basic |\n')
     print('\n\n')
 
 fff.close()
