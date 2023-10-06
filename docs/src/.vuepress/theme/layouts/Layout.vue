@@ -88,3 +88,8 @@ export default defineComponent({
 
 <style src="prismjs/themes/prism-tomorrow.css"></style>
 <style src="../styles/theme.styl" lang="stylus"></style>
+<style lang="stylus">
+@media print
+  .navbar
+    display none
+</style>
