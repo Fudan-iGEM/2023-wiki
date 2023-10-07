@@ -291,7 +291,7 @@ zen</iframe>
 style='width:80%'>
 </div>
 
-We collaborated with the "Promise`<Pending>`" group (comprising Shitao Gong, Gengyu Wang, Jiayi Wang, Shangxuan Tang), to create **an immersive metaverse game** (experience the game [here](http://121.4.67.20:8080/)) that breaths life into the world of synthetic biology. The game is set in a distant future where humanity dispatches robots to explore a second home. In this intriguing virtual world, players navigate robots to **uncover scattered genetic "parts", assemble gene circuits**, and fulfill exploration missions.
+We collaborated with the `Promise<Pending>` group (comprising Shitao Gong, Gengyu Wang, Jiayi Wang, Shangxuan Tang), to create **an immersive metaverse game** (experience the game [here](http://121.4.67.20:8080/)) that breaths life into the world of synthetic biology. The game is set in a distant future where humanity dispatches robots to explore a second home. In this intriguing virtual world, players navigate robots to **uncover scattered genetic "parts", assemble gene circuits**, and fulfill exploration missions.
 
 
 
