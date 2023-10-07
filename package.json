@@ -30,6 +30,7 @@
     "docs:dev": "vuepress dev docs/src"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "browser-detect": "^0.2.28",
     "docs": "^0.3.2-canary.0",
     "lottie-web": "^5.12.2",

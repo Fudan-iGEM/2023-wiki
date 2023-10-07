@@ -1,37 +1,29 @@
 <template>
   <div class="home">
     <div class="hero">
-      <ModuleTransition>
-        <img
-          v-if="recoShowModule && $frontmatter.heroImage"
-          :style="heroImageStyle || {}"
-          :src="$withBase($frontmatter.heroImage)"
-          alt="hero">
-      </ModuleTransition>
-      <ModuleTransition delay="0.08">
-        <p v-if="recoShowModule && $frontmatter.tagline !== null" class="description">
-          {{ $frontmatter.tagline || $description || 'Welcome to your vuePress-theme-reco site' }}
-        </p>
-      </ModuleTransition>
-      <ModuleTransition delay="0.16">
-        <a href="#features"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
-      </ModuleTransition>
+      <img
+        v-if="recoShowModule && $frontmatter.heroImage"
+        :style="heroImageStyle || {}"
+        :src="$withBase($frontmatter.heroImage)"
+        alt="hero">
+      <p v-if="recoShowModule && $frontmatter.tagline !== null" class="description">
+        {{ $frontmatter.tagline || $description || 'Welcome to your vuePress-theme-reco site' }}
+      </p>
+      <a href="#features"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
     </div>
 
-    <ModuleTransition delay="0.24">
+    <div data-aos="zoom-in" data-aos-duration="800">
       <div id="features" class="features" v-if="recoShowModule && $frontmatter.features && $frontmatter.features.length">
         <div v-for="(feature, index) in $frontmatter.features" :key="index" class="feature">
           <h2>{{ feature.title }}</h2>
           <p>{{ feature.details }}</p>
         </div>
       </div>
-    </ModuleTransition>
-    <ModuleTransition delay="0.32">
-      <Content class="home-center" v-show="recoShowModule" custom/>
-    </ModuleTransition>
-     <div style="text-align: center; margin-bottom: 4rem">
-         <iframe title="Fudan: B.HOME — Biofilm Harnessing for Offworld Mankind Establishment (2023) - Project Promotion [English]" width="80%" height="500px" src="https://video.igem.org/videos/embed/cb83de45-1af6-40f9-bb2a-29754852a3b5?subtitle=en" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
-     </div>
+    </div>
+    <Content class="home-center" v-show="recoShowModule" custom/>
+    <div style="text-align: center; margin-bottom: 4rem">
+       <iframe title="Fudan: B.HOME — Biofilm Harnessing for Offworld Mankind Establishment (2023) - Project Promotion [English]" width="80%" height="500px" src="https://video.igem.org/videos/embed/cb83de45-1af6-40f9-bb2a-29754852a3b5?subtitle=en" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+    </div>
   </div>
 </template>
 
@@ -40,7 +32,10 @@ import { defineComponent, computed } from 'vue'
 import NavLink from '@theme/components/NavLink'
 import { ModuleTransition } from '@vuepress-reco/core/lib/components'
 import { useInstance, useShowModule } from '@theme/helpers/composable'
+import AOS from 'aos'
+import 'aos/dist/aos.css'
 
+AOS.init()
 export default defineComponent({
   components: { NavLink, ModuleTransition },
 
