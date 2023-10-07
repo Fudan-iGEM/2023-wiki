@@ -12,7 +12,7 @@
       <a href="#features"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
     </div>
 
-    <div data-aos="zoom-in" data-aos-duration="800">
+    <div data-aos="zoom-in" data-aos-duration="800" data-aos-easing="ease-out-cubic">
       <div id="features" class="features" v-if="recoShowModule && $frontmatter.features && $frontmatter.features.length">
         <div v-for="(feature, index) in $frontmatter.features" :key="index" class="feature">
           <h2>{{ feature.title }}</h2>
@@ -35,9 +35,11 @@ import { useInstance, useShowModule } from '@theme/helpers/composable'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
-AOS.init()
 export default defineComponent({
   components: { NavLink, ModuleTransition },
+  mounted(){
+      AOS.init()
+  },
 
   setup (props, ctx) {
     const instance = useInstance()
