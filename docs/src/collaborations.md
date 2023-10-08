@@ -23,7 +23,7 @@ style='width:70%'>
 
 ## With ShanghaiTech-China & XMU-China: Wet Lab
 
-Team ShanghaiTech-China iGEM 2023 provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, XMU-China_2022 contributed to the sequence for INPNC, which was a significant help in our plasmid construction. We are very grateful for their assistance in our wet lab experiments.
+Team ShanghaiTech-China iGEM 2023 provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, XMU-China iGEM 2022 contributed to the sequence for INPNC, which was a significant help in our plasmid construction. We are very grateful for their assistance in our wet lab experiments.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/shanghai-tech.jpg"
@@ -44,16 +44,16 @@ style='width:70%'>
 
 
 
-## With SCUT-China & NJU-China: Software Discussion
+## With SCUT-China & Nanjing-China: Software Discussion
 
-Our [software](/software/) aims to assist more teams in optimizing sequence design, so we have engaged in online discussions with several universities. We collaborated with NJU-China iGEM 2023 to enhance the user interface, making it more user-friendly with improved visualizations. Furthermore, we discussed with SCUT-China iGEM 2023 about using the software for wet lab experiment sequence design, exchanging project ideas and thoroughly understanding their requirements to provide personalized recommendations.
+Our [software](/software/) aims to assist more teams in optimizing sequence design, so we have engaged in online discussions with several universities. We collaborated with Nanjing-China iGEM 2023 to enhance the user interface, making it more user-friendly. Furthermore, we discussed with SCUT-China iGEM 2023 about using the software for wet lab design of sequence, exchanging project ideas and thoroughly understanding their requirements to improve our software.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with SCUT</small></p>
+<p><small style="color: gray">Collaboration with SCUT-China</small></p>
 </div>
 </div>
 <div style="text-align: center;">
@@ -61,7 +61,7 @@ style='width:70%'>
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with NJU</small></p>
+<p><small style="color: gray">Collaboration with Nanjing-China</small></p>
 </div>
 </div>
 
