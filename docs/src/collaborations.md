@@ -9,7 +9,7 @@ authorlink:
 
 ## With CAU-China: Project Design
 
-In an interview with Prof. Yan Li, we explored organic acids' role in Earth's weathering. We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had extensive online discussions with CAU-China_2023, with expertise in this area, regarding the feasibility and operational details of the oxalate module. They suggested heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid. We've now finalized our oxalic acid production genetic circuit(see more details in [Design](/design/)) in collaboration with CAU-China_2023.
+In an interview with Prof. Yan Li, we explored organic acids' role in Earth's weathering. We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had extensive online discussions with CAU-China iGEM 2023, with expertise in this area, regarding the feasibility and operational details of the oxalate module. They suggested heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid. We've now finalized our oxalic acid production genetic circuit(see more details in [Design](/design/)) in collaboration with CAU-China iGEM 2023.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/cau-tiny.png"
@@ -23,7 +23,7 @@ style='width:70%'>
 
 ## With ShanghaiTech-China & XMU-China: Wet Lab
 
-Team ShanghaiTech-China_2023 provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, XMU-China_2022 contributed to the sequence for INPNC, which was a significant help in our plasmid construction. We are very grateful for their assistance in our wet lab experiments.
+Team ShanghaiTech-China iGEM 2023 provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, XMU-China_2022 contributed to the sequence for INPNC, which was a significant help in our plasmid construction. We are very grateful for their assistance in our wet lab experiments.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/shanghai-tech.jpg"
@@ -46,7 +46,7 @@ style='width:70%'>
 
 ## With SCUT-China & NJU-China: Software Discussion
 
-Our [software](/software/) aims to assist more teams in optimizing sequence design, so we have engaged in online discussions with several universities. We collaborated with NJU-China_2023 to enhance the user interface, making it more user-friendly with improved visualizations. Furthermore, we discussed with SCUT-China_2023 about using the software for wet lab experiment sequence design, exchanging project ideas and thoroughly understanding their requirements to provide personalized recommendations.
+Our [software](/software/) aims to assist more teams in optimizing sequence design, so we have engaged in online discussions with several universities. We collaborated with NJU-China iGEM 2023 to enhance the user interface, making it more user-friendly with improved visualizations. Furthermore, we discussed with SCUT-China iGEM 2023 about using the software for wet lab experiment sequence design, exchanging project ideas and thoroughly understanding their requirements to provide personalized recommendations.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png"
@@ -92,9 +92,9 @@ style='width:70%'>
 
 ## With ShanghaiTech-China & Tongji-China & NUDT-China: Education Activities
 
-To expand the reach and quality of our educational initiatives, we have collaborated with multiple universities on picture book projects, including ShanghaiTech-China_2023, Tongji-China_2023, and NUDT-China_2023. Our aim is to make synthetic biology more accessible to a broader audience through engaging visual storytelling and simplifying complex concepts. Each university has made significant contributions to the design, illustration, and printing of these picture books.
+To expand the reach and quality of our educational initiatives, we have collaborated with multiple universities on picture book projects, including ShanghaiTech-China iGEM 2023, Tongji-China iGEM 2023, and NUDT-China iGEM 2023. Our aim is to make synthetic biology more accessible to a broader audience through engaging visual storytelling and simplifying complex concepts. Each university has made significant contributions to the design, illustration, and printing of these picture books.
 
-In addition, we have partnered with ShanghaiTech-China_2023 for further educational activities, such as exchange programs with FDIS (See more details in [Education](/education/#feed-curious-minds)).
+In addition, we have partnered with ShanghaiTech-China iGEM 2023 for further educational activities, such as exchange programs with FDIS (See more details in [Education](/education/#feed-curious-minds)).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/3.png"
