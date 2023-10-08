@@ -100,4 +100,6 @@ export default defineComponent({
     display none
   .logo
     display none
+  .sub-sidebar
+    display none
 </style>
