@@ -2,9 +2,9 @@
 sidebar: auto
 title: Human Practices
 author:
-- Zhe Dong
+  - Zhe Dong
 authorlink:
-- /fudan/team/#zhe-dong-the-multitasking-dynamo
+  - /fudan/team/#zhe-dong-the-multitasking-dynamo
 ---
 
 ## Overview
@@ -17,7 +17,7 @@ To get a comprehensive and clear idea of the potential implementation, experimen
 
 2. [**Implementing the Project**](#implementing-the-project): To put our idea into practice, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed four interdependent systems:** symbiotic, functional, survival, and metabolic regulation in our engineering bacteria(see more details in [Description](/description/)).
 
-3. [**Managing the Risk**](#managing-the-risk): For further development of our project, we gave careful consideration to the potential risks that would threaten the interests of all mankind. Drawing on the expertise of **specialists in biological ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues.**
+3. [**Managing the Risk**](#managing-the-risk): For further development of our project, we carefully considered the potential risks that would threaten the interests of all mankind. Drawing on the expertise of **specialists in biological ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues**.
 
 This year, all of our HP work follows **the STAR loop**(shown below).
 
@@ -51,7 +51,7 @@ We wondered that:
 
 **Target**
 
-Prof. Li is now an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done great research on the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. Recently, she has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
+Prof. Li is now an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done excellent work about the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. Recently, she has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/li-yan.jpg"
@@ -132,7 +132,7 @@ style='width:70%'>
 
 **Stimulation**
 
-Although our project has a great prospect, it will cost huge amounts of time and money to fulfill our plan. For the sustainable development of our project, it's necessary to gain support from the industry of synthetic biology.
+Although our project has a great prospect, fulfilling our plan will cost huge amounts of time and money. For the sustainable development of our project, it's necessary to gain support from the synthetic biology industry.
 
 We wondered that:
 
@@ -169,7 +169,7 @@ style='width:70%'>
 
 **Review**
 
-With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry(see more details in [Implementation](/implementation/)). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. [A follow-up](#follow-up-with-dr-jingwei-zhang-feasibility-of-a-suicide-switch) was taken with him about the safety concerns.
+With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry(see more details in [Implementation](/implementation/)). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. A follow-up was taken with him about the safety concerns(see more details in [Safety](/safety/#safety-in-implementation)).
 
 
 
@@ -254,14 +254,21 @@ style='width:30%'>
 
 **Action**
 
-During the interview, Prof. Quan mentioned many microbes adapting to extreme living conditions, which inspired us a lot. He suggested we **pay attention to the microbes that survive harsh environments on Earth**. For example, the rhodospirillaceaes, as a kind of anaerobic photosynthetic bacteria, can produce energy and saccharides through photosynthesis but not rely on oxygen to survive, which is more suitable for the hypoxic environment in space.
+During the interview, Prof. Quan mentioned many microbes adapting to extreme living conditions, which greatly inspired us. He suggested we **pay attention to the microbes that survive harsh environments on Earth**. For example, the rhodospirillaceaes, as a kind of anaerobic photosynthetic bacteria, can produce energy and saccharides through photosynthesis but not rely on oxygen to survive, which is more suitable for the hypoxic environment in space.
 
 For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, We can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
 
 **Review**
 With the idea of Prof. Quan, we focused on **Tardigrada**, the most mysterious creature on Earth that could survive in space, and found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**[^4]. We involved this bio-brick as the core of our survival system. (see more details in [Part: BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016)).
 
-[全哲学老师访谈照片]
+<div style="text-align: center;">
+	<img src="https://static.igem.wiki/teams/4765/wiki/education/implementation/collaboration/hp/qzx.jpg"
+style='width:70%'>
+	<br>
+	<div>
+		<p><small style="color: gray">Our team members with Prof. Quan</small></p>
+	</div>
+</div>
 
 
 
@@ -277,7 +284,7 @@ This year, we attempted to create a biofilm that could survive in space and modi
 
 1. Would our attempt to modify the Martial environment result in irreversible damage to its ecosystem?
 2. Considering that our biofilm undergoes the progress of natural evolution to adapt to the Martian environment, would our engineering bacteria prove to be a threat to mankind in the future?
-3. How to deal with the safety and moral concerns of our project?
+3. How to deal with the safety and ethical concerns of our project?
 
 **Target**
 
@@ -306,7 +313,7 @@ style='width:70%'>
 
 With the suggestions of Dr. Yunjie Zhang, we turned to Dr. Mingjun Zhang for more professional suggestions on the safety and moral concerns of our project. Graduating from the University of Pennsylvania, America, Dr. Mingjun Zhang is an expert in biological philosophy and environmental ethics and is now interested in evolutionary game theory.
 
-<div style="text-align: center;">
+<div style="text-align: center;" id="fig-1">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/zhang-mingjun.jpg"
 style='width:30%'>
 	<br>
@@ -333,23 +340,6 @@ style='width:70%'>
 		<p><small style="color: gray">Our team members with Dr. Mingjun Zhang </small></p>
 	</div>
 </div>
-
-### Follow up with Dr. Jingwei Zhang: Feasibility of a Suicide Switch
-
-<p style="font-size: 1rem">📅 Date: Sep. 12th  👤 Participants: Yijun Wang, Siliang Zhan</p>
-
-**Stimulation**
-
-Through communication with experts in environmental ethics, we were fully aware of our duty to address the safety concerns. Commonly used in the iGEM competition, a "Suicide Switch" seems to be a reliable solution. We wondered whether we could design a reliable suicide switch to avoid the potential risks of our biofilm. Since we had [established a close relationship](Dr. Jingwei Zhang: A Unique View in the Industry of Synthetic Biology) with Dr. Jingwei Zhang, we turned to him for further suggestions.
-
-**Action**
-
-Dr. Jingwei Zhang pointed out the potential defect of a "Suicide Switch". For one thing, **frequent genetic mutations** caused by the high radiation in space might easily silence the suicide module. For another, it would be extremely difficult to **determine when we should turn on the switch**. Even if the "Suicide Switch" could automatically respond to certain conditions such as temperature or stress, the unstable environment of terrestrial planets posed **the risk of a "False start"**.
-
-**Review**
-
-We found the "Suicide Switch" unreliable because of the harsh environment in space. The safety concerns are required to be addressed by other means(see more details in [Safety](/safety/))
-
 
 
 ### Reference
