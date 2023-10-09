@@ -80,13 +80,14 @@ What's more, based on our past experiences and reports in the literature[^6], so
 To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP[(Part:BBa K4765015](http://parts.igem.org/Part:BBa_K4765015) protein in *E.coli* exhibits antifreeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
 
 <div style="text-align: center;" id="fig-1">
-<img src="https://static.igem.wiki/teams/4765/wiki/jzk/measurement-1.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/measurement-2.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 1: From top to bottom is a time gradient of freezing treatment, while from left to right are the groups that were transformed with AnAFP and the control group.</small></p>
+<p><small style="color: gray">Figure 1: From left to right is a time gradient of freezing treatment, while from up to down are the groups that were transformed with AnAFP and the control group.</small></p>
 </div>
 </div>
+
 
 Subsequently, after counting the number of colonies using ImageJ, we calculated the ratio of the colony count to the colony count in the 0-hour control group. This ratio represents the bacterial survival rate, which was used to generate the survival rate curve shown in [Figure 2](#fig-2).
 
