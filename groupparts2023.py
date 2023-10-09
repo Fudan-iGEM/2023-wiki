@@ -13,28 +13,27 @@ from time import sleep
 
 
 z = sorted([
-    'BBa_K3331001',
-    'BBa_K3331002',
     'BBa_K4765020',
     'BBa_K4162006',
     'BBa_K4765001',
-    'BBa_K4765002',
-    'BBa_K4765021',
     'BBa_K4765003',
-    'BBa_K4765004',
+    'BBa_K4765021',
     'BBa_K4765005',
+    'BBa_K4765015',
+    'BBa_K4765023',
+    'BBa_K2306003',
+    'BBa_K4765016',
+    'BBa_K4765025',
+    'BBa_K4765019',
+    'BBa_K4765002',
+    'BBa_K4765004',
     'BBa_K4765006',
     'BBa_K4765007',
     'BBa_K4765008',
     'BBa_K4765017',
     'BBa_K1378003',
     'BBa_K4765009',
-    'BBa_K4765015',
-    'BBa_K2306003',
-    'BBa_K4765016',
-    'BBa_K4765025',
     'BBa_K4765018',
-    'BBa_K4765019',
     'BBa_K2150031',
     'BBa_K3457006',
     'BBa_B0016',
@@ -45,13 +44,22 @@ z = sorted([
     'BBa_K4765014',
     'BBa_J23100',
     'BBa_K4162001',
+    'BBa_K4765024',
     'BBa_K4765022',
     'BBa_B0010',
+    'BBa_K3331001',
+    'BBa_K3331002',
+    'BBa_K4765116',
+    'BBa_K4765114',
     'BBa_K4765113',
     'BBa_K4765112',
-    'BBa_K4765111' ])
-z += range(1, 25)
-z += range(101, 130)
+    'BBa_K4765111',
+    'BBa_K2644007',
+    'BBa_K4765102',
+    'BBa_K4765104',
+    'BBa_K4765106' ])
+z += range(1, 28)
+z += range(101, 140)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
 fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | |\n')
@@ -96,7 +104,11 @@ for zz in z:
         tr_text = tr.get_text(" |\t", strip=True)
         for th in table_th:
             if tr_text.startswith('%s |' % th):
-                td.append(tr_text.split(' |\t', 1)[1].strip() )
+                td_str = tr_text.split(' |\t', 1)[1].strip()
+                if td_str.startswith('BBa_'):
+                    td.append('[%s](http://parts.igem.org/Part:%s)' % (td_str,td_str))
+                else:
+                    td.append(td_str)
                 print(th, td[-1] )
         if tr_text.startswith('DNA Status') and not started:
             if tr_text.find('Deleted') > -1:
