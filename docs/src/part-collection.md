@@ -1,4 +1,5 @@
 ---
+sidebar: auto
 title: Part Collection
 author:
 - Zhikai Jiang
@@ -6,85 +7,185 @@ authorlink:
 - /fudan/team/#zhikai-jiang-the-model-specialist
 ---
 
-Our parts could be divided into four major groups:
+## Ribozyme-Assisted Polycistronic co-expression (pRAP) system
 
-(I) Parts were designed for Symbiotic System, mainly for Co-culture Module and Adhesion Module:
+We've devised a metabolic management system, named Ribozyme-Assisted Polycistronic co-expression system(pRAP). This innovative approach allows for the simultaneous expression of multiple proteins by inserting all B.HOME CDS sequences into pRAP. Our Software [RAP](/software/) leverages enzyme $k_{cat}$ values to design varying RBS strengths, thereby controlling the initial translation rates of metabolism-related enzymes. This fine-tuning capability enables the modulation of *Escherichia coli*'s metabolic flux, reducing metabolic stress.
 
-- BBa_K4765001 - BBa_K4765009
-- BBa_K4765017
-- BBa_K4765101-BBa_K4765110
+A pRAP module consists of four components arranged from the 5' to the 3' end: a twister ribozyme, RBS, CDS, and a stem-loop structure.
 
-(II) Parts were designed for Functional System, mainly for Oxalic Acid Module and EPS Module:
+The twister ribozyme, an RNA molecule capable of self-cleavage at specific sites[^1], is strategically incorporated between coding CDSs within a polycistron. This ribozyme efficiently cleaves the polycistronic mRNA transcript, transforming it into individual mono-cistrons. This process eliminates inter-cistron interactions, ensuring comparable translation initiation rates for each mono-cistron.
 
-- BBa_K4765121
-- BBa_K4765122
+What's more, to protect the mono-cistron mRNA from degradation, a stem-loop structure is placed at the 3' end of the CDSs[^2].
 
-(III) Parts were designed for Survival System, mainly for Anti-UV Module, Anti-Freeze Module and Anti-Desiccation Module:
+<div style="text-align: center;" id="fig-1">
+<img src="https://static.igem.wiki/teams/4765/wiki/czy/prap-1-czy.png"
+style='width:70%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 1: Model for pRAP system</small></p>
+</div>
+</div>
 
-- BBa_K4765010 - BBa_K4765016
-- BBa_K4765018 - BBa_K4765019
-- BBa_K4765025
-- BBa_K4765111 - BBa_K4765118
-- BBa_K4765126 - BBa_K4765128
+Subsequently, we developed an assessment setup to evaluate pRAP with RAP performance. This validation system comprises two genes, Staygold([BBa_K4162001](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4162001)) and mScarlet([BBa_K4765022](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765022)), both of which have been inserted into the pRAP system. Staygold is positioned at the front, while mScarlet is positioned at the rear. Subsequently, we observed the fluorescence intensity and the ratio of red to green fluorescence of the bacteria under a fluorescence microscope. This allowed us to confirm that both genes can be expressed in the pRAP system. Furthermore, the fluorescence ratio provides additional insights into the efficiency of ribonuclease cleavage, as well as the protection of mRNA from degradation by the stem-loop structure.
 
-(Ⅳ) Parts were designed for Ribozyme-Assisted Polycistronic co-expression(pRAP) System:
+<div style="text-align: center;" id="fig-1">
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/1-pc.png"
+style='width:100%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 2: Ribozyme test</small></p>
+</div>
+</div>
+<div style="text-align: center;">
+   <p>Table 1: Parts for pRAP system</p>
+</div>
 
-- BBa_K4765020 - BBa_K4765022
-- BBa_K4765119 - BBa_K4765120
-- BBa_K4765129 - BBa_K4765130
+| Part Name                                                    | Type   | Description                                             | Designer     |
+| ------------------------------------------------------------ | ------ | ------------------------------------------------------- | ------------ |
+| [BBa_K4765020](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765020) | RNA    | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 | Siliang Zhan |
+| [BBa_K4765021](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765021) | RNA    | stem-loop, from 10.1021/acssynbio.2c00416               | Siliang Zhan |
+| [BBa_K4765022](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765022) | Coding | mScarlet                                                | Siliang Zhan |
+| [BBa_K4765119](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765119) | DNA    | ribozyme test: constitutive expression                  | Siliang Zhan |
+| [BBa_K4765120](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765120) | DNA    | ribozyme test: T7 leaky expression                      | Siliang Zhan |
+| [BBa_K4765129](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129) | DNA    | stem-loop test                                          | Siliang Zhan |
+| [BBa_K4765130](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765130) | DNA    | shuttle test                                            | Siliang Zhan |
 
-The above four groups together constitute a coherent part collection for our biofilm to survive and exert effects. Below list [all the parts](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) we built for our project. Please click the name to see deails in **the Registry**.
+Finally, we integrated CDS sequences from the  Survival System, Biofilm Formation System, and Functional System into pRAP with RAP. The detailed introduction is as follows.
 
-| Part Name | Type   | Description | length |
-|----|----|----|----|
-| [BBa_K4765001](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765001) | Coding | intimin                                                      | 1968   |
-| [BBa_K4765002](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765002) | Coding | Ag1, Akt3PH from 10.1016/j.cell.2018.06.041                  | 354    |
-| [BBa_K4765003](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765003) | Coding | Nb1, 3AKH13 from 10.1016/j.cell.2018.06.041                  | 372    |
-| [BBa_K4765004](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765004) | Coding | Ag2, EPEA from 10.1016/j.cell.2018.06.041                    | 18     |
-| [BBa_K4765005](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765005) | Coding | Nb2, antiEPEA from 10.1016/j.cell.2018.06.041                | 384    |
-| [BBa_K4765006](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765006) | Coding | Ag3, P53TA from 10.1016/j.cell.2018.06.041                   | 312    |
-| [BBa_K4765007](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765007) | Coding | Nb3, R4P43 from 10.1016/j.cell.2018.06.041                   | 339    |
-| [BBa_K4765008](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765008) | Coding | INPNC                                                        | 924    |
-| [BBa_K4765009](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765009) | Coding | LCA                                                          | 828    |
-| [BBa_K4765010](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765010) | Coding | MysA codon optimized                                         | 1233   |
-| [BBa_K4765011](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765011) | Coding | MysB codon optimized                                         | 834    |
-| [BBa_K4765012](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765012) | Coding | MysC codon optimized                                         | 1386   |
-| [BBa_K4765013](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765013) | Coding | MysD codon optimized                                         | 1107   |
-| [BBa_K4765014](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765014) | Coding | MysH codon optimized                                         | 804    |
-| [BBa_K4765015](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765015) | Coding | AnAFP                                                        | 612    |
-| [BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016) | Coding | Hypsibius exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) | 621    |
-| [BBa_K4765017](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765017) | DNA    | linker after INPNC                                           | 48     |
-| [BBa_K4765018](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765018) | Coding | FEN1                                                         | 1185   |
-| [BBa_K4765019](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765019) | Coding | XRCC1                                                        | 2226   |
-| [BBa_K4765020](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765020) | RNA    | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640      | 44     |
-| [BBa_K4765021](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765021) | RNA    | stem-loop, from 10.1021/acssynbio.2c00416                    | 20     |
-| [BBa_K4765022](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765022) | Coding | mScarlet                                                     | 699    |
-| [BBa_K4765025](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765025) | Coding | Rv Dsup codon optimized                                      | 1188   |
-| [BBa_K4765101](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765101) | DNA    | Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop         | 2409   |
-| [BBa_K4765102](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765102) | DNA    | Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop         | 2427   |
-| [BBa_K4765103](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765103) | DNA    | Twister P1 + T7_RBS + intimin-Ag2 fusion + stem-loop         | 2073   |
-| [BBa_K4765104](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765104) | DNA    | Twister P1 + T7_RBS + intimin-Nb2 fusion + stem-loop         | 2439   |
-| [BBa_K4765105](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765105) | DNA    | Twister P1 + T7_RBS + intimin-Ag3 fusion + stem-loop         | 2367   |
-| [BBa_K4765106](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765106) | DNA    | Twister P1 + T7_RBS + intimin-Nb3 fusion + stem-loop         | 2394   |
-| [BBa_K4765107](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765107) | DNA    | Twister P1 + T7_RBS + INPNC-Ag3 fusion + stem-loop           | 1365   |
-| [BBa_K4765108](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765108) | DNA    | Twister P1 + T7_RBS + INPNC-Nb3 fusion + stem-loop           | 1392   |
-| [BBa_K4765109](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765109) | DNA    | Twister P1 + T7_RBS + intimin-MVN fusion + stem-loop         | 2382   |
-| [BBa_K4765110](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765110) | DNA    | Twister P1 + T7_RBS + intimin-LCA fusion + stem-loop         | 2883   |
-| [BBa_K4765111](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765111) | DNA    | Twister P1 + T7_RBS + AnAFP + stem-loop                      | 693    |
-| [BBa_K4765112](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765112) | DNA    | Twister P1 + T7_RBS + SAHS 33020 + stem-loop                 | 590    |
-| [BBa_K4765113](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765113) | DNA    | Twister P1 + T7_RBS + H. ex mtSSB + stem-loop                | 702    |
-| [BBa_K4765114](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765114) | DNA    | Twister P1 + T7_RBS + Rv Dsup + stem-loop                    | 1269   |
-| [BBa_K4765115](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765115) | DNA    | Twister P1 + T7_RBS + FEN1 + stem-loop                       | 1266   |
-| [BBa_K4765116](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765116) | DNA    | Twister P1 + T7_RBS + XRCC1 + stem-loop                      | 2307   |
-| [BBa_K4765117](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765117) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020                 | 1365   |
-| [BBa_K4765118](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765118) | DNA    | ribozyme connected: MysABCDH                                 | 5817   |
-| [BBa_K4765119](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765119) | DNA    | ribozyme test: constitutive expression                       | 1623   |
-| [BBa_K4765120](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765120) | DNA    | ribozyme test: T7 leaky expression                           | 1601   |
-| [BBa_K4765121](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765121) | DNA    | ribozyme connected: galU + pgmA + mScarlet                   | 3565   |
-| [BBa_K4765122](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765122) | DNA    | ribozyme connected: pgmA + galU + mScarlet                   | 3565   |
-| [BBa_K4765126](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765126) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020 + AnAFP         | 2058   |
-| [BBa_K4765127](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765127) | DNA    | ribozyme connected: H. ex mtSSB + AnAFP + SAHS 33020         | 2058   |
-| [BBa_K4765128](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765128) | DNA    | ribozyme connected: AnAFP + SAHS 33020 + H. ex mtSSB         | 2058   |
-| [BBa_K4765129](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129) | DNA    | stem-loop test                                               | 1581   |
-| [BBa_K4765130](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765130) | DNA    | shuttle test                                                 | 1211   |
+
+
+## Survival System
+
+The environment on Mars is extremely harsh, which is why we need to equip the biofilm with robust survival capabilities. To achieve this, we have introduced three modules: **Anti-freeze**, **Anti-UV**, and **Anti-desiccation**.
+
+To enhance the biofilm's resistance to freezing, we have chosen a protein called AnAFP. In comparison to separately introducing the anti-desiccation protein SAHS（[ BBa_K2306003](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2306003)） and producing the anti-UV substance MAA, we have discovered a new protein called *H. ex* mtSSB, derived from tardigrades[^3]. It possesses both anti-desiccation and anti-UV capabilities, with significantly lower metabolic stress on *E. coli* compared to TDP and MAA. Therefore, we plan to integrate AnAFP ([BBa_K4765015](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765015)) and *H. ex* mtSSB ([BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016)) into the pRAP system to enable the biofilm to thrive in the harsh Martian environment.
+
+We also tested the anti-UV capibility of Rv Dusp, FEN1, and XRCC1.
+
+<div style="text-align: center;" id="fig-1">
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/2-pc.png"
+style='width:70%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 3: Survival system</small></p>
+</div>
+</div>
+<div style="text-align: center;">
+   <p>Table 2: Parts for survival system</p>
+</div>
+
+| Part Name                                                    | Type   | Description                                                  | Designer     |
+| ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | ------------ |
+| [BBa_K4765010](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765010) | Coding | MysA codon optimized                                         | Siliang Zhan |
+| [BBa_K4765011](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765011) | Coding | MysB codon optimized                                         | Siliang Zhan |
+| [BBa_K4765012](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765012) | Coding | MysC codon optimized                                         | Siliang Zhan |
+| [BBa_K4765013](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765013) | Coding | MysD codon optimized                                         | Siliang Zhan |
+| [BBa_K4765014](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765014) | Coding | MysH codon optimized                                         | Siliang Zhan |
+| [BBa_K4765015](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765015) | Coding | AnAFP                                                        | Siliang Zhan |
+| [BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016) | Coding | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) | Siliang Zhan |
+| [BBa_K4765018](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765018) | Coding | FEN1                                                         | Siliang Zhan |
+| [BBa_K4765019](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765019) | Coding | XRCC1                                                        | Siliang Zhan |
+| [BBa_K4765025](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765025) | Coding | Rv Dsup codon optimized                                      | Siliang Zhan |
+| [BBa_K4765111](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765111) | DNA    | Twister P1 + T7_RBS + AnAFP + stem-loop                      | Siliang Zhan |
+| [BBa_K4765112](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765112) | DNA    | Twister P1 + T7_RBS + SAHS 33020 + stem-loop                 | Siliang Zhan |
+| [BBa_K4765113](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765113) | DNA    | Twister P1 + T7_RBS + H. ex mtSSB + stem-loop                | Siliang Zhan |
+| [BBa_K4765114](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765114) | DNA    | Twister P1 + T7_RBS + Rv Dsup + stem-loop                    | Siliang Zhan |
+| [BBa_K4765117](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765117) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020                 | Siliang Zhan |
+| [BBa_K4765118](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765118) | DNA    | ribozyme connected: MysABCDH                                 | Siliang Zhan |
+| [BBa_K4765123](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765123) | DNA    | ribozyme connected: XRCC1 + Dsup + FEN1                      | Siliang Zhan |
+| [BBa_K4765124](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765124) | DNA    | ribozyme connected: Dsup + XRCC1 + FEN1                      | Siliang Zhan |
+| [BBa_K4765126](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765126) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020 + AnAFP         | Siliang Zhan |
+| [BBa_K4765127](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765127) | DNA    | ribozyme connected: H. ex mtSSB + AnAFP + SAHS 33020         | Siliang Zhan |
+| [BBa_K4765128](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765128) | DNA    | ribozyme connected: AnAFP + SAHS 33020 + H. ex mtSSB         | Siliang Zhan |
+
+
+
+## Symbiotic System
+
+To ensure nutrient supply, we need to establish **a symbiotic system** that allows cyanobacteria to produce and secrete sugars, and then enable *E.coli* to efficiently utilize them. We are immensely grateful for the plasmids containing *CscB*(([BBa_K4115045](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4115045)) and *SacC*([BBa_K4115017](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4115017)) provided by ShanghaiTech-China_2023, which enable us to facilitate the circulation and utilization of nutrients in both cyanobacteria and *E.coli*.
+
+
+
+## Biofilm Formation System
+
+Drawing inspiration from lichens, our B.Home project aims to establish **a biofilm formation system** involving cyanobacteria and *E.coli*.
+
+We need to create physical connections between bacteria to form a self-assembling, robust, and scalable biofilm. For this purpose, we introduce connections between *E.coli* and *E.coli*, as well as between *E.coli* and cyanobacteria. For the former, we have adopted the **LAMBA**(Living Assembled Material by Bacteria Adhesion) approach, which has been reported as a cell-cell adhesion toolbox[^4] or a self-healing material with programmable physical structures[^5]. We also integrated it into the pRAP system. This approach modifies two strains of *E.coli* to display antigens(Ag)([BBa_K4765006](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765006)) or nanobodies(Nb)([BBa_K4765106](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765106)) on their outer membranes, allowing the antigen-expressing *E.coli* to bind to the antibody-expressing *E.coli*, forming a biofilm. We have chosen Intimin as the surface-presenting protein because it offers superior presentation efficacy compared to INPNC, another commonly used surface-presenting protein, and inserted a short spacer between Intimin and Ag/Nb to avoid steric hindrance between functional proteins.
+
+As for the connection between *E.coli* and cyanobacteria, we have selected *Synechococcus elongates* PCC7942 due to their ease of genetic editing. We intend to have *E.coli* display LCA([BBa_K4765009](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765009)), a kind of lectin, on their membrane surface and establish a physical connection with the lipopolysaccharides on the surface of *S.elongates* through LCA. Again, we have chosen Intimin as the surface-presenting protein and introduced a spacer.
+
+<div style="text-align: center;" id="fig-1">
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/3-pc.png"
+style='width:70%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 4: Biofilm Formation System</small></p>
+</div>
+</div>
+<div style="text-align: center;">
+   <p>Table 3: Parts for biofilm formation system</p>
+</div>
+
+| Part Name                                                    | Type   | Description                                          | Designer     |
+| ------------------------------------------------------------ | ------ | ---------------------------------------------------- | ------------ |
+| [BBa_K4765001](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765001) | Coding | intimin                                              | Siliang Zhan |
+| [BBa_K4765002](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765002) | Coding | Ag1, Akt3PH from 10.1016/j.cell.2018.06.041          | Siliang Zhan |
+| [BBa_K4765003](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765003) | Coding | Nb1, 3AKH13 from 10.1016/j.cell.2018.06.041          | Siliang Zhan |
+| [BBa_K4765004](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765004) | Coding | Ag2, EPEA from 10.1016/j.cell.2018.06.041            | Siliang Zhan |
+| [BBa_K4765005](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765005) | Coding | Nb2, antiEPEA from 10.1016/j.cell.2018.06.041        | Siliang Zhan |
+| [BBa_K4765006](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765006) | Coding | Ag3, P53TA from 10.1016/j.cell.2018.06.041           | Siliang Zhan |
+| [BBa_K4765007](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765007) | Coding | Nb3, R4P43 from 10.1016/j.cell.2018.06.041           | Siliang Zhan |
+| [BBa_K4765008](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765008) | Coding | INPNC                                                | Siliang Zhan |
+| [BBa_K4765009](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765009) | Coding | LCA                                                  | Siliang Zhan |
+| [BBa_K4765017](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765017) | DNA    | linker after INPNC                                   | Siliang Zhan |
+| [BBa_K4765101](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765101) | DNA    | Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop | Siliang Zhan |
+| [BBa_K4765102](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765102) | DNA    | Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop | Siliang Zhan |
+| [BBa_K4765103](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765103) | DNA    | Twister P1 + T7_RBS + intimin-Ag2 fusion + stem-loop | Siliang Zhan |
+| [BBa_K4765104](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765104) | DNA    | Twister P1 + T7_RBS + intimin-Nb2 fusion + stem-loop | Siliang Zhan |
+| [BBa_K4765105](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765105) | DNA    | Twister P1 + T7_RBS + intimin-Ag3 fusion + stem-loop | Siliang Zhan |
+| [BBa_K4765106](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765106) | DNA    | Twister P1 + T7_RBS + intimin-Nb3 fusion + stem-loop | Siliang Zhan |
+| [BBa_K4765107](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765107) | DNA    | Twister P1 + T7_RBS + INPNC-Ag3 fusion + stem-loop   | Siliang Zhan |
+| [BBa_K4765108](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765108) | DNA    | Twister P1 + T7_RBS + INPNC-Nb3 fusion + stem-loop   | Siliang Zhan |
+| [BBa_K4765109](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765109) | DNA    | Twister P1 + T7_RBS + intimin-MVN fusion + stem-loop | Siliang Zhan |
+| [BBa_K4765110](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765110) | DNA    | Twister P1 + T7_RBS + intimin-LCA fusion + stem-loop | Siliang Zhan |
+| [ BBa_K4765131](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765131) | DNA    | ribozyme connected: intimin-Nb1 + mScarlet           | Siliang Zhan |
+| [BBa_K4765132](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765132) | DNA    | ribozyme connected: intimin-Nb2 + mScarlet           | Siliang Zhan |
+| [BBa_K4765133](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765133) | DNA    | ribozyme connected: intimin-Nb3 + mScarlet           | Siliang Zhan |
+
+
+
+## Functional System
+
+Our objective is to modify the biofilm to firmly attach to the surfaces of Martian rocks and facilitate the process of rock erosion. To achieve this, we have introduced the **oxalic acid module** and the **extracellular polysaccharide (EPS) module**.
+
+As for the oxalic acid module, following multiple discussions with [CAU-China_2022](/collaborations/#with-cau-china-project-design), we have decided to adopt their composite part([ BBa_K4192120](http://parts.igem.org/Part:BBa_K4192120)) to produce oxalic acid by modifying the TCA cycle of *E.coli*.
+
+Regarding the EPS module, inspired by XJTU-China_2020's [project](https://2020.igem.org/Team:XJTU-China), we plan to overexpress the key enzymes, PgmA and GalU, both from *E.coli* pathways involved in EPS synthesis, to increase the amount of EPS around the biofilm. To enhance EPS production, we have also incorporated these enzymes into the pRAP system ([BBa_K4765121](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765121)).
+
+<div style="text-align: center;" id="fig-1">
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/5-pc.png"
+style='width:100%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 5: EPS module</small></p>
+</div>
+</div>
+<div style="text-align: center;">
+   <p>Table 4: Parts for functional system</p>
+</div>
+
+| Part Name                                                    | Type | Description                                | Designer     |
+| ------------------------------------------------------------ | ---- | ------------------------------------------ | ------------ |
+| [BBa_K4765121](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765121) | DNA  | ribozyme connected: galU + pgmA + mScarlet | Siliang Zhan |
+| [BBa_K4765122](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765122) | DNA  | ribozyme connected: pgmA + galU + mScarlet | Siliang Zhan |
+
+
+
+## References
+
+[^1]: Eiler, D., Wang, J., & Steitz, T. A. (2014). Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme. *Proceedings of the National Academy of Sciences*, *111*(36), 13028–13033. https://doi.org/10.1073/pnas.1414571111
+[^2]: Liu, Y., Wu, Z., Wu, D., Gao, N., & Lin, J. (2022). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synthetic Biology*, *12*(1), 136–143. https://doi.org/10.1021/acssynbio.2c00416
+[^3]: Hibshman, J. D., Clark-Hachtel, C. M., Bloom, K. S., & Goldstein, B. (2023). A bacterial expression cloning screen reveals tardigrade single-stranded DNA-binding proteins as potent desicco-protectants (2023.08.21.554171). *bioRxiv*. https://doi.org/10.1101/2023.08.21.554171
+[^4]: Glass, D. S., & Riedel-Kruse, I. H. (2018). A Synthetic Bacterial Cell-Cell Adhesion Toolbox for Programming Multicellular Morphologies and Patterns. *Cell*, *174*(3), 649-658.e16. https://doi.org/10.1016/j.cell.2018.06.041
+[^5]: Kim, H., Skinner, D. J., Glass, D. S., Hamby, A. E., Stuart, B. A. R., Dunkel, J., & Riedel-Kruse, I. H. (2022). 4-bit adhesion logic enables universal multicellular interface patterning. *Nature*, *608*(7922), 324–329. https://doi.org/10.1038/s41586-022-04944-2
 
