@@ -9,7 +9,7 @@ authorlink:
 
 ## With CAU-China: Project Design
 
-In an interview with Prof. Yan Li, we explored organic acids' role in Earth's weathering. We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had extensive online discussions with CAU-China iGEM 2023, with expertise in this area, regarding the feasibility and operational details of the oxalate module. They suggested heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid. We've now finalized our oxalic acid production genetic circuit(see more details in [Design](/design/)) in collaboration with CAU-China iGEM 2023.
+In an interview with Prof. Yan Li, we explored organic acids' role in Earth's weathering. We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had extensive online discussions with CAU-China iGEM, who won the [BEST BIOMANUFACTURING PROJECT in 2022](https://jamboree.igem.org/2022/results/track-awards), regarding the feasibility and operational details of the oxalate module. They suggested heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid. In collaboration with [CAU-China iGEM 2023](https://2023.igem.wiki/cau-china/), we've employed their oxalic acid production genetic circuit (see more details in [Design](/design/)).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/cau-tiny.png"
@@ -23,14 +23,14 @@ style='width:70%'>
 
 ## With ShanghaiTech-China & XMU-China: Wet Lab
 
-Team ShanghaiTech-China iGEM 2023 provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, XMU-China iGEM 2022 contributed to the sequence for INPNC, which was a significant help in our plasmid construction. We are very grateful for their assistance in our wet lab experiments.
+Team [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, [XMU-China iGEM 2022](https://2022.igem.wiki/xmu-china/) sent us the plasmids and the sequence for INPNC. We are very grateful for their assistance in our wet lab experiments.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/shanghai-tech.jpg"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with ShanghaiTech-China</small></p>
+<p><small style="color: gray">Visit ShanghaiTech-China's lab space</small></p>
 </div>
 </div>
 <div style="text-align: center;">
@@ -38,7 +38,7 @@ style='width:70%'>
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with XMU-China</small></p>
+<p><small style="color: gray">Wechat communication with XMU-China, regarding their plasmids</small></p>
 </div>
 </div>
 
@@ -46,14 +46,14 @@ style='width:70%'>
 
 ## With SCUT-China & Nanjing-China: Software Discussion
 
-Our [software](/software/) aims to assist more teams in optimizing sequence design, so we have engaged in online discussions with several universities. We collaborated with Nanjing-China iGEM 2023 to enhance the user interface, making it more user-friendly. Furthermore, we discussed with SCUT-China iGEM 2023 about using the software for wet lab design of sequence, exchanging project ideas and thoroughly understanding their requirements to improve our software.
+Our [software](/software/) aims to help people to use ribozyme assisted protein expression and optimizing their sequence design. We have engaged in online discussions with several universities. We collaborated with [Nanjing-China iGEM 2023](https://2023.igem.wiki/nanjing-china/) to improve the user interface, making it more user-friendly. Furthermore, we discussed with [SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/) about using our software for their wet lab experimental design, and got their feedback to improve our software. We also exchanged project ideas.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with SCUT-China</small></p>
+<p><small style="color: gray">Introduction to potential users in SCUT-China</small></p>
 </div>
 </div>
 <div style="text-align: center;">
@@ -69,14 +69,14 @@ style='width:70%'>
 
 ## With FDIS & THIS DL: Passing on our experience
 
-Fudan International School(FDIS) and Tsinghua International School, Daoxiang Lake(THIS DL) have shown great enthusiasm for the iGEM competition and plan to establish teams in the next two years. Therefore, we engaged in several online and offline activities with students from these two schools who are interested in synthetic biology. We introduced them to the basics of synthetic biology and provided them with many ideas and suggestions for team establishment.
+Fudan International School (FDIS) and Tsinghua International School, Daoxiang Lake (THIS DL) have shown great enthusiasm for the iGEM competition and are in the process to establish teams for [2024](https://competition.igem.org/). We have engaged in several online and offline activities with junior students from these two schools who are interested in synthetic biology. We introduced them to the basics of synthetic biology and provided them with suggestions for team establishment and training.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/fufu-tiny.jpg"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with FDIS</small></p>
+<p><small style="color: gray">FDIS students listen to our lecture</small></p>
 </div>
 </div>
 
@@ -85,23 +85,23 @@ style='width:70%'>
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with THIS DL</small></p>
+<p><small style="color: gray">THIS DL students listen to our project presentation</small></p>
 </div>
 </div>
 
 
 ## With ShanghaiTech-China & Tongji-China & NUDT-China: Education Activities
 
-To expand the reach and quality of our educational initiatives, we have collaborated with multiple universities on picture book projects, including ShanghaiTech-China iGEM 2023, Tongji-China iGEM 2023, and NUDT-China iGEM 2023. Our aim is to make synthetic biology more accessible to a broader audience through engaging visual storytelling and simplifying complex concepts. Each university has made significant contributions to the design, illustration, and printing of these picture books.
+To expand the reach and quality of our educational initiatives, we have collaborated with multiple universities on several picture book projects, including [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), [Tongji-China iGEM 2023](https://2023.igem.wiki/tongji-china/), and [NUDT-China iGEM 2023](https://2023.igem.wiki/nudt-china/). In those projects, our shared goal is to make synthetic biology more accessible to a broader audience through engaging visual storytelling and simplifying complex concepts. Each university has made significant contributions to the design, illustration, and printing of several picture books.
 
-In addition, we have partnered with ShanghaiTech-China iGEM 2023 for further educational activities, such as exchange programs with FDIS (See more details in [Education](/education/#feed-curious-minds)).
+In addition, we have partnered with [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) for further educational activities, such as exchange programs with FDIS (See more details on our [Education](/education/#feed-curious-minds) page).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/3.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with other schools on the picture book project</small></p>
+<p><small style="color: gray">Show case the picture books from the oollaboration</small></p>
 </div>
 </div>
 
@@ -109,14 +109,14 @@ style='width:70%'>
 
 ## With Shanghai Natural History Museum & Shanghai Astronomy Museum: Event Organizer
 
-During the summer vacation, we organized a series of high-quality educational activities, which would not have been possible without the invaluable support of the Shanghai Natural History Museum and the Shanghai Astronomy Museum as our activity partners. With the Shanghai Natural History Museum, we arranged internship researcher programs for high school students, which provided us with photographers and assisted in recruiting nine participants for our activities. Furthermore, in collaboration with the Shanghai Astronomy Museum, we conducted lectures and family-friendly events, introducing elementary school students aged 6-9 to the realms of biology and astronomy. What's more, we ignited their interest in science through do-it-yourself (DIY) games(See more details in [Education](/education/#feed-curious-minds)).
+During the summer vacation, we organized a series of high-quality educational activities, which would not have been possible without the invaluable support of [the Shanghai Natural History Museum](https://www.snhm.org.cn/eg/) (annually welcomes 800,000 to 1,200,000 visitors) and [the Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home) (daily visitor 7,000) as our activity partners. We have established an Internship Researcher Program for high school students, and the Shanghai Natural History Museum provided us with photographers and assisted in recruiting participants for our activities. In collaboration with the Shanghai Astronomy Museum, we conducted lectures and family-friendly events, introducing elementary school students aged 6 to 9 to the realms of biology and astronomy. What's more, we ignited their interest in science through do-it-yourself (DIY) games (see more details on our [Education](/education/#feed-curious-minds) page).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/tianwenguan.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with Shanghai Astronomy Museum</small></p>
+<p><small style="color: gray">Advertisement for one lecture in the Shanghai Astronomy Museum</small></p>
 </div>
 </div>
 <div style="text-align: center;">
@@ -124,21 +124,21 @@ style='width:70%'>
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with Shanghai Natural History Museum</small></p>
+<p><small style="color: gray">One slide from the introduction on Internship Researcher Program</small></p>
 </div>
 </div>
 
 
-## With various clubs and associations
+## With clubs and associations on Fudan campus
 
-We extend our sincere gratitude to the societies and associations that have collaborated with us in [education](/education/), visualization, [human practices](/human-practices/), and many other areas. You can find more information about them on specific web pages.
+We extend our sincere gratitude to the clubs and student associations that have collaborated with us in [education](/education/), visualization, [human practices](/human-practices/), and many other areas.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/logos.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Collaboration with many clubs and associations</small></p>
+<p><small style="color: gray">Logos of the clubs and associations that we have collaborated</small></p>
 </div>
 </div>
 
