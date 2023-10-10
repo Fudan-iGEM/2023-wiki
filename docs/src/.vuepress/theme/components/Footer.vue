@@ -1,10 +1,10 @@
 <template>
   <div class="footer-wrapper">
       <div class="logos">
-          <a href="http://www.yfc.cn/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/yf-logo-accent.png"></a>
-          <a href="https://www.fudan.edu.cn/en/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/fudan-logo-accent-czy.svg"></a>
-          <a href="https://life.fudan.edu.cn/main.htm" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/sky-logo-accent-czy.png"></a>
-          <a href="https://2023.igem.wiki/fudan/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/logo-square-czy.svg"></a>
+          <a href="http://www.yfc.cn/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/yf-logo-accent.png" alt="yfc.cn"></a>
+          <a href="https://www.fudan.edu.cn/en/" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/fudan-logo-accent-czy.svg" alt="www.fudan.edu.cn"></a>
+          <a href="https://life.fudan.edu.cn/main.htm" target="_blank"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/sky-logo-accent-czy.png" alt="life.fudan.edu.cn"></a>
+          <a href="https://2023.igem.wiki/fudan/"><img class="logo" src="https://static.igem.wiki/teams/4765/wiki/czy/logo-square-czy.svg" alt="Team Fudan #iGEM2023"></a>
       </div>
       <hr>
       <div class="copyright">
