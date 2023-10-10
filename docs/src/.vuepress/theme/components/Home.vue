@@ -1,28 +1,33 @@
 <template>
-  <div class="home">
-    <div class="hero">
-      <img
-        v-if="recoShowModule && $frontmatter.heroImage"
-        :style="heroImageStyle || {}"
-        :src="$withBase($frontmatter.heroImage)"
-        alt="hero">
-      <p v-if="recoShowModule && $frontmatter.tagline !== null" class="description">
-        {{ $frontmatter.tagline || $description || 'Welcome to your vuePress-theme-reco site' }}
-      </p>
-      <a href="#features"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
+  <div class="whole">
+    <div class="anim">
+      <lottie-home :options="homeOptions" @lottie-complete="handleComplete"></lottie-home>
     </div>
+    <div class="home">
+      <div class="hero" id="hero">
+        <img
+          v-if="recoShowModule && $frontmatter.heroImage"
+          :style="heroImageStyle || {}"
+          :src="$withBase($frontmatter.heroImage)"
+          alt="hero">
+        <p v-if="recoShowModule && $frontmatter.tagline !== null" class="description">
+          {{ $frontmatter.tagline || $description || 'Welcome to your vuePress site' }}
+        </p>
+        <a href="#features"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
+      </div>
 
-    <div data-aos="zoom-in" data-aos-duration="800" data-aos-easing="ease-out-cubic">
-      <div id="features" class="features" v-if="recoShowModule && $frontmatter.features && $frontmatter.features.length">
-        <div v-for="(feature, index) in $frontmatter.features" :key="index" class="feature">
-          <h2>{{ feature.title }}</h2>
-          <p>{{ feature.details }}</p>
+      <div data-aos="zoom-in" data-aos-duration="800" data-aos-easing="ease-out-cubic">
+        <div id="features" class="features" v-if="recoShowModule && $frontmatter.features && $frontmatter.features.length">
+          <div v-for="(feature, index) in $frontmatter.features" :key="index" class="feature">
+            <h2>{{ feature.title }}</h2>
+            <p>{{ feature.details }}</p>
+          </div>
         </div>
       </div>
-    </div>
-    <Content class="home-center" v-show="recoShowModule" custom/>
-    <div style="text-align: center; margin-bottom: 4rem">
-       <iframe title="Fudan: B.HOME — Biofilm Harnessing for Offworld Mankind Establishment (2023) - Project Promotion [English]" width="80%" height="500px" src="https://video.igem.org/videos/embed/cb83de45-1af6-40f9-bb2a-29754852a3b5?subtitle=en" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+      <Content class="home-center" v-show="recoShowModule" custom/>
+      <div style="text-align: center; margin-bottom: 4rem">
+         <iframe title="Fudan: B.HOME — Biofilm Harnessing for Offworld Mankind Establishment (2023) - Project Promotion [English]" width="80%" height="500px" src="https://video.igem.org/videos/embed/cb83de45-1af6-40f9-bb2a-29754852a3b5?subtitle=en" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+      </div>
     </div>
   </div>
 </template>
@@ -34,9 +39,19 @@ import { ModuleTransition } from '@vuepress-reco/core/lib/components'
 import { useInstance, useShowModule } from '@theme/helpers/composable'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
+import LottieHome from "./LottieHome.vue";
 
 export default defineComponent({
-  components: { NavLink, ModuleTransition },
+  components: {LottieHome, NavLink, ModuleTransition },
+  data(){
+      return{
+          homeOptions: {
+              path: 'https://static.igem.wiki/teams/4765/wiki/czy/wiki-home-1.json',
+              loop: false,
+              autoplay:true,
+          },
+      }
+  },
   mounted(){
       AOS.init()
   },
@@ -54,13 +69,24 @@ export default defineComponent({
     })
 
     return { recoShowModule, actionLink, heroImageStyle }
-  }
+  },
+  methods:{
+      handleComplete(){
+          document.getElementById('hero').scrollIntoView();
+          console.log('done')
+      }
+  },
 })
 </script>
 
 <style lang="stylus">
 :root {
   --navbar-height: $navbarHeight;
+}
+.anim{
+  min-height:100vh;
+  position: fixed;
+  z-index: 1000;
 }
 .home {
   padding: 0 2rem 0;
