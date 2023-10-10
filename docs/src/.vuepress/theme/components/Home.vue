@@ -161,7 +161,11 @@ export default defineComponent({
     }
   }
 }
-
+@media (max-width: $MQWide){
+  .anim{
+    display: none;
+  }
+}
 @media (max-width: $MQMobile) {
   .home {
     .features {
