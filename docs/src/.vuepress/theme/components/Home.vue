@@ -72,6 +72,7 @@ export default defineComponent({
   },
   methods:{
       handleComplete(){
+          document.querySelector('.anim').style.zIndex = '-1000';
           document.getElementById('hero').scrollIntoView();
           console.log('done')
       }
