@@ -46,7 +46,7 @@ export default defineComponent({
   data(){
       return{
           homeOptions: {
-              path: 'https://static.igem.wiki/teams/4765/wiki/czy/wiki-3.json',
+              path: 'https://static.igem.wiki/teams/4765/wiki/czy/wiki-4.json',
               loop: false,
               autoplay:true,
           },
