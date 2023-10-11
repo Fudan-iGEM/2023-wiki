@@ -9,17 +9,17 @@ authorlink:
 
 ## Overview
 
-This year, we made a bold attempt to explore outer space and target modifying the environment of terrestrial planets, which will **benefit all mankind** in the future. In contrast to our past work, it's extremely hard to determine all the stakeholders since our project will work for all humans. However, we still gave priority to human practice and successfully forged a bond with **space researchers**, **distinguished biologists**, and **specialists in Environmental Ethics**.
+This year, we made a bold attempt to explore outer space and target modifying the environment of terrestrial planets, which will **benefit all mankind** in the future. It's extremely hard to determine all the stakeholders since our project will work for all humans. However, we still gave priority to human practice and successfully forged a bond with **space researchers**, **distinguished biologists**, and **specialists in Environmental Ethics**.
 
 To get a comprehensive and clear idea of the potential implementation, experimental design, and safety concerns of our project, we mapped out **three main lines** in our HP work:
 
 1.  [**Determining the Value**](#determining-the-value): In this part, we aimed to determine the current challenges and possibilities in space exploration. Through communication with **professors in astrobiology**, **leading biologists in space exploration**, and **senior instructors in entrepreneurship**, we got a more detailed idea of the **innovation**, **environmental**, **and commercial values** of our project.
 
-2. [**Implementing the Project**](#implementing-the-project): To put our idea into practice, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed four interdependent systems:** symbiotic, functional, survival, and metabolic regulation in our engineering bacteria(see more details in [Description](/description/)).
+2. [**Implementing the Project**](#implementing-the-project): To put our idea into practice, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed four interdependent systems:** symbiotic, functional, survival, and metabolic regulation in our engineering bacteria (see more details in [Description](/description/)).
 
 3. [**Managing the Risk**](#managing-the-risk): For further development of our project, we carefully considered the potential risks that would threaten the interests of all mankind. Drawing on the expertise of **specialists in biological ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues**.
 
-This year, all of our HP work follows **the STAR loop**(shown below).
+This year, all of our HP work follows **the STAR loop** (shown below).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/hp-loop.png"
@@ -35,11 +35,11 @@ style='width:70%'>
 
 ### Prof. Yan Li: The Possibilities and Challenges for Life on Mars
 
-<p style="font-size: 1rem">📅 Date: Jul. 15th  👤Participants: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang</p>
+<p style="font-size: 1rem">📅 Date: Jul. 15th  <br>👤 Participants: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang</p>
 
 **Stimulation**
 
-In the early stage, we attempted to **build a symbiotic system** that resembles lichen with cyanobacteria and *E. Coli*. We assumed that this system enables engineered *E. Coli* to survive on the surface of terrestrial planets and promote terraforming progress through its metabolites.
+In the early stage, we attempted to **build a symbiotic system** that resembles lichen with cyanobacteria and *E. coli*. We assumed that this system enables engineered *E. coli* to survive on the surface of terrestrial planets and promote terraforming progress through its metabolites.
 
 We wondered that:
 
@@ -51,7 +51,7 @@ We wondered that:
 
 **Target**
 
-Prof. Li is now an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done excellent work about the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. Recently, she has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
+Prof. Li is an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done excellent work about the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. She has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/li-yan.jpg"
@@ -68,7 +68,7 @@ On account of distance and time, we interviewed Prof. Li online on July 15th. Sh
 
 1. Though nitrogen accounts for only 0.1% of the Martian atmosphere, it is enough to build a complete nitrogen cycle essential for life.
 2. The water, mainly existing in the crystalline form on the surface of Mars,  lays the foundation for the existence of life.
-3. So far, the soil of the moon which is far more infertile than Martian soil has proved to be capable of supporting life. The symbiotic system to promote the terraforming of Mars **is worth trying**.
+3. So far, the soil of the moon which is far more infertile than Martian soil has proved to be capable of supporting life. A symbiotic system to promote the terraforming of Mars **is worth trying**.
 4. Research has shown a potential association of vigorous minerals with life activity in harsh environments like highlands and deserts on Earth. Similar minerals have been found on Mars, indicating another probable condition for life.
 
 Besides, Prof. Li pointed out the challenges for life to survive on the surface of Mars. For example, the environment, **with huge temperature differences, intense radiation, and frequent storms**, makes it extremely difficult to keep enough nutrients. The water in crystalline form can hardly be directly absorbed and used by creatures.  The lack of phosphorus will also be a key limiting factor for life.
@@ -77,7 +77,7 @@ Finally, Prof. Li reminds us of the heterogeneity of the Martian surface environ
 
 **Review**
 
-With the insights of Prof. Li, we took **Mars** as the representative of the terrestrial planet and involved an **anti-UV module** and an **anti-freeze module** in our engineered bacteria. Besides, we found that **organic acids** played an important role in Earth's biological weathering processes[^1][^2][^3]. With [the collaboration of CAU-China](/collaboration/), we introduced an Oxalic Acid Module to promote the terraforming progress of Mars.
+With the insights of Prof. Li, we took **Mars** as the representative of the terrestrial planet and involved an **anti-UV module** and an **anti-freeze module** in our engineered bacteria. Besides, we found that **organic acids** played an important role in Earth's biological weathering processes[^1][^2][^3]. [Collaboration with CAU-China](/collaboration/), we introduced an Oxalic Acid Module to promote the terraforming progress of Mars.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/liyan.png"
@@ -92,7 +92,7 @@ style='width:70%'>
 
 ### Space Webinar: Synthetic Biology in Space
 
-<p style="font-size: 1rem"> 📅 Date: Jul. 27th  👤Participants: All team members</p>
+<p style="font-size: 1rem"> 📅 Date: Jul. 27th  <br>👤 Participants: All team members</p>
 
 **Stimulation**
 
@@ -105,7 +105,7 @@ We wondered that:
 
 **Target**
 
-The iGEM Technology hosted a space webinar entitled *Synthetic Biology in Space: Achievements and Possibilities*. In collaboration with the European Space Agency (ESA), leading experts were invited to discuss the fascinating intersection of synthetic biology and space exploration and to elaborate on the challenges they had faced.
+[The iGEM Technology](https://technology.igem.org/) hosted a space webinar entitled *Synthetic Biology in Space: Achievements and Possibilities*. In collaboration with the European Space Agency (ESA), leading experts were invited to discuss the fascinating intersection of synthetic biology and space exploration and to elaborate on the challenges they had faced.
 
 **Action**
 
@@ -113,7 +113,7 @@ On July 27th, our team members participated in the webinar and benefited a lot. 
 
 **Review**
 
-In the Q & A section, we shared our idea of developing a survival module in our engineering bacteria with multiple bio-bricks with the experts. Prof. Daniela Billi **found our idea very innovative and approved it**. This encouraged us to go further with our initial ideas. Besides, inspired by Dr. Christiane, we found our project **environmentally beneficial**. The symbiotic system we created would potentially help rebuild a delicate ecosystem on the barren lands of Earth, such as the Sahara desert.
+In the Q & A section, we shared our idea of developing a survival module in our engineering bacteria with multiple BioBricks with the experts. Prof. Daniela Billi **found our idea very innovative and worth trying**. This encouraged us a lot! Besides, inspired by Dr. Christiane, we found our project **is environmentally beneficial**. The symbiotic system we created would potentially help rebuild a delicate ecosystem on the barren lands of Earth, such as [the Sahara Desert](https://en.wikipedia.org/wiki/Sahara).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/6.png"
@@ -128,7 +128,7 @@ style='width:70%'>
 
 ### Dr. Jingwei Zhang: A Unique View in the Industry of Synthetic Biology
 
-<p style="font-size: 1rem">📅 Date: Sep. 20th  👤Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
+<p style="font-size: 1rem">📅 Date: Sep. 20th  <br>👤 Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
 
 **Stimulation**
 
@@ -154,7 +154,7 @@ style='width:30%'>
 
 **Action**
 
-We had lunch with Mr. Zhang and shared our opinions on the industry of synthetic biology. Mr. Zhang pointed out that the subjective agency of living creatures could potentially join hands with synthetic biology techniques. He believed that the combination of **artificial bio-bricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
+We had lunch with Mr. Zhang and shared our opinions on the industry of synthetic biology. Mr. Zhang pointed out that the subjective agency of living creatures could potentially join hands with synthetic biology techniques. He believed that the combination of **artificial BioBricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
 
 In terms of our project, Mr. Zhang believed that its environmental benefits could bring about commercial values, just like the invention of new energy cars. What really matters is to **find a suitable application** so that the reward can overcome the cost.
 
@@ -179,11 +179,11 @@ With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial v
 
 ### Prof. Changming Fang: How to Build a Good Symbiotic System
 
-<p style="font-size: 1rem">📅 Date: Jun. 1st  👤Participants: Zhe Dong, Zhenmao Ye</p>
+<p style="font-size: 1rem">📅 Date: Jun. 1st  👤 Participants: Zhe Dong, Zhenmao Ye</p>
 
 **Simulation**
 
-This year, we decided to build a symbiotic system that resembles lichen with cyanobacteria and *E. Coli*. However, our team members have little idea of lichen and no experience in building a symbiotic system.
+This year, we decided to build a symbiotic system that resembles lichen with cyanobacteria and *E. coli*. However, our team members have little idea of lichen and no experience in building a symbiotic system.
 
 We wondered that:
 
@@ -191,7 +191,7 @@ We wondered that:
 
 2. How does lichen survive harsh environmental conditions like drought on Earth?
 
-3. How can we adjust the radio of cyanobacteria and *E. Coli* in the system?
+3. How can we adjust the radio of cyanobacteria and *E. coli* in the system?
 
 **Target**
 
@@ -226,18 +226,18 @@ style='width:70%'>
 </div>
 
 
-### Prof. Zhexue Quan: How to Make *E. Coli* Resistant to the Harsh Environment
+### Prof. Zhexue Quan: How to Make *E. coli* Resistant to the Harsh Environment
 
-<p style="font-size: 1rem">📅 Date: Jun. 4th  👤Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
+<p style="font-size: 1rem">📅 Date: Jun. 4th  👤 Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
 
 **Simulation**
 
-Considering the harsh environment on the surface of terrestrial planets, we need to genetically engineer *E. Coli* so that our symbiotic system can survive for a long time.
+Considering the harsh environment on the surface of terrestrial planets, we need to genetically engineer *E. coli* so that our symbiotic system can survive for a long time.
 
 We wondered that:
 
 1. How do some special microbes **survive the extreme environment**?
-2. How can we **test** the survival ability of our engineered *E. Coli*?
+2. How can we **test** the survival ability of our engineered *E. coli*?
 
 **Target**
 
@@ -259,7 +259,7 @@ During the interview, Prof. Quan mentioned many microbes adapting to extreme liv
 For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, We can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
 
 **Review**
-With the idea of Prof. Quan, we focused on **Tardigrada**, the most mysterious creature on Earth that could survive in space, and found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**[^4]. We involved this bio-brick as the core of our survival system. (see more details in [Part: BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016)).
+With the idea of Prof. Quan, we focused on **Tardigrada**, the most mysterious creature on Earth that could survive in space, and found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**[^4]. We involved this BioBrick as the core of our survival system. (see more details in [Part: BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016)).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/implementation/collaboration/hp/qzx.jpg"

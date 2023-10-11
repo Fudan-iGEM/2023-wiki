@@ -18,9 +18,8 @@ z = sorted([
     'BBa_K4765001',
     'BBa_K4765003',
     'BBa_K4765021',
-    'BBa_K4765005',
+    'BBa_K4765007',
     'BBa_K4765015',
-    'BBa_K4765023',
     'BBa_K2306003',
     'BBa_K4765016',
     'BBa_K4765025',
@@ -28,38 +27,40 @@ z = sorted([
     'BBa_K4765002',
     'BBa_K4765004',
     'BBa_K4765006',
-    'BBa_K4765007',
     'BBa_K4765008',
     'BBa_K4765017',
     'BBa_K1378003',
     'BBa_K4765009',
     'BBa_K4765018',
-    'BBa_K2150031',
-    'BBa_K3457006',
-    'BBa_B0016',
-    'BBa_K4765010',
-    'BBa_K4765011',
-    'BBa_K4765012',
+    'BBa_K4765113',
+    'BBa_K4765112',
     'BBa_K4765013',
     'BBa_K4765014',
+    'BBa_K4765011',
+    'BBa_K4765012',
+    'BBa_K4765010',
     'BBa_J23100',
     'BBa_K4162001',
+    'BBa_K4765023',
     'BBa_K4765024',
     'BBa_K4765022',
     'BBa_B0010',
+    'BBa_K2150031',
+    'BBa_K3457006',
+    'BBa_B0016',
     'BBa_K3331001',
     'BBa_K3331002',
     'BBa_K4765116',
     'BBa_K4765114',
-    'BBa_K4765113',
-    'BBa_K4765112',
+    'BBa_K4765115',
     'BBa_K4765111',
     'BBa_K2644007',
     'BBa_K4765102',
     'BBa_K4765104',
+    'BBa_K4765005',
     'BBa_K4765106' ])
 z += range(1, 28)
-z += range(101, 140)
+z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
 fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | |\n')
@@ -119,19 +120,23 @@ for zz in z:
         if tr_text.startswith('Group Favorite') and tr_text.find('Yes') > -1:
             favorited = 'U'
     fff.write('| %s | %s | %s | ' % (favorited, ' | '.join(td), p3) )
-    p5 = p1.find_all('table', {'id' : 'subpart_table'})[0].find_all('input')
-    if p5:
-        subpartss = 0
-        for inp in p5:
-            if inp['value'] and inp['value'].startswith('BBa_'):
-                subpartss += 1
-                fff.write('%s ' % inp['value'] )
-                if inp['value'] not in subparts:
-                    subparts.append( inp['value'] )
-        print('!! subpart_table count %d BBa_' % subpartss)
-        fff.write('|\n')
-    else:
-        fff.write('basic |\n')
+    try:
+        p5 = p1.find_all('table', {'id' : 'subpart_table'})[0].find_all('input')
+        if p5:
+            subpartss = 0
+            for inp in p5:
+                if inp['value'] and inp['value'].startswith('BBa_'):
+                    subpartss += 1
+                    fff.write('%s ' % inp['value'] )
+                    if inp['value'] not in subparts:
+                        subparts.append( inp['value'] )
+            print('!! subpart_table count %d BBa_' % subpartss)
+            fff.write('|\n')
+        else:
+            fff.write('basic |\n')
+    except:
+        print('!! fail to extract subparts')
+        fff.write(' |\n')
     print('\n\n')
 
 fff.close()

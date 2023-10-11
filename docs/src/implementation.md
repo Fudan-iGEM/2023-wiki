@@ -10,7 +10,7 @@ date: 2023-10-6
 
 ## Overview
 
-With the continuous deterioration of the Earth's environment, the day will come when mankind has to migrate to another planet. Mars, as the closest Earth-like planet, might be the first destination for interstellar migration. This year, our team created a lichen-like biofilm with cyanobacteria and *E. Coli* to **modify the environment of the Martian surface**, preparing a "second home" for mankind. The biofilm could **survive the harsh environment of Mars**, with high radiation, severe drought, huge temperature differences, and extreme sandstorms, and **transform bare rocks into fertile soil**. Using our products adeptly and correctly, the ultimate goal of terraforming Mars might be accelerated. Besides, our product is of environmental and commercial value, with **potential applications in multiple fields on Earth**.
+With the continuous deterioration of the Earth's environment, the day will come when mankind has to migrate to another planet. Mars, as the closest Earth-like planet, might be the first destination for interstellar migration. This year, our team created a lichen-like biofilm with cyanobacteria and *E. coli* to **modify the environment of the Martian surface**, preparing a "second home" for mankind. The biofilm could **survive the harsh environment of Mars**, with high radiation, severe drought, huge temperature differences, and extreme sandstorms, and **transform bare rocks into fertile soil**. Using our products adeptly and correctly, the ultimate goal of terraforming Mars might be accelerated. Besides, our product is of environmental and commercial value, with **potential applications in multiple fields on Earth**.
 
 ## Instructions for use
 
