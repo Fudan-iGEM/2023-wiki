@@ -50,8 +50,6 @@ style='width:80%'>
 
 
 
-
-
 ## SDG15 Life on Land
 
 <div style="text-align: center;">

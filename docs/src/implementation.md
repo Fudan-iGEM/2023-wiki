@@ -65,7 +65,7 @@ style='width:70%'>
 
    The production of oxalic acid by engineered bacteria has potential applications in the transformation of soil. Salinization is known as the "stubborn disease" of the land, and the soil salt content is so high that crops are low-yielding or cannot grow. Oxalic acid could be used to **solve soil salinization**, and the production of [oxalic acid by engineered bacteria](https://2022.igem.wiki/cau-china/) could be massive and gradually improve saline soil.
 
-2. **Agriculture: Improve crop cultivation**
+2. **Agriculture: Improve Crop Production**
 
    Engineered bacteria producing EPS (e.g. [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121)) is effective in order to **improve soil fertility**. Extracellular polysaccharide is the binder to form soil aggregate structure and keep the aggregate stable. The use of microbial EPS to improve the soil can make the soil more loosened and permeable and reduce soil crusting, which will be beneficial to crop production.
 

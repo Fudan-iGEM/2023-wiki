@@ -35,14 +35,14 @@ We have successfully engineered various membrane-display [parts](http://parts.ig
 
 | Part Name | Description | 
 |----|----|
-| [BBa_K4765101](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765101) |  Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop |
-| [BBa_K4765102](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765102) |  Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop |
-| [BBa_K4765103](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765103) |  Twister P1 + T7_RBS + intimin-Ag2 fusion + stem-loop |
-| [BBa_K4765104](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765104) |  Twister P1 + T7_RBS + intimin-Nb2 fusion + stem-loop |
-| [BBa_K4765105](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765105) |  Twister P1 + T7_RBS + intimin-Ag3 fusion + stem-loop |
-| [BBa_K4765106](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765106) |  Twister P1 + T7_RBS + intimin-Nb3 fusion + stem-loop |
-| [BBa_K4765109](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765109) |  Twister P1 + T7_RBS + intimin-MVN fusion + stem-loop |
-| [BBa_K4765110](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765110) |  Twister P1 + T7_RBS + intimin-LCA fusion + stem-loop |
+| [BBa_K4765101](http://parts.igem.org/Part:BBa_K4765101) |  Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop |
+| [BBa_K4765102](http://parts.igem.org/Part:BBa_K4765102) |  Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop |
+| [BBa_K4765103](http://parts.igem.org/Part:BBa_K4765103) |  Twister P1 + T7_RBS + intimin-Ag2 fusion + stem-loop |
+| [BBa_K4765104](http://parts.igem.org/Part:BBa_K4765104) |  Twister P1 + T7_RBS + intimin-Nb2 fusion + stem-loop |
+| [BBa_K4765105](http://parts.igem.org/Part:BBa_K4765105) |  Twister P1 + T7_RBS + intimin-Ag3 fusion + stem-loop |
+| [BBa_K4765106](http://parts.igem.org/Part:BBa_K4765106) |  Twister P1 + T7_RBS + intimin-Nb3 fusion + stem-loop |
+| [BBa_K4765109](http://parts.igem.org/Part:BBa_K4765109) |  Twister P1 + T7_RBS + intimin-MVN fusion + stem-loop |
+| [BBa_K4765110](http://parts.igem.org/Part:BBa_K4765110) |  Twister P1 + T7_RBS + intimin-LCA fusion + stem-loop |
 
 Programmable biofilm can play a crucial role in various fields, including wastewater treatment, biomaterials, and so on. The aforementioned parts contribute to the construction of multifunctional biofilm and are hoped to assist future teams in achieving their projects.
 
@@ -52,11 +52,11 @@ In [our project](/description), in order to enable bacteria to survive under the
 
 | Part Name | Description |
 |----|----|
-| [BBa_K4765015](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765015) | AnAFP                                                        |
-| [BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016) | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) |
-| [BBa_K4765018](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765018) | FEN1                                                         |
-| [BBa_K4765019](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765019) | XRCC1                                                        |
-| [BBa_K4765025](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765025) | Rv Dsup codon optimized                                      |
+| [BBa_K4765015](http://parts.igem.org/Part:BBa_K4765015) | AnAFP                                                        |
+| [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016) | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) |
+| [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018) | FEN1                                                         |
+| [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019) | XRCC1                                                        |
+| [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025) | Rv Dsup codon optimized                                      |
 
 These parts empower bacteria to withstand challenging environments, making them highly valuable for projects related to astrobiology or extreme environmental applications.
 
@@ -66,12 +66,12 @@ The use of ribozymes can help us to simultanously express genes of interested, b
 
 | Part Name | Description |
 |----|----|
-| [BBa_K4765020](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765020) | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 |
-| [BBa_K4765021](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765021) | stem-loop 1, from 10.1021/acssynbio.2c00416             |
-| [BBa_K4765119](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765119) | ribozyme test: constitutive expression                  |
-| [BBa_K4765120](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765120) | ribozyme test: T7 leaky expression                      |
-| [BBa_K4765129](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129) | stem-loop test                                          |
-| [BBa_K4765130](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765130) | shuttle test                                            |
+| [BBa_K4765020](http://parts.igem.org/Part:BBa_K4765020) | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 |
+| [BBa_K4765021](http://parts.igem.org/Part:BBa_K4765021) | stem-loop 1, from 10.1021/acssynbio.2c00416             |
+| [BBa_K4765119](http://parts.igem.org/Part:BBa_K4765119) | ribozyme test: constitutive expression                  |
+| [BBa_K4765120](http://parts.igem.org/Part:BBa_K4765120) | ribozyme test: T7 leaky expression                      |
+| [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) | stem-loop test                                          |
+| [BBa_K4765130](http://parts.igem.org/Part:BBa_K4765130) | shuttle test                                            |
 
 The expected benefit of the stem-loop structure is to enhance mRNA stability, thereby expanding the applicability of the ribozyme system, even for cyanobacteria. We hope other teams can incorporate such designs into their projects to effectively control gene expression.
 
