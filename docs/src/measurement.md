@@ -94,7 +94,7 @@ From left to right is a time gradient of freezing treatment, while from up to do
 Subsequently, after counting the number of colonies using ImageJ, we calculated the ratio of the colony count to the colony count in the 0-hour control group. This ratio represents the bacterial survival rate, which was used to generate the survival rate curve shown in [Figure 2](#fig-2).
 
 <div style="text-align: center;" id="fig-2">
-<img src="https://static.igem.wiki/teams/4765/wiki/jzk/tiny-figure-2.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/zsl/anafp-survival-curve1.png"
 style='width:70%'>
 <br>
 <div>
