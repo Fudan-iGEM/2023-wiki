@@ -19,7 +19,7 @@ title: Contribution
 
 ### Gold
 
-According to the rules for 2023, we have decided to compete for three special awards: [New Composite Part](http://parts.igem.org/Part:BBa_K4765120), [Education](/education/), and [Software Tool](/software/).
+According to the rules for 2023, we have decided to compete for three special awards: [New Composite Part](http://parts.igem.org/Part:BBa_K4765129), [Education](/education/), and [Software Tool](/software/).
 
 - We have made a useful [new composite part BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) for stem-loop test, which is well documented on the registry. It was built on [Open V3 backbone](http://parts.igem.org/Part:BBa_K4765026), which could be [reused, remade, and redistributed](https://stanford.freegenes.org/products/open-plasmids#description) as often as one would like. It could be induced to boost protein expression, but we use its [leaky](http://parts.igem.org/Part:BBa_K4765120) property in BL21(DE3) bacteria. [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) provides a new possibility to systematically regulate protein expression level, beyond promoter regulation, RBS regulation ([our 2022 Team](https://2022.igem.wiki/fudan/parts#composite) has successfully produce &beta;-carotene by varing RBS strength according to metabolism).
 - We hosted numerous meticulously designed [education](/education/#empower-igem-community) events and established a highly constructive two-way dialogue with the public. We hope to improve the general cognitive level of synthetic biology, encouraging more people to shape, contribute to, and participate in synthetic biology.
