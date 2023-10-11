@@ -9,13 +9,13 @@ authorlink:
 
 ## Introduction
 
-Our biofilm structure is primarily formed by two different strains of *Escherichia coli* that express antigens and nanobodies, respectively. We hope that the *E. coli* biofilm can smoothly unfold over time, and we aim to manipulate the shape and diffusion rate of the biofilm unfolding by adjusting parameters such as the concentrations of the two strains and their binding strength. Before conducting wet experiments, we wish to use mathematical physics models to preliminarily validate our ideas.
+Our biofilm structure is primarily formed by two different strains of *Escherichia coli* that express antigens and nanobodies, respectively. We hope that the *E. coli* biofilm can smoothly **unfold over time**, and we aim to **manipulate the shape and diffusion rate** of the biofilm unfolding by adjusting parameters such as the **concentrations** of the two strains and their **binding strength**. Before conducting wet experiments, we wish to use mathematical physics models to preliminarily validate our ideas.
 
-The inspiration for our model comes from the Turing morphogenesis system[^1], originally proposed by Alan Turing, the father of computer graphics, to describe the mechanisms behind the generation of natural patterns such as spots and stripes in the natural world. We hope to utilize the Turing morphogenesis system to simulate the process of *E. coli* forming a biofilm expressing antigens and nanobodies in a two-dimensional plane, and analyze the effects of changing various parameters.
+The inspiration for our model comes from the **Turing morphogenesis system**[^1], originally proposed by Alan Turing, the father of computer graphics, to describe the mechanisms behind the generation of natural patterns such as spots and stripes in the natural world. We hope to utilize the Turing morphogenesis system to simulate the process of *E. coli* forming a biofilm expressing antigens and nanobodies in a two-dimensional plane, and analyze the effects of changing various parameters.
 
 ## Model Design
 
-In Alan Turing's early research paper [^1], he proposed a model for simulating the generation of natural patterns in the natural world using two interacting substances involved in diffusion. This model is known as a reaction-diffusion system, which is essentially the Turing morphogenesis system. The specific form of interaction between the two elements in this system is not constrained, and in our model, we use two strains of *E.coli* that express antigens and nanobodies as interacting elements in the system with diffusive properties.
+In Alan Turing's early research paper [^1], he proposed a model for simulating the generation of natural patterns in the natural world using **two interacting substances involved in diffusion**. This model is known as a **reaction-diffusion system**, which is essentially the Turing morphogenesis system. The specific form of interaction between the two elements in this system is not constrained, and in our model, we use two strains of *E.coli* that express antigens and nanobodies as interacting elements in the system with diffusive properties.
 
 Our model is primarily based on two existing models. The first one is the model[^2] which defines a tensor called the diffusion coefficient related to the velocity vector distribution field. This coefficient is dependent on the direction and rate of diffusion and is used to describe the diffusion and reaction terms in the Turing morphogenesis system.
 
@@ -93,7 +93,7 @@ $$
 
 Where $A$ and $B$ represent the concentrations of two substances, $F$ is the supply rate, $K$ is the consumption rate, $D_a$ and $D_b$ are diffusion coefficients, $l_a$ and $l_b$ are diffusion rates, $\overrightarrow{V}$ is the velocity distribution field, $\bigotimes$ denotes the tensor product, and $\delta_{ij}$ is the unit matrix.
 
-In our model, $A$ and $B$ represent the concentrations of two types of *E.coli* expressing antigens and nanobodies, respectively. $F$ and $K$ represent the rates of *E.coli* division and the rate of connection formation between two cells under certain antigen-nanobody binding strength conditions.
+In our model, $A$ and $B$ represent the concentrations of two types of *E.coli* expressing antigens and nanobodies, respectively. $F$ and $K$ represent **the rates of *E.coli* division and the rate of connection formation between two cells** under certain antigen-nanobody binding strength conditions.
 
 ## Results
 
@@ -104,11 +104,13 @@ In our model, the expansion process of the biofilm is depicted as shown in [Figu
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 1: Biofilm formation process when parameters are: la=0.5, lb=0.9, V=0, F=0.055, K=0.062, stoptime=7900.</small></p>
+<p><small style="color: gray">Figure 1: Biofilm expansion process.
+<br>
+This gif shows the dynamic process of biofilm expansion. Parameters are set as: la=0.5, lb=0.9, V=0, F=0.055, K=0.062, stoptime=7900.</small></p>
 </div>
 </div>
 
-When keeping the other parameters constant, altering the binding strength of the antigen-nanobody interaction, specifically by changing $F$ and $K$, results in different bacterial membrane morphologies.
+When keeping the other parameters constant, **altering the binding strength** of the antigen-nanobody interaction, specifically by changing $F$ and $K$, results in different bacterial membrane morphologies.
 
 With a fixed value of $K = 0.062$ and varying the parameter $F$, it was observed that at lower values of $F$, the biofilm tends to form spotted patterns, whereas as $F$ increases, the membrane develops finer stripe-like patterns. However, if $F$ becomes excessively large, the rate of biofilm formation decreases ([Figure 2](#fig-2)).
 
@@ -117,9 +119,13 @@ With a fixed value of $K = 0.062$ and varying the parameter $F$, it was observed
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 2: When K is fixed, change F.</small></p>
+<p><small style="color: gray">Figure 2: Observe how parameter F affects biofilm expansion.
+<br>
+Fix K at 0.062 and change F from 0.02 to 0.07.</small></p>
 </div>
 </div>
+
+
 When $F$ is held constant at 0.055, it was observed that within a certain range, as the value of $K$ increases, the rate of biofilm formation decreases, while the patterns become finer ([Figure 3](#fig-3)).
 
 <div style="text-align: center;" id="fig-3">
@@ -127,26 +133,35 @@ When $F$ is held constant at 0.055, it was observed that within a certain range,
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 3: When F is fixed, change K.</small></p>
+<p><small style="color: gray">Figure 3: Observe how parameter K affects biofilm expansion.
+<br>
+Fix F at 0.055 and change K from 0.0606 to 0.0636.
+</small></p>
 </div>
 </div>
-When we hold the other parameters constant and vary the initial distribution concentration, different biofilm morphologies are observed. As seen in [Figure 4](#fig-4), as the bacterial concentration gradually increases, the rate of biofilm formation accelerates. Furthermore, the shape of the biofilm patterns is influenced by the initial concentration distribution. If the initial concentration distribution exhibits high symmetry, the resulting biofilm exhibits a high degree of symmetry as well.
+
+
+When we hold the other parameters constant and **vary the initial distribution concentration**, different biofilm morphologies are observed. As seen in [Figure 4](#fig-4), as the bacterial concentration gradually increases, the rate of biofilm formation accelerates. Furthermore, the shape of the biofilm patterns is influenced by the initial concentration distribution. If the initial concentration distribution exhibits high symmetry, the resulting biofilm exhibits a high degree of symmetry as well.
 
 <div style="text-align: center;" id="fig-4">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/figure-4-tiny.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 4: Different initial bacterial concentration distributions and biofilm patterns.</small></p>
+<p><small style="color: gray">Figure 4: Observe how initial concentration affects biofilm expansion.
+<br>
+Different initial bacterial concentration distributions (start) and biofilm patterns at stoptime=10000 (end).</small></p>
 </div>
 </div>
+
+
 ## Conclusion
 
-Through the aforementioned model, we have provided preliminary evidence of the feasibility of biofilm expansion and analyzed the impact of bacterial concentration and the binding strength between antigens and nanobodies on biofilm formation. Based on our analysis, we believe that when choosing the binding strength between antigen and nanobody, it is crucial to ensure that $F$ and $K$ values are moderate. This means that the rate of *E.coli* division and the formation of connections between cells should be moderate as well. This approach results in finer patterns while maintaining an adequate rate of biofilm formation.
+Through the aforementioned model, we have provided **preliminary evidence of the feasibility of biofilm expansion** and analyzed the **impact of bacterial concentration and the binding strength between antigens and nanobodies** on biofilm formation. Based on our analysis, we believe that when choosing the binding strength between antigen and nanobody, it is crucial to ensure that $F$ and $K$ values are moderate. This means that the rate of *E.coli* division and the formation of connections between cells should be moderate as well. This approach results in finer patterns while maintaining an adequate rate of biofilm formation.
 
 Simultaneously, when selecting the bacterial concentration, opting for a higher concentration is advisable to ensure a faster rate of biofilm expansion. However, to achieve the desired patterns, attention must also be paid to the initial concentration distribution shape.
 
-In conclusion, this model has provided us with a qualitative understanding of biofilm properties before conducting wet experiments, aiding us in the further design and execution of experiments.
+In conclusion, this model has provided us with **a qualitative understanding of biofilm properties** before conducting wet experiments, aiding us in the further design and execution of experiments.
 
 ## Code Accessibility
 
