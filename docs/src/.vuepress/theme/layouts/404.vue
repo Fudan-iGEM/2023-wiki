@@ -3,7 +3,7 @@
     <article class="content">
       <h1>404</h1>
       <blockquote>{{ getMsg() }}</blockquote>
-      <router-link to="/">Take me home.</router-link>
+      <router-link to="/">Back to https://2023.igem.wiki/fudan/</router-link>
     </article>
   </section>
 </template>
