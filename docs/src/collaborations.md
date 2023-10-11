@@ -101,7 +101,7 @@ In addition, we have partnered with [ShanghaiTech-China iGEM 2023](https://2023.
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Show case the picture books from the oollaboration</small></p>
+<p><small style="color: gray">Showcase the picture books from the oollaboration</small></p>
 </div>
 </div>
 
