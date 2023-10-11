@@ -175,7 +175,7 @@ style='width:100%'>
 </div>
 </div>
 <div style="text-align: center;">
-   <p>Table 4: Parts for functional system</p>
+   <p>Table 4: Parts for terraforming system</p>
 </div>
 
 | Part Name                                                    | Type | Description |
