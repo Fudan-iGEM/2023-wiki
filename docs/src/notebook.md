@@ -455,7 +455,7 @@ We collaborated with **Nanjing-China iGEM 2023** to enhance the user interface, 
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/scut-tiny.png"
-style='width:70%'>
+style='width:70%'> 
 	<br>
 	<div>
 		<p><small style="color: gray">Online meeting with SCUT-China iGEM 2023</small></p>

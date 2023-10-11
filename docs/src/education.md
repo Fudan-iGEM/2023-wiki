@@ -37,7 +37,7 @@ Building upon our survey findings, we have formulated **4 key educational initia
 - [**Feed Curious Minds:**](#feed-curious-minds) We have created [**a series of picture books**](/education/#painting-our-genes-a-picture-book-series-for-kids) for children, fostered [**meaningful two-way dialogue**](/education/#continuous-dialogue-and-long-term-friendship-with-fdis) with students at [FDIS](https://www.fdis.net.cn/), and actively engaged in [**volunteer teaching**](/education/#volunteer-teaching-in-rural-areas) in rural areas.
 - [**Interactive Biological Exploration:**](#interactive-biological-exploration) Collaborating with the [Shanghai Natural History Museum](http://www.snhm.org.cn/) and the [Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home), we have organized hands-on activities such as [**Lab Experience Day**](/education/#intern-researcher-lab-experience-day) and [**Parent-child Science Curriculum**](/education/#star-exploration-camp-parent-child-science-curriculum).
 - [**Reach the Public:**](#reach-the-public) Leveraging [**a metaverse game**](/education/#metaverse-game-exploration-and-discovery-through-synthetic-biology) and conducting [**street interviews**](/education/#street-interview-encountering-diverse-perspectives), we've brought synthetic biology to the general public.
-- [**Empower the iGEM Community:**](#empower-igem-community) In commemoration of iGEM's 20th anniversary, we embarked on several endeavors to expand the community of synthetic biology enthusiasts within [**Fudan University**](/education/#the-bertalanffy-club-cultivating-synthetic-biology-enthusiasts-at-fudan), [**educational enterprises**](/education/#collaboration-with-enterprise-preparing-for-this-dl-team-building), [**the Yangtze River Delta region**](/education/#sustaining-collaboration), and [**China**](/education/#ccic-strengthening-the-bonds-of-igem-teams-in-china).
+- [**Empower the iGEM Community:**](#empower-igem-community) In commemoration of iGEM's 20th anniversary, we have embarked on several endeavors to expand the community of synthetic biology enthusiasts within [**Fudan University**](/education/#the-bertalanffy-club-cultivating-synthetic-biology-enthusiasts-at-fudan), [**educational enterprises**](/education/#collaboration-with-enterprise-preparing-for-this-dl-team-building), [**the Yangtze River Delta region**](/education/#sustaining-collaboration), and [**China**](/education/#ccic-strengthening-the-bonds-of-igem-teams-in-china).
 
 Collectively, these initiatives represent "**FIRE**". We aspire to see "FIRE" embraced by a growing community, igniting a wildfire of enthusiasm for synthetic biology, much like the fire of Heaven from [Prometheus](https://en.wikipedia.org/wiki/Prometheus) ignited the spirit of humanity.
 
@@ -58,7 +58,7 @@ style='width:100%'>
 
 <p><small style="color: gray">📅 Date: Jul. - Oct., 2023<br>🗣️Organizers: Zhe Dong, Chenye Li, Yijun Wang, Qingying Yang, Mingfang Zheng<br>  👥Audience: Children aged 4-7</small></p>
 
-We were committed to creating an efficient educational model that enabled children to receive and understand information quickly, introducing them to the fascinating world of synthetic biology. To achieve this, we **initiated a collaboration** among four iGEM teams (Fudan, [ShanghaiTech](https://2023.igem.wiki/shanghaitech-china/), [Tongji](https://2023.igem.wiki/tongji-china/), and [NUDT](https://2023.igem.wiki/nudt-china/)) to create a picture book series centered on **genes and gene editing**. We carefully balanced professionalism with accessibility and incorporated **interactive** **elements** for an immersive reading experience and active participation. **Continuous feedback** from a children's book editor and a select group of children helped us refine the series. These books have been distributed freely both offline and online nationwide. For Chinese version, please refer to [this file for Chinese versions](https://static.igem.wiki/teams/4765/wiki/education/picture-book-chinese.pdf).
+We were committed to creating an efficient educational model that enabled children to receive and understand information quickly, introducing them to the fascinating world of synthetic biology. To achieve this, we **initiated a collaboration** among four iGEM teams (Fudan, [ShanghaiTech](https://2023.igem.wiki/shanghaitech-china/), [Tongji](https://2023.igem.wiki/tongji-china/), and [NUDT](https://2023.igem.wiki/nudt-china/)) to create a picture book series centered on **genes and gene editing**. We carefully balanced professionalism with accessibility and incorporated **interactive** **elements** for an immersive reading experience and active participation. **Continuous feedback** from a children's book editor and a select group of children helped us refine the series. These books have been distributed freely both offline and online nationwide. Please refer to [this file for Chinese versions](https://static.igem.wiki/teams/4765/wiki/education/picture-book-chinese.pdf).
 
 <iframe src="https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf" width="100%" height='500px'></iframe>
 
@@ -277,7 +277,7 @@ style='width:80%'>
 
 We had taken adequate laboratory safety measures before the experiment (available [**here**](/safety/)).
 
-Then they embarked on an experiment to **analyze their DNA fingerprints** using the VNTR sequence DIS80 on the 1st human chromosome ([Principle & Protocol](https://static.igem.wiki/teams/4765/wiki/slides/ziboexperiment.pdf)). This hands-on experience exposed them to **fundamental synthetic biology techniques** such as PCR and agarose gel electrophoresis. Remarkably, most students achieved outstanding results, making this educational journey both enlightening and memorable.
+Then the students embarked on an experiment to **analyze their DNA fingerprints** using the VNTR sequence DIS80 on the 1st human chromosome ([Principle & Protocol](https://static.igem.wiki/teams/4765/wiki/slides/ziboexperiment.pdf)). This hands-on experience exposed them to **fundamental synthetic biology techniques** such as PCR and agarose gel electrophoresis. Remarkably, most students achieved outstanding results, making this educational journey both enlightening and memorable.
 
 **Continuous Feedback and Continued Dialogue**
 
@@ -357,7 +357,7 @@ style='width:100%'>
 </div>
 
 
-Aiming at developing an educational tool which is both entertaining and scientific, so as to achieve efficient publicity effects among the population, we collaborated with the `Promise<Pending>` group in Fudan University (team leader: [Shitao Gong](https://2021.igem.org/Team:Fudan/Team#shitao-gong), a iGEMer in 2021 and 2022; team member: Gengyu Wang, Jiayi Wang, Shangxuan Tang), to create **an immersive metaverse game** (experience the game [**here**](http://121.4.67.20:8080/)), which is set in a distant future where humanity dispatches robots to explore a second home. In this intriguing virtual world, players navigate robots to **uncover scattered genetic "parts", assemble gene circuits**, and fulfill exploration missions.
+Aiming at developing an educational tool which is both entertaining and scientific, so as to achieve efficient publicity results among the population, we collaborated with the `Promise<Pending>` group in Fudan University (team leader: [Shitao Gong](https://2021.igem.org/Team:Fudan/Team#shitao-gong), an iGEMer in 2021; team member: Gengyu Wang, Jiayi Wang, Shangxuan Tang), to create **an immersive metaverse game** (experience the game [**here**](http://121.4.67.20:8080/)), which is set in a distant future where humanity dispatches robots to explore a second home. In this intriguing virtual world, players navigate robots to **uncover scattered genetic "parts", assemble gene circuits**, and fulfill exploration missions.
 
 
 
@@ -543,7 +543,7 @@ The lecture session was followed by an engaging **Q&A** session, during which we
 
 
 
-### CCiC: Strengthening the Bonds of iGEM teams in China
+### CCiC: Strengthening the Bonds of iGEM Teams in China
 
 <p><small style="color: gray">📅 Date: Jul. 8th - Jul. 10th, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li, Yijun Wang, Qingying Yang<br>  👥Audience: iGEM teams in China</small></p>
 
