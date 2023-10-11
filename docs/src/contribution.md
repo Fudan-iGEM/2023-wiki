@@ -73,7 +73,7 @@ The use of ribozymes can help us to simultanously express genes of interested, b
 | [BBa_K4765129](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129) | stem-loop test                                          |
 | [BBa_K4765130](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765130) | shuttle test                                            |
 
-The expected benefit of the stem-loop structure is to enhance mRNA stability, thereby expanding the applicability of the ribozyme system, even for cyanbacteria. We hope other teams can incorporate such designs into their projects to effectively control gene expression.
+The expected benefit of the stem-loop structure is to enhance mRNA stability, thereby expanding the applicability of the ribozyme system, even for cyanobacteria. We hope other teams can incorporate such designs into their projects to effectively control gene expression.
 
 For more details, you can visit our [Part Collection](/part-collection/) page.
 
@@ -93,6 +93,6 @@ Further develop the software from Fudan iGEM [2021](https://2021.igem.org/Team:F
 
 RAP consists of three main components. Within the [KineticHub](/software/#kinetichub), using the data of the [BRENDA](https://www.brenda-enzymes.org/) database, we can calculate the optimal enzyme concentrations. With [Parthub 2](/software/#parthub-2), we can retrieve the required parts and download their sequences in GeneBank format. Finally, with the help of [RAP Builder](/#rap-builder), we can design the corresponding RBS and stem-loop sequences by combining the results from **KineticHub** and the sequences from **Parthub 2**.
 
-This software is designed to assist iGEMers and other researchers 1) to efficiently find part sequences, 2) to determine the optimal enzyme ratio for their system, and 3) to design expression cassette with appropriate RBS and stem-loop sequences, thus **to boost productivity in synthetic biology**.  It help users through the DBTL (Design-Build-Test-Learn) cycle, while also contributing to the [continued growth of RAP](https://2023.igem.wiki/fudan/engineering/#RAP) @@@@.
+This software is designed to assist iGEMers and other researchers 1) to efficiently find part sequences, 2) to determine the optimal enzyme ratio for their system, and 3) to design expression cassette with appropriate RBS and stem-loop sequences, thus **to boost productivity in synthetic biology**.  It help users through the DBTL (Design-Build-Test-Learn) cycle, while also contributing to the [continued growth of RAP](https://2023.igem.wiki/fudan/engineering/#RAP).
 
 For more details, please visit our [Software](/software/) page.
