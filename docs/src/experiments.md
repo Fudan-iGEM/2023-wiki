@@ -258,6 +258,8 @@ For RBS or stem-loop testing, the following was used
 1. The *E. coli* cultures expressing EPS were incubated overnight at 37°C, 300 rpm in 2 mL of LB KanR medium until the OD~600~ reached 1.
 2. We followed the PDL "in-chamber" method, and chamber setup described in reference [^1] to perform chamber-based microscopy.
 
-[^1]:  Wang, Y.-K., Krasnopeeva, E., Lin, S.-Y., Bai, F., Pilizota, T., & Lo, C.-J. (2019). Comparison of *Escherichia coli* surface attachment methods for single-cell microscopy. *Scientific Reports*, *9*(1), 19418. https://doi.org/10.1038/s41598-019-55798-0
-
 ::: 
+
+## References
+
+[^1]:  Wang, Y.-K., Krasnopeeva, E., Lin, S.-Y., Bai, F., Pilizota, T., & Lo, C.-J. (2019). Comparison of *Escherichia coli* surface attachment methods for single-cell microscopy. *Scientific Reports*, *9*(1), 19418. https://doi.org/10.1038/s41598-019-55798-0
