@@ -7,8 +7,8 @@
 | |  | [BBa_K2150031](http://parts.igem.org/Part:BBa_K2150031) | T7 promoter without RBS | Regulatory | Jianyi Huang | Length:  20 bp | basic |
 | |  | [BBa_K2306003](http://parts.igem.org/Part:BBa_K2306003) | Secretory-abundant heat soluble protein 33020 (SAHS 33020) | Coding | Guillermo Serena Ruiz | Length:  509 bp | basic |
 | |  | [BBa_K2644007](http://parts.igem.org/Part:BBa_K2644007) | smURFP | DNA | Yiran Cheng | Length:  402 bp | basic |
-| |  | [BBa_K3331001](http://parts.igem.org/Part:BBa_K3331001) | E.coli galU | Coding | Wang Weizhe | Length:  909 bp | basic |
-| |  | [BBa_K3331002](http://parts.igem.org/Part:BBa_K3331002) | E.coli pgmA | Coding | Wang Weizhe | Length:  1641 bp | basic |
+| |  | [BBa_K3331001](http://parts.igem.org/Part:BBa_K3331001) | E. coli galU | Coding | Wang Weizhe | Length:  909 bp | basic |
+| |  | [BBa_K3331002](http://parts.igem.org/Part:BBa_K3331002) | E. coli pgmA | Coding | Wang Weizhe | Length:  1641 bp | basic |
 | |  | [BBa_K3457006](http://parts.igem.org/Part:BBa_K3457006) | lac operator | Regulatory | Yixian Yang | Length:  25 bp | basic |
 | |  | [BBa_K4162001](http://parts.igem.org/Part:BBa_K4162001) | StayGold = (n2)oxStayGold(c4)v2.0 | Coding | Weiwen Chen | Length:  711 bp | basic |
 | |  | [BBa_K4162006](http://parts.igem.org/Part:BBa_K4162006) | T7_RBS | RBS | Weiwen Chen | Length:  17 bp | basic |

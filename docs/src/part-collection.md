@@ -11,9 +11,9 @@ authorlink:
 
 We've improved a metabolic management system, named **Ribozyme-Assisted Polycistronic co-expression (pRAP) system**[^1]. This improvement allows for the simultaneous expression of multiple proteins by inserting all B.HOME CDS sequences into pRAP. Our Software [RAP](/software/) leverages enzyme $k_{cat}$ values to design varying RBS strengths, thereby controlling the initial translation rates of metabolism-related enzymes. This fine-tuning capability enables the modulation of *Escherichia coli*'s metabolic flux, reducing metabolic stress.
 
-A pRAP module consists of four components arranged from the 5' to the 3' end: a twister ribozyme, RBS, CDS, and a stem-loop structure.
+A pRAP module consists of four components arranged from the 5' to the 3' end: a Twister ribozyme, RBS, CDS, and a stem-loop structure.
 
-The twister ribozyme, an RNA molecule capable of self-cleavage at specific sites[^2][^3], is strategically incorporated between coding CDSs within a polycistron. This ribozyme efficiently cleaves the polycistronic mRNA transcript, transforming it into individual mono-cistrons. This process eliminates inter-cistron interactions, ensuring comparable translation initiation rates for each mono-cistron.
+The Twister ribozyme, an RNA molecule capable of self-cleavage at specific sites[^2][^3], is strategically incorporated between coding CDSs within a polycistron. This ribozyme efficiently cleaves the polycistronic mRNA transcript, transforming it into individual mono-cistrons. This process eliminates inter-cistron interactions, ensuring comparable translation initiation rates for each mono-cistron.
 
 What's more, to protect the mono-cistron mRNA from degradation, a stem-loop structure is placed at the 3' end of the CDSs[^1].
 
@@ -110,17 +110,17 @@ With specific genes inserted into pRAP system, this module confers bacteria the 
 
 ## Symbiotic System
 
-To ensure nutrient supply, we need to establish **a symbiotic system** that allows cyanobacteria to produce and secrete sugars, and then enable *E.coli* to efficiently utilize them. We are immensely grateful for the plasmids containing *CscB*(([BBa_K4115045](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4115045)) and *SacC*([BBa_K4115017](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4115017)) provided by ShanghaiTech-China_2023, which enable us to facilitate the circulation and utilization of nutrients in both cyanobacteria and *E.coli*.
+To ensure nutrient supply, we need to establish **a symbiotic system** that allows cyanobacteria to produce and secrete sugars, and then enable *E. coli* to efficiently utilize them. We are immensely grateful for the plasmids containing *CscB*(([BBa_K4115045](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4115045)) and *SacC*([BBa_K4115017](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4115017)) provided by ShanghaiTech-China_2023, which enable us to facilitate the circulation and utilization of nutrients in both cyanobacteria and *E. coli*.
 
 
 
 ## Biofilm Formation System
 
-Drawing inspiration from lichens, our B.Home project aims to establish **a biofilm formation system** involving cyanobacteria and *E.coli*.
+Drawing inspiration from lichens, our B.Home project aims to establish **a biofilm formation system** involving cyanobacteria and *E. coli*.
 
-We need to create physical connections between bacteria to form a self-assembling, robust, and scalable biofilm. For this purpose, we introduce connections between *E.coli* and *E.coli*, as well as between *E.coli* and cyanobacteria. For the former, we have adopted the **LAMBA** (Living Assembled Material by Bacteria Adhesion) approach, which has been reported as a cell-cell adhesion toolbox[^5] or a self-healing material with programmable physical structures[^6]. We also integrated it into the pRAP system. This approach modifies two strains of *E.coli* to display antigens(Ag)([BBa_K4765006](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765006)) or nanobodies(Nb)([BBa_K4765106](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765106)) on their outer membranes, allowing the antigen-expressing *E.coli* to bind to the antibody-expressing *E.coli*, forming a biofilm. We have chosen Intimin as the surface-presenting protein because it offers superior presentation efficacy compared to INPNC, another commonly used surface-presenting protein, and inserted a short spacer between Intimin and Ag/Nb to avoid steric hindrance between functional proteins.
+We need to create physical connections between bacteria to form a self-assembling, robust, and scalable biofilm. For this purpose, we introduce connections between *E. coli* and *E. coli*, as well as between *E. coli* and cyanobacteria. For the former, we have adopted the **LAMBA** (Living Assembled Material by Bacteria Adhesion) approach, which has been reported as a cell-cell adhesion toolbox[^5] or a self-healing material with programmable physical structures[^6]. We also integrated it into the pRAP system. This approach modifies two strains of *E. coli* to display antigens(Ag)([BBa_K4765006](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765006)) or nanobodies(Nb)([BBa_K4765106](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765106)) on their outer membranes, allowing the antigen-expressing *E. coli* to bind to the antibody-expressing *E. coli*, forming a biofilm. We have chosen Intimin as the surface-presenting protein because it offers superior presentation efficacy compared to INPNC, another commonly used surface-presenting protein, and inserted a short spacer between Intimin and Ag/Nb to avoid steric hindrance between functional proteins.
 
-As for the connection between *E.coli* and cyanobacteria, we have selected *Synechococcus elongates* PCC7942 due to their ease of genetic editing. We intend to have *E.coli* display LCA ([BBa_K4765009](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765009)), a kind of lectin, on their membrane surface and establish a physical connection with the lipopolysaccharides on the surface of *S.elongates* through LCA. Again, we have chosen Intimin as the surface-presenting protein and introduced a spacer.
+As for the connection between *E. coli* and cyanobacteria, we have selected *Synechococcus elongates* PCC7942 due to their ease of genetic editing. We intend to have *E. coli* display LCA ([BBa_K4765009](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765009)), a kind of lectin, on their membrane surface and establish a physical connection with the lipopolysaccharides on the surface of *S.elongates* through LCA. Again, we have chosen Intimin as the surface-presenting protein and introduced a spacer.
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/3-pc.png"
@@ -168,9 +168,9 @@ Bacteria form cell-cell adhesion through this module, thus forming biofilm.</sma
 
 Our objective is to modify the biofilm to firmly attach to the surfaces of Martian rocks and facilitate the process of rock erosion. To achieve this, we have introduced the **oxalic acid module** and the **extracellular polysaccharide (EPS) module**.
 
-As for the oxalic acid module, following multiple discussions with [CAU-China_2022](/collaborations/#with-cau-china-project-design), we have decided to adopt their composite part ([BBa_K4192120](http://parts.igem.org/Part:BBa_K4192120)) to produce oxalic acid by modifying the TCA cycle of *E.coli*.
+As for the oxalic acid module, following multiple discussions with [CAU-China_2022](/collaborations/#with-cau-china-project-design), we have decided to adopt their composite part ([BBa_K4192120](http://parts.igem.org/Part:BBa_K4192120)) to produce oxalic acid by modifying the TCA cycle of *E. coli*.
 
-Regarding the EPS module, inspired by XJTU-China_2020's [project](https://2020.igem.org/Team:XJTU-China), we plan to overexpress the key enzymes, PgmA and GalU, both from *E.coli* pathways involved in EPS synthesis, to increase the amount of EPS around the biofilm. To enhance EPS production, we have also incorporated these enzymes into the pRAP system ([BBa_K4765121](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765121)).
+Regarding the EPS module, inspired by XJTU-China_2020's [project](https://2020.igem.org/Team:XJTU-China), we plan to overexpress the key enzymes, PgmA and GalU, both from *E. coli* pathways involved in EPS synthesis, to increase the amount of EPS around the biofilm. To enhance EPS production, we have also incorporated these enzymes into the pRAP system ([BBa_K4765121](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765121)).
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/5-pc.png"

@@ -15,7 +15,7 @@ The inspiration for our model comes from the **Turing morphogenesis system**[^1]
 
 ## Model Design
 
-In Alan Turing's early research paper [^1], he proposed a model for simulating the generation of natural patterns in the natural world using **two interacting substances involved in diffusion**. This model is known as a **reaction-diffusion system**, which is essentially the Turing morphogenesis system. The specific form of interaction between the two elements in this system is not constrained, and in our model, we use two strains of *E.coli* that express antigens and nanobodies as interacting elements in the system with diffusive properties.
+In Alan Turing's early research paper [^1], he proposed a model for simulating the generation of natural patterns in the natural world using **two interacting substances involved in diffusion**. This model is known as a **reaction-diffusion system**, which is essentially the Turing morphogenesis system. The specific form of interaction between the two elements in this system is not constrained, and in our model, we use two strains of *E. coli* that express antigens and nanobodies as interacting elements in the system with diffusive properties.
 
 Our model is primarily based on two existing models. The first one is the model[^2] which defines a tensor called the diffusion coefficient related to the velocity vector distribution field. This coefficient is dependent on the direction and rate of diffusion and is used to describe the diffusion and reaction terms in the Turing morphogenesis system.
 
@@ -34,10 +34,10 @@ The second model is the Gray-Scott model[^3], which introduces a parameter calle
 
 ## Assumption
 
-1. The expression of antigens and nanobodies within *E.coli* is uniform.
+1. The expression of antigens and nanobodies within *E. coli* is uniform.
 2. The ample supply of nutrients.
 3. The biofilm is unfolded in a two-dimensional plane, with no consideration for three-dimensional structure at present.
-4. The consumption rate ($K$) and replenishment rate ($F$) are influenced by the strength of antigen-nanobody binding among *E.coli*.
+4. The consumption rate ($K$) and replenishment rate ($F$) are influenced by the strength of antigen-nanobody binding among *E. coli*.
 
 
 
@@ -93,7 +93,7 @@ $$
 
 Where $A$ and $B$ represent the concentrations of two substances, $F$ is the supply rate, $K$ is the consumption rate, $D_a$ and $D_b$ are diffusion coefficients, $l_a$ and $l_b$ are diffusion rates, $\overrightarrow{V}$ is the velocity distribution field, $\bigotimes$ denotes the tensor product, and $\delta_{ij}$ is the unit matrix.
 
-In our model, $A$ and $B$ represent the concentrations of two types of *E.coli* expressing antigens and nanobodies, respectively. $F$ and $K$ represent **the rates of *E.coli* division and the rate of connection formation between two cells** under certain antigen-nanobody binding strength conditions.
+In our model, $A$ and $B$ represent the concentrations of two types of *E. coli* expressing antigens and nanobodies, respectively. $F$ and $K$ represent **the rates of *E. coli* division and the rate of connection formation between two cells** under certain antigen-nanobody binding strength conditions.
 
 ## Results
 
@@ -157,7 +157,7 @@ Different initial bacterial concentration distributions (start) and biofilm patt
 
 ## Conclusion
 
-Through the aforementioned model, we have provided **preliminary evidence of the feasibility of biofilm expansion** and analyzed the **impact of bacterial concentration and the binding strength between antigens and nanobodies** on biofilm formation. Based on our analysis, we believe that when choosing the binding strength between antigen and nanobody, it is crucial to ensure that $F$ and $K$ values are moderate. This means that the rate of *E.coli* division and the formation of connections between cells should be moderate as well. This approach results in finer patterns while maintaining an adequate rate of biofilm formation.
+Through the aforementioned model, we have provided **preliminary evidence of the feasibility of biofilm expansion** and analyzed the **impact of bacterial concentration and the binding strength between antigens and nanobodies** on biofilm formation. Based on our analysis, we believe that when choosing the binding strength between antigen and nanobody, it is crucial to ensure that $F$ and $K$ values are moderate. This means that the rate of *E. coli* division and the formation of connections between cells should be moderate as well. This approach results in finer patterns while maintaining an adequate rate of biofilm formation.
 
 Simultaneously, when selecting the bacterial concentration, opting for a higher concentration is advisable to ensure a faster rate of biofilm expansion. However, to achieve the desired patterns, attention must also be paid to the initial concentration distribution shape.
 
@@ -170,7 +170,7 @@ The source code that generates the images on this page is as follows:
 ```matlab
 %%
 clear;clc;close all;
-%% Step 2：Set the coefficient value and initial matrix
+%% Step 2: Set the coefficient value and initial matrix
 
 % The size of the grid
 % width = 128;

@@ -34,7 +34,7 @@ authorlink:
 |  |  | BBa_K4765126  | ribozyme connected: H. ex mtSSB + SAHS 33020 + AnAFP |  | yes |
 |  |  | BBa_K4765127  | ribozyme connected: H. ex mtSSB + AnAFP + SAHS 33020 |  | yes |
 |  |  | BBa_K4765128  | ribozyme connected: AnAFP + SAHS 33020 + H. ex mtSSB |  | yes |
-| BBa_K3331012 | E.coli galU+E.coli pgmA | BBa_K4765121  | ribozyme connected: galU + pgmA + mScarlet |  | yes |
+| BBa_K3331012 | E. coli galU+E. coli pgmA | BBa_K4765121  | ribozyme connected: galU + pgmA + mScarlet |  | yes |
 |  |  | BBa_K4765122  | ribozyme connected: pgmA + galU + mScarlet |  | yes |
 | BBa_K4115017     | SacC                                                    | 无                                        | 无                                                           |      | maybe（不写） |
 | BBa_K1378003     | Microvirin (MVN)---a lectin from Microcystis aeruginosa | BBa_K4765109                              | Twister P1 + T7_RBS + intimin-MVN fusion + stem-loop |      | maybe（假如igem同意那个蓝藻） |

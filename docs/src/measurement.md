@@ -53,13 +53,13 @@ Based on our experimental conditions, we have made slight modifications to the a
 
 | Dilution ratio          | Solution proportions                                         |
 | ----------------------- | ------------------------------------------------------------ |
-| The First Diluted Tube  | 100μL Experimental Groups Bacterial Solution (10^8^/mL) + 9.9mL Sterile Water |
-| The second Diluted Tube | 100μL First Diluted Solution + 9.9mL Sterile Water           |
-| The third Diluted Tube  | 1.0mL Second Diluted Solution + 9.0mL Sterile Water          |
+| The First Diluted Tube  | 100 μL Experimental Groups Bacterial Solution (10^8^/mL) + 9.9 mL Sterile Water |
+| The second Diluted Tube | 100 μL First Diluted Solution + 9.9 mL Sterile Water           |
+| The third Diluted Tube  | 1.0 mL Second Diluted Solution + 9.0 mL Sterile Water          |
 | Final Dilution ratio    | 1 : 100,000                                                  |
 
 
-3. Dilute the bacterial solution sample (100μL) to 1:100,000 and take 100μL from the third diluted tube to perform plate culturing.
+3. Dilute the bacterial solution sample (100 μL) to 1:100,000 and take 100 μL from the third diluted tube to perform plate culturing.
 
 4. After incubating at 37°C for 16 hours, count the colonies on the agar plate by using the open-resource software ImageJ.
 
@@ -77,7 +77,7 @@ What's more, based on our past experiences and reports in the literature[^6], so
 
 ## Results
 
-To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP [(Part:BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E.coli* exhibits antifreeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
+To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP [(Part:BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E. coli* exhibits antifreeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/measurement-2.png"
@@ -106,7 +106,7 @@ In the initial 48 hours, there was no significant difference in the survival rat
 
 ## Summary
 
-Through CFU experiments, we have convincingly demonstrated that the expression of AnAFP in *E.coli* can effectively confer antifreeze properties. The CFU method exhibits excellent **repeatability**, as evidenced by minimal errors among multiple experimental groups, and has shown remarkable performance in other functional experiments as well, as detailed on our [Results](/results/) page.
+Through CFU experiments, we have convincingly demonstrated that the expression of AnAFP in *E. coli* can effectively confer antifreeze properties. The CFU method exhibits excellent **repeatability**, as evidenced by minimal errors among multiple experimental groups, and has shown remarkable performance in other functional experiments as well, as detailed on our [Results](/results/) page.
 
 In summary, CFU assay is a **concise, effective, and highly reproducible** quantitative experimental technique that merits broader utilization.
 
