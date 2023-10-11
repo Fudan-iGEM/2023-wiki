@@ -1,4 +1,13 @@
-
+---
+sidebar: auto
+title: Engineering
+author:
+- Zhiyue Chen
+- Zhenmao Ye
+authorlink:
+- /fudan/team/#zhiyue-chen-the-software-wizard
+- /fudan/team/#zhenmao-ye-the-multifaceted-talent
+---
 ## Selecting Surface Display Systems through Aggregation Assay
 
 ### Design
