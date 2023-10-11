@@ -163,14 +163,13 @@ In terms of our project, Mr. Zhang believed that its environmental benefits coul
 style='width:70%'>
 	<br>
 	<div>
-		<p><small style="color: gray">Our team member is having lunch with Dr. Jingwei Zhang and his students</small></p>
+		<p><small style="color: gray">Having lunch with Dr. Jingwei Zhang and his students</small></p>
 	</div>
 </div>
 
 **Review**
 
-With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry(see more details in [Implementation](/implementation/)). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. A follow-up was taken with him about the safety concerns(see more details in [Safety](/safety/#safety-in-implementation)).
-
+With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial value** of our projects in multiple fields, such as agriculture, energy, and the cosmetic industry (see more details in [Implementation](/implementation/)). Besides, Dr. Zhang was quite interested in our project and kept up with our progress. Later, we had a follow-up discussion with him about the safety concerns (see more details in [Safety](/safety/#safety-in-implementation)).
 
 
 
@@ -179,7 +178,7 @@ With the innovative insight of Dr. Jingwei Zhang, we **explored the commercial v
 
 ### Prof. Changming Fang: How to Build a Good Symbiotic System
 
-<p style="font-size: 1rem">📅 Date: Jun. 1st  👤 Participants: Zhe Dong, Zhenmao Ye</p>
+<p style="font-size: 1rem">📅 Date: Jun. 1st  <br>👤 Participants: Zhe Dong, Zhenmao Ye</p>
 
 **Simulation**
 
@@ -210,11 +209,11 @@ style='width:30%'>
 
 We had a pleasant conversation with him about our symbiotic system design. Prof. Fang made a detailed explanation of the composition of lichen. Algae mainly **provide energy and essential substances** like **saccharides** through photosynthesis while fungi provide the necessary ions for algae. Besides, fungi can maintain the **physical structure** of lichen by secreting **polysaccharides**. The physical structure is quite necessary for lichens, which equips them with a strong ability to absorb and keep water. With this ability, lichens can form sheet-like structures to keep water under dry conditions and quickly rejuvenate when adequate water is available.
 
-Considering our experimental design, Prof. Fang pointed out huge challenges in engineering the symbiotic system of lichens. Since the structural paradigm of lichens has undergone a long evolutionary evolution, the delicate composition remains unknown to humans in many aspects. He recommended we build a physical structure to make our symbiotic system more tolerant of the environment. He also reminded us of **the association between physiological characteristics and the environment**.
+Considering our experimental design, Prof. Fang pointed out huge challenges in engineering the symbiotic system of lichens. Since the structural paradigm of lichens has undergone a long evolutionary process, the delicate composition remains unknown to humans in many aspects. He recommended we build a physical structure to make our symbiotic system more tolerant of the environment. He also reminded us of **the association between physiological characteristics and the environment**.
 
 **Review**
 
-With the professional suggestions of Prof. Fang, we introduced **a cell-cell adhesion Module** into our symbiotic system. This module could construct a **biofilm** with a programmable physical structure through antigen-nanobody interaction. The biofilm would contribute to our symbiotic system's survival on the Martian surface. (see more details in [Description](/description/))
+With the professional suggestions of Prof. Fang, we introduced **a cell-cell adhesion Module** into our symbiotic system. This module could construct a **biofilm** with a programmable physical structure through antigen-nanobody interaction. The biofilm would contribute to our symbiotic system's survival on the Martian surface. See more details in [Description](/description/).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/fcm.jpg"
@@ -228,7 +227,7 @@ style='width:70%'>
 
 ### Prof. Zhexue Quan: How to Make *E. coli* Resistant to the Harsh Environment
 
-<p style="font-size: 1rem">📅 Date: Jun. 4th  👤 Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
+<p style="font-size: 1rem">📅 Date: Jun. 4th  <br>👤 Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</p>
 
 **Simulation**
 
@@ -259,7 +258,7 @@ During the interview, Prof. Quan mentioned many microbes adapting to extreme liv
 For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, We can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
 
 **Review**
-With the idea of Prof. Quan, we focused on **Tardigrada**, the most mysterious creature on Earth that could survive in space, and found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**[^4]. We involved this BioBrick as the core of our survival system. (see more details in [Part: BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016)).
+With the idea of Prof. Quan, we focused on [Tardigrada](https://en.wikipedia.org/wiki/Tardigrade), the most mysterious creature on Earth that could survive in space. [A recent bioRxiv article](https://doi.org/10.1101/2023.08.21.554171) found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**[^4]. We built a BioBrick [BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016) for our survival system.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/implementation/collaboration/hp/qzx.jpg"
@@ -276,7 +275,7 @@ style='width:70%'>
 
 ### The Environmental Ethics: Safety and Moral Concerns
 
-<p style="font-size: 1rem">📅 Date: Sep. 12th  👤 Participants: Qingying Yang, Yijun Wang</p>
+<p style="font-size: 1rem">📅 Date: Sep. 12th  <br>👤 Participants: Qingying Yang, Yijun Wang</p>
 
 **Stimulation**
 
@@ -288,7 +287,7 @@ This year, we attempted to create a biofilm that could survive in space and modi
 
 **Target**
 
-Graduating from the University of Glasgow, UK, Dr. Yunjie Zhang is now a postdoctoral student in Environmental Ethics at the School of Philosophy, Fudan University. Studying abroad for years, she has gained an innovative insight into the environmental ethics related to human behaviors.
+Graduating from the University of Glasgow, UK, Dr. Yunjie Zhang is now a postdoctoral student in Environmental Ethics at the School of Philosophy, Fudan University. Studying abroad for years, she has gained a unique insight into the environmental ethics related to human behaviors.
 
 **Action**
 
@@ -298,7 +297,7 @@ In her opinion, If we consider Mars as a "wilderness", then substantial human in
 
 **Review**
 
-Dr. Yunjie Zhang reminded us of our duty to deal with the environmental ethics issue of our project. However, she didn't offer us any suggestions in scientific ethics and biosafety since she had little understanding of biological science. She **recommended** we ask experts in biological philosophy for further guidance.
+Dr. Yunjie Zhang reminded us of our duty to deal with the environmental ethics issue of our project. However, she didn't offer us any suggestions in scientific ethics and biosafety since she had little understanding of biological science. She recommended we ask experts in biological philosophy for further guidance.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/1.png"
@@ -311,7 +310,7 @@ style='width:70%'>
 
 **Re-Target**
 
-With the suggestions of Dr. Yunjie Zhang, we turned to Dr. Mingjun Zhang for more professional suggestions on the safety and moral concerns of our project. Graduating from the University of Pennsylvania, America, Dr. Mingjun Zhang is an expert in biological philosophy and environmental ethics and is now interested in evolutionary game theory.
+With the suggestions of Dr. Yunjie Zhang, we turned to Dr. Mingjun Zhang for professional suggestions on the safety and moral concerns of our project. Graduating from the University of Pennsylvania, America, Dr. Mingjun Zhang is an expert in biological philosophy and environmental ethics, and is working on evolutionary game theory.
 
 <div style="text-align: center;" id="fig-1">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/zhang-mingjun.jpg"
@@ -326,7 +325,7 @@ style='width:30%'>
 
 Dr. Mingjun Zhang considered our project as a **relatively positive action** for the benefit of all mankind. He argued that it was our duty to **explore and understand the planet we want to transform as much as possible**.  Although there is little chance of life existing on Mars, our team should be responsible for the entire universe as well as human civilization.
 
-The proof of concept, in his opinion, is the first issue for our project. "Currently, **the risk is controllable** so that it wouldn't cause substantial harm to the Earth, which is in line with the research norms of synthetic biology. For further development, addressing safety concerns, like **developing a "Suicide Switch"** is indispensable to limit the threat of engineering bacteria with unexpected evolution to humans. However, if the bioform is ready to be put into practice, the decision must be allowed by the rest of the world, for **Mars doesn't belong to any individual, team, or nation on Earth**."
+The proof of concept, in his opinion, is the first issue for our project. "Currently, **the risk is controllable** so that it wouldn't cause substantial harm to the Earth, which is in line with the research norms of synthetic biology. For further development, addressing safety concerns, like **developing a "Suicide Switch"** is indispensable to limit the threat of engineered bacteria undergo unexpected evolution. However, if the biofilm is ready to be put into practice, the decision must be made by the entire world, because **Mars doesn't belong to any individual, team, or nation on Earth**."
 
 **Re-Review**
 
