@@ -11,7 +11,7 @@ authorlink:
 
 In our B.HOME project, we aim to construct a multifunctional biofilm to achieve the terraforming goals on Mars. This requires ensuring that the chassis can perform a variety of tasks. Once we successfully build the relevant parts, we need to conduct functional experiments to ascertain their effectiveness. For instance, in the design of the biofilm's survival system, we must ensure it possesses various functions such as anti-freeze, anti-desiccation, and anti-UV. We need to compare how well the chassis can survive under these harsh conditions after the introduction of certain parts, which is typically quantified through the number of bacteria.
 
-Considering that we have multiple functions to validate and are utilizing an enzymatic system to assist with protein expression, to streamline the validation process and reduce the molecular cloning workload,  we have opted for the Colony-Forming Unit(CFU) assay. This will enable us to demonstrate the functionality of parts in a simple, direct, and repeatable manner.
+Considering that we have multiple functions to validate and are utilizing an enzymatic system to assist with protein expression, to streamline the validation process and reduce the molecular cloning workload,  we have opted for the Colony-Forming Unit (CFU) assay. This will enable us to demonstrate the functionality of parts in a simple, direct, and repeatable manner.
 
 ## Overview
 
@@ -53,17 +53,17 @@ Based on our experimental conditions, we have made slight modifications to the a
 
 | Dilution ratio          | Solution proportions                                         |
 | ----------------------- | ------------------------------------------------------------ |
-| The First Diluted Tube  | 100μL Experimental Groups Bacterial Solution（10^8^/mL）+ 9.9mL Sterile Water |
+| The First Diluted Tube  | 100μL Experimental Groups Bacterial Solution (10^8^/mL) + 9.9mL Sterile Water |
 | The second Diluted Tube | 100μL First Diluted Solution + 9.9mL Sterile Water           |
 | The third Diluted Tube  | 1.0mL Second Diluted Solution + 9.0mL Sterile Water          |
 | Final Dilution ratio    | 1 : 100,000                                                  |
 
 
-3. Dilute the bacterial solution sample (100μL)to 1:100,000 and take 100μL from the third diluted tube to perform plate culturing.
+3. Dilute the bacterial solution sample (100μL) to 1:100,000 and take 100μL from the third diluted tube to perform plate culturing.
 
 4. After incubating at 37°C for 16 hours, count the colonies on the agar plate by using the open-resource software ImageJ.
 
-5. Calculate the CFU count(CFU/ml) for each sample as follows:
+5. Calculate the CFU count (CFU/ml) for each sample as follows:
 
 $$
 CFU=N·10^6
@@ -77,14 +77,16 @@ What's more, based on our past experiences and reports in the literature[^6], so
 
 ## Results
 
-To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP[(Part:BBa K4765015](http://parts.igem.org/Part:BBa_K4765015) protein in *E.coli* exhibits antifreeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
+To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP[(Part:BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E.coli* exhibits antifreeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/measurement-2.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 1: From left to right is a time gradient of freezing treatment, while from up to down are the groups that were transformed with AnAFP and the control group.</small></p>
+<p><small style="color: gray">Figure 1. Colonies at 0, 24, 48, 72, and 96 hours of cold treatment at 0 °C
+    <br>
+From left to right is a time gradient of freezing treatment, while from up to down are the groups that were transformed with AnAFP and the control group.</small></p>
 </div>
 </div>
 
@@ -96,7 +98,9 @@ Subsequently, after counting the number of colonies using ImageJ, we calculated 
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 2: In the initial 48 hours, there was no significant difference in the survival rates between the experimental and control groups. However, after 48 hours, the survival rate of the experimental group was significantly higher than that of the control group.</small></p>
+<p><small style="color: gray">Figure 2. Survival curves under cold treatment at 0 °C.
+   <br>
+In the initial 48 hours, there was no significant difference in the survival rates between the experimental and control groups. However, after 48 hours, the survival rate of the experimental group was significantly higher than that of the control group.</small></p>
 </div>
 </div>
 
