@@ -34,6 +34,7 @@ According to the rules for 2023, we have decided to compete for three special aw
 We have successfully engineered various membrane-display [parts](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling, editable biofilm. Typical reference parts are listed here.
 
 | Part Name | Description | 
+|----|----|
 | [BBa_K4765101](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765101) |  Twister P1 + T7_RBS + intimin-Ag1 fusion + stem-loop |
 | [BBa_K4765102](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765102) |  Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop |
 | [BBa_K4765103](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765103) |  Twister P1 + T7_RBS + intimin-Ag2 fusion + stem-loop |
@@ -49,7 +50,8 @@ Programmable biofilm can play a crucial role in various fields, including wastew
 
 In [our project](/description), in order to enable bacteria to survive under the harsh conditions of Mars, including high levels of UV radiation, extreme dryness, and low temperatures, we have characterized the following sequences:
 
-| Part Name | Description | ------ |
+| Part Name | Description |
+|----|----|
 | [BBa_K4765015](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765015) | AnAFP                                                        |
 | [BBa_K4765016](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765016) | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) |
 | [BBa_K4765018](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765018) | FEN1                                                         |
@@ -63,6 +65,7 @@ These parts empower bacteria to withstand challenging environments, making them 
 The use of ribozymes can help us to simultanously express genes of interested, but cleavaged mRNA might not stable and less usable. Therefore, we have incorporated a stem-loop structure at the 3' end of each coding sequence (CDS), before the ribozyme cleavage site.
 
 | Part Name | Description |
+|----|----|
 | [BBa_K4765020](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765020) | Twister P1 ribozyme, from 10.1080/15476286.2022.2123640 |
 | [BBa_K4765021](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765021) | stem-loop 1, from 10.1021/acssynbio.2c00416             |
 | [BBa_K4765119](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765119) | ribozyme test: constitutive expression                  |
