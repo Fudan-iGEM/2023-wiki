@@ -69,7 +69,7 @@ style='width:70%'>
 
 ## With FDIS & THIS DL: Passing on our experience
 
-Fudan International School (FDIS) and Tsinghua International School, Daoxiang Lake (THIS DL) have shown great enthusiasm for the iGEM competition and are in the process to establish teams for [2024](https://competition.igem.org/). We have engaged in several online and offline activities with junior students from these two schools who are interested in synthetic biology. We introduced them to the basics of synthetic biology and provided them with suggestions for team establishment and training.
+[Fudan International School](https://www.fdis.net.cn/) (FDIS) and [Tsinghua International School, Daoxiang Lake](http://www.thisdl.cn/en/) (THIS DL) have shown great enthusiasm for the iGEM competition and are in the process to establish teams for [2024](https://competition.igem.org/). We have engaged in several online and offline activities with junior students from these two schools who are interested in synthetic biology. We introduced them to the basics of synthetic biology and provided them with suggestions for team establishment and training.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/fufu-tiny.jpg"

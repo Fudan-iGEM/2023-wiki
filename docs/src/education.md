@@ -17,7 +17,7 @@ Our journey into the world of synthetic biology has led us to recognize its rema
 
 ### The Public Survey
 
-To tailor our educational initiatives to our audience, we conducted a comprehensive survey involving over 400 participants representing diverse demographics. Based on the results of this public survey, we **customized our educational activities to cater to specific age groups**. For a more in-depth examination of data, please refer to [this link](https://static.igem.wiki/teams/4765/wiki/education/detailed-result-of-questionaires-for-public-survey-the-general-public.pdf).
+To tailor our educational initiatives to our audience, we conducted a comprehensive survey involving over 400 participants representing diverse demographics. Based on the results of this public survey, we **customized our educational activities to cater to specific age groups**. For a more in-depth examination of data, please refer to [this file about the survey results](https://static.igem.wiki/teams/4765/wiki/education/detailed-result-of-questionaires-for-public-survey-the-general-public.pdf).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/tongjitu109yqy.jpg"
@@ -35,11 +35,11 @@ style='width:80%'>
 Building upon our survey findings, we have formulated **4 key educational initiatives**:
 
 - [**Feed Curious Minds:**](#feed-curious-minds) We have created [**a series of picture books**](/education/#painting-our-genes-a-picture-book-series-for-kids) for children, fostered [**meaningful two-way dialogue**](/education/#continuous-dialogue-and-long-term-friendship-with-fdis) with students at FDIS, and actively engaged in [**volunteer teaching**](/education/#volunteer-teaching-in-rural-areas) in rural areas.
-- [**Interactive Biological Exploration:**](#interactive-biological-exploration) Collaborating with the Shanghai Natural History Museum and Shanghai Astronomy Museum, we have organized hands-on activities such as [**Lab Experience Day**](/education/#intern-researcher-lab-experience-day) and [**Parent-child Science Curriculum**](/education/#star-exploration-camp-parent-child-science-curriculum).
+- [**Interactive Biological Exploration:**](#interactive-biological-exploration) Collaborating with the Shanghai Natural History Museum and [the Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home), we have organized hands-on activities such as [**Lab Experience Day**](/education/#intern-researcher-lab-experience-day) and [**Parent-child Science Curriculum**](/education/#star-exploration-camp-parent-child-science-curriculum).
 - [**Reach the Public:**](#reach-the-public) Leveraging [**a metaverse game**](/education/#metaverse-game-exploration-and-discovery-through-synthetic-biology) and conducting [**street interviews**](/education/#street-interview-encountering-diverse-perspectives), we've brought synthetic biology to the general public. Additionally, we've provided a multidisciplinary insight into synthetic biology.
 - [**Empower the iGEM Community:**](#empower-igem-community) In commemoration of iGEM's 20th anniversary, we embarked on several endeavors to expand the community of synthetic biology enthusiasts within [**Fudan University**](/education/#the-bertalanffy-club-cultivating-synthetic-biology-enthusiats-at-fudan), [**educational enterprises**](/education/#collaboration-with-enterprise-preparing-for-this-dl-team-building), [**the Yangtze River Delta region**](/education/#sustaining-collaboration), and [**China**](/education/#ccic-strengthening-the-bonds-of-the-synthetic-biology-community).
 
-Collectively, these initiatives represent "**FIRE**". We aspire to see "FIRE" embraced by a growing community, igniting a wildfire of enthusiasm for synthetic biology, much like the fire of Heaven from Prometheus ignited the spirit of humanity.
+Collectively, these initiatives represent "**FIRE**". We aspire to see "FIRE" embraced by a growing community, igniting a wildfire of enthusiasm for synthetic biology, much like the fire of Heaven from [Prometheus](https://en.wikipedia.org/wiki/Prometheus) ignited the spirit of humanity.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/qkhsi-sgvg9.gif" 
@@ -54,11 +54,13 @@ style='width:100%'>
 
 ### Painting Our Genes: A Picture Book Series for Kids
 
-<p><small style="color: gray">📅 Date: Jul. - Oct., 2023<br>🗣️Organizers: Zhe Dong, Chenye Li, Yijun Wang, Qingying Yang, Mingfang Zheng</br>  👥Audience: Children aged 4-7</small></p>
+<p><small style="color: gray">📅 Date: Jul. - Oct., 2023<br>🗣️Organizers: Zhe Dong, Chenye Li, Yijun Wang, Qingying Yang, Mingfang Zheng<br>  👥Audience: Children aged 4-7</small></p>
 
-We were committed to creating an efficient educational model that enabled children to receive and understand information quickly, introducing them to the fascinating world of synthetic biology. To achieve this, we **initiated a collaboration** among four iGEM teams (Fudan, ShanghaiTech, Tongji, and NUDT) to create a picture book series centered on **genes and gene editing**. We carefully balanced professionalism with accessibility and incorporated **interactive** **elements** for an immersive reading experience and active participation. **Continuous feedback** from a children's book editor and a select group of children helped us refine the series. These books have been distributed freely both offline and online nationwide. For Chinese version, please refer to [this link](https://static.igem.wiki/teams/4765/wiki/education/picture-book-chinese.pdf).
+We were committed to creating an efficient educational model that enabled children to receive and understand information quickly, introducing them to the fascinating world of synthetic biology. To achieve this, we **initiated a collaboration** among four iGEM teams (Fudan, [ShanghaiTech](https://2023.igem.wiki/shanghaitech-china/collaborations), [Tongji](https://2023.igem.wiki/tongji-china/), and [NUDT](https://2023.igem.wiki/nudt-china/collaborations)) to create a picture book series centered on **genes and gene editing**. We carefully balanced professionalism with accessibility and incorporated **interactive** **elements** for an immersive reading experience and active participation. **Continuous feedback** from a children's book editor and a select group of children helped us refine the series. These books have been distributed freely both offline and online nationwide. We embed English versions below, and please refer to [this file for Chinese versions](https://static.igem.wiki/teams/4765/wiki/education/picture-book-chinese.pdf).
+
 
 <iframe src="https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf" width="100%" height='500px'></iframe>
+
 
 <iframe src="https://static.igem.wiki/teams/4765/wiki/education/picture-book-gene-editing.pdf" width="100%" height='500px'></iframe>
 
@@ -66,9 +68,9 @@ We were committed to creating an efficient educational model that enabled childr
 
 ::: details
 **Preliminary Research**
+
 Considering children's reading habits, our focus was on creating engaging picture books with concise content. We also **received advice** from an editor at "Same As Child," a renowned children's picture book publishing house, selecting essential concepts in synthetic biology, using simplified language and valid examples, and incorporating visualizations.
 :::
-
 
 
 
@@ -85,7 +87,6 @@ style='width:80%'>
     </div>
 </div>
 
-
 Upon completing initial drafts, we asked professional editors for advice. On September 26th, we reached out to the editor from "Same As Child" for **a second round of feedback**. Based on the editor's suggestions, we optimized the font size, layout, and text. In addition, we also printed out a small number of the first edition to share with children, including team members' siblings and primary school students in Shanghai and rural areas.
 
 Furthermore, we invited children to participate in our **reading activities**, guiding them through the picture books, encouraging them to contemplate the questions, and complete interactive tasks like drawing in the books. This approach allowed us to not only promote synthetic biology by distributing our books but also receive valuable feedbacks directly from children, which helped us continually improve our books.
@@ -94,17 +95,17 @@ Furthermore, we invited children to participate in our **reading activities**, g
 
 ### Continuous Dialogue and Long-term Friendship with FDIS
 
-FDIS (Fudan International School) is a high school affiliated to Fudan University. Given the growing interest in synthetic biology among FDIS students, we've initiated an **ongoing and impactful dialogue** to cultivate their enthusiasm and encourage their participation in iGEM 2024.
+[FDIS](https://www.fdis.net.cn/) (Fudan International School) is a high school affiliated to Fudan University. Given the growing interest in synthetic biology among FDIS students, we've initiated an **ongoing and impactful dialogue** to cultivate their enthusiasm and encourage their participation in [iGEM 2024](https://competition.igem.org/).
 
 **Online Lecture: What Is iGEM and How to Build a Team?**
 
-<p><small style="color: gray">📅 Date: Sep. 13th, 2023  <br>🗣️Organizers: Zhe Dong, Yijun Wang, Qingying Yang, Siliang Zhan</br>  👥Audience: High school students</small></p>
+<p><small style="color: gray">📅 Date: Sep. 13th, 2023  <br>🗣️Organizers: Zhe Dong, Yijun Wang, Qingying Yang, Siliang Zhan<br>  👥Audience: High school students</small></p>
 
-We conducted a concise lecture titled ***“Unlocking the Mysteries of Synthetic Biology: Exploring iGEM”*** ([Slides](https://static.igem.wiki/teams/4765/wiki/slides/fufuonline-20231004191144.pdf)), which covered the basics of synthetic biology, introduced iGEM, showcased excellent iGEM projects in the high school track, and shared our own competition experiences. Following the lecture, **questionnaires** revealed a strong interest in iGEM among the audience, prompting us to organize a follow-up open house activity to further satisfy their curiosity.
+We conducted a concise lecture titled ***“Unlocking the Mysteries of Synthetic Biology: Exploring iGEM”*** ([the slides](https://static.igem.wiki/teams/4765/wiki/slides/fufuonline-20231004191144.pdf)), which covered the basics of synthetic biology, introduced iGEM, showcased excellent iGEM projects in the high school track, and shared our own competition experiences. Following the lecture, **questionnaires** revealed a strong interest in iGEM among the audience, prompting us to organize a follow-up open house activity to further satisfy their curiosity.
 
 **Open House: Learn More about Synthetic Biology and iGEM**
 
-<p><small style="color: gray">📅 Date: Sep. 24th, 2023  <br>🗣️Organizers: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang</br>  👥Audience: High school students</small></p>
+<p><small style="color: gray">📅 Date: Sep. 24th, 2023  <br>🗣️Organizers: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang<br>  👥Audience: High school students</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/fufu.jpg" 
@@ -116,11 +117,11 @@ style='width:80%'>
 </div>
 
 
-During this **comprehensive open house event** ([arrangement](https://static.igem.wiki/teams/4765/wiki/slides/fufuarrangement.pdf)), we initiated the collaboration with iGEM teams: ShanghaiTech-China 2023, XJTLU-CHINA 2023, and Fudan 2022.
+During this **comprehensive open house event** ([visit schedule](https://static.igem.wiki/teams/4765/wiki/slides/fufuarrangement.pdf)), we initiated the collaboration with iGEM teams: ShanghaiTech-China 2023, XJTLU-CHINA 2023, and Fudan 2022.
 
 - **Visit to the Tan Jiazhen Museum:** Honoring Mr. Tan, a renowned biologist who pioneered life sciences education in China.
 - **Lunch meeting:** Fostering dialogue between iGEMers and high school students to brainstorm developments in synthetic biology.
-- **Interactive Workshop:** Conducted by Fudan 2023 with other iGEM teams' assistance, including project introduction, gene circuit overviews, sharing of literature retrieval methods ([Slides](https://static.igem.wiki/teams/4765/wiki/slides/fufugene.pdf)), and a DIY activity of crafting origami DNA structures.
+- **Interactive Workshop:** Conducted by Fudan 2023 with other iGEM teams' assistance, including project introduction, gene circuit overviews, sharing of literature retrieval methods ([the slides](https://static.igem.wiki/teams/4765/wiki/slides/fufugene.pdf)), and a DIY activity of crafting origami DNA structures.
 
 The open house enhanced high school students' **appreciation of synthetic biology** and **encouraged their future participation** in iGEM, fostering **cross-team cooperation and learning**.
 <div style="text-align: center">
@@ -128,13 +129,13 @@ The open house enhanced high school students' **appreciation of synthetic biolog
 </div>
 
 
-###  Volunteer Teaching in Rural Areas
+### Volunteer Teaching in Rural Areas
 
 We are dedicated to advancing public education across China, with a special focus on **underprivileged children**. We have developed **tailored courses and activities** designed to cultivate their scientific curiosity and interest in synthetic biology.
 
 **“Tianwen Program": Astronomy and Biological Science Summer Camp**
 
-<p><small style="color: gray">📅 Date: Jul. 19th - Jul. 25th, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li</br>  👥Audience: Middle school students</small></p>
+<p><small style="color: gray">📅 Date: Jul. 19th - Jul. 25th, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li<br>  👥Audience: Middle school students</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/ningxiazhijiao109yqy.png" 
@@ -155,7 +156,7 @@ Nestled in an area blessed with a pristine starry sky, **the Shizuishan School**
 
 **Companion Home: Online Biology Education**
 
-<p><small style="color: gray">📅 Date: Jul. 20th, 2023  <br>🗣️Organizer: Qingying Yang</br>  👥Audience: Left-behind children</small></p>
+<p><small style="color: gray">📅 Date: Jul. 20th, 2023  <br>🗣️Organizer: Qingying Yang<br>  👥Audience: Left-behind children</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/zhijiao-suining.png" 
@@ -167,7 +168,6 @@ style='width:80%'>
 </div>
 
 
-
 ::: details
 In collaboration with Fudan University's Colorful Cloud Association, we offered **online science education** in synthetic biology and space sciences to **left-behind children** in Suining, Sichuan Province. The enthusiastic response from these children encouraged us to send them iGEM souvenirs as a token of appreciation.
 :::
@@ -177,7 +177,7 @@ In collaboration with Fudan University's Colorful Cloud Association, we offered 
 
 **Poetry Festival: Composing Poems for Life and Synthetic Biology**
 
-<p><small style="color: gray">📅 Date: Jul. 24th - Aug. 4th, 2023  <br>🗣️Organizers: Xiaohan Jiang, Yijun Wang</br>  👥Audience: Elementary school students</small></p>
+<p><small style="color: gray">📅 Date: Jul. 24th - Aug. 4th, 2023  <br>🗣️Organizers: Xiaohan Jiang, Yijun Wang<br>  👥Audience: Elementary school students</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/yunnanzhijiao109yqy.png" 
@@ -198,7 +198,7 @@ Inspired by the rich folk poems and songs of Yongping County, Yunnan Province, w
 
 **Science Course: Integrating Ethnic Minority Culture**
 
-<p><small style="color: gray">📅 Date: Aug. 12nd, 2023  <br>🗣️Organizers: Qingying Yang</br>  👥Audience: Ethnic minority students</small></p>
+<p><small style="color: gray">📅 Date: Aug. 12nd, 2023  <br>🗣️Organizers: Qingying Yang<br>  👥Audience: Ethnic minority students</small></p>
 
 
 
@@ -211,7 +211,7 @@ Collaborating with Fudan University's Expedition Community, we connected with **
 
 **Biology Seminar: Learning Genes and Brainstorming Ideas**
 
-<p><small style="color: gray">📅 Date: Aug. 16th, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li</br>  👥Audience: Elementary school students</small></p>
+<p><small style="color: gray">📅 Date: Aug. 16th, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li<br>  👥Audience: Elementary school students</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/wenzhou2.jpg" 
@@ -237,9 +237,9 @@ We organized a biology seminar for fourth-grade students in Cangnan County, Zhej
 
 ### Intern Researcher: Lab Experience Day
 
-<p><small style="color: gray">📅 Date: Aug. 14th, 2023  <br>🗣️Organizers: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</br>  👥Audience: High school students</small></p>
+<p><small style="color: gray">📅 Date: Aug. 14th, 2023  <br>🗣️Organizers: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan<br>  👥Audience: High school students</small></p>
 
-**"Intern Researcher"** is program featured cooperation between the **Shanghai Natural History Museum** and universities, which provides high school students with the opportunity to gain insights into real research and engage in short-term independent projects under the mentorship of experienced seniors. This year, we hosted the **Lab Experience Day** ([Arrangement Details](https://static.igem.wiki/teams/4765/wiki/slides/ziboarrangement.pdf)) for the 2023 Intern Researcher in partnership with Shanghai Natural History Museum.
+**"Intern Researcher"** is program featured cooperation between the **Shanghai Natural History Museum** and universities, which provides high school students with the opportunity to gain insights into real research and engage in short-term independent projects under the mentorship of experienced seniors. This year, we hosted the **Lab Experience Day** ([arrangement details](https://static.igem.wiki/teams/4765/wiki/slides/ziboarrangement.pdf)) for the 2023 Intern Researcher in partnership with Shanghai Natural History Museum.
 
 **Workshop: Navigating Scientific Challenges**
 
@@ -253,7 +253,7 @@ style='width:80%'>
 </div>
 
 
-Our day began with an engaging workshop titled **"*Navigating Scientific Challenges*"**([Presentation Slides](https://static.igem.wiki/teams/4765/wiki/slides/zibonavigatingquestion.pdf)), where we introduced the scientific research process, emphasizing problem-solving and research literature exploration. We also initiated a lively discussion on synthetic biology and our iGEM project.
+Our day began with an engaging workshop titled **"*Navigating Scientific Challenges*"**([the presentation file](https://static.igem.wiki/teams/4765/wiki/slides/zibonavigatingquestion.pdf)), where we introduced the scientific research process, emphasizing problem-solving and research literature exploration. We also initiated a lively discussion on synthetic biology and our iGEM project.
 
 **Experiment: Discovering Your DNA Fingerprint**
 
@@ -267,13 +267,13 @@ style='width:80%'>
 </div>
 
 
-Prior to the workshop, these high school students had already undergone safety training at Fudan University labs while working on their individual research projects. Following our workshop, we ensured an additional layer of safety by providing students with **a comprehensive lab safety lecture** ([Presentation Slides](https://static.igem.wiki/teams/4765/wiki/slides/zibodnafingerprint.pdf)) and detailed safety guidelines (available [here](/safety/)). With parental consent and voluntary signing of a safety guarantee letter, the students were invited into our laboratory, where they received guidance from four experienced members of the Fudan iGEM 2023.
+Prior to the workshop, these high school students had already undergone safety training at Fudan University labs while working on their individual research projects. Following our workshop, we ensured an additional layer of safety by providing students with **a comprehensive lab safety lecture** ([the presentation file](https://static.igem.wiki/teams/4765/wiki/slides/zibodnafingerprint.pdf)) and detailed safety guidelines (available [here](/safety/)). With parental consent and voluntary signing of a safety guarantee letter, the students were invited into our laboratory, where they received guidance from four experienced members of the Fudan iGEM 2023.
 
-In our lab, they embarked on an experiment to **analyze their DNA fingerprints** using the VNTR sequence DIS80 on the 1st human chromosome ([Principles & Protocols](https://static.igem.wiki/teams/4765/wiki/slides/ziboexperiment.pdf)). This hands-on experience exposed them to **fundamental synthetic biology techniques** such as PCR and agarose gel electrophoresis. Remarkably, most students achieved outstanding results, making this educational journey both enlightening and memorable.
+In our lab, they embarked on an experiment to **analyze their DNA fingerprints** using the VNTR sequence DIS80 on the 1st human chromosome ([Principle & Protocol](https://static.igem.wiki/teams/4765/wiki/slides/ziboexperiment.pdf)). This hands-on experience exposed them to **fundamental synthetic biology techniques** such as PCR and agarose gel electrophoresis. Remarkably, most students achieved outstanding results, making this educational journey both enlightening and memorable.
 
 **Feedback and Continued Dialogue**
 
-Following the activity, we distributed a **feedback questionnaire** to participants, yielding valuable insights. Two participants, in particular, provided unique perspectives and even identified errors in our presentation slides. In response, we offered [comprehensive explanations](https://static.igem.wiki/teams/4765/wiki/slides/ziboresponse.pdf) of DNA analysis techniques and extended invitations for a follow-up visit. This continued dialogue has further ignited their passion for biology.
+Following the activity, we distributed a **feedback questionnaire** to participants, yielding valuable insights. Two participants, in particular, provided unique perspectives and even identified errors in our presentation slides. In response, we offered [comprehensive explanations in Chinese](https://static.igem.wiki/teams/4765/wiki/slides/ziboresponse.pdf) of DNA analysis techniques and extended invitations for a follow-up visit. This continued dialogue has further ignited their passion for biology.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/result-new.png" 
@@ -288,9 +288,9 @@ style='width:60%'>
 
 ### Star Exploration Camp: Parent-child Science Curriculum
 
-<p><small style="color: gray">📅 Date: Sep. 10th, 2023  <br>🗣️Organizers: Zhe Dong, Yijun Wang, Qingying Yang</br>  👥Audience: Children aged 6-9 and their parentss</small></p>
+<p><small style="color: gray">📅 Date: Sep. 10th, 2023  <br>🗣️Organizers: Zhe Dong, Yijun Wang, Qingying Yang<br>  👥Audience: Children aged 6-9 and their parentss</small></p>
 
-We established a robust partnership with the **Shanghai Astronomy Museum**, recognized as the world's largest astronomy museum, drawing approximately 6,000 daily visitors in China. Leveraging this collaboration, we orchestrated the **Star Exploration Camp**, a dynamic initiative aimed at imparting fundamental knowledge in biology and Mars exploration to children and their parents.
+We established a robust partnership with [the Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home), recognized as the world's largest astronomy museum, drawing approximately 6,000 daily visitors in China. Leveraging this collaboration, we orchestrated the **Star Exploration Camp**, a dynamic initiative aimed at imparting fundamental knowledge in biology and Mars exploration to children and their parents.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/tianwenguan-a.jpg" 
@@ -303,7 +303,7 @@ style='width:80%'>
 
 **Lecture: The Light of Life on Mars**
 
-Our captivating lecture, titled *"The Light of Life on Mars"*, merged biology and astronomy ([Presnetation Slides](https://static.igem.wiki/teams/4765/wiki/slides/tianwenguanslide.pdf)). It facilitated thought-provoking comparisons between the Earth's environment and that of Mars, including the life forms that could potentially thrive there. Furthermore, we introduced our project's synthetic biology approach to transform the Martian environment, highlighting its significant potential in space. For most child participants, terms such as "DNA," "bacteria," and "synthetic biology" were entirely new, marking this as **a pivotal educational beginning**.
+Our captivating lecture, titled *"The Light of Life on Mars"*, merged biology and astronomy ([the presnetation file](https://static.igem.wiki/teams/4765/wiki/slides/tianwenguanslide.pdf)). It facilitated thought-provoking comparisons between the Earth's environment and that of Mars, including the life forms that could potentially thrive there. Furthermore, we introduced our project's synthetic biology approach to transform the Martian environment, highlighting its significant potential in space. For most child participants, terms such as "DNA," "bacteria," and "synthetic biology" were entirely new, marking this as **a pivotal educational beginning**.
 
 **DIY Workshop: Create Clay Models of Martian life**
 
@@ -321,7 +321,7 @@ Following the lecture, we organized a DIY workshop where children and parents co
 
 **Interviews and Ongoing Discourse**
 
-In the lead-up to this event, the Shanghai Astronomy Museum's exhibition and teaching department provided invaluable insights regarding **essential teaching components, logical coherence, and interactive elements**. Consequently, we meticulously designed interactive discussion sessions and conducted **audience interviews** during the DIY workshop. The enthusiastic endorsement and support from parents, coupled with the notable interest displayed by children in the synthetic biology, reaffirmed the success and impact of our activities.
+In the lead-up to this event, [the Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home)'s exhibition and teaching department provided invaluable insights regarding **essential teaching components, logical coherence, and interactive elements**. Consequently, we meticulously designed interactive discussion sessions and conducted **audience interviews** during the DIY workshop. The enthusiastic endorsement and support from parents, coupled with the notable interest displayed by children in the synthetic biology, reaffirmed the success and impact of our activities.
 
 <div style="text-align: center">
 <iframe title="Fudan: Education video (2023) [English]" width="80%" height="500px" src="https://video.igem.org/videos/embed/5cfcffd3-d77d-4715-9f74-59a1e14dd9a1" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
@@ -335,7 +335,7 @@ In the lead-up to this event, the Shanghai Astronomy Museum's exhibition and tea
 
 ### Metaverse Game: Exploration and Discovery through Synthetic Biology
 
-<p><small style="color: gray">📅 Date: Jul. - Oct., 2023  <br>🗣️Organizers: All team members</br>  👥Audience: General public</small></p>
+<p><small style="color: gray">📅 Date: Jul. - Oct., 2023  <br>🗣️Organizers: All team members<br>  👥Audience: General public</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/fudan-igem-2023-metaverse-game-about-synthetic-biology.gif" 
@@ -343,7 +343,7 @@ style='width:100%'>
 </div>
 
 
-We collaborated with the `Promise<Pending>` group (comprising Shitao Gong, Gengyu Wang, Jiayi Wang, Shangxuan Tang), to create **an immersive metaverse game** (experience the game [here](http://121.4.67.20:8080/)) that breaths life into the world of synthetic biology. The game is set in a distant future where humanity dispatches robots to explore a second home. In this intriguing virtual world, players navigate robots to **uncover scattered genetic "parts", assemble gene circuits**, and fulfill exploration missions.
+We collaborated with the `Promise<Pending>` group (comprising [Shitao Gong](https://2021.igem.org/Team:Fudan/Team#shitao-gong), Gengyu Wang, Jiayi Wang, Shangxuan Tang), to create **an immersive metaverse game** (experience the game [here](http://121.4.67.20:8080/)) that breaths life into the world of synthetic biology. The game is set in a distant future where humanity dispatches robots to explore a second home. In this intriguing virtual world, players navigate robots to **uncover scattered genetic "parts", assemble gene circuits**, and fulfill exploration missions.
 
 
 
@@ -365,7 +365,7 @@ This metaverse game has proven to be a compelling and engaging tool to bridge th
 
 ### Street Interview: Encountering Diverse Perspectives
 
-<p><small style="color: gray">📅 Date: Sep. 17th, 2023  <br>🗣️Organizers: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang</br>  👥Audience: General public</small></p>
+<p><small style="color: gray">📅 Date: Sep. 17th, 2023  <br>🗣️Organizers: Zhe Dong, Xiaohan Jiang, Chenye Li, Qingying Yang<br>  👥Audience: General public</small></p>
 
 To foster public engagement and promote synthetic biology awareness, we conducted a series of **enlightening street interviews**. Our interactions spanned **a wide spectrum of individuals**, including bio-pharmaceutical professionals, international visitors from Australia, and university students. During these conversations, we introduced synthetic biology and expounded upon our project, while also gathering **valuable feedback** and **diverse viewpoints**.
 
@@ -406,7 +406,7 @@ Students majoring in civil engineering at Donghua University encountered synthet
 
 ### The Bertalanffy Club: Cultivating Synthetic Biology Enthusiats at Fudan
 
-<p><small style="color: gray">📅 Date: Mar 28th, 2023  <br>🗣️Organizers: Zhikai Jiang, Yijun Wang</br>  👥Audience: College students</small></p>
+<p><small style="color: gray">📅 Date: Mar 28th, 2023  <br>🗣️Organizers: Zhikai Jiang, Yijun Wang<br>  👥Audience: College students</small></p>
 
 Established in 2011 and managed by Fudan iGEM, the **Bertalanffy Club** serves as a dynamic platform dedicated to igniting the passion for synthetic biology among Fudan University students. Each year, we enthusiastically organize engaging activities during **campus fairs** to not only recruit new members but also to raise awareness and foster understanding of synthetic biology.
 
@@ -442,7 +442,7 @@ style='width:60%'>
 
 **Summer Camp: Conversations on Synthetic Biology with Middle School Students**
 
-<p><small style="color: gray">📅 Date: Jul 14th, 2023  <br>🗣️Organizers: Zhe Dong, Yijun Wang, Qingying Yang, Zhenmao Ye</br>  👥Audience: Middle school students</small></p>
+<p><small style="color: gray">📅 Date: Jul 14th, 2023  <br>🗣️Organizers: Zhe Dong, Yijun Wang, Qingying Yang, Zhenmao Ye<br>  👥Audience: Middle school students</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/0714xuanjiang108yqy.jpg" 
@@ -457,7 +457,7 @@ style='width:80%'>
 
 
 ::: details
-We hosted a one-day summer camp tailored for middle school students, introducing them to the captivating realm of synthetic biology. Beginning with the central dogma of genetics, we employed relatable analogies, likening cells to factories, organelles to workshops, and enzymes to workers, to elucidate the core principles of synthetic biology ([Presnetation Slides](https://static.igem.wiki/teams/4765/wiki/slides/0714-20231004233458.pdf)).
+We hosted a one-day summer camp tailored for middle school students, introducing them to the captivating realm of synthetic biology. Beginning with the central dogma of genetics, we employed relatable analogies, likening cells to factories, organelles to workshops, and enzymes to workers, to elucidate the core principles of synthetic biology ([the presnetation file](https://static.igem.wiki/teams/4765/wiki/slides/0714-20231004233458.pdf)).
 :::
 
 
@@ -465,7 +465,7 @@ We hosted a one-day summer camp tailored for middle school students, introducing
 
 **Buffet: Deep Communication with High School Students**
 
-<p><small style="color: gray">📅 Date: Jul 22th, 2023  <br>🗣️Organizers: All team members</br>  👥Audience: High school students</small></p>
+<p><small style="color: gray">📅 Date: Jul 22th, 2023  <br>🗣️Organizers: All team members<br>  👥Audience: High school students</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/gaozhongsheng-new.jpg" 
@@ -493,7 +493,7 @@ Interacting with these students highlighted **a significant gap** in the Chinese
 
 ### Collaboration with Enterprise: Preparing for THIS DL Team Building
 
-<p><small style="color: gray">📅 Date: Sep 13rd, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li</br>  👥Audience: High school students</small></p>
+<p><small style="color: gray">📅 Date: Sep 13rd, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li<br>  👥Audience: High school students</small></p>
 
 In our efforts to promote synthetic biology among high school students, we've been dedicated to two primary objectives: **bridging the gap between high school and university education** and **facilitating the establishment of high school iGEM teams**.
 
@@ -507,7 +507,7 @@ style='width:80%'>
 </div>
 
 
-THIS DL (Tsinghua International School, Daoxiang Lake) is a renowned international high school in Beijing, where an increasing number of students have shown interest in synthetic biology in recent years. Collaborating with **LabXcel**, an educational company dedicated to inspiring and nurturing scientific thinking in young minds, we conducted a lecture at THIS DL titled ***Exploring Microbial Design, Integrating Multidisciplinary Talents***.
+[THIS DL]((http://www.thisdl.cn/en/)) (Tsinghua International School, Daoxiang Lake) is a renowned international high school in Beijing, where an increasing number of students have shown interest in synthetic biology in recent years. Collaborating with **LabXcel**, an educational company dedicated to inspiring and nurturing scientific thinking in young minds, we conducted a lecture at THIS DL titled ***Exploring Microbial Design, Integrating Multidisciplinary Talents***.
 
 
 
@@ -525,7 +525,7 @@ The lecture session was followed by an engaging **Q&A** session, during which we
 
 ### CCiC: Strengthening the Bonds of the Synthetic Biology Community
 
-<p><small style="color: gray">📅 Date: Jul. 8th - Jul. 10th, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li, Yijun Wang, Qingying Yang</br>  👥Audience: iGEM teams in China</small></p>
+<p><small style="color: gray">📅 Date: Jul. 8th - Jul. 10th, 2023  <br>🗣️Organizers: Zhiyue Chen, Chenye Li, Yijun Wang, Qingying Yang<br>  👥Audience: iGEM teams in China</small></p>
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/ccic.png" 
@@ -539,16 +539,16 @@ style='width:80%'>
 
 The **Conference of China iGEMer Community (CCiC)**, an annual gathering initiated by Chinese iGEM teams, serves as a pivotal platform for resource sharing and collaborative learning in the realm of synthetic biology.
 
-- **Presentation:** During CCiC, we had the opportunity to showcase our project, which focused on ecological biofilm design for terraforming (check out for detailed [description](/description/))
+- **Presentation:** During CCiC, we had the opportunity to showcase our project, which focused on ecological biofilm design for terraforming (follow [this link for detailed description](/description/)).
 
 - **Collaboration:** Interacting with fellow iGEM teams from across the nation, we engaged in collaborative discussions and knowledge exchange, fostering mutual growth and learning.
 
 #### Sustaining Collaboration
 
-Participating in CCiC allowed us to witness the remarkable growth of synthetic biology in China. Committed to fortifying inter-regional bonds and pushing the boundaries of the field, we took the initiative to establish **the iGEM Alliance of the Yangtze River Delta**. This alliance, comprising esteemed institutions such as ShanghaiTech, TJU, ZJU, NJU, and SJTU, represents a unified regional community dedicated to advancing synthetic biology.  Additionally, we have reached out for collaboration to **the Shanghai Society of Genetics**. To date, these schools in the Alliance have collaboratively crafted a series of educational children's picture books. With our collective endeavors, we hold a confident vision that the iGEM Alliance of the Yangtze River Delta will etch a profound and enduring mark on the future landscape of synthetic biology in China and beyond.
+Participating in CCiC allowed us to witness the remarkable growth of synthetic biology in China. Committed to fortifying inter-regional bonds and pushing the boundaries of the field, we took the initiative to establish **the iGEM Alliance of the Yangtze River Delta**. This alliance, comprising esteemed institutions such as [ShanghaiTech](https://2023.igem.wiki/shanghaitech-china/), TJU, ZJU, NJU, and SJTU, represents a unified regional community dedicated to advancing synthetic biology.  Additionally, we have reached out for collaboration to **the Shanghai Society of Genetics**. To date, these schools in the Alliance have collaboratively crafted a series of educational children's picture books. With our collective endeavors, we hold a confident vision that the iGEM Alliance of the Yangtze River Delta will etch a profound and enduring mark on the future landscape of synthetic biology in China and beyond.
 
 
 
 ## Summary
 
-Our educational initiatives, collectively represented by "**FIRE**", encompass a diverse range of endeavors. From guiding children through picture book and interactive explorations, from extending a hand to the public through outreach to empowering the iGEM community, these efforts aim to kindle a blazing passion for synthetic biology. Just as Prometheus ignited the spirit of humanity, we aspire to ignite a wildfire of enthusiasm within our ever-growing community, fueling the flames of curiosity and discovery.
+Our educational initiatives, collectively represented by "**FIRE**", encompass a diverse range of endeavors. From guiding children through picture book and interactive explorations, from extending a hand to the public through outreach to empowering [the iGEM community](https://community.igem.org), these efforts aim to kindle a blazing passion for synthetic biology. Just as [Prometheus](https://en.wikipedia.org/wiki/Prometheus) ignited the spirit of humanity, we aspire to ignite a wildfire of enthusiasm within our ever-growing community, fueling the flames of curiosity and discovery.
