@@ -13,7 +13,7 @@ We've improved a metabolic management system, named **Ribozyme-Assisted Polycist
 
 A pRAP module consists of four components arranged from the 5' to the 3' end: a twister ribozyme, RBS, CDS, and a stem-loop structure.
 
-The twister ribozyme, an RNA molecule capable of self-cleavage at specific sites[^2,3], is strategically incorporated between coding CDSs within a polycistron. This ribozyme efficiently cleaves the polycistronic mRNA transcript, transforming it into individual mono-cistrons. This process eliminates inter-cistron interactions, ensuring comparable translation initiation rates for each mono-cistron.
+The twister ribozyme, an RNA molecule capable of self-cleavage at specific sites[^2][^3], is strategically incorporated between coding CDSs within a polycistron. This ribozyme efficiently cleaves the polycistronic mRNA transcript, transforming it into individual mono-cistrons. This process eliminates inter-cistron interactions, ensuring comparable translation initiation rates for each mono-cistron.
 
 What's more, to protect the mono-cistron mRNA from degradation, a stem-loop structure is placed at the 3' end of the CDSs[^1].
 
@@ -196,7 +196,7 @@ This module assists bacteria to attach to Martian rocks while facilitating rock 
 ## References
 [^1]: Liu, Y., Wu, Z., Wu, D., Gao, N., & Lin, J. (2022). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synthetic Biology*, *12*(1), 136–143. https://doi.org/10.1021/acssynbio.2c00416
 [^2]: Eiler, D., Wang, J., & Steitz, T. A. (2014). Structural basis for the fast self-cleavage reaction catalyzed by the twister ribozyme. *Proceedings of the National Academy of Sciences*, *111*(36), 13028–13033. https://doi.org/10.1073/pnas.1414571111
-[^3]:  Chen, Y., Cheng, Y., & Lin, J. (2022). A scalable system for the fast production of RNA with homogeneous terminal ends. *RNA Biology, 19*:1, 1077-1084. https://doi.org/10.1080/15476286.2022.2123640
+[^3]: Chen, Y., Cheng, Y., & Lin, J. (2022). A scalable system for the fast production of RNA with homogeneous terminal ends. *RNA Biology, 19*:1, 1077-1084. https://doi.org/10.1080/15476286.2022.2123640
 [^4]: Hibshman, J. D., Clark-Hachtel, C. M., Bloom, K. S., & Goldstein, B. (2023). A bacterial expression cloning screen reveals tardigrade single-stranded DNA-binding proteins as potent desicco-protectants (2023.08.21.554171). *bioRxiv*. https://doi.org/10.1101/2023.08.21.554171
 [^5]: Glass, D. S., & Riedel-Kruse, I. H. (2018). A Synthetic Bacterial Cell-Cell Adhesion Toolbox for Programming Multicellular Morphologies and Patterns. *Cell*, *174*(3), 649-658.e16. https://doi.org/10.1016/j.cell.2018.06.041
 [^6]: Kim, H., Skinner, D. J., Glass, D. S., Hamby, A. E., Stuart, B. A. R., Dunkel, J., & Riedel-Kruse, I. H. (2022). 4-bit adhesion logic enables universal multicellular interface patterning. *Nature*, *608*(7922), 324–329. https://doi.org/10.1038/s41586-022-04944-2
