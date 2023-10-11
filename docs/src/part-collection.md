@@ -35,7 +35,9 @@ Subsequently, we developed an assessment setup to evaluate pRAP with RAP perform
 style='width:100%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 2: Stem-loop test.</small></p>
+<p><small style="color: gray">Figure 2: Stem-loop test.
+<br>
+This module can be used to evaluate stem-loop efficiency.</small></p>
 </div>
 </div>
 <div style="text-align: center;">
@@ -69,7 +71,9 @@ We also tested the anti-UV capability of Rv Dusp, FEN1, and XRCC1.
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 3: Survival system</small></p>
+<p><small style="color: gray">Figure 3: Survival system.
+<br>
+With specific genes inserted into pRAP system, this module confers bacteria the ability to survive harsh conditions.</small></p>
 </div>
 </div>
 <div style="text-align: center;">
@@ -123,7 +127,9 @@ As for the connection between *E.coli* and cyanobacteria, we have selected *Syne
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 4: Biofilm Formation System</small></p>
+<p><small style="color: gray">Figure 4: Biofilm Formation System
+<br>
+Bacteria form cell-cell adhesion through this module, thus forming biofilm.</small></p>
 </div>
 </div>
 <div style="text-align: center;">
@@ -162,7 +168,7 @@ style='width:70%'>
 
 Our objective is to modify the biofilm to firmly attach to the surfaces of Martian rocks and facilitate the process of rock erosion. To achieve this, we have introduced the **oxalic acid module** and the **extracellular polysaccharide (EPS) module**.
 
-As for the oxalic acid module, following multiple discussions with [CAU-China_2022](/collaborations/#with-cau-china-project-design), we have decided to adopt their composite part ([ BBa_K4192120](http://parts.igem.org/Part:BBa_K4192120)) to produce oxalic acid by modifying the TCA cycle of *E.coli*.
+As for the oxalic acid module, following multiple discussions with [CAU-China_2022](/collaborations/#with-cau-china-project-design), we have decided to adopt their composite part ([BBa_K4192120](http://parts.igem.org/Part:BBa_K4192120)) to produce oxalic acid by modifying the TCA cycle of *E.coli*.
 
 Regarding the EPS module, inspired by XJTU-China_2020's [project](https://2020.igem.org/Team:XJTU-China), we plan to overexpress the key enzymes, PgmA and GalU, both from *E.coli* pathways involved in EPS synthesis, to increase the amount of EPS around the biofilm. To enhance EPS production, we have also incorporated these enzymes into the pRAP system ([BBa_K4765121](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765121)).
 
@@ -171,7 +177,9 @@ Regarding the EPS module, inspired by XJTU-China_2020's [project](https://2020.i
 style='width:100%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 5: EPS module</small></p>
+<p><small style="color: gray">Figure 5: EPS module.
+<br>
+This module assists bacteria to attach to Martian rocks while facilitating rock weathering.</small></p>
 </div>
 </div>
 <div style="text-align: center;">
