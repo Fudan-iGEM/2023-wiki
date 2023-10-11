@@ -115,7 +115,7 @@ When keeping the other parameters constant, **altering the binding strength** of
 With a fixed value of $K = 0.062$ and varying the parameter $F$, it was observed that at lower values of $F$, the biofilm tends to form spotted patterns, whereas as $F$ increases, the membrane develops finer stripe-like patterns. However, if $F$ becomes excessively large, the rate of biofilm formation decreases ([Figure 2](#fig-2)).
 
  <div style="text-align: center;" id="fig-2">
-<img src="https://static.igem.wiki/teams/4765/wiki/jzk/figure-2-tiny.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/model-1.png"
 style='width:70%'>
 <br>
 <div>
@@ -129,7 +129,7 @@ Fix K at 0.062 and change F from 0.02 to 0.07.</small></p>
 When $F$ is held constant at 0.055, it was observed that within a certain range, as the value of $K$ increases, the rate of biofilm formation decreases, while the patterns become finer ([Figure 3](#fig-3)).
 
 <div style="text-align: center;" id="fig-3">
-<img src="https://static.igem.wiki/teams/4765/wiki/jzk/figure-3-tiny.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/model-2.png"
 style='width:70%'>
 <br>
 <div>
@@ -144,7 +144,7 @@ Fix F at 0.055 and change K from 0.0606 to 0.0636.
 When we hold the other parameters constant and **vary the initial distribution concentration**, different biofilm morphologies are observed. As seen in [Figure 4](#fig-4), as the bacterial concentration gradually increases, the rate of biofilm formation accelerates. Furthermore, the shape of the biofilm patterns is influenced by the initial concentration distribution. If the initial concentration distribution exhibits high symmetry, the resulting biofilm exhibits a high degree of symmetry as well.
 
 <div style="text-align: center;" id="fig-4">
-<img src="https://static.igem.wiki/teams/4765/wiki/jzk/figure-4-tiny.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/model-3.png"
 style='width:70%'>
 <br>
 <div>
