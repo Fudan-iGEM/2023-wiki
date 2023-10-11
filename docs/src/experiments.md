@@ -166,7 +166,7 @@ CoBG-11 was designed based on BG-11 medium and optimized for *E. coli* growth by
 4. Perform CFU counting. Independent experiment was repeated 3 times.
 :::
 
-## *Desiccation Survival Assay
+## Desiccation Survival Assay
 
 ::: details Desiccation Survival Assay
 
