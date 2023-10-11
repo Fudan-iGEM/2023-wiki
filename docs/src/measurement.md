@@ -9,17 +9,17 @@ authorlink:
 
 ## Introduction
 
-In our B.HOME project, we aim to construct a multifunctional biofilm to achieve the terraforming goals on Mars. This requires ensuring that the chassis can perform a variety of tasks. Once we successfully build the relevant parts, we need to conduct functional experiments to ascertain their effectiveness. For instance, in the design of the biofilm's survival system, we must ensure it possesses various functions such as anti-freeze, anti-desiccation, and anti-UV. We need to compare how well the chassis can survive under these harsh conditions after the introduction of certain parts, which is typically quantified through the number of bacteria.
+In our [B.HOME project](/description/), we aim to construct a multifunctional biofilm to achieve the terraforming goals on Mars. This requires ensuring that the chassis can perform a variety of tasks. Once we successfully build the relevant parts, we need to **conduct functional experiments** to ascertain their effectiveness. For instance, in the design of the biofilm's survival system, we must ensure it possesses various functions such as anti-freeze, anti-desiccation, and anti-UV. We need to compare how well the chassis can survive under these harsh conditions after the introduction of certain parts, which is typically quantified through the number of bacteria.
 
-Considering that we have multiple functions to validate and are utilizing an enzymatic system to assist with protein expression, to streamline the validation process and reduce the molecular cloning workload,  we have opted for the Colony-Forming Unit (CFU) assay. This will enable us to demonstrate the functionality of parts in a simple, direct, and repeatable manner.
+Considering that we have multiple functions to validate and are utilizing an enzymatic system to assist with protein expression, to streamline the validation process and reduce the molecular cloning workload,  we have opted for the **Colony-Forming Unit (CFU) assay**. This will enable us to demonstrate the functionality of parts in a simple, direct, and repeatable manner.
 
 ## Overview
 
 There are various methods for quantifying colonies, broadly categorized into direct and indirect counting.
 
-In direct counting, we can employ a counting chamber, such as the Petroff-Hausser counting chamber, which calculates the number of microorganisms in a sample based on the chamber's volume and the sample's dilution ratio before counting[^1]. However, this method requires that the microbial population must be relatively large and evenly distributed. Instruments like flow cytometers can also be used for direct counting, but they are costly and involve complex operations. More importantly, direct counting commonly faces a limitation: it cannot distinguish between live and dead bacteria[^2].
+In **direct counting**, we can employ a counting chamber, such as the Petroff-Hausser counting chamber, which calculates the number of microorganisms in a sample based on the chamber's volume and the sample's dilution ratio before counting[^1]. However, this method requires that the microbial population must be relatively large and evenly distributed. Instruments like flow cytometers can also be used for direct counting, but they are costly and involve complex operations. More importantly, direct counting commonly faces a limitation: **it cannot distinguish between live and dead bacteria**[^2].
 
-In our functional experiments, excluding dead bacteria during counting is of utmost importance. Therefore, we lean towards indirect counting methods. When using this approach to determine colony size, it typically involves diluting the processed sample, plating it onto agar plates, counting colonies after a specific incubation period, and then calculating the original number of live bacteria in the sample based on the dilution factor[^3]. Similarly, researchers determine bacteriophage concentration by counting the number of phage plaques[^4].
+In our functional experiments, excluding dead bacteria during counting is of utmost importance. Therefore, we lean towards **indirect counting** methods. When using this approach to determine colony size, it typically involves diluting the processed sample, plating it onto agar plates, counting colonies after a specific incubation period, and then calculating the original number of live bacteria in the sample based on the dilution factor[^3]. Similarly, researchers determine bacteriophage concentration by counting the number of phage plaques[^4].
 
 In the previous iGEM protocol[^5], the key procedures involved are as follows:
 
@@ -77,7 +77,7 @@ What's more, based on our past experiences and reports in the literature[^6], so
 
 ## Results
 
-To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP[(Part:BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E.coli* exhibits antifreeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
+To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP [(Part:BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E.coli* exhibits antifreeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/measurement-2.png"
@@ -106,9 +106,9 @@ In the initial 48 hours, there was no significant difference in the survival rat
 
 ## Summary
 
-Through CFU experiments, we have convincingly demonstrated that the expression of AnAFP in *E.coli* can effectively confer antifreeze properties. The CFU method exhibits excellent repeatability, as evidenced by minimal errors among multiple experimental groups, and has shown remarkable performance in other functional experiments as well, as detailed on our [Results](/results/) page.
+Through CFU experiments, we have convincingly demonstrated that the expression of AnAFP in *E.coli* can effectively confer antifreeze properties. The CFU method exhibits excellent **repeatability**, as evidenced by minimal errors among multiple experimental groups, and has shown remarkable performance in other functional experiments as well, as detailed on our [Results](/results/) page.
 
-In summary, CFU assay is a concise, effective, and highly reproducible quantitative experimental technique that merits broader utilization.
+In summary, CFU assay is a **concise, effective, and highly reproducible** quantitative experimental technique that merits broader utilization.
 
 
 
