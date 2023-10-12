@@ -2,6 +2,7 @@
 sidebar: auto
 title: Notebook
 ---
+
 ## January
 
 <p><small style="color: gray">👤 Participants: All members</small></p>
@@ -43,6 +44,8 @@ style='width:70%'>
 		<p><small style="color: gray">The presentations of four well-defined project topics put forward by new members.</small></p>
 	</div>
 </div>
+
+
 ## February
 
 <p><small style="color: gray">👤 Participants: All members</small></p>
@@ -63,6 +66,8 @@ style='width:70%'>
 		<p><small style="color: gray">We held a series of regular meetings and engaged in design discussions.</small> </p>
 	</div>
 </div>
+
+
 ## March
 
 <p><small style="color: gray">👤 Participants: All members</small></p>
@@ -105,6 +110,7 @@ style='width:70%'>
 	</div>
 </div>
 
+
 ## April
 
 <p><small style="color: gray">📅 Date: Apr. 4th <br>👤 Participants: Yijun Wang, Siliang Zhan</small></p>
@@ -124,6 +130,7 @@ style='width:70%'>
 <p><small style="color: gray">📅 Date: Apr. 20th<br>👤 Participants: All members</small></p>
 
 On April 20th, following a thorough screening process, we officially confirmed the composition of the ten-member Fudan 2023 iGEM team. The very next day, April 21st, we conducted the iGEM **Design Mix2 meeting**. During this session, team members provided updates on their respective progress towards shaping this year's definitive project direction.
+
 
 ## May
 
@@ -161,6 +168,8 @@ style='width:70%'>
 		<p><small style="color: gray">We have made a lot of research on the potential applications of biofilm.</small></p>
 	</div>
 </div>
+
+
 ## June
 
 <p><small style="color: gray">📅 Date: Jun. 1st<br>👤 Participants: Zhe Dong, Zhenmao Ye</small></p>
@@ -179,6 +188,7 @@ style='width:70%'>
 		<p><small style="color: gray">Our team members with Prof. Quan</small></p>
 	</div>
 </div>
+
 
 ## July
 
@@ -275,6 +285,7 @@ style='width:70%'>
 <p><small style="color: gray">📅 Date: Aug. 16th <br>👤 Participants: Zhiyue Chen, Chenye Li</small></p>
 
 We organized a **[biology seminar](/education/#volunteer-teaching-in-rural-areas)** for fourth-grade students in Cangnan County, Zhejiang Province. By drawing connections between their understanding of **individual traits and the link between genes and traits**, we stimulated their curiosity and creativity. Students were encouraged to brainstorm and design **their own "synthetic biology projects"**. Their innovative ideas served as a source of inspiration, reinforcing our belief that education is a **mutual learning process**.
+
 
 ## September
 
