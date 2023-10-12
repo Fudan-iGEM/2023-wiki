@@ -7,6 +7,7 @@ authorlink:
 - /fudan/team/#zhikai-jiang-the-model-specialist
 ---
 
+Our favourite part is [BBa_K4765129 (BBa_K4765129)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129)
 ## Ribozyme-Assisted Polycistronic co-expression
 
 We've improved previously published **Ribozyme-Assisted Polycistronic co-expression (pRAP) system**[^1]. This improvement allows for the simultaneous expression of multiple proteins by inserting all B.HOME CDS sequences into [one](http://parts.igem.org/Part:BBa_K4765140). Our Software [RAP](/software/) could: 1) design synthetic stem-loops with different strengths to control avaiable mRNA; 2) leverages enzyme $k_{cat}$ values to design RBS with varying strengths, thereby controlling the initial translation rates. These fine-tuning enable the modulation of *Escherichia coli*'s metabolic flux, reducing metabolic stress.
