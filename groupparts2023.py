@@ -59,8 +59,8 @@ z = sorted([
     'BBa_K4765104',
     'BBa_K4765005',
     'BBa_K4765106' ])
-z += range(1, 28)
-z += range(101, 141)
+z += range(1, 27)
+z += range(101, 140)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
 fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | |\n')
