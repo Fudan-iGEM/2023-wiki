@@ -19,11 +19,11 @@
           <div style="width: 40%;padding-top: 20vh;padding-bottom: 20vh">
               <img src="https://static.igem.wiki/teams/4765/wiki/czy/home-1.svg">
           </div>
-          <div data-aos="zoom-in-right" data-aos-duration="800" data-aos-easing="ease-out-cubic"><p style="margin:0;padding-left:5vw;padding-bottom: 10vh;padding-top:10vh;color:white;font-size: 2rem;"><span style="color:#e37654;font-size: 4rem">What if ...</span><br>We could call somewhere <span style="color:#e37654;">beyond Earth</span>
+          <div data-aos="zoom-in-right" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="center-center"><p style="margin:0;padding-left:5vw;padding-bottom: 10vh;padding-top:10vh;color:white;font-size: 2vw;"><span style="color:#e37654;font-size: 4vw">What if ...</span><br>We could call somewhere <span style="color:#e37654;">beyond Earth</span>
               our new home?</p></div>
       </section>
       <section class="page-2">
-          <div data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out-cubic"><p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:10vw;padding-right:10vw;color:white;font-size: 1.5rem;"><span style="font-size: 3rem">Since</span> the dawn of time, humanity's insatiable curiosity has reached out to the cosmos. With the advent of modern aerospace technology, our ability to explore the vast universe has expanded, igniting dreams of future space migration.
+          <div data-aos="fade-down" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="center-center"><p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:10vw;padding-right:10vw;color:white;font-size: 1.5vw;"><span style="font-size: 4vw">Since</span> the dawn of time, humanity's insatiable curiosity has reached out to the cosmos. With the advent of modern aerospace technology, our ability to explore the vast universe has expanded, igniting dreams of future space migration.
               Among the potential homes, Mars stands as the most promising candidate. It possesses several Earth-like qualities that make it an attractive choice.</p></div>
       </section>
       <section class="page-3">
