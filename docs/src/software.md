@@ -58,7 +58,7 @@ It is indicated that the major problem of polycistronic vectors, which contain t
     </div>
 </div>
 
-In the pRAP system, there are two regulatory elements: **RBS** and **stem-loop**. RBS intensity influences translation initiation rate by influencing ribosome binding to mRNA, which in turn impacts protein concentration. Stem loop affects protein concentration by regulating the rate of mRNA degradation[^3]. By regulating the intensity of these two regulatory elements, we can control the expression of proteins. For more details on building pRAP system, please refer to [RAP Builder](#rap-builder).
+In the pRAP system, there are two regulatory elements: **RBS** and **stem-loop**. RBS intensity influences translation initiation rate by influencing ribosome binding to mRNA, which in turn impacts protein concentration. Stem-loop affects protein concentration by regulating the rate of mRNA degradation[^3]. By regulating the intensity of these two regulatory elements, we can control the expression of proteins. For more details on building pRAP system, please refer to [RAP Builder](#rap-builder).
 
 Compared to the multi-promoter strategy,  pRAP system has three other advantages:
 
@@ -173,7 +173,7 @@ The full execution of RAP requires only four steps:
 
 3. **Run Step 2: RAP Builder**
 
-   In `RAP Builder` page ([Figure 7](#fig-7)), you can select design mode (RBS/Stem loop design mode) and input the sequence of the enzyme. Then you can click `Submit` button to run RAP Builder! After completion of RAP Builder, the results will be automatically downloaded, containing a sequence file in `GeneBank` format and an annotation in `csv` format.
+   In `RAP Builder` page ([Figure 7](#fig-7)), you can select design mode (RBS or stem-loop design mode) and input the sequence of the enzyme. Then you can click `Submit` button to run RAP Builder! After completion of RAP Builder, the results will be automatically downloaded, containing a sequence file in `GeneBank` format and an annotation in `csv` format.
 
    <div style="text-align: center;" id="fig-7">
        <img src="https://static.igem.wiki/teams/4765/wiki/czy/rap-builder-demo-czy.png" style='width:80%'>
@@ -464,11 +464,11 @@ The Monte Carlo algorithm of stem-loop design mode is similar to that used in RB
 
 Fudan iGEM 2022 witnessed the success of [PartHub](https://2022.igem.wiki/fudan/software), so this year we gathered feedback from PartHub users (Fudan iGEM 2022 team members and other iGEMers and some judges in 2022 Grand Jamboree), resolved known issues, and launched the brand new PartHub 2! Compared to Parthub, PartHub 2 has several new features:
 
-- Update with 2022 iGEM Registery of Standard Biological Parts. Parthub 2 contains over 60,000 Parts, which is a huge leap up from Parthub.
+- Update with 2022 iGEM Registry of Standard Biological Parts. Parthub 2 contains over 60,000 Parts, which is a huge leap up from Parthub.
 - Improve the user interaction interface to further simplify the process of usage. PartHub 2 incorporates feedback and suggestions from PartHub users, removes unnecessary options and starts developing recommendation algorithms.
-- Design a diversified recommendation algorithm based on graph algorithm. We developed a diversified recommendation algorithm based on PageRank and Louvain method to prioritize the appearance of more significant parts in the search results and avoid the recurrence of similar parts.
+- Design a diversified recommendation algorithm based on graph algorithm. We developed a diversified recommendation algorithm based on PageRank and [Louvain method](https://en.wikipedia.org/wiki/Louvain_method) to prioritize the appearance of more significant parts in the search results and avoid the recurrence of similar parts.
 
-The core of PartHub 2 is the graph model based on the Registry of Standard Biological Parts. For each Part, in addition to the attributes (like name, sequence etc.) it carries, there are two types of relationships with other nodes: "twins" and "refers to". The "twins" are undirected, while the "refers to" are directed; each is a data structure known as graph, and their relationships may be represented by an adjacency matrix. PageRank and Louvain method is based on this graph model. PageRank reflects how actively a Part is used and Louvain enables community detection of similar Parts.
+The core of PartHub 2 is the graph model based on the Registry of Standard Biological Parts. For each Part, in addition to the attributes (like name, sequence etc.) it carries, there are two types of relationships with other nodes: "twins" and "refers to". The "twins" are undirected, while the "refers to" are directed; each is a data structure known as graph, and their relationships may be represented by an adjacency matrix. PageRank and [Louvain method](https://en.wikipedia.org/wiki/Louvain_method) is based on this graph model. [PageRank](https://en.wikipedia.org/wiki/PageRank) reflects how actively a Part is used and Louvain enables community detection of similar Parts.
 
 We provide a summary of the notation in [Table 6](#table-6).
 
@@ -496,7 +496,7 @@ where $C(A)$ is the number of links going out of node *A*. This equation is used
 
 The Louvain method[^13] is a community detection method suitable for huge networks. It maximizes a modularity score for each community, where modularity measures the quality of node assignment. This entails determining how much more densely connected nodes within a community are in comparison to how connected they would be in a random network.
 
-In Louvain method, modularity $Q$ of a graph is defined as:
+In [Louvain method](https://en.wikipedia.org/wiki/Louvain_method), modularity $Q$ of a graph is defined as:
 $$
 Q = \frac{1}{2m}\sum_{i,j}[A_{i,j}-\frac{k_ik_j}{2m}]\delta(c_i,c_j)
 $$
@@ -506,7 +506,7 @@ Louvain algorithm needs to be repeated for two phases to greedily maximize modul
 
 ### Implementation
 
-We used a [web crawler](https://gitlab.igem.org/2022/software-tools/fudan/-/blob/main/WebCrawler/software_ver0.4.py) to obtain Parts in 2022 iGEM Registery of Standard Biological Parts. We used Neo4j as the graph database for PartHub 2, and Flask to develop RESTful APIs for PartHub 2. PageRank and Louvain method was performed with [Neo4j Graph Data Science (GDS) library](https://neo4j.com/docs/graph-data-science/current/). PartHub 2 also has docker images available for installation. Like RAP Builder, PartHub 2 supports exporting GeneBank format sequence files via [Biopython](https://biopython.org/).
+We used a [web crawler](https://gitlab.igem.org/2022/software-tools/fudan/-/blob/main/WebCrawler/software_ver0.4.py) to obtain Parts in 2022 iGEM Registry of Standard Biological Parts. We used Neo4j as the graph database for PartHub 2, and Flask to develop RESTful APIs for PartHub 2. PageRank and [Louvain method](https://en.wikipedia.org/wiki/Louvain_method) was performed with [Neo4j Graph Data Science (GDS) library](https://neo4j.com/docs/graph-data-science/current/). PartHub 2 also has docker images available for installation. Like RAP Builder, PartHub 2 supports exporting GeneBank format sequence files via [Biopython](https://biopython.org/).
 
 ## DBTL cycles of RAP
 

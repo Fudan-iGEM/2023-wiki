@@ -106,7 +106,7 @@ style='width:70%'>
 </div>
 
 
-In the following figure, we observed that *H. ex* mtSSB has a comparable anti-desiccation capability with SAHS 33020. When both *H. ex* mtSSB and SAHS 33020 are co-expressed, *E. coli* exhibits a higher survival rate under desiccation compared to *E. coli* expressing these two proteins individually. Furthermore, altering the order of these three proteins in pRAP does not affect the survival rate of *E. coli*, indicating that pRAP can correctly express these proteins, regardless of their position.
+In the following figure, we observed that *H. ex* mtSSB has a comparable anti-desiccation capability with SAHS 33020. When both *H. ex* mtSSB and SAHS 33020 are co-expressed, *E. coli* exhibits a higher survival rate under desiccation compared to *E. coli* expressing these two proteins individually. Furthermore, altering the order of these three proteins in ribozyme-assistant polycistronic expression plasmid does not affect the survival rate of *E. coli*.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/connected-anti-desiccation-capability-2.png"
