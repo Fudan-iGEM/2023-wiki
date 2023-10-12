@@ -76,7 +76,15 @@ RAP Builder's Monte Carlo algorithm has a good search efficiency and can get a s
 
 ### Cycle 1: Learn
 
-We initiated RAP trials involving the team members participating experiments, along with previous [Fudan iGEM 2022](https://2022.igem.wiki/fudan/) team members, engaging in two-way dialogues with them. They were introduced to the workflow of RAP and instructed on how to use RAP. Simultaneously, they gave valuable suggestions for further enhancing the RAP system (Figure 3).
+We initiated RAP trials involving the team members participating experiments, along with previous [Fudan iGEM 2022](https://2022.igem.wiki/fudan/) team members, engaging in two-way dialogues with them. They were introduced to the workflow of RAP and instructed on how to use RAP. Simultaneously, they gave valuable suggestions for further enhancing the RAP system ([Figure 3](#fig-3)).
+
+<div style="text-align: center;" id="fig-3">
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/engine-1.jpg" style='width:60%'>
+<br>
+<div>
+  <p><small style="color: gray">Figure 3: Discussion with previous iGEMer and wet lab member.</small></p>
+</div>
+</div>
 
 Review: It was observed that the user requires to input coding sequences as the first step to construct. Because, last year we already have a [PartHub for Parts](https://2022.igem.wiki/fudan/software/) searching and seuqence fetching. Therefore, further enhancements to PartHub and its integration into the RAP workflow could potentially enhance RAP.
 
@@ -106,7 +114,7 @@ We had internal discussion regarding the feasibility of using RAP. In addition, 
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png" style='width:70%'>
 <br>
 <div>
-  <p><small style="color: gray">Figure 3: Introduction to potential users in SCUT-China</small></p>
+  <p><small style="color: gray">Figure 4: Introduction to potential users in SCUT-China</small></p>
 </div>
 </div>
 
@@ -114,7 +122,7 @@ We had internal discussion regarding the feasibility of using RAP. In addition, 
 <img src=" https://static.igem.wiki/teams/4765/wiki/hp/software2.png" style='width:70%'>
 <br>
 <div>
-  <p><small style="color: gray">Figure 4: Introduction to potential users in Nanjing-China</small></p>
+  <p><small style="color: gray">Figure 5: Introduction to potential users in Nanjing-China</small></p>
 </div>
 </div>
 
