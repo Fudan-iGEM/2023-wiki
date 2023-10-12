@@ -18,7 +18,7 @@ Considering that our transformation target is the desolate Martian rocks, we int
 
 1. **Spray and Form a Living Biofilm**
 
-   Enabled with the Biofilm Formation System (more details in [Description](https://2023.igem.wiki/fudan/description/)), the cyanobacteria and engineering *E. coli* form a living biofilm. **Sprayed on the Martian surface**, the biofilm will quickly spread and cover the bare rocks with the bacteria proliferating. Cyanobacteria will take full advantage of atmospheric CO~2~ to produce enough energy and organic substances by photosynthesis. Thus, without any extra support, the biofilm could consistently grow on Mars.
+   Enabled with the Biofilm Formation System (more details in [Description](/description/)), the cyanobacteria and engineering *E. coli* form a living biofilm. **Sprayed on the Martian surface**, the biofilm will quickly spread and cover the bare rocks with the bacteria proliferating. Cyanobacteria will take full advantage of atmospheric CO~2~ to produce enough energy and organic substances by photosynthesis. Thus, without any extra support, the biofilm could consistently grow on Mars.
 
 2. **Provide Water Source**
 
@@ -39,12 +39,12 @@ Considering that our transformation target is the desolate Martian rocks, we int
 
 4. **Survival System for Long-term Growth**
 
-   A survival system (more details in [Description](https://2023.igem.wiki/fudan/description/)) was introduced into our biofilm to enable it with resistance to the harsh environment of Mars. 
+   A survival system (more details in [Description](/description/)) was introduced into our biofilm to enable it with resistance to the harsh environment of Mars. 
 
 
 ## Safety Concerns
 
-For the well-being of all mankind, we have collect insights on the safety concerns of our product from the perspective of environmental ethics and bioethics (more details in [Human Practice](https://2023.igem.wiki/fudan/human-practices/#managing-the-risk)). Aware of our responsibility to manage the risk, we have made multiple attempts to ensure the safety in the future application of our product (more details in [Safety](https://2023.igem.wiki/fudan/safety/)).
+For the well-being of all mankind, we have collect insights on the safety concerns of our product from the perspective of environmental ethics and bioethics (more details in [Human Practice](/human-practices/#managing-the-risk)). Aware of our responsibility to manage the risk, we have made multiple attempts to ensure the safety in the future application of our product (more details in [Safety](/safety/)).
 
 
 
