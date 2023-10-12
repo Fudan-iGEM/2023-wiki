@@ -42,7 +42,7 @@
               <img style="width: 30vw;" src="https://static.igem.wiki/teams/4765/wiki/czy/lichen.jpg">
           </div>
           <div data-aos="fade-down-right" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-              <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">In the process of primary succession on Earth, <span style="color: #01ab6d;">lichens</span> play a vital role in <span style="color:#01ab6d;">shaping environment</span>.<br><small>"..the tinist objects of inquiry become the most cosmic and otherworldly."</small><br><span style="color:#e37654;">· Community fungi and algae</span><br><span style="color:#e37654;">· Symbiosis system</span><br><span style="color:#e37654;">· Lichenic acid</span></p>
+              <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">In the process of primary succession on Earth, <span style="color: #01ab6d;">lichens</span> play a vital role in <span style="color:#01ab6d;">shaping environment</span>.<br><small>"...the tinist objects of inquiry become the most cosmic and otherworldly."</small><br><span style="color:#e37654;">· Community fungi and algae</span><br><span style="color:#e37654;">· Symbiosis system</span><br><span style="color:#e37654;">· Lichenic acid</span></p>
           </div>
       </section>
       <section class="page-5">
