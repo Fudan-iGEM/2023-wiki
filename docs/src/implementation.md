@@ -20,7 +20,7 @@ Considering that our transformation target is the desolate Martian rocks, we int
 
    Enabled with the Biofilm Formation System (more details in [Description](https://2023.igem.wiki/fudan/description/)), the cyanobacteria and engineering *E. coli* form a living biofilm. **Sprayed on the Martian surface**, the biofilm will quickly spread and cover the bare rocks with the bacteria proliferating. Cyanobacteria will take full advantage of atmospheric CO~2~ to produce enough energy and organic substances by photosynthesis. Thus, without any extra support, the biofilm could consistently grow on Mars.
 
-2. **Provide a Water Source**
+2. **Provide Water Source**
 
    For the severe drought on the Martian surface, a water source is necessary for the successful settlement of the biofilm. To provide a water source, we could collect the abundant ice on Mars, melt it into water by heaters, and spray the water onto our biofilm.
 
