@@ -16,18 +16,26 @@
         <a href="#start"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
       </div>
       <section class="page-1" id="start">
-          <div style="width: 40%;padding-top: 20vh;padding-bottom: 20vh">
-              <img src="https://static.igem.wiki/teams/4765/wiki/czy/home-1.svg">
+          <div style="width: 40%;padding-top: 10vh;padding-bottom: 10vh">
+              <lottie :options="earthOptions"></lottie>
           </div>
-          <div data-aos="zoom-in-right" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="center-center"><p style="margin:0;padding-left:5vw;padding-bottom: 10vh;padding-top:10vh;color:white;font-size: 2vw;"><span style="color:#e37654;font-size: 4vw">What if ...</span><br>We could call somewhere <span style="color:#e37654;">beyond Earth</span>
+          <div data-aos="zoom-in-right" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom"><p style="margin:0;padding-left:5vw;padding-bottom: 10vh;padding-top:10vh;color:white;font-size: 2vw;"><span style="color:#e37654;font-size: 4vw">What if ...</span><br>We could call somewhere <span style="color:#e37654;">beyond Earth</span>
               our new home?</p></div>
       </section>
       <section class="page-2">
-          <div data-aos="fade-down" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="center-center"><p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:10vw;padding-right:10vw;color:white;font-size: 1.5vw;"><span style="font-size: 4vw">Since</span> the dawn of time, humanity's insatiable curiosity has reached out to the cosmos. With the advent of modern aerospace technology, our ability to explore the vast universe has expanded, igniting dreams of future space migration.
+          <div style="width: 40%;padding-top: 10vh;padding-bottom: 10vh">
+              <lottie :options="marsOptions"></lottie>
+          </div>
+          <div data-aos="fade-down" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom"><p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:white;font-size: 1.5vw;"><span style="font-size: 4vw;color: #e37654">Why Mars</span><br> the dawn of time, humanity's insatiable curiosity has reached out to the cosmos. With the advent of modern aerospace technology, our ability to explore the vast universe has expanded, igniting dreams of future space migration.
               Among the potential homes, Mars stands as the most promising candidate. It possesses several Earth-like qualities that make it an attractive choice.</p></div>
       </section>
       <section class="page-3">
-
+          <div style="width: 40%;padding-top: 10vh;padding-bottom: 10vh">
+              <lottie :options="rocketOptions"></lottie>
+          </div>
+          <div data-aos="fade-up" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
+            <p></p>
+          </div>
       </section>
       <Content class="home-center" v-show="recoShowModule" custom/>
       <div style="text-align: center; margin-bottom: 4rem">
@@ -45,9 +53,10 @@ import { useInstance, useShowModule } from '@theme/helpers/composable'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import LottieHome from "./LottieHome.vue";
+import Lottie from "./Lottie.vue";
 
 export default defineComponent({
-  components: {LottieHome, NavLink, ModuleTransition },
+  components: {Lottie, LottieHome, NavLink, ModuleTransition },
   data(){
       return{
           homeOptions: {
@@ -55,6 +64,18 @@ export default defineComponent({
               loop: false,
               autoplay:true,
           },
+          earthOptions: {
+              path: 'https://static.igem.wiki/teams/4765/wiki/czy/earth-home.json',
+              autoplay:true,
+          },
+          marsOptions: {
+              path: 'https://static.igem.wiki/teams/4765/wiki/czy/mars-home.json',
+              autoplay:true,
+          },
+          rocketOptions:{
+              path: 'https://static.igem.wiki/teams/4765/wiki/czy/spacecraft-lottie-czy.json',
+              autoplay:true,
+          }
       }
   },
   mounted(){
@@ -176,6 +197,15 @@ export default defineComponent({
     justify-content: space-around;
   }
   .page-2 {
+    background-color: #052a45;
+    width: calc(100vw - 5px);
+    //height: 100vh;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .page-3 {
     background-color: #052a45;
     width: calc(100vw - 5px);
     //height: 100vh;
