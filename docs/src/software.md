@@ -133,7 +133,7 @@ The full execution of RAP requires only four steps:
    | Substrate   | One of the possible substrate of the reaction                | alcohol         |
    | Product     | One of the possible product of the reaction                  | NADPH           |
 
-   In order to search for the target enzyme more accurately, it is most recommended to use EC number to search for the enzyme. you will be presented with the interface as illustrated in [Figure 4](https://chat.openai.com/c/ed5dc932-7422-4fe6-b666-d0a109d87941#fig-4):
+   In order to search for the target enzyme more accurately, it is most recommended to use EC number to search for the enzyme. you will be presented with the interface as illustrated in [Figure 4](#fig-4):
 
    <div style="text-align: center;" id="fig-4">
        <img src="https://static.igem.wiki/teams/4765/wiki/czy/kinetichub-result-czy.png" style='width:80%'>
