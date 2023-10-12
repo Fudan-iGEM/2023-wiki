@@ -81,7 +81,7 @@ As shown in the following figure, *E. coli* expressing AnAFP exhibited a higher 
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 5: Survival Curves under Cold Treatment at 0 °C<br>In the initial 48 hours, there was no significant difference in the survival rates between the experimental and control groups. However, after 48 hours, the survival rate of the experimental group was significantly higher than that of the control group.</small></p>
+<p><small style="color: gray">Figure 5: Survival Curves under Cold Treatment at 0°C<br>In the initial 48 hours, there was no significant difference in the survival rates between the experimental and control groups. However, after 48 hours, the survival rate of the experimental group was significantly higher than that of the control group.</small></p>
 </div>
 </div>
 

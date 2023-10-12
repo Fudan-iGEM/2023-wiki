@@ -9,41 +9,41 @@ authorlink:
 
 ## Introduction
 
-In our [B.HOME project](/description/), we aim to construct a multifunctional biofilm to achieve the terraforming goals on Mars. This requires ensuring that the chassis can perform a variety of tasks. Once we successfully build the relevant parts, we need to **conduct functional experiments** to ascertain their effectiveness. For instance, in the design of the biofilm's survival system, we must ensure it possesses various functions such as anti-freeze, anti-desiccation, and anti-UV. We need to compare how well the chassis can survive under these harsh conditions after the introduction of certain parts, which is typically quantified through the number of bacteria.
+In our [B.HOME project](/description/), we aim to construct a multifunctional biofilm to achieve the terraforming goals on Mars. This requires ensuring that the chassis can perform a variety of tasks. Once we successfully build relevant [Parts](/parts/), we need to **conduct functional experiments** to ascertain their effectiveness. For instance, in the design of the biofilm's survival system, we must ensure it possesses various functions such as anti-freeze, anti-desiccation, and anti-UV. We need to compare how well the chassis can survive under these harsh conditions after the introduction of certain Part, which is typically quantified through the number of bacteria.
 
-Considering that we have multiple functions to validate and are utilizing an enzymatic system to assist with protein expression, to streamline the validation process and reduce the molecular cloning workload,  we have opted for the **Colony-Forming Unit (CFU) assay**. This will enable us to demonstrate the functionality of parts in a simple, direct, and repeatable manner.
+Considering that we have multiple modules needed to validate, to streamline the validation process and reduce the wet lab workload, we have opted for the [Colony-Forming Unit (CFU)](/experiments/#cfu-counting) assay. This enable us to demonstrate the functionality of parts in a simple, direct, and repeatable manner.
 
-## Overview
+## Method overview
 
 There are various methods for quantifying colonies, broadly categorized into direct and indirect counting.
 
 In **direct counting**, we can employ a counting chamber, such as the Petroff-Hausser counting chamber, which calculates the number of microorganisms in a sample based on the chamber's volume and the sample's dilution ratio before counting[^1]. However, this method requires that the microbial population must be relatively large and evenly distributed. Instruments like flow cytometers can also be used for direct counting, but they are costly and involve complex operations. More importantly, direct counting commonly faces a limitation: **it cannot distinguish between live and dead bacteria**[^2].
 
-In our functional experiments, excluding dead bacteria during counting is of utmost importance. Therefore, we lean towards **indirect counting** methods. When using this approach to determine colony size, it typically involves diluting the processed sample, plating it onto agar plates, counting colonies after a specific incubation period, and then calculating the original number of live bacteria in the sample based on the dilution factor[^3]. Similarly, researchers determine bacteriophage concentration by counting the number of phage plaques[^4].
+In our functional experiments, excluding dead bacteria during counting is of utmost importance. Therefore, we lean towards **indirect counting** methods. When using this approach to quantify colonies, it typically involves diluting the processed sample, plating it onto agar plates, counting colonies after a specific incubation period, and then calculating the original number of live bacteria in the sample based on the dilution factor[^3]. Similarly, researchers determine bacteriophage concentration by counting the number of phage plaques[^4].
 
-In the previous iGEM protocol[^5], the key procedures involved are as follows:
+In [2018 iGEM interlab study](https://2018.igem.org/Measurement/InterLab) resulted publication[^5], the key procedures involved in CFU assay are described as following:
 
 **Step 1: Starting Sample Preparation**
 
 - Measure the OD~600~ of cell cultures, diluting them within the linear detection range.
 - Dilute overnight cultures to OD~600~ = 0.1 in 1 mL of LB + Antibiotics media for each culture.
 
-**Step 2: Dilution Series Instructions**
+**Step 2: Series Dilution**
 
 - Perform serial dilutions for each culture. Modify the number of dilution rounds required based on experience.
 - Label each tube accordingly, and vortex tubes for 5-10 seconds.
-- Plate 100 μL of each dilution on LB + Antibiotics plates, incubate them at 37°C overnight, and count colonies after 18-20 hours.
+- Plate 100 μL of each dilution on LB + antibiotics plates, incubate them at 37°C overnight, and count colonies after 18-20 hours.
 
-**Step 3: CFU/mL Calculation Instructions**
+**Step 3: CFU/mL Calculation**
 
 - Count colonies on plates with fewer than 300 colonies.
 - Multiply the colony count by the dilution factor on each plate to calculate CFU per mL.
 
-Based on our experimental conditions, we have made slight modifications to the above protocol, which are outlined below.
+Based on our experimental conditions, we have made slight modifications to the protocol above.
 
 ## Protocol
 
-1. Dilute overnight cultures to OD~600~=1.0 with sterile water.
+1. Dilute overnight cultures to OD~600~=1.0 with sterile culture media or PBS.
 
 2. Conduct the dilution procedure as follows:
 
@@ -61,7 +61,7 @@ Based on our experimental conditions, we have made slight modifications to the a
 
 3. Dilute the bacterial solution sample (100 μL) to 1:100,000 and take 100 μL from the third diluted tube to perform plate culturing.
 
-4. After incubating at 37°C for 16 hours, count the colonies on the agar plate by using the open-resource software ImageJ.
+4. After incubating at 37°C for 16 hours, count the colonies on the agar plate by using the open-source software [ImageJ](https://imagej.nih.gov/ij/).
 
 5. Calculate the CFU count (CFU/ml) for each sample as follows:
 
@@ -69,36 +69,35 @@ $$
 CFU=N·10^6
 $$
 
-​		where $N$ refers to the number of colonies on the agar plate.
+		where $N$ refers to the number of colonies on the agar plate.
 
-What's more, based on our past experiences and reports in the literature[^6], some aspects require special attention. Otherwise, inaccurate counting may occur. If cell clusters are not disrupted, microorganisms are not evenly dispersed, which can result in an underestimation of population size, so remember to vortex after dilution. What's more, avoid using hot agar or misusing antibiotics.
-
+Based on our pilot experiences and reports in the literature[^6], several aspects require special attention. Otherwise, inaccurate counting may occur. If cell clusters are not disrupted, are not evenly dispersed, which can result in an underestimation of population size, so remember to vortex after dilution. What's more, avoid using hot agar or misusing antibiotics.
 
 
 ## Results
 
-To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP [(Part:BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E. coli* exhibits anti-freeze properties . For procedures related to AnAFP, you can refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined in the above protocol to obtain the agar plates depicted in [Figure 1](#fig-1).
+To validate our protocol, we decided to use this approach to verify whether the expression of the AnAFP [(BBa K4765015)](http://parts.igem.org/Part:BBa_K4765015) protein in *E. coli* exhibits anti-freeze properties. For procedures related to AnAFP, please refer to our [Experiments](/experiments/) page. After collecting samples subjected to freezing treatment for 0, 24, 48, 72, and 96 hours, we followed the steps outlined above to obtain the agar plates depicted in [Figure 1](#fig-1).
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/measurement-2.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 1: Colonies at 0, 24, 48, 72, and 96 hours of cold treatment at 0 °C
+<p><small style="color: gray">Figure 1: Colonies at 0, 24, 48, 72, and 96 hours of cold treatment at 0°C.
     <br>
 From left to right is a time gradient of freezing treatment, while from up to down are the groups that were transformed with AnAFP and the control group.</small></p>
 </div>
 </div>
 
 
-Subsequently, after counting the number of colonies using ImageJ, we calculated the ratio of the colony count to the colony count in the 0-hour control group. This ratio represents the bacterial survival rate, which was used to generate the survival rate curve shown in [Figure 2](#fig-2).
+Subsequently, after counting the number of colonies using [ImageJ](https://imagej.nih.gov/ij/), we calculated the ratio of the colony count to the colony count in the 0-hour control group. This ratio represents the bacterial survival portion, which was used to generate the survival rate curve shown in [Figure 2](#fig-2).
 
 <div style="text-align: center;" id="fig-2">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/anafp-survival-curve1.png"
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 2: Survival curves under cold treatment at 0 °C.
+<p><small style="color: gray">Figure 2: Survival curves under cold treatment at 0°C.
    <br>
 In the initial 48 hours, there was no significant difference in the survival rates between the experimental and control groups. However, after 48 hours, the survival rate of the experimental group was significantly higher than that of the control group.</small></p>
 </div>

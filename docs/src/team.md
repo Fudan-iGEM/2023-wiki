@@ -25,7 +25,7 @@ Welcome to our Fudan iGEM 2023 introduction, where you meet the exceptional indi
 </div>
 </div>
 
-Zhiyue, our Software and Wiki specialist (also a coding night owl), bridges the realms of computer science and biology. Having been an iGEM team member in the previous year, he is not just a team member but also a mentor. Majoring in Clinical Medicine, Zhiyue's professional knowledge fuels our innovations.
+Zhiyue, our [Software](/software/) and Wiki specialist (also a coding night owl), bridges the realms of computer science and biology. Having been an iGEM team member in the previous year, he is not just a team member but also a mentor. Majoring in Clinical Medicine, Zhiyue's professional knowledge fuels our innovations.
 
 ### Zhe Dong: The Multitasking Dynamo
 
@@ -37,7 +37,7 @@ Zhiyue, our Software and Wiki specialist (also a coding night owl), bridges the 
 </div>
 </div>
 
-Meet Zhe, a highly efficient multitasker, who manages Human Practices, Education, Safety, and Design. Balancing between impactful discussions and strategic design, his love for Biological Sciences, chess, and restful sleep drives his energetic and talkative approach.
+Meet Zhe, a highly efficient multitasker, who manages [Human Practices](/human-practices/), [Education](/education/), [Safety](/safety/), and Design. Balancing between impactful discussions and strategic design, his love for Biological Sciences, chess, and restful sleep drives his energetic and talkative approach.
 
 ### Xiaohan Jiang: The Creative Bio-Enthusiast
 
@@ -49,7 +49,7 @@ Meet Zhe, a highly efficient multitasker, who manages Human Practices, Education
 </div>
 </div>
 
-Xiaohan, a Biological Sciences major, contributes her expertise to video production, Implementation, and Entrepreneurship. With a sweet demeanor, she excels in volleyball and delights in savoring delicacies like hotpot and kebabs.
+Xiaohan, a Biological Sciences major, contributes her expertise to video production, [Implementation](/implementation/), and [Entrepreneurship](/entrepreneurship/). With a sweet demeanor, she excels in volleyball and delights in savoring delicacies like hotpot and kebabs.
 
 ### Zhikai Jiang: The Model Specialist
 
@@ -61,7 +61,7 @@ Xiaohan, a Biological Sciences major, contributes her expertise to video product
 </div>
 </div>
 
-Zhikai, majoring in Clinical Medicine, takes on Model, Measurement, and Design responsibilities. As a lover of spicy food and basketball, Zhikai's dependability and enthusiasm enrich his contribution to our team's success.
+Zhikai, majoring in Clinical Medicine, takes on [Model](/model/), [Measurement](/measurement/), and Design responsibilities. As a lover of spicy food and basketball, Zhikai's dependability and enthusiasm enrich his contribution to our team's success.
 
 ### Chenye Li: The Education Advocate
 
@@ -73,7 +73,7 @@ Zhikai, majoring in Clinical Medicine, takes on Model, Measurement, and Design r
 </div>
 </div>
 
-Chenye, our advocate for Education and Sustainable Development, combines his Clinical Medicine knowledge with a passion for education. Overcoming shyness, he excels in teaching and embraces new experiences through travel.
+Chenye, our advocate for [Education](/education/) and [Sustainable Development](/sustainable/), combines his Clinical Medicine knowledge with a passion for education. Overcoming shyness, he excels in teaching and embraces new experiences through travel.
 
 ### Yijun Wang: The Meticulous Leader
 
@@ -85,7 +85,7 @@ Chenye, our advocate for Education and Sustainable Development, combines his Cli
 </div>
 </div>
 
-Yijun, the leader of the Fudan iGEM 2023, with responsibilities spanning Education, Human Practices, Design, and Experiment, dedication propels our project forward. Majoring in Biological Sciences, she is a meticulous perfectionist. She used to be more energetic, but now she finds solace in sleeping after the deadlines.
+Yijun, the leader of the Fudan iGEM 2023, with responsibilities spanning [Education](/education/), [Human Practices](/human-practices/), Design, and [Experiments](/experiments/), dedication propels our project forward. Majoring in Biological Sciences, she is a meticulous perfectionist. She used to be more energetic, but now she finds solace in sleeping after the deadlines.
 
 ### Qingying Yang: The Passionate Enthusiast
 
@@ -97,7 +97,7 @@ Yijun, the leader of the Fudan iGEM 2023, with responsibilities spanning Educati
 </div>
 </div>
 
-Qingying, an advocate for Education and Inclusivity, adds warmth and positivity to our team. Her love for travel and music mirrors her adventurous spirit. Her favorite cartoon character, Sakura Momoko, reflects her joyful personality. Majoring in Clinical Medicine, Qingying's empathy makes her an integral part of our collaborative efforts.
+Qingying, an advocate for [Education](/education/) and [Inclusivity](/inclusivity/), adds warmth and positivity to our team. Her love for travel and music mirrors her adventurous spirit. Her favorite cartoon character, Sakura Momoko, reflects her joyful personality. Majoring in Clinical Medicine, Qingying's empathy makes her an integral part of our collaborative efforts.
 
 ### Zhenmao Ye: The Multifaceted Talent
 
@@ -109,7 +109,7 @@ Qingying, an advocate for Education and Inclusivity, adds warmth and positivity 
 </div>
 </div>
 
-Zhenmao, responsible for Design and Engineering, is a Biotechnology major with a diverse range of interests. From excelling in Table Tennis to mastering chess and harmonica, his multifaceted talents enhance our team dynamics.
+Zhenmao, responsible for Design and [Engineering](/engineering/), is a Biotechnology major with a diverse range of interests. From excelling in Table Tennis to mastering chess and harmonica, his multifaceted talents enhance our team dynamics.
 
 ### Siliang Zhan: The Conscientious Researcher
 
@@ -121,7 +121,7 @@ Zhenmao, responsible for Design and Engineering, is a Biotechnology major with a
 </div>
 </div>
 
-Siliang focuses on Experiment and Part Design. A basketball enthusiast with a hearty appetite, he's an efficient and conscientious researcher in the lab. His Biotechnology background drives the success of our experimental endeavors.
+Siliang focuses on [Experiments](/experiments/) and [Parts](/parts/). A basketball enthusiast with a hearty appetite, he's an efficient and conscientious researcher in the lab. His Biotechnology background drives the success of our experimental endeavors.
 
 ### Mingfang Zheng: The Creative Design Genius
 
@@ -173,7 +173,7 @@ Liang Cai, our respectful and mysterious instructor, is an embodiment of wisdom 
 </div>
 </div>
 
-Introducing Yihan, the dynamic leader of Fudan iGEM from the previous year. Beyond the world of synthetic biology, Yihan also has a deep passion for both music and language. He dedicated himself to interviewing and mentoring new team members, equipping us with a diverse skill set for the iGEM journey.
+Introducing Yihan, the dynamic leader of [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team). Beyond the world of synthetic biology, Yihan also has a deep passion for both music and language. He dedicated himself to mentoring new team members, equipping us with a diverse skill set for the iGEM journey.
 
 ### Yi Cao: The Scientific Craftsman
 
@@ -185,7 +185,7 @@ Introducing Yihan, the dynamic leader of Fudan iGEM from the previous year. Beyo
 </div>
 </div>
 
-Yi leads us in experimental design and offers invaluable guidance in crafting scientific compositions. Her approach to tasks is marked by meticulous attention to detail and an innate talent for creating captivating headlines
+Yi leads us in experimental design and offers invaluable guidance in crafting scientific compositions. Her approach to tasks is marked by meticulous attention to detail and an innate talent for creating captivating headlines.
 
 ### Weiyi Li: The Passionate Educator
 
@@ -197,5 +197,4 @@ Yi leads us in experimental design and offers invaluable guidance in crafting sc
 </div>
 </div>
 
-Weiyi, a former team member responsible for education, plays a key role in connecting with young minds through our programs. She has an intermittent ambition to dream big and a persistent attitude to live life to the fullest. Weiyi's passion is infectious and greatly contributes to her interpersonal skills.
-
+Weiyi, [a former team member](https://2022.igem.wiki/fudan/team) responsible for [education](https://2022.igem.wiki/fudan/education), plays a key role in connecting with young minds through our programs. She has an intermittent ambition to dream big and a persistent attitude to live life to the fullest. Weiyi's passion is infectious and greatly contributes to her interpersonal skills.
