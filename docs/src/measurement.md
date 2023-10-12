@@ -48,7 +48,7 @@ Based on our experimental conditions, we have made slight modifications to the a
 2. Conduct the dilution procedure as follows:
 
    <div style="text-align: center;">
-      <p>Table 1: Dilution procedure for CFU counting</p>
+      <p><small style="color: gray">Table 1: Dilution procedure for CFU counting</small></p>
    </div>
 
 | Dilution ratio          | Solution proportions                                         |
@@ -84,7 +84,7 @@ To validate our protocol, we decided to use this approach to verify whether the 
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 1. Colonies at 0, 24, 48, 72, and 96 hours of cold treatment at 0 °C
+<p><small style="color: gray">Figure 1: Colonies at 0, 24, 48, 72, and 96 hours of cold treatment at 0 °C
     <br>
 From left to right is a time gradient of freezing treatment, while from up to down are the groups that were transformed with AnAFP and the control group.</small></p>
 </div>
@@ -98,7 +98,7 @@ Subsequently, after counting the number of colonies using ImageJ, we calculated 
 style='width:70%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 2. Survival curves under cold treatment at 0 °C.
+<p><small style="color: gray">Figure 2: Survival curves under cold treatment at 0 °C.
    <br>
 In the initial 48 hours, there was no significant difference in the survival rates between the experimental and control groups. However, after 48 hours, the survival rate of the experimental group was significantly higher than that of the control group.</small></p>
 </div>
