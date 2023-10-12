@@ -21,7 +21,7 @@ In our current era, as Earth grapples with escalating ecological and demographic
     <img src="https://static.igem.wiki/teams/4765/wiki/description/1.jpg" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 1. Planetary colonization</small></p>
+    	<p><small style="color: gray">Figure 1: Planetary colonization</small></p>
     </div>
 </div>
 
@@ -33,7 +33,7 @@ Among the array of celestial bodies in our cosmic neighborhood, Mars shines as t
     <img src="https://static.igem.wiki/teams/4765/wiki/description/earth-like-attributes-of-mars.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 2. Earth-like attributes of Mars </small></p>
+    	<p><small style="color: gray">Figure 2: Earth-like attributes of Mars </small></p>
     </div>
 </div>
 
@@ -47,7 +47,7 @@ Unlike our home planet with fertile lands, the Martian surface is predominantly 
     <img src="https://static.igem.wiki/teams/4765/wiki/description/3.jpg" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 3. Barren landscape on the Martian surface</small></p>
+    	<p><small style="color: gray">Figure 3: Barren landscape on the Martian surface</small></p>
     </div>
 </div>
 
@@ -65,7 +65,7 @@ Taking a leaf out of Earth's ecological playbook, we recognize that pioneer orga
        <img src="https://static.igem.wiki/teams/4765/wiki/description/4biofilm.png" style='width:80%'>
        <br>
        <div>
-       	<p><small style="color: gray">Figure 4. The structure and function of lichens. Within a certain physical structure, fungi absorb water and minerals, while photosynthetic green algae provide energy. The organic acids and polysaccharides secreted by lichens would accelerate rock weathering and soil formation.</small></p>
+       	<p><small style="color: gray">Figure 4: The structure and function of lichens. Within a certain physical structure, fungi absorb water and minerals, while photosynthetic green algae provide energy. The organic acids and polysaccharides secreted by lichens would accelerate rock weathering and soil formation.</small></p>
        </div>
    </div>
 
@@ -85,7 +85,7 @@ In an audacious effort to extend humanity's reach beyond our blue planet, our te
     <img src="https://static.igem.wiki/teams/4765/wiki/description/5.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 5. Our initiative <strong>B.HOME</strong> suggests a “plan B” for establishing human habitat and settlement beyond Earth’s borders.</small></p>
+    	<p><small style="color: gray">Figure 5: Our initiative <strong>B.HOME</strong> suggests a “plan B” for establishing human habitat and settlement beyond Earth’s borders.</small></p>
     </div>
 </div>
 
@@ -126,7 +126,7 @@ As the solar energy heats the Martian atmosphere, driving global airflow cycles 
     <img src="https://static.igem.wiki/teams/4765/wiki/description/6.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 6. Multiple obstacles in our project design</small></p>
+    	<p><small style="color: gray">Figure 6: Multiple obstacles in our project design</small></p>
     </div>
 </div>
 
@@ -140,7 +140,7 @@ To address the challenges mentioned above, B.HOME presents a promising strategy 
     <img src="https://static.igem.wiki/teams/4765/wiki/description/four-system.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 7. Four systems of B. HOME</small></p>
+    	<p><small style="color: gray">Figure 7: Four systems of B. HOME</small></p>
     </div>
 </div>
 
@@ -160,7 +160,7 @@ We tested multiple proteins in *E. coli* to enhance its resistance to UV radiati
     <img src="https://static.igem.wiki/teams/4765/wiki/description/anti-uv-module.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 8. The Anti-UV Module prevents biomolecule damage induced by radiation</small></p>
+    	<p><small style="color: gray">Figure 8: The Anti-UV Module prevents biomolecule damage induced by radiation</small></p>
     </div>
 </div>
 
@@ -172,7 +172,7 @@ An anti-freeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived
     <img src="https://static.igem.wiki/teams/4765/wiki/description/9anti-freeze-module.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 9. The Anti-Freeze Module enables <em>E. coli</em> to survive in sub-zero temperature</small></p>
+    	<p><small style="color: gray">Figure 9: The Anti-Freeze Module enables <em>E. coli</em> to survive in sub-zero temperature</small></p>
     </div>
 </div>
 
@@ -188,7 +188,7 @@ TDPs (SAHS) were identified for their role in tardigrade desiccation tolerance. 
     <img src="https://static.igem.wiki/teams/4765/wiki/description/desiccation-module-new.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 10. The Anti-Desiccation Module equips <em>E. coli</em> with resistance to desiccation</small></p>
+    	<p><small style="color: gray">Figure 10: The Anti-Desiccation Module equips <em>E. coli</em> with resistance to desiccation</small></p>
     </div>
 </div>
 
@@ -203,7 +203,7 @@ We have established a symbiotic system in which cyanobacteria serve as carbon-fi
     <img src="https://static.igem.wiki/teams/4765/wiki/description/11symbiotic-system.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 11. Co-culture of Cyanobacteria and  <em>E. coli</em>. Cyanobacteria serve as producers while <em>E.coli</em> serve as consumers and function executors.</small></p>
+    	<p><small style="color: gray">Figure 11: Co-culture of Cyanobacteria and  <em>E. coli</em>. Cyanobacteria serve as producers while <em>E.coli</em> serve as consumers and function executors.</small></p>
     </div>
 </div>
 
@@ -217,7 +217,7 @@ Our biofilm formation system represents an innovative approach aimed at establis
     <img src="https://static.igem.wiki/teams/4765/wiki/description/bacteria-lawn-new.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 12. The Biofilm Formation System. The surface displayed LCA mediates adhesion between <em>E. coli</em> and cyanobacteria. The nanobody-antigen pairs are introduced to construct a living bacteria lawn. </small></p>
+    	<p><small style="color: gray">Figure 12: The Biofilm Formation System. The surface displayed LCA mediates adhesion between <em>E. coli</em> and cyanobacteria. The nanobody-antigen pairs are introduced to construct a living bacteria lawn. </small></p>
     </div>
 </div>
 
@@ -242,7 +242,7 @@ In this module, we refined the [XJTU_2022](https://2020.igem.org/Team:XJTU-China
     <img src="https://static.igem.wiki/teams/4765/wiki/description/13eps-module.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 13. The EPS Module enhances surface adhesion capability to defend against violent storms </small></p>
+    	<p><small style="color: gray">Figure 13: The EPS Module enhances surface adhesion capability to defend against violent storms </small></p>
     </div>
 </div>
 
@@ -257,7 +257,7 @@ In terrestrial ecosystems, oxalic acid, secreted by pioneer plants like lichens,
     <img src="https://static.igem.wiki/teams/4765/wiki/description/oxalic-acid-module.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 14. Gene circuit of the Oxalic Acid Module to produce </small></p>
+    	<p><small style="color: gray">Figure 14: Gene circuit of the Oxalic Acid Module to produce </small></p>
     </div>
 </div>
 
