@@ -67,15 +67,15 @@ style='width:70%'>
 
 2. **Agriculture: Improve Crop Production**
 
-   Engineered bacteria producing EPS (e.g. [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121)) is effective in order to **improve soil fertility**. Extracellular polysaccharide is the binder to form soil aggregate structure and keep the aggregate stable[^1]. The use of microbial EPS to improve the soil can make the soil more loosened and permeable and reduce soil crusting, which will be beneficial to crop production.
+   Engineered bacteria producing EPS (e.g. [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121)) is effective in order to **improve soil fertility**. Extracellular polysaccharide is the binder to form soil aggregate structure and keep the aggregate stable[^1][^2]. The use of microbial EPS to improve the soil can make the soil more loosened and permeable and reduce soil crusting, which will be beneficial to crop production.
 
-   Antifreeze protein ([BBa_K4765111](http://parts.igem.org/Part:BBa_K4765111)) produced by engineered bacteria can be used to **improve crop viability**. Low temperatures may cause crops to suffer from frost and thus reduce yields. Biological anti-freeze provides new ideas in the field of crop improvement.
+   Antifreeze protein ([BBa_K4765111](http://parts.igem.org/Part:BBa_K4765111)) produced by engineered bacteria can be used to **improve crop viability**. Low temperatures may cause crops to suffer from frost and thus reduce yields. Biological anti-freeze provides new ideas in the field of crop improvement[^3].
 
    Anti-desiccation protein ([BBa_K4765112](http://parts.igem.org/Part:BBa_K4765112)), when used in crops, can enhance water retention and greatly **improve recovery from drought and water scarcity**. It could improve crop production in arid areas.
 
 3. **Cosmetic: Sunscreen Products**
 
-   MAAs have [potential applications](https://2022.igem.wiki/links-china/proof-of-concept) in the field of **biological sunscreen**. Batch production of traditional chemical sunscreens causes pollution of chemical waste. UV-resistant substances MAAs extracted from biological sources could open the way for the production of environmentally conscious UV-absorbing coatings.
+   MAAs have [potential applications](https://2022.igem.wiki/links-china/proof-of-concept) in the field of **biological sunscreen**. Batch production of traditional chemical sunscreens causes pollution of chemical waste. UV-resistant substances MAAs extracted from biological sources could open the way for the production of environmentally conscious UV-absorbing coatings[^4].
 
 4. **Synthetic Biology: Regulated Polycistronic Expression for Metabolic Enginnering**
    
@@ -83,5 +83,7 @@ Improving chassis metabolism for health or commercial usage is one application o
 
 ## References
 
-[^1]: Ates O (2015 Dec). Systems Biology of Microbial Exopolysaccharides Production. *Front Bioeng Biotechnol*, 18;3:200. https://doi.org/10.3389/fbioe.2015.00200
-[^2]: 
+[^1]: Ates O (2015 Dec). Systems Biology of Microbial Exopolysaccharides Production. *Front Bioeng Biotechnol*, *18*(3), 200. https://doi.org/10.3389/fbioe.2015.00200
+[^2]: Mager D, Thomas AD (2011 Feb). Extracellular polysaccharides from cyanobacterial soil crusts: A review of their role in dryland soil processes. *J Arid Environments*, *75*(2), 91-97. https://doi.org/10.1016/j.jaridenv.2010.10.001
+[^3]: Muñoz PA, Márquez SL, González-Nilo FD, Márquez-Miranda V, Blamey JM (2017 Aug). Structure and application of antifreeze proteins from Antarctic bacteria. *Microb Cell Fact*, 16(1), 138. https://10.1186/s12934-017-0737-2
+[^4]: Singh A, Čížková M, Bišová K, Vítová M (2021 Apr). Exploring Mycosporine-Like Amino Acids (MAAs) as Safe and Natural Protective Agents against UV-Induced Skin Damage. *Antioxidants (Basel)*, 10(5), 683. https://doi.org/10.3390/antiox10050683
