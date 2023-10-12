@@ -92,7 +92,7 @@ Upon completing initial drafts, we asked professional editors for advice. On Sep
 
 Furthermore, we invited children to participate in our **reading activities**, guiding them through the picture books, encouraging them to contemplate the questions, and complete interactive tasks like drawing in the books. This approach allowed us to not only promote synthetic biology by distributing our books but also receive valuable feedbacks directly from children, which helped us continually improve our books.
 
-
+<iframe title="Fudan: picture book reading activity education (2023) [English]" width="100%" height="500" src="https://video.igem.org/videos/embed/31d7b7bd-f0ad-4329-aca8-4c856153e5d5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 
 
