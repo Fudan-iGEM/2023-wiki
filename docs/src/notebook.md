@@ -104,6 +104,7 @@ style='width:70%'>
 		<p><small style="color: gray">Many students at Fudan were attracted to our captivating activities on the theme of synthetic biology. </small> </p>
 	</div>
 </div>
+
 ## April
 
 <p><small style="color: gray">📅 Date: Apr. 4th <br>👤 Participants: Yijun Wang, Siliang Zhan</small></p>
