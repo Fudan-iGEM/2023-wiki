@@ -21,7 +21,7 @@ title: Contribution
 
 According to the rules for 2023, we have decided to compete for three special awards: [New Composite Part](http://parts.igem.org/Part:BBa_K4765129), [Education](/education/), and [Software Tool](/software/).
 
-- We have made a useful [new composite part BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) for stem-loop test, which is well documented on the registry. It was built on [Open V3 backbone](http://parts.igem.org/Part:BBa_K4765026), which could be [reused, remade, and redistributed](https://stanford.freegenes.org/products/open-plasmids#description) as often as one would like. It could be induced to boost protein expression, but we use its [leaky](http://parts.igem.org/Part:BBa_K4765120) property in BL21(DE3) bacteria. [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) provides a new possibility to systematically regulate protein expression level, beyond promoter regulation, RBS regulation ([our 2022 Team](https://2022.igem.wiki/fudan/parts#composite) has successfully produce &beta;-carotene by varing RBS strength according to metabolism).
+- We have made a useful [new composite part BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) for stem-loop test, which is well documented on the registry. It was built on [Open V3 backbone](http://parts.igem.org/Part:BBa_K4765026), which could be [reused, remade, and redistributed](https://stanford.freegenes.org/products/open-plasmids#description) as often as one would like. It could be induced to boost protein expression, but we use its [leaky](http://parts.igem.org/Part:BBa_K4765120) property in BL21(DE3) bacteria. [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) provides a new possibility to systematically regulate protein expression level, beyond promoter regulation or RBS regulation ([our 2022 Team](https://2022.igem.wiki/fudan/parts#composite) has successfully produce &beta;-carotene by varing RBS strength according to metabolism).
 - We hosted numerous meticulously designed [education](/education/#empower-igem-community) events and established a highly constructive two-way dialogue with the public. We hope to improve the general cognitive level of synthetic biology, encouraging more people to shape, contribute to, and participate in synthetic biology.
 - We have developed [RAP, a new software tool](/software/) that possesses user-friendliness, excellent compatibility with existing synthetic biology standards, and seamless integration with external tools. The software has also undergone experimental validation and has shown its practicality in other projects.
 
@@ -31,7 +31,7 @@ According to the rules for 2023, we have decided to compete for three special aw
 
 ### Biofilm Formation System
 
-We have successfully engineered various membrane-display [parts](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling, editable biofilm. Typical reference parts are listed here.
+We have successfully engineered various membrane-display [parts](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan) (antigen, nanobody or lectin) to facilitate inter-bacterial connections, thus forming self-assembling and editable biofilm. Typical reference parts are listed here.
 
 | Part Name | Description | 
 |----|----|
@@ -62,7 +62,7 @@ These parts empower bacteria to withstand challenging environments, making them 
 
 ### Improved Ribozyme-Assisted Polycistronic co-expression System
 
-The use of ribozymes can help us to simultanously express genes of interested, but cleavaged mRNA might not stable and less usable. Therefore, we have incorporated a stem-loop structure at the 3' end of each coding sequence (CDS), before the ribozyme cleavage site.
+The use of ribozymes can help us to simultanously express genes of interested, but cleavaged mRNA might be unstable or less usable. Therefore, we have incorporated a stem-loop structure at the 3' end of each coding sequence (CDS), before the ribozyme cleavage site.
 
 | Part Name | Description |
 |----|----|
@@ -80,19 +80,19 @@ For more details, you can visit our [Part Collection](/part-collection/) page.
 
 ## Alliance establishment and series of co-created picture books
 
-This year, our dedicated efforts aimed to demystify synthetic biology and ignite a true enthusiasm for the field among all individuals. Through customized, engaging, and informative educational programs, we fostered **a productive two-way dialogue** with the public, enhancing the overall understanding of synthetic biology. This encouraged greater involvement and participation in shaping and contributing to the field, **setting a solid groundwork for future synthetic biology education**. For more details, please visit our [Education](/education/#empower-igem-community) page.
+This year, our dedicated efforts aimed to demystify synthetic biology and ignite a true enthusiasm for this field among all individuals. Through customized, engaging, and informative educational programs, we fostered **a productive two-way dialogue** with the public, enhancing the overall understanding of synthetic biology. This encouraged greater involvement and participation in shaping and contributing to this field, **setting a solid groundwork for future synthetic biology education**. For more details, please visit our [Education](/education/#empower-igem-community) page.
 
-Leveraging the power of collaboration, we took the initiative to establish [the iGEM Alliance of the Yangtze River Delta](/education/#empower-igem-community), comprising iGEM teams from ShanghaiTech University, Tongji University, Zhejiang University, Nanjing University, and Shanghai Jiao Tong University. The alliance represents a unified regional community dedicated to advancing synthetic biology and several teams in the alliance have collaboratively crafted **a series of educational picture books** in the last several months, which can be **sustainable materials for future teams to carry out educational activities**. With our collective endeavors, we hold a confident vision that the iGEM Alliance of the Yangtze River Delta will be constantly developed by the iGEM teams and will etch a profound and enduring mark on the landscape of synthetic biology in China and beyond in the future.
+Leveraging the power of collaboration, we took the initiative to establish [the iGEM Alliance of the Yangtze River Delta](/education/#empower-igem-community), uniting with iGEM teams from ShanghaiTech University, Tongji University, Zhejiang University, Nanjing University, and Shanghai Jiao Tong University. The alliance represents a unified regional community dedicated to advancing synthetic biology and several teams in the alliance have collaboratively crafted **a series of educational picture books** in the last several months, which can be **sustainable materials for future teams to carry out educational activities**. With our collective endeavors, we hold a confident vision that the iGEM Alliance of the Yangtze River Delta will be constantly developed by the iGEM teams and will etch a profound and enduring mark on the landscape of synthetic biology in China and beyond in the future.
 
 Please check the educational picture books made by us: [What is gene](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf) and [Gene editing](https://static.igem.wiki/teams/4765/wiki/education/picture-book-gene-editing.pdf).
 
 
 ## New multifunctional software tool: RAP
 
-Further develop the software from Fudan iGEM [2021](https://2021.igem.org/Team:Fudan/Software) and [2022](https://2022.igem.wiki/fudan/software), we have addressed some shortcomings (based on feedbacks from our users) and have added new features, and creating of our new software tool, **RAP**.
+Further developing the software from Fudan iGEM [2021](https://2021.igem.org/Team:Fudan/Software) and [2022](https://2022.igem.wiki/fudan/software), we have addressed some shortcomings (based on feedbacks from our users) and have added new features, thus creating our new software tool, **RAP**.
 
-RAP consists of three main components. Within the [KineticHub](/software/#kinetichub), using the data of the [BRENDA](https://www.brenda-enzymes.org/) database, we can calculate the optimal enzyme concentrations. With [Parthub 2](/software/#parthub-2), we can retrieve the required parts and download their sequences in GeneBank format. Finally, with the help of [RAP Builder](/#rap-builder), we can design the corresponding RBS and stem-loop sequences by combining the results from **KineticHub** and the sequences from **Parthub 2**.
+RAP consists of three main components. Within the [KineticHub](/software/#kinetichub), using the data from the [BRENDA](https://www.brenda-enzymes.org/) database, we can calculate the optimal enzyme concentrations. With [Parthub 2](/software/#parthub-2), we can retrieve the required parts and download their sequences in GenBank format. Finally, with the help of [RAP Builder](/#rap-builder), we can design the corresponding RBS and stem-loop sequences by combining the results from **KineticHub** and the sequences from **Parthub 2**.
 
-This software is designed to assist iGEMers and other researchers 1) to efficiently find part sequences, 2) to determine the optimal enzyme ratio for their system, and 3) to design expression cassette with appropriate RBS and stem-loop sequences, thus **to boost productivity in synthetic biology**.  It help users through the DBTL (Design-Build-Test-Learn) cycle, while also contributing to the [continued growth of RAP](https://2023.igem.wiki/fudan/engineering/#RAP).
+This software is designed to assist iGEMers and other researchers 1) to efficiently find part sequences, 2) to determine the optimal enzyme ratio for their system, and 3) to design expression cassette with appropriate RBS and stem-loop sequences, thus **boosting productivity in synthetic biology**.  It helps users through the DBTL (Design-Build-Test-Learn) cycle, while also contributing to the [continued growth of RAP](https://2023.igem.wiki/fudan/engineering/#RAP).
 
 For more details, please visit our [Software](/software/) page.
