@@ -134,7 +134,7 @@ As the solar energy heats the Martian atmosphere, driving global airflow cycles 
 
 ## **Our Solution**
 
-To address the challenges mentioned above, B.HOME presents a promising strategy involving four interdependent systems: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming Systems**. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.
+To address the challenges mentioned above, B.HOME presents a promising strategy involving four interdependent systems: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming** Systems. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/4765/wiki/description/four-system.png" style='width:80%'>

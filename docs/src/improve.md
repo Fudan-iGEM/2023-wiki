@@ -44,7 +44,7 @@ We incorporated red fluorescent protein mScarlet after *galU* and *pgmA*, creati
 In addition, we did the following:
 
 - Codon-optimized the enzymes for synthesize MAA ([BBa_K4765010](http://parts.igem.org/Part:BBa_K4765010) and [BBa_K4765011](http://parts.igem.org/Part:BBa_K4765011))
-- Co-expressed the anti-desiccation protein SAHS 33020 with *H. ex* mtSSB to test their anti-desiccation capabilities
+- Co-expressed the anti-desiccation protein SAHS&nbsp;33020 with *H. ex* mtSSB to test their anti-desiccation capabilities
 - Analyzed factors affecting [Sac](http://parts.igem.org/Part:BBa_K4115017) functionality, and improve culture media for bacteria
 
 ## Improved Parts
