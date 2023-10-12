@@ -52,7 +52,7 @@
       </section>
       <section class="page-6">
           <div data-aos="fade-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:20vw;padding-right:20vw;color:white;font-size: 1.5vw;">Our <span style="color:#e37654;"><strong>B.HOME</strong></span> project aspires to transmute Martian rocks into fertile soil,marking a bold stride towarda viable human habitat Our B.HOME projectaspires to transmute
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:20vw;padding-right:20vw;color:white;font-size: 1.5vw;">Our <span style="color:#e37654;"><strong>B.HOME</strong></span> project aspires to transmute Martian rocks into fertile soil,marking a bold stride toward a viable human habitat. Our B.HOME project aspires to transmute
                 Martian rocks into fertile soil,marking a bold stride toward a viable <strong>human habitat</strong>
                   on terrestrial planets.
             </p>
