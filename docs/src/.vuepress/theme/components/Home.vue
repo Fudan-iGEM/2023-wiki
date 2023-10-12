@@ -26,8 +26,8 @@
           <div style="width: 40%;padding-top: 10vh;padding-bottom: 10vh">
               <lottie :options="marsOptions"></lottie>
           </div>
-          <div data-aos="fade-down" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom"><p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:white;font-size: 1.5vw;"><span style="font-size: 4vw;color: #e37654">Why Mars</span><br>Since the dawn of time, humanity's insatiable curiosity has reached out to the cosmos. With the advent of modern aerospace technology, our ability to explore the vast universe has expanded, igniting dreams of future space migration.
-              Among the potential homes, Mars stands as the most promising candidate. It possesses several Earth-like qualities that make it an attractive choice.</p></div>
+          <div data-aos="fade-down" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom"><p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:white;font-size: 1.5vw;"><span style="font-size: 4vw;color: #e37654">Why Mars?</span><br>Since the dawn of time, humanity's insatiable curiosity has reached out to the cosmos.<br>With the advent of modern aerospace technology, our ability to explore the vast universe has expanded, igniting dreams of future <strong>space migration</strong>.<br>
+              Among the potential homes, <strong>Mars</strong> stands as the most promising candidate.<br>It possesses several Earth-like qualities that make it an attractive choice.</p></div>
       </section>
       <section class="page-3">
           <div style="width: 40%;padding-top: 15vh;padding-bottom: 15vh">
@@ -42,19 +42,17 @@
               <img style="width: 30vw;" src="https://static.igem.wiki/teams/4765/wiki/czy/lichen.jpg">
           </div>
           <div data-aos="fade-down-right" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-              <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">In the process of primary succession on Earth, <span style="color: #01ab6d;">lichens</span> play a vital role in <span style="color:#01ab6d;">shaping environment</span>.<br><small>"...the tinist objects of inquiry become the most cosmic and otherworldly."</small><br><span style="color:#e37654;">· Community fungi and algae</span><br><span style="color:#e37654;">· Symbiosis system</span><br><span style="color:#e37654;">· Lichenic acid</span></p>
+              <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">In the process of primary succession on Earth, <span style="color: #01ab6d;">lichens</span> play a vital role in <span style="color:#01ab6d;">shaping environment</span>.<br><small>"... the tinist objects of inquiry become the most cosmic and otherworldly."</small><br><span style="color:#e37654;">· Community fungi and algae</span><br><span style="color:#e37654;">· Symbiosis system</span><br><span style="color:#e37654;">· Lichenic acid</span></p>
           </div>
       </section>
       <section class="page-5">
         <div data-aos="zoom-in-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and Escherichia coli, and can transmute Martian rocks into fertile soil and endure harsh Martian conditions.<br><br>The B.HOME project revolves around four interdependent systems: Symbiotic, Functional, Survival, and Metabolic Regulation. Through these systems, we have constructed an ecological biofilm capable of autotrophic survival, rock weathering, extreme tolerance, and poly-cistron expression efficiency. Together, these systems pave the way for our biofilm pioneers to flourish on Mars.<br><br>Our project extends <span style="color: #e37654"><strong>beyond Mars</strong></span>, with applications on Earth such as desertification management, functional biomaterial creation, assisting synthetic metabolic pathways, and industrial applications.</p>
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and <em>Escherichia coli</em>, and can transmute Martian rocks into fertile soil and endure harsh Martian conditions.<br><br>The B.HOME project revolves around four interdependent systems: Survival, Symbiotic, Biofilm Formation, and Terraforming Systems. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.</p>
         </div>
       </section>
       <section class="page-6">
           <div data-aos="fade-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:20vw;padding-right:20vw;color:white;font-size: 1.5vw;">Our <span style="color:#e37654;"><strong>B.HOME</strong></span> project aspires to transmute Martian rocks into fertile soil,marking a bold stride toward a viable human habitat. Our B.HOME project aspires to transmute
-                Martian rocks into fertile soil,marking a bold stride toward a viable <strong>human habitat</strong>
-                  on terrestrial planets.
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:20vw;padding-right:20vw;color:white;font-size: 1.5vw;font-weight: bold;">This venture brings us one step closer to realizing our grand vision: the creation of a second home for humanity on terrestrial planets, expanding our horizons beyond Earth's borders.
             </p>
           </div>
       </section>
