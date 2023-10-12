@@ -8,7 +8,7 @@ authorlink:
 ---
 
 ::: tip
-Live demo of our software RAP is available. Visit our live demo [http://54.169.242.254:5000/](http://54.169.242.254:5000/)! To run your own, please follow [the docker image link](#).
+Live demo of our software RAP is available. Visit our live demo [http://54.169.242.254:5000/](http://54.169.242.254:5000/)! To run your own with `docker-compose`, please follow these three links, [1](https://hub.docker.com/repository/docker/mistyfield/kinetichub/general) [2](https://hub.docker.com/repository/docker/mistyfield/parthub/general) [3](https://hub.docker.com/repository/docker/mistyfield/rap/general).
 :::
 
 ## Overview
@@ -21,12 +21,14 @@ Live demo of our software RAP is available. Visit our live demo [http://54.169.2
 - Experimentally validated results
 - Up-to-date documentation and tutorial videos
 
-Improving chassis metabolism is crucial for applications in synthetic biology. And the design of most synthetic biology applications involves multiple enzymes working together to form a cascade reaction. Flux imbalance frequently occur in unoptimized cascade reactions, which may lead to problems like the appearance of the speed limit step, the occurrence of metabolic stress on cells, and the accumulation of cytotoxic intermediates. The success of the Ribozyme-Assisted Polycistronic co-expression system (pRAP system) and the benefits of replacing multiple promoter co-expression system in improving chassis metabolism have been demonstrated by [Fudan iGEM 2022](http://parts.igem.org/Part:BBa_K4162005). How ever, the Fudan iGEM 2022 has two drawbacks for the usage of the pRAP system:
+Improving chassis metabolism is crucial for applications in synthetic biology. And most synthetic biology applications involves multiple enzymes working together to form a cascade reaction. Flux imbalance frequently occur in unoptimized cascade reactions, which may lead to problems like unexpected speed limit step, occurrence of metabolic stress on cells, and accumulation of cytotoxic intermediates, etc. The success of the Ribozyme-Assisted Polycistronic co-expression (pRAP) system and the benefits of replacing upstream RBS for individual CDS result in improved chassis metabolism have been demonstrated by [Fudan iGEM 2022](http://parts.igem.org/Part:BBa_K4162005). However, previous team has two limits:
 
-1. Lack of **quantitative** regulation for the pRAP system. Fudan iGEM 2022 regulates the expression of different proteins in pRAP by qualitatively changing the intensity of ribosome binding site (RBS).
-2. Only focusing on ribosome binding but without attention to **mRNA degradation**.
+1. Lack of **quantitative** regulation for the pRAP system. Only relatively change the expression of different proteins in pRAP by qualitatively changing the ribosome binding site (RBS) with different strength.
+2. Only focusing on ribozyme cleavage and ribosome binding, without attention to **degradation** which could be a problem for many cleavaged mRNA.
 
-This year, we developed a quantitative pRAP system design software for all regulatory elements, which could support the entire Design-Build-Test-Learn cycle (DBTL cycle): **RAP**. RAP consists of three parts: [KineticHub](#kinetichub), [RAP Builder](#rap-builder) and [PartHub 2](#parthub-2). The functions of RAP incorporate:
+This year, we developed a software tool for quantitatively design pRAP system, covering for all possible regulatory elements, full support the Design-Build-Test-Learn (DBTL) [cycle](/engineering/#developing-our-software-rap): **RAP**.
+
+RAP consists of three parts: [KineticHub](#kinetichub) ([docker image](https://hub.docker.com/repository/docker/mistyfield/kinetichub/general)), [RAP Builder](#rap-builder) ([docker image](https://hub.docker.com/repository/docker/mistyfield/rap/general)) and [PartHub 2](#parthub-2) ([docker image](https://hub.docker.com/repository/docker/mistyfield/parthub/general)). The functions of RAP incorporate:
 
 - **Parts searching**
 - **Calculation of optimal concentrations of enzymes**
