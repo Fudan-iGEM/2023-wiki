@@ -38,10 +38,24 @@
           </div>
       </section>
       <section class="page-4">
-          <div>
+          <div data-aos="fade-down-left" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
+              <img style="width: 30vw;" src="https://static.igem.wiki/teams/4765/wiki/czy/lichen.jpg">
           </div>
-          <div>
-              <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">In the process of primary succession on Earth, <span style="color: #01ab6d;">lichens</span> play a vital role in <span style="color:#01ab6d;">shaping environment</span>.</p>
+          <div data-aos="fade-down-right" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
+              <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">In the process of primary succession on Earth, <span style="color: #01ab6d;">lichens</span> play a vital role in <span style="color:#01ab6d;">shaping environment</span>.<br><small>"..the tinist objects of inquiry become the most cosmic and otherworldly."</small><br><span style="color:#e37654;">· Community fungi and algae</span><br><span style="color:#e37654;">· Symbiosis system</span><br><span style="color:#e37654;">· Lichenic acid</span></p>
+          </div>
+      </section>
+      <section class="page-5">
+        <div data-aos="zoom-in-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:5vw;padding-right:5vw;color:white;font-size: 1.5vw;">We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and Escherichia coli, and can transmute Martian rocks into fertile soil and endure harsh Martian conditions.<br><br>The B.HOME project revolves around four interdependent systems: Symbiotic, Functional, Survival, and Metabolic Regulation. Through these systems, we have constructed an ecological biofilm capable of autotrophic survival, rock weathering, extreme tolerance, and poly-cistron expression efficiency. Together, these systems pave the way for our biofilm pioneers to flourish on Mars.<br><br>Our project extends <span style="color: #e37654"><strong>beyond Mars</strong></span>, with applications on Earth such as desertification management, functional biomaterial creation, assisting synthetic metabolic pathways, and industrial applications.</p>
+        </div>
+      </section>
+      <section class="page-6">
+          <div data-aos="fade-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:20vw;padding-right:20vw;color:white;font-size: 1.5vw;">Our <span style="color:#e37654;"><strong>B.HOME</strong></span> project aspires to transmute Martian rocks into fertile soil,marking a bold stride towarda viable human habitat Our B.HOME projectaspires to transmute
+                Martian rocks into fertile soil,marking a bold stride toward a viable <strong>human habitat</strong>
+                  on terrestrial planets.
+            </p>
           </div>
       </section>
       <Content class="home-center" v-show="recoShowModule" custom/>
@@ -223,6 +237,26 @@ export default defineComponent({
   }
   .page-4 {
     background-color: #fff6f0;
+    width: calc(100vw - 5px);
+    //height: 100vh;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .page-5 {
+    background-image: url("https://static.igem.wiki/teams/4765/wiki/czy/mars-home-bg.jpg");
+    background-repeat: round;
+    width: calc(100vw - 5px);
+    //height: 100vh;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .page-6 {
+    background-image: url("https://static.igem.wiki/teams/4765/wiki/czy/backgorund-last-home.png");
+    background-repeat: round;
     width: calc(100vw - 5px);
     //height: 100vh;
     display: flex;
