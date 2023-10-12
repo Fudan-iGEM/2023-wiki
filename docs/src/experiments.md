@@ -198,7 +198,7 @@ CoBG-11 was designed based on BG-11 medium and optimized for *E. coli* growth by
 1. Measure and record the dry weight of each EP tube. Adjust the OD~600~ values of the experimental group and the control group to 1.
 2. For each sample， dispense 1 mL bacterial solution into two separate EP tubes. Centrifuge at 6000 rpm for 5 minutes.
 3. Carefully remove the supernatant before desiccation in a speedvac concentrator for 6.5 hours. Then measure the dry weight of each bacterial pellet. Place the EP tubes containing bacteria on an analytical balance and record their weight. Bacterial dry weight is calculated as the recorded weight minus the dry weight of the empty EP tube measured in step 1.
-4. Re-suspend each EP tube pellet in 1 mL of LB medium without antibiotics. Dilute it 10^5 times for CFU counting.
+4. Re-suspend each EP tube pellet in 1 mL of LB medium without antibiotics. Dilute it 10^5^ times for CFU counting.
 :::
 
 ## CFU Counting
@@ -211,7 +211,7 @@ CoBG-11 was designed based on BG-11 medium and optimized for *E. coli* growth by
 
 | Dilution ratio          | Solution Proportions                                         |
 | ----------------------- | ------------------------------------------------------------ |
-| The First Diluted Tube  | 100 μL Experimental Groups Bacterial Solution (OD~600~ 1, 10^8/mL) + 9.9 mL ddH~2~O |
+| The First Diluted Tube  | 100 μL Experimental Groups Bacterial Solution (OD~600~ 1 = 10^8^/mL) + 9.9 mL ddH~2~O |
 | The second Diluted Tube | 100 μL First Diluted Solution + 9.9 mL ddH~2~O                 |
 | The third Diluted Tube  | 1.0 mL Second Diluted Solution + 9.0 mL ddH~2~O                |
 | Final Dilution ratio    | 1 : 100,000                                                 |

@@ -8,18 +8,18 @@ authorlink:
 ---
 
 ::: tip
-Live demo of RAP is available. Visit our live demo [here](http://54.169.242.254:5000/)!
+Live demo of our software RAP is available. Visit our live demo [http://54.169.242.254:5000/](http://54.169.242.254:5000/)! To run your own, please follow [the docker image link](#).
 :::
 
 ## Overview
 
 ### Highlights
 
-- Intuitive WebUI with APIs for advanced development
-- Compatible with and leveraging GenBank format and easy integration with SnapGene
-- Support throughout the DBTL cycle
+- Intuitive WebUI with APIs for flexible development
+- Compatible with GenBank format, and easy integration with [SnapGene](https://www.snapgene.com/)
+- Full DBTL cycle support
 - Experimentally validated results
-- Comprehensive documentation and tutorials
+- Up-to-date documentation and tutorial videos
 
 Improving chassis metabolism is crucial for applications in synthetic biology. And the design of most synthetic biology applications involves multiple enzymes working together to form a cascade reaction. Flux imbalance frequently occur in unoptimized cascade reactions, which may lead to problems like the appearance of the speed limit step, the occurrence of metabolic stress on cells, and the accumulation of cytotoxic intermediates. The success of the Ribozyme-Assisted Polycistronic co-expression system (pRAP system) and the benefits of replacing multiple promoter co-expression system in improving chassis metabolism have been demonstrated by [Fudan iGEM 2022](http://parts.igem.org/Part:BBa_K4162005). How ever, the Fudan iGEM 2022 has two drawbacks for the usage of the pRAP system:
 

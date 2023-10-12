@@ -164,7 +164,7 @@ In the aggregation experiments, We combined cultures of *E. coli* expressing int
 style='width:65%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 10: Aggregation Assay Using Optical Density (OD<sub>600</sub>) Measurements<br>The initial OD values of the cultures were standardized using LB KanR medium</small></p>
+<p><small style="color: gray">Figure 10: Aggregation Assay Using Optical Density (OD<sub>600</sub>) Measurements<br>The OD values of the cultures were standardized using LB KanR medium. OD~600~ 1 is equivilant to 10^8^ bacterial particles per mL.</small></p>
 </div>
 </div>
 
@@ -175,12 +175,12 @@ We observed that at 3 hours, in the aTc-induced *E. coli* samples, bacteria perc
 style='width:50%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 11: Bacteria Percentage Remaining in the Supernatant at the 3rd Hour<br> The bacterial quantity in the supernatant is reflected by measuring the OD<sub>600</sub>(1 OD<sub>600</sub> corresponds to 10<sup>8</sup> bacterial particles).</small></p>
+<p><small style="color: gray">Figure 11: Bacteria Percentage Remaining in the Supernatant at the 3rd Hour<br> The bacterial quantity in the supernatant is quantified by OD<sub>600</sub>(1 OD<sub>600</sub> corresponds to 10<sup>8</sup> bacterial particles).</small></p>
 </div>
 </div>
 
 
-We also employed microscopy imaging to observe the growth and expansion of biofilm. Glass slides were treated with PDL (Poly-D-Lysine) for 10 seconds, followed by mixing *E. coli* expressing intimin-Ag3 and intimin-Nb3-mScarlet on these slides. After several washes with LB KanR medium, 100 μL of LB KanR medium was added. The location of the founder cell was determined, and imaging was initiated on the microscope stage at 25°C, capturing photographs at 0, 2, and 5.5 hours.
+We also employed microscopy imaging to observe the growth and expansion of biofilm. Glass slides were treated with PDL (Poly-D-Lysine) for 10 seconds, followed by mixing *E. coli* expressing intimin-Ag3 ([BBa_K4765105](http://parts.igem.org/Part:BBa_K4765105)) and intimin-Nb3 + mScarlet ([BBa_K4765133](http://parts.igem.org/Part:BBa_K4765133)) on these slides. After several washes with LB KanR medium, 500 μL of LB KanR medium was added. The location of the founder cell was determined, and imaging was initiated on the microscope stage at 25°C, capturing photographs at 0, 2, and 5.5 hours or time-laspse with 5-minute interval. A bacterial lawn covering the field at the end of image.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/microscopy-show-2.png"
@@ -198,7 +198,7 @@ As illustrated in the following figure, the presence of Ag/Nb pairs on the surfa
 style='width:60%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 13: Biofilm Growth at 0, 2, and 5.5 Hours<br> Images were captured under a 150x objective lens in brightfield and fluorescence. </small></p>
+<p><small style="color: gray">Figure 13: Biofilm Growth at 0, 2, and 5.5 Hours<br>Brightfield and fluorescence images were captured under a 150x objective lens. </small></p>
 </div>
 </div>
 
@@ -210,7 +210,7 @@ In the video that follows, we present additional evidence of bacterial growth an
 style='width:40%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 14: Visualization of Biofilm Formation through Microscopy Imaging<br>Magnification: 150x <br>Video Duration: Captured at 5min intervals<br>
+<p><small style="color: gray">Figure 14: Visualization of Biofilm Formation through Microscopy Imaging<br>Magnification: 150x <br>Fluoresence images were captured with 5-minute interval. Comparing the starting and ending brightfield images, several bacteria grow into a bacterial lawn in about 8 hours.<br>
 </small></p>
 </div>
 </div>
@@ -220,41 +220,41 @@ These results collectively demonstrate that intimin-Ag/Nb fusion can mediate spe
 
 ### Cyanobacteria - *E. coli*
 
-To confirm the binding between cyanobacteria and *E. coli*, we mixed *E. coli* strains displaying lectins on their surfaces with the corresponding cyanobacteria and allowed them to settle. We measured the OD~600~,~685~ of the supernatant at 0, 2, 6, and 24 hours to assess the remaining *E.coli* / cyanobacteria in the supernatant. (details in [BBa_K4765109](http://parts.igem.org/Part:BBa_K4765109), [BBa_K4765110](http://parts.igem.org/Part:BBa_K4765110))
+To confirm the binding between cyanobacteria and *E. coli*, we mixed *E. coli* strains displaying lectins on their surfaces with the corresponding cyanobacteria and allowed them to settle. We measured the OD~600~,~685~ of the supernatant at 0, 2, 6, and 24 hours to assess the remaining *E.coli* / cyanobacteria in the supernatant (details in [BBa_K4765109](http://parts.igem.org/Part:BBa_K4765109), [BBa_K4765110](http://parts.igem.org/Part:BBa_K4765110))
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/cyano-e-coli-3.png" style='width:65%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 15: Aggregation Assay Using Optical Density (OD<sub>600, 685</sub>) Measurements<br>The initial OD values of the cultures were standardized using CoBG-11 medium</small></p>
+<p><small style="color: gray">Figure 15: Aggregation Assay Using Optical Density (OD<sub>600, 685</sub>) Measurements<br>The OD values of the cultures were standardized using CoBG-11 medium</small></p>
 </div>
 </div>
 
-In the following figure, we observed that at 6 hours, in both aTc-induced *E. coli* / cyanobacteria samples,  bacteria percentage of bacteria remaining in the supernatant was significantly lower compared to the uninduced samples. This suggests that intimin-lectin can mediate the specific binding of *E. coli* and cyanobacteria, thereby accelerating the aggregation process.
+As shown below, we observed that after 6 hours, in both aTc-induced *E. coli* / cyanobacteria samples,  bacteria percentage of bacteria remaining in the supernatant was significantly lower compared to the uninduced samples. This suggests that intimin-lectin can mediate the specific binding between *E. coli* and cyanobacteria, thereby accelerating the aggregation process.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/lca-mvn3.jpg"
 style='width:80%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 16: Bacteria Percentage Remaining in the Supernatant 6h after Mixation<br> A: intimin-LCA <em>E.coli</em> / <em>Synechococcus elongatus</em>  B: intimin-MVN <em>E.coli</em> / <em>Microcystis aeruginosa</em> <br>The bacterial quantity in the supernatant is reflected by measuring the OD<sub>600</sub> and OD<sub>685</sub>. 
+<p><small style="color: gray">Figure 16: Bacteria Percentage Remaining in the Supernatant 6h after Mixation<br> A: intimin-LCA <em>E.coli</em> / <em>Synechococcus elongatus</em>  B: intimin-MVN <em>E.coli</em> / <em>Microcystis aeruginosa</em> <br>The bacterial quantity in the supernatant is quantified by OD<sub>600</sub> and OD<sub>685</sub>. 
 </small></p>
 </div>
 </div>
 
 
-For aTc-induced intimin-MVN *E.coli* / *Microcystis aeruginosa* mixed samples, while the final number of bacteria remaining in the supernatant showed no significant difference compared to the uninduced type. However, the bacterial count at 2 hours and 6 hours was significantly lower than the uninduced type, suggesting that the introduction of lectins contributes to accelerating the biofilm formation process.
+For aTc-induced intimin-MVN *E.coli* / *Microcystis aeruginosa* mixed samples, while the final number of bacteria remaining in the supernatant showed no significant difference compared to the uninduced bacteria. However, the bacterial count at 2 hours and 6 hours was significantly lower than the uninduced bacteria, suggesting that the introduction of lectins contributes to aggregation process.
 
-For aTc-induced intimin-LCA *E.coli* / *Synechococcus elongatus* mixed samples, the number of bacteria remaining in the supernatant at 2 hours showed no significant difference compared to the uninduced type. Still, the bacterial count at 6 hours and 24 hours was significantly lower than the uninduced type.
+For aTc-induced intimin-LCA *E.coli* / *Synechococcus elongatus* mixed samples, the number of bacteria remaining in the supernatant at 2 hours showed no significant difference compared to the uninduced bacteria. Still, the bacterial count at 6 hours and 24 hours was significantly lower than the uninduced bacteria.
 
-The differences in sedimentation patterns may arise from variations in cyanobacterial species and differences in the affinity of adhesins. Nonetheless, these observations support the idea that expressing intimin-lectin in *E.coli* can mediate the specific binding of *E.coli* and cyanobacteria, thereby promoting biofilm formation process.
+The differences in sedimentation patterns may arise from variations in cyanobacterial species and differences in the affinity of adhesins. Nonetheless, these observations support the idea that expressing intimin-lectin in *E.coli* can mediate the specific binding between *E.coli* and cyanobacteria, thereby promoting biofilm formation process.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/lca-mvn-time.jpg"
 style='width:300%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 17: Bacteria Remaining in the Supernatant at 0,2,6,24 Hours<br> A: intimin-LCA <em>E.coli</em> / <em>Synechococcus elongatus</em>  B: intimin-MVN <em>E.coli</em> / <em>Microcystis aeruginosa</em><br>The bacterial quantity in the supernatant is reflected by measuring the OD<sub>600</sub> (1 OD<sub>600</sub> corresponds to 10<sup>8</sup> bacterial particles)
+<p><small style="color: gray">Figure 17: Bacteria Remaining in the Supernatant at 0,2,6,24 Hours<br> A: intimin-LCA <em>E.coli</em> / <em>Synechococcus elongatus</em>  B: intimin-MVN <em>E.coli</em> / <em>Microcystis aeruginosa</em><br>The bacterial quantity in the supernatant is quantified by OD<sub>600</sub> (1 OD<sub>600</sub> corresponds to 10<sup>8</sup> bacterial particles)
 </small></p>
 </div>
 </div>
@@ -265,20 +265,20 @@ style='width:300%'>
 
 ### EPS Module
 
-To validate the adhesion effects of EPS (details in [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121) and [BBa_K4765122](http://parts.igem.org/Part:BBa_K4765122)), we performed microscopy imaging using a chamber-based approach. After mixing the *E.coli* expressing EPS with an appropriate concentration of PDL (Poly-D-Lysine), it was forcefully pipetted ten times before loading into the flow chamber. Subsequently, we conducted fluorescence microscopy imaging. We applied two different force intensities to wash the adherent bacteria and observed whether the EPS-expressing *E.coli* could remain adhered to the glass slide without being dislodged.
+To validate the adhesion effects of EPS (details in [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121) and [BBa_K4765122](http://parts.igem.org/Part:BBa_K4765122)), we performed microscopy imaging using a chamber-based approach. After mixing the *E.coli* expressing EPS with bacteria only expressing stayGold, it was forcefully pipetted ten times before loading into the flow chamber. Subsequently, we conducted fluorescence microscopy imaging. We applied two different force on culture media to wash the flow chamber with different speed, and observed whether the EPS-expressing *E.coli* could remain adhered to the glass surface.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/flow-chamber.jpg"
 style='width:80%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 18: Schematic of the Flow Chamber Device for EPS Experiments<br>This figure illustrates the design of the flow chamber and its application in conducting EPS experiments.<br>
+<p><small style="color: gray">Figure 18: Schematic of the Flow Chamber Device for EPS Experiments<br>This figure illustrates the setup of the flow chamber, and applying wash through a piping for conducting wash experiments.<br>
 </small></p>
 </div>
 </div>
 
 
-In Figure 19, in the two left images under lower-intensity washing, EPS-expressing *E. coli* cells (red fulorescence indicated by white arrows) maintained adhesion to the glass surface for an extended period without being dislodged, while the control group (green fluorescence) was washed away. In the two right images, subjecting adherent *E. coli*  to more intense washing forces removed non-adherent cells completely. However, EPS-expressing *E. coli* cells (white arrows) could still adhere to the glass surface for a considerable time. This indicates that EPS effectly promotes *E. coli* adhesion.
+In Figure 19, the two left images under lower-speed washing, EPS-expressing *E. coli* cells (red fluorescence indicated by white arrows) maintained adhesion to the glass surface for an extended period without being dislodged, while the control group (green fluorescence) was washed away. In the two right images, subjecting adherent *E. coli*  to more intense washing removed non-adherent cells completely. However, EPS-expressing *E. coli* cells (white arrows) could still adhere to the glass surface for a considerable time. This indicates that EPS effectly promotes *E. coli* adhesion.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/150x-low-pdl-gp-1-blow-final.jpg"
@@ -297,7 +297,7 @@ In the following video, we further demonstrated the adhesion process of EPS-expr
 style='width:40%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 20: Visualization of <em>E.coli</em> Adhesion through Fluorescence Microscopy<br>Magnification: 150x <br>Video Duration: Captured at 200ms intervals<br>
+<p><small style="color: gray">Figure 20: Visualization of <em>E.coli</em> Adhesion through Fluorescence Microscopy<br>Magnification: 150x <br>Fluoresence images were captured with 200ms interval<br>
 </small></p>
 </div>
 </div>
@@ -305,3 +305,4 @@ style='width:40%'>
 
 These results collectively affirm that EPS effectively mediates *E. coli* adhesion to surfaces, thereby enhancing the terraforming process.
 
+**In summary, the four Survival, Symbiotic, Biofilm Formation and Terraforming Systems for our biofilm, all have been made and test. All performed as designed. Having them together in one bacteria will be our choice of terraforming space explorer - B.HOME v1** ([BBa_K4765140](http://parts.igem.org/Part:BBa_K4765140)). We are also in the process of using shuttle test ([BBa_K4765130](http://parts.igem.org/Part:BBa_K4765130)) to empower cyanobacteria with Anti-UV Module, Anti-Freeze Module and Anti-Desiccation capabilities.
