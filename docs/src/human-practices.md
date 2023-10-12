@@ -15,13 +15,13 @@ To get a comprehensive and clear idea of the potential implementation, experimen
 
 1.  [**Determining the Value**](#determining-the-value): In this part, we aimed to determine the current challenges and possibilities in space exploration. Through communication with **professors in astrobiology**, **leading biologists in space exploration**, and **senior instructors in entrepreneurship**, we got a more detailed idea of the **innovation**, **environmental**, **and commercial values** of our project.
 
-2. [**Implementing the Project**](#implementing-the-project): To put our idea into practice, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed four interdependent systems:** symbiotic, functional, survival, and metabolic regulation in our engineering bacteria (see more details in [Description](/description/)).
+2. [**Implementing the Project**](#implementing-the-project): To put our idea into practice, we turned to **experts in soil ecosystems**, **specialists in microbe**, and **previous iGEM teams** to seek professional suggestions for our experimental design. With their assistance, we **developed four interdependent systems:** symbiotic, biofilm formation, survival, and terraforming systems in our engineering bacteria (see more details in [Description](/description/)).
 
 3. [**Managing the Risk**](#managing-the-risk): For further development of our project, we carefully considered the potential risks that would threaten the interests of all mankind. Drawing on the expertise of **specialists in biological ethics**, we were fully aware of **our duty to balance space exploration and environmental ethics.** We also searched for a reliable method to **address the safety issues**.
 
-This year, all of our HP work follows **the STAR loop** (shown below).
+This year, all of our HP work follows [**the STAR loop**](#star-loop).
 
-<div style="text-align: center;">
+<div style="text-align: center;" id="star-loop">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/hp-loop.png"
 style='width:70%'>
 	<br>
@@ -39,7 +39,7 @@ style='width:70%'>
 
 **Stimulation**
 
-In the early stage, we attempted to **build a symbiotic system** that resembles lichen with cyanobacteria and *E. coli*. We assumed that this system enables engineered *E. coli* to survive on the surface of terrestrial planets and promote terraforming progress through its metabolites.
+In the early stage, we attempted to **build a symbiotic system** that resembles lichens with cyanobacteria and *E. coli*. We assumed that this system enables engineered *E. coli* to survive on the surface of terrestrial planets and promote terraforming progress through its metabolites.
 
 We wondered that:
 
@@ -51,7 +51,7 @@ We wondered that:
 
 **Target**
 
-Prof. Li is an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done excellent work about the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. She has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
+[Prof. Li](http://faculty.pku.edu.cn/Liyan/zh_CN/jsxx/3043/jsxx/jsxx.htm) is an associate professor and doctoral supervisor at the School of Earth and Space Sciences, Peking University, China. In the past ten years, she has done excellent work about the origin of life catalyzed by natural sulfide minerals and the interaction between microorganisms and minerals. She has been interested in the process of matter and energy cycling catalyzed by minerals on the surface of early Earth and Mars.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/li-yan.jpg"
@@ -77,7 +77,7 @@ Finally, Prof. Li reminds us of the heterogeneity of the Martian surface environ
 
 **Review**
 
-With the insights of Prof. Li, we took **Mars** as the representative of the terrestrial planet and involved an **anti-UV module** and an **anti-freeze module** in our engineered bacteria. Besides, we found that **organic acids** played an important role in Earth's biological weathering processes[^1][^2][^3]. [Collaboration with CAU-China](/collaboration/), we introduced an Oxalic Acid Module to promote the terraforming progress of Mars.
+With the insights of Prof. Li, we took **Mars** as the representative of the terrestrial planet and involved an **anti-UV module** and an **anti-freeze module** in our engineered bacteria. Besides, we found that **organic acids** played an important role in Earth's biological weathering processes[^1][^2][^3]. [Collaborating with CAU-China](/collaboration/), we introduced an oxalic acid module to promote the terraforming progress of Mars.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/liyan.png"
@@ -141,7 +141,7 @@ We wondered that:
 
 **Target**
 
-Dr. Zhang is now a young researcher at the School of Life Sciences, Fudan University. He is mainly engaged in the development and industrialization of droplet microfluidic systems. As a senior instructor in entrepreneurship, Mr. Zhang always offers his students extensive and innovative insights into the development of the biological industry.
+[Dr. Zhang](https://life.fudan.edu.cn/b3/0c/c28175a307980/page.htm) is now a young researcher at the School of Life Sciences, Fudan University. He is mainly engaged in the development and industrialization of droplet microfluidic systems. As a senior instructor in entrepreneurship, Dr. Zhang always offers his students extensive and innovative insights into the development of the biological industry.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/5.jpg"
@@ -154,9 +154,9 @@ style='width:30%'>
 
 **Action**
 
-We had lunch with Mr. Zhang and shared our opinions on the industry of synthetic biology. Mr. Zhang pointed out that the subjective agency of living creatures could potentially join hands with synthetic biology techniques. He believed that the combination of **artificial BioBricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
+We had lunch with Mr. Zhang and shared our opinions on the industry of synthetic biology. Dr. Zhang pointed out that the subjective agency of living creatures could potentially join hands with synthetic biology techniques. He believed that the combination of **artificial BioBricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
 
-In terms of our project, Mr. Zhang believed that its environmental benefits could bring about commercial values, just like the invention of new energy cars. What really matters is to **find a suitable application** so that the reward can overcome the cost.
+In terms of our project, Dr. Zhang believed that its environmental benefits could bring about commercial values, just like the invention of new energy cars. What really matters is to **find a suitable application** so that the reward can overcome the cost.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/zjw.jpg"
@@ -194,7 +194,7 @@ We wondered that:
 
 **Target**
 
-Prof. Fang is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on soil carbon and nitrogen cycles and their regulatory mechanisms, the impact of global climate change on soil ecosystem processes, and soil ecological models.
+[Prof. Fang](https://life.fudan.edu.cn/b2/f9/c28175a307961/page.htm) is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on soil carbon and nitrogen cycles and their regulatory mechanisms, the impact of global climate change on soil ecosystem processes, and soil ecological models.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/fangchangming.png"
@@ -240,7 +240,7 @@ We wondered that:
 
 **Target**
 
-Prof. Quan is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on the physiological and biochemical characteristics of comammox and its role in the ecosystem. As a lecturer in microbiology, he has extensive knowledge of microbes under extreme conditions.
+[Prof. Quan](https://life.fudan.edu.cn/79/15/c28175a358677/page.htm) is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on the physiological and biochemical characteristics of comammox and its role in the ecosystem. As a lecturer in microbiology, he has extensive knowledge of microbes under extreme conditions.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/quanzhexue.jpg"
@@ -255,7 +255,7 @@ style='width:30%'>
 
 During the interview, Prof. Quan mentioned many microbes adapting to extreme living conditions, which greatly inspired us. He suggested we **pay attention to the microbes that survive harsh environments on Earth**. For example, the rhodospirillaceaes, as a kind of anaerobic photosynthetic bacteria, can produce energy and saccharides through photosynthesis but not rely on oxygen to survive, which is more suitable for the hypoxic environment in space.
 
-For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, We can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
+For the experiment design, Prof. Quan suggested we **adjust the experimental environment** to imitate the harsh environment in space. The controllable environment is more suitable for the preliminary verification of our concept. For example, we can subject *E. coli* to **freeze-drying treatment** through Speedvac for several hours to simulate the drought on Mars.
 
 **Review**
 With the idea of Prof. Quan, we focused on [Tardigrada](https://en.wikipedia.org/wiki/Tardigrade), the most mysterious creature on Earth that could survive in space. [A recent bioRxiv article](https://doi.org/10.1101/2023.08.21.554171) found a special protein named **mtSSB**. The mtSSB protein has proved to be closely associated with **resistance to radiation, drought, and freeze**[^4]. We built a BioBrick [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016) for our survival system.
@@ -310,7 +310,7 @@ style='width:70%'>
 
 **Re-Target**
 
-With the suggestions of Dr. Yunjie Zhang, we turned to Dr. Mingjun Zhang for professional suggestions on the safety and moral concerns of our project. Graduating from the University of Pennsylvania, America, Dr. Mingjun Zhang is an expert in biological philosophy and environmental ethics, and is working on evolutionary game theory.
+With the suggestions of Dr. Yunjie Zhang, we turned to [Dr. Mingjun Zhang](https://philosophy.fudan.edu.cn/3f/18/c14253a409368/page.htm) for professional suggestions on the safety and moral concerns of our project. Graduating from the University of Pennsylvania, America, Dr. Mingjun Zhang is an expert in biological philosophy and environmental ethics, and is working on evolutionary game theory.
 
 <div style="text-align: center;" id="fig-1">
 	<img src="https://static.igem.wiki/teams/4765/wiki/hp/zhang-mingjun.jpg"
