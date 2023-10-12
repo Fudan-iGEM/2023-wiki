@@ -15,7 +15,7 @@ authorlink:
 
 In [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)'s visionary novel *The Songs of the Distant Earth*, he paints a future where humanity seeks refuge on a distant planet called Salazar to escape the Sun’s impending supernova explosion.
 
-In our current era, as Earth grapples with escalating ecological and demographic crises, the notion of **planetary colonization** rises not merely as the stuff of science fiction but as a pressing, real-world imperative.
+In our current era, as Earth grapples with escalating ecological and demographic crises, the notion of **planetary colonization** rises not merely as the stuff of science fiction but also as a pressing, real-world imperative.
 
 <div style="text-align: center;" >
     <img src="https://static.igem.wiki/teams/4765/wiki/description/1.jpg" style='width:80%'>
@@ -55,7 +55,7 @@ Unlike our home planet with fertile lands, the Martian surface is predominantly 
 
 Taking a leaf out of Earth's ecological playbook, we recognize that pioneer organisms—**lichens**—play a vital role in shaping the environment[^4]. Lichens, composed of symbiotic fungi and either chlorophyta or cyanobacteria, boast numerous features crucial for ecological succession:
 
-1. **Physical Structure:** Millennia of evolutionary fine-tuning have endowed lichens with the certain physical structure to adapt to harsh conditions.
+1. **Physical Structure:** Millennia of evolutionary fine-tuning has endowed lichens with a certain physical structure to adapt to harsh conditions.
 
 2. **Symbiotic Relationship:** Within lichens, photosynthetic green algae perform carbon fixation and nitrogen assimilation, while fungi excel in water and minerals absorption.
 
@@ -71,7 +71,7 @@ Taking a leaf out of Earth's ecological playbook, we recognize that pioneer orga
 
 **Innovation**
 
-Nevertheless, directly transplanting lichens to Mars is a complex endeavor, due to the stark differences in crust composition and atmospheric conditions between the two planets. **This is where our iGEM project steps in.** Inspired by Earth's ecological architects, we aim to apply synthetic biology techniques to engineer a biofilm that could serve as a pioneer organism on Mars.
+Nevertheless, directly transplanting lichens to Mars is a complex endeavor, due to the stark differences in crust composition and atmospheric conditions between two planets. **This is where our iGEM project steps in.** Inspired by Earth's ecological architects, we aim to apply synthetic biology techniques to engineer a biofilm that could serve as a pioneer organism on Mars.
 
 By applying the principles behind lichens' environmental engineering, we hope to lead the way in terraforming terrestrial planets, heralding not just a new chapter in ecological science but potentially, the future of humanity itself.
 
@@ -112,11 +112,11 @@ Mars' hostile conditions require our biofilm to withstand intense UV radiation, 
 
 ### 2. Nutrient Supply Channels
 
-The lifeless Martian surface necessitates reliance on solar energy and atmospheric elements for self-sustenance. Our project centers around a symbiotic system where cyanobacteria provide essential nutrition through photosynthesis. We must tackle the inefficient secretion and utilization of organic nutrients (primarily sucrose) by cyanobacteria, and *E. coli*, respectively.
+The lifeless Martian surface necessitates reliance on solar energy and atmospheric elements for self-sustenance. Our project centers around a symbiotic system where cyanobacteria provide essential nutrition through photosynthesis. We must tackle the inefficient secretion and utilization of organic nutrients (primarily sucrose) by cyanobacteria and *E. coli*, respectively.
 
 ### 3. Biofilm Formation
 
-Biofilm demonstrates remarkable resilience against environmental stressors, emphasizing the importance of a well-structured biofilm matrix. Thus, establishing equilibrium in the spatial arrangement becomes critical to enhance nutrient exchange.
+Biofilm demonstrates remarkable resilience against environmental stressors, emphasizing the importance of a well-structured biofilm matrix. Thus, establishing equilibrium in the spatial arrangement becomes critical to enhancing nutrient exchange.
 
 ### 4. Harnessing Dust Agglomeration & Rock Erosion
 
@@ -134,7 +134,7 @@ As the solar energy heats the Martian atmosphere, driving global airflow cycles 
 
 ## **Our Solution**
 
-To address the challenges mentioned above, B.HOME presents a promising strategy involving four interdependent systems: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming** Systems. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.
+To address the challenges mentioned above, B.HOME presents a promising strategy involving four interdependent systems: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming Systems**. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/4765/wiki/description/four-system.png" style='width:80%'>
@@ -152,7 +152,7 @@ In the Survival System, we introduced the **Anti-UV Module**, **Anti-Freeze Modu
 
 We tested multiple proteins in *E. coli* to enhance its resistance to UV radiation, mitigating biomolecule damage induced by radiation.
 
-1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance, they upregulate DNA repair or binding proteins (Rv DSup[^9], [*Hypsibius exemplaris* mtSSB](http://parts.igem.org/Part:BBa_K4765016)[^10]) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](http://parts.igem.org/Part:BBa_K4765018) and [XRCC1](http://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
+1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv DSup[^9], [*Hypsibius exemplaris* mtSSB](http://parts.igem.org/Part:BBa_K4765016)[^10]) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](http://parts.igem.org/Part:BBa_K4765018) and [XRCC1](http://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
 
 2.   **Transfer UV Absorption:** Informed by insights from [LINKS-China_2022](https://2022.igem.wiki/links-china/description)[^11], we enriched *E.coli* with UV-absorbing[^12] substance, Mycosporine-like amino acids (MAAs), acting as a sunscreen for the biofilm.
 
@@ -166,7 +166,7 @@ We tested multiple proteins in *E. coli* to enhance its resistance to UV radiati
 
 #### B) Anti-Freeze Module
 
-An anti-freeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived from *Ammopiptanthus nanus*, was introduced to *E. coli* facilitating survival in sub-zero temperature. AnAFP features the ice crystal binding domain A, which adheres to ice surfaces and impeds the growth of ice crystals, enabling *E. coli* to survive in sub-zero temperature[^13].
+An anti-freeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived from *Ammopiptanthus nanus*, was introduced to *E. coli* to facilitate survival in sub-zero temperature. AnAFP features the ice crystal binding domain A, which adheres to ice surfaces and impedes the growth of ice crystals, enabling *E. coli* to survive in sub-zero temperature[^13].
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/4765/wiki/description/9anti-freeze-module.png" style='width:80%'>
@@ -178,9 +178,9 @@ An anti-freeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived
 
 #### C) Anti-Desiccation Module
 
-Taking inspiration from the remarkable resilience of tardigrades in extremely dry environments, we engineered *E. coli* to withstand desiccation by expressing two key proteins, [SAHS](http://parts.igem.org/Part:BBa_K2306003)[^14] [^15] and [mtSSB](http://parts.igem.org/Part:BBa_K4765016)[^16].
+Taking inspiration from the remarkable resilience of tardigrades in extremely dry environments, we engineered *E. coli* to withstand desiccation by expressing two key proteins, [SAHS](http://parts.igem.org/Part:BBa_K2306003)[^14] [^15] (also known as Tardigrade Dessication Proteins, TDPs) and [mtSSB](http://parts.igem.org/Part:BBa_K4765016)[^16].
 
-TDPs (SAHS) were identified for their role in tardigrade desiccation tolerance. TDPs undergo a transition into non-crystalline amorphous solids during desiccation, mirroring their protective attributes.
+TDPs were identified for their role in tardigrade desiccation tolerance. TDPs undergo a transition into non-crystalline amorphous solids during desiccation, mirroring their protective attributes.
 
 *H. ex* mtSSB binds single-stranded DNA to buffer against DNA damage under harsh conditions like desiccation heat and radiation.
 
@@ -197,7 +197,7 @@ TDPs (SAHS) were identified for their role in tardigrade desiccation tolerance. 
 
 ### 2. Symbiotic System
 
-We have established a symbiotic system in which cyanobacteria serve as carbon-fixing power cell, while genetically-equipped *E. coli* take on the roles of consumer and functional executor. Inspired by [ShanghaiTech_2022](https://2022.igem.wiki/shanghaitech-china/)[^17], we integrated the *CscB* gene into cyanobacteria to express the sucrose channel for **enhanced secretion**. Alongside this, we equipped *E. coli* with *SacC* gene to improve its sucrose **absorption and utilization**.
+We have established a symbiotic system in which cyanobacteria serve as carbon-fixing power cells, while genetically-equipped *E. coli* take on the roles of consumer and functional executor. Inspired by [ShanghaiTech_2022](https://2022.igem.wiki/shanghaitech-china/)[^17], we integrated the *CscB* gene into cyanobacteria to express the sucrose channel for **enhanced secretion**. Alongside this, we equipped *E. coli* with *SacC* gene to improve its sucrose **absorption and utilization**.
 
   <div style="text-align: center;" >
     <img src="https://static.igem.wiki/teams/4765/wiki/description/11symbiotic-system.png" style='width:80%'>
