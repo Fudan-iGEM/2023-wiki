@@ -140,4 +140,4 @@ Following the previous DBTL cycles, we now believe that our [RAP](https://gitlab
 
 [^1]: Glass DS, Riedel-Kruse IH (2018). A Synthetic Bacterial Cell-Cell Adhesion Toolbox for Programming Multicellular Morphologies and Patterns. *Cell*, *174*(3), 649-658.e16. https://doi.org/10.1016/j.cell.2018.06.041
 [^2]: Kim H, Skinner DJ, Glass DS, Hamby AE, Stuart BAR, Dunkel J, Riedel-Kruse IH (2022 Aug). 4-bit adhesion logic enables universal multicellular interface patterning. *Nature*, *608*(7922): 324-329. https://doi.org/10.1038/s41586-022-04944-2
-[^3]: Liu Y, Wu Z, Wu D, Gao N, Lin J (2023). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synth Biol*, *12*(1): 136-143. https://doi.org/10.1021/acssynbio.2c00416
+[^3]: Liu Y, Wu Z, Wu D, Gao N, Lin J (2023). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synth Biol*, *12*(1), 136-143. https://doi.org/10.1021/acssynbio.2c00416
