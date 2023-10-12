@@ -13,17 +13,22 @@
         <p v-if="recoShowModule && $frontmatter.tagline !== null" class="description">
           {{ $frontmatter.tagline || $description || 'Welcome to your vuePress site' }}
         </p>
-        <a href="#features"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
+        <a href="#start"><span style="font-size: 2rem;color: var(--text-color-sub)" class="iconfont icon-down-circle"></span></a>
       </div>
-
-      <div data-aos="zoom-in" data-aos-duration="800" data-aos-easing="ease-out-cubic">
-        <div id="features" class="features" v-if="recoShowModule && $frontmatter.features && $frontmatter.features.length">
-          <div v-for="(feature, index) in $frontmatter.features" :key="index" class="feature">
-            <h2>{{ feature.title }}</h2>
-            <p>{{ feature.details }}</p>
+      <section class="page-1" id="start">
+          <div style="width: 40%;padding-top: 20vh;padding-bottom: 20vh">
+              <img src="https://static.igem.wiki/teams/4765/wiki/czy/home-1.svg">
           </div>
-        </div>
-      </div>
+          <div data-aos="zoom-in-right" data-aos-duration="800" data-aos-easing="ease-out-cubic"><p style="margin:0;padding-left:5vw;padding-bottom: 10vh;padding-top:10vh;color:white;font-size: 2rem;font-family: Quicksand, Ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif"><span style="color:#e37654;font-size: 4rem">What if ...</span><br>We could call somewhere <span style="color:#e37654;">beyond Earth</span>
+              our new home?</p></div>
+      </section>
+      <section class="page-2">
+          <div data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out-cubic" style="width: 70%"><p style="margin:0;padding-top:20vh;padding-bottom: 20vh;color:white;font-size: 1.5rem;"><span style="font-size: 3rem">Since</span> the dawn of time, humanity's insatiable curiosity has reached out to the cosmos. With the advent of modern aerospace technology, our ability to explore the vast universe has expanded, igniting dreams of future space migration.
+              Among the potential homes, Mars stands as the most promising candidate. It possesses several Earth-like qualities that make it an attractive choice.</p></div>
+      </section>
+      <section class="page-3">
+
+      </section>
       <Content class="home-center" v-show="recoShowModule" custom/>
       <div style="text-align: center; margin-bottom: 4rem">
          <iframe title="Fudan: B.HOME — Biofilm Harnessing for Offworld Mankind Establishment (2023) - Project Promotion [English]" width="80%" height="500px" src="https://video.igem.org/videos/embed/cb83de45-1af6-40f9-bb2a-29754852a3b5?subtitle=en" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
@@ -74,7 +79,6 @@ export default defineComponent({
       handleComplete(){
           document.querySelector('.anim').style.zIndex = '-1000';
           document.getElementById('hero').scrollIntoView();
-          console.log('done')
       }
   },
 })
@@ -91,8 +95,8 @@ export default defineComponent({
   z-index: 1000;
 }
 .home {
-  padding: 0 2rem 0;
-  max-width: 80%;
+  //padding: 0 2rem 0;
+  //max-width: 80%;
   margin: 0px auto;
   .hero {
     text-align: center;
@@ -162,6 +166,24 @@ export default defineComponent({
       transform scale(1.05)
     }
   }
+  .page-1 {
+    background-color: #052a45;
+    width: calc(100vw - 5px);
+    //height: 100vh;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .page-2 {
+    background-color: #052a45;
+    width: calc(100vw - 5px);
+    //height: 100vh;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+  }
 }
 @media (max-width: $MQWide){
   .anim{
@@ -183,8 +205,8 @@ export default defineComponent({
 
 @media (max-width: $MQMobileNarrow) {
   .home {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    //padding-left: 1.5rem;
+    //padding-right: 1.5rem;
 
     .hero {
       img {
