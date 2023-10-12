@@ -9,7 +9,7 @@ authorlink:
 
 ## Overview
 
-B.HOME is built on the foundation of existing iGEM parts. With support from our [Parthub 2](https://2023.igem.wiki/fudan/software/#parthub-2), we can quickly identify suitable parts from previous iGEM teams, use directly or modify according to the functionalities we aim to achieve. Please visit our [Software](https://2023.igem.wiki/fudan/software/#overview) page for more details.
+B.HOME is built on the foundation of existing iGEM parts. With support from our [Parthub 2](/software/#parthub-2), we can quickly identify suitable parts from previous iGEM teams, use directly or modify according to the functionalities we aim to achieve. Please visit our [Software](/software/#overview) page for more details.
 
 In this year's project, we focused on three major improvements:
 
