@@ -39,7 +39,7 @@ Building upon our survey findings, we have formulated **4 key educational initia
 - [**Reach the Public:**](#reach-the-public) Leveraging [**a metaverse game**](/education/#metaverse-game-exploration-and-discovery-through-synthetic-biology) and conducting [**street interviews**](/education/#street-interview-encountering-diverse-perspectives), we've brought synthetic biology to the general public.
 - [**Empower the iGEM Community:**](#empower-igem-community) In commemoration of iGEM's 20th anniversary, we have embarked on several endeavors to expand the community of synthetic biology enthusiasts within [**Fudan University**](/education/#the-bertalanffy-club-cultivating-synthetic-biology-enthusiasts-at-fudan), [**educational enterprises**](/education/#collaboration-with-enterprise-preparing-for-this-dl-team-building), [**the Yangtze River Delta region**](/education/#sustaining-collaboration), and [**China**](/education/#ccic-strengthening-the-bonds-of-igem-teams-in-china).
 
-Collectively, these initiatives represent "**FIRE**". We aspire to see "FIRE" embraced by a growing community, igniting a wildfire of enthusiasm for synthetic biology, much like the fire of Heaven from [Prometheus](https://en.wikipedia.org/wiki/Prometheus) ignited the spirit of humanity.
+Collectively, these initiatives represent "**FIRE**". We aspire to see "FIRE" embraced by a growing community, igniting a wildfire of enthusiasm for synthetic biology, much like the fire of Heaven from [Prometheus](https://en.wikipedia.org/wiki/Prometheus) igniting the spirit of humanity.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/qkhsi-sgvg9.gif" 
@@ -67,7 +67,7 @@ We were committed to creating an efficient educational model that enabled childr
 
 
 ::: details
-**Preliminary Research**
+**Preliminary Research: **
 Considering children's reading habits, our focus was on creating engaging picture books with concise content. We also **received advice from an editor** at "[Same As Child](https://www.xiaohongshu.com/user/profile/5b38cbd0f7e8b9039d2e7849)", a renowned children's picture book publishing house, selecting essential concepts in synthetic biology, using simplified language and valid examples, and incorporating visualizations.
 :::
 
@@ -90,7 +90,7 @@ style='width:80%'>
 
 Upon completing initial drafts, we asked professional editors for advice. On September 26th, we reached out to the editor from "[Same As Child](https://www.xiaohongshu.com/user/profile/5b38cbd0f7e8b9039d2e7849)" for **a second round of feedback**. Based on the editor's suggestions, we optimized the font size, layout, and text. In addition, we also printed out a small number of the first edition to share with children, including team members' siblings and primary school students in Shanghai and rural areas.
 
-Furthermore, we invited children to participate in our **reading activities**, guiding them through the picture books, encouraging them to contemplate the questions, and complete interactive tasks like drawing in the books. This approach allowed us to not only promote synthetic biology by distributing our books but also receive valuable feedbacks directly from children, which helped us continually improve our books.
+Furthermore, we invited children to participate in our **reading activities**, guiding them through the picture books, encouraging them to contemplate the questions and complete interactive tasks like drawing in the books. This approach allowed us to not only promote synthetic biology by distributing our books but also receive valuable feedbacks directly from children, which helped us continually improve our books.
 
 <iframe title="Fudan: picture book reading activity education (2023) [English]" width="100%" height="500" src="https://video.igem.org/videos/embed/31d7b7bd-f0ad-4329-aca8-4c856153e5d5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
@@ -124,7 +124,7 @@ During this **comprehensive open house event** ([schedule](https://static.igem.w
 
 - **Visit to the Tan Jiazhen Museum:** Honoring Mr. Tan, a renowned biologist who pioneered life sciences education in China.
 - **Lunch meeting:** Fostering dialogue between iGEMers and high school students to brainstorm developments in synthetic biology.
-- **Interactive Workshop:** Conducted by Fudan 2023 with other iGEM teams' assistance, including project introduction, gene circuit overviews, sharing of literature retrieval methods ([the presentation file](https://static.igem.wiki/teams/4765/wiki/slides/fufugene.pdf)), and a DIY activity of crafting origami DNA structures.
+- **Interactive Workshop:** Conducted by Fudan iGEM 2023 with other iGEM teams' assistance, including project introduction, gene circuit overviews, sharing of literature retrieval methods ([the presentation file](https://static.igem.wiki/teams/4765/wiki/slides/fufugene.pdf)), and a DIY activity of crafting origami DNA structures.
 
 The open house enhanced high school students' **appreciation of synthetic biology** and **encouraged their future participation** in iGEM, fostering **cross-team cooperation and learning**.
 <div style="text-align: center">
@@ -300,7 +300,7 @@ style='width:60%'>
 
 <p><small style="color: gray">📅 Date: Sep. 10th, 2023  <br>🗣️Organizers: Zhe Dong, Yijun Wang, Qingying Yang<br>  👥Audience: Children aged 6-9 and their parents</small></p>
 
-We established a robust partnership with the [Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home), recognized as the world's largest astronomy museum, drawing approximately 6,000 daily visitors in China. Leveraging this collaboration, we orchestrated the **Star Exploration Camp**, a dynamic initiative aimed at imparting fundamental knowledge in biology and Mars exploration to children and their parents.
+We established a robust partnership with the [Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home), recognized as the world's largest astronomy museum and drawing approximately 6,000 daily visitors in China. Leveraging this collaboration, we orchestrated the **Star Exploration Camp**, a dynamic initiative aimed at imparting fundamental knowledge in biology and Mars exploration to children and their parents.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/education/tianwenguan-a.jpg" 
@@ -575,4 +575,4 @@ Participating in CCiC allowed us to witness the remarkable growth of synthetic b
 
 ## Summary
 
-Our educational initiatives, collectively represented by "**FIRE**", encompass a diverse range of endeavors. From stimulating and satisfying the curiosity of children and teenagers in synthetic biology to providing interactive biological explorations in partnership with famous museums, from bringing synthetic biology to the public through games and street interviews and conversations to empowering the iGEM community within Fudan University, educational enterprises, the Yangtze River Delta region and even China, these efforts aim to kindle a blazing passion for synthetic biology. Just as the fire of Heaven from [Prometheus](https://en.wikipedia.org/wiki/Prometheus) ignited the spirit of humanity, we aspire to **demystify synthetic biology** and ignite a wildfire of **enthusiasm for synthetic biology** in the hearts of all individuals through our **tailored, engaging, and informative** educational initiatives. 
+Our educational initiatives, collectively represented by "**FIRE**", encompass a diverse range of endeavors. From stimulating and satisfying the curiosity of children and teenagers in synthetic biology to providing interactive biological explorations in partnership with famous museums, from bringing synthetic biology to the public through games and street interviews and conversations to empowering the iGEM community within Fudan University, educational enterprises, the Yangtze River Delta region and even China, these efforts aim to kindle a blazing passion for synthetic biology. Just as the fire of Heaven from [Prometheus](https://en.wikipedia.org/wiki/Prometheus) igniting the spirit of humanity, we aspire to **demystify synthetic biology** and ignite a wildfire of **enthusiasm for synthetic biology** in the hearts of all individuals through our **tailored, engaging, and informative** educational initiatives. 
