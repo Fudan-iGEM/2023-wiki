@@ -34,7 +34,7 @@
               <lottie :options="rocketOptions"></lottie>
           </div>
           <div data-aos="flip-left" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-            <p style="margin:0;padding-top:25vh;padding-bottom: 25vh;padding-left:5vw;padding-right:5vw;background: linear-gradient(#fcc6ae,#e37654);background-clip: text; -webkit-background-clip: text;font-size: 1.5vw;color: transparent;-webkit-text-stroke:1px transparent">However, before Mars can truly become a hospitable home for us humanity, it must undergo a transformative process known as terraforming, reshaping the planet's surface to mimic Earth's conditions.<br>The journey to Mars presents formidable challenges, with its barren landscape; covered in rocks and dusts. To create a sustainable ecosystem, the terraforming of Martian soil is a pivotal step.</p>
+            <p style="margin:0;padding-top:25vh;padding-bottom: 25vh;padding-left:5vw;padding-right:5vw;background: linear-gradient(#fcc6ae,#e37654);background-clip: text; -webkit-background-clip: text;font-size: 1.5vw;color: transparent;font-weight: bold;">However, before Mars can truly become a hospitable home for us humanity, it must undergo a transformative process known as terraforming, reshaping the planet's surface to mimic Earth's conditions.<br>The journey to Mars presents formidable challenges, with its barren landscape; covered in rocks and dusts. To create a sustainable ecosystem, the terraforming of Martian soil is a pivotal step.</p>
           </div>
       </section>
       <section class="page-4">
@@ -47,7 +47,7 @@
       </section>
       <section class="page-5">
         <div data-aos="zoom-in-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:5vw;padding-right:5vw;color:white;font-size: 1.5vw;">We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and Escherichia coli, and can transmute Martian rocks into fertile soil and endure harsh Martian conditions.<br><br>The B.HOME project revolves around four interdependent systems: Symbiotic, Functional, Survival, and Metabolic Regulation. Through these systems, we have constructed an ecological biofilm capable of autotrophic survival, rock weathering, extreme tolerance, and poly-cistron expression efficiency. Together, these systems pave the way for our biofilm pioneers to flourish on Mars.<br><br>Our project extends <span style="color: #e37654"><strong>beyond Mars</strong></span>, with applications on Earth such as desertification management, functional biomaterial creation, assisting synthetic metabolic pathways, and industrial applications.</p>
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and Escherichia coli, and can transmute Martian rocks into fertile soil and endure harsh Martian conditions.<br><br>The B.HOME project revolves around four interdependent systems: Symbiotic, Functional, Survival, and Metabolic Regulation. Through these systems, we have constructed an ecological biofilm capable of autotrophic survival, rock weathering, extreme tolerance, and poly-cistron expression efficiency. Together, these systems pave the way for our biofilm pioneers to flourish on Mars.<br><br>Our project extends <span style="color: #e37654"><strong>beyond Mars</strong></span>, with applications on Earth such as desertification management, functional biomaterial creation, assisting synthetic metabolic pathways, and industrial applications.</p>
         </div>
       </section>
       <section class="page-6">
@@ -246,7 +246,7 @@ export default defineComponent({
     justify-content: space-around;
   }
   .page-5 {
-    background-image: url("https://static.igem.wiki/teams/4765/wiki/czy/mars-home-bg.jpg");
+    background-color: #fff6f0;
     background-repeat: round;
     width: calc(100vw - 5px);
     //height: 100vh;
