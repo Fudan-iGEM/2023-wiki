@@ -69,7 +69,7 @@ style='width:70%'>
 
    Engineered bacteria producing EPS (e.g. [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121)) is effective in order to **improve soil fertility**. Extracellular polysaccharide is the binder to form soil aggregate structure and keep the aggregate stable. The use of microbial EPS to improve the soil can make the soil more loosened and permeable and reduce soil crusting, which will be beneficial to crop production.
 
-   Antifreeze protein ([BBa_K4765111](http://parts.igem.org/Part:BBa_K4765111)) produced by engineered bacteria can be used to **improve crop viability**. Low temperatures may cause crops to suffer from frost and thus reduce yields. Biological antifreeze provides new ideas in the field of crop improvement.
+   Antifreeze protein ([BBa_K4765111](http://parts.igem.org/Part:BBa_K4765111)) produced by engineered bacteria can be used to **improve crop viability**. Low temperatures may cause crops to suffer from frost and thus reduce yields. Biological anti-freeze provides new ideas in the field of crop improvement.
 
    Anti-desiccation protein ([BBa_K4765112](http://parts.igem.org/Part:BBa_K4765112)), when used in crops, can enhance water retention and greatly **improve recovery from drought and water scarcity**. It could improve crop production in arid areas.
 

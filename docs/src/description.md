@@ -13,7 +13,7 @@ authorlink:
 
 **What if our next home isn’t on Earth?**
 
-In Arthur C. Clarke's visionary novel *The Songs of the Distant Earth*, he paints a future where humanity seeks refuge on a distant planet called Salazar to escape the Sun’s impending supernova explosion.
+In [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)'s visionary novel *The Songs of the Distant Earth*, he paints a future where humanity seeks refuge on a distant planet called Salazar to escape the Sun’s impending supernova explosion.
 
 In our current era, as Earth grapples with escalating ecological and demographic crises, the notion of **planetary colonization** rises not merely as the stuff of science fiction but as a pressing, real-world imperative.
 
@@ -39,7 +39,7 @@ Among the array of celestial bodies in our cosmic neighborhood, Mars shines as t
 
 **The Terraforming Imperative**
 
-However, before Mars can welcome Earth’s denizens, it must first undergo a profound transformation through the process of **terraforming**—essentially, reshaping a planet's surface to mimic Earth's hospitable conditions.
+However, before Mars can welcome Earth’s denizens, it must first undergo a profound transformation through the process of **terraforming** — essentially, reshaping a planet's surface to mimic Earth's hospitable conditions.
 
 Unlike our home planet with fertile lands, the Martian surface is predominantly a barren landscape covered in basalt, dotted with silicate and sulfate rock[^3]. A sustainable ecosystem, then, must begin with the transformation of **Martian soil.**
 
@@ -77,7 +77,7 @@ By applying the principles behind lichens' environmental engineering, we hope to
 
 
 
-## "B.HOME": Project Overview
+## B.HOME Project Overview
 
 In an audacious effort to extend humanity's reach beyond our blue planet, our team has conceptualized a groundbreaking  approach to terraforming inspired by lichens' natural abilities. We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and *Escherichia coli* (*E. coli*), and genetically equipped it to endure harsh Martian conditions. Our project, **Biofilm Harnessing for Offworld Mankind Establishment** (**B.HOME**), aspires to transmute Martian rocks into fertile soil, marking a bold stride toward a viable human habitat on terrestrial planets.
 
@@ -104,11 +104,11 @@ Mars' hostile conditions require our biofilm to withstand intense UV radiation, 
 </div> 
 
 |                                          |         | **Earth**     | **Mars**                                     |
-| ---------------------------------------- | ------- |---------------|----------------------------------------------|
-| Intensity of UV Radiation(kJ/m^2^)[^5]   | UVC & B | 39            | 361                                          |
+| ---------------------------------------- | ------- |:-------------:|:--------------------------------------------:|
+| Intensity of UV Radiation(kJ/m^2^)[^5]   | UVC&nbsp;&&nbsp;B | 39            | 361                                |
 |                                          | UVA     | 1126          | 1320                                         |
 | Average Surface Temperature (Kelvin)[^6] |         | 288           | 213                                          |
-| Water Reservoir (km³)[^7]                |         | 1.386 × 10^8^ | 5 × 10^6^（Virtually no surface liquid water） |
+| Water Reservoir (km³)[^7]                |         | 1.386 × 10^8^ | 5 × 10^6^ (virtually no surface liquid water) |
 
 ### 2. Nutrient Supply Channels
 
@@ -132,7 +132,7 @@ As the solar energy heats the Martian atmosphere, driving global airflow cycles 
 
 
 
-## **Our Solution: B.HOME**
+## **Our Solution**
 
 To address the challenges mentioned above, B.HOME presents a promising strategy involving four interdependent systems: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming Systems**. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.
 
@@ -166,13 +166,13 @@ We tested multiple proteins in *E. coli* to enhance its resistance to UV radiati
 
 #### B) Anti-Freeze Module
 
-An antifreeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived from *Ammopiptanthus nanus*, was introduced to *E. coli* facilitating survival in sub-zero temperatures. AnAFP features the ice crystal binding domain A, which adheres to ice surfaces and impeds the growth of ice crystals, enabling *E. coli* to survive in sub-zero temperatures[^13]
+An anti-freeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived from *Ammopiptanthus nanus*, was introduced to *E. coli* facilitating survival in sub-zero temperature. AnAFP features the ice crystal binding domain A, which adheres to ice surfaces and impeds the growth of ice crystals, enabling *E. coli* to survive in sub-zero temperature[^13].
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/4765/wiki/description/9anti-freeze-module.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 9. The Anti-Freeze Module enables <em>E. coli</em> to survive in sub-zero temperatures. </small></p>
+    	<p><small style="color: gray">Figure 9. The Anti-Freeze Module enables <em>E. coli</em> to survive in sub-zero temperature</small></p>
     </div>
 </div>
 
@@ -180,7 +180,7 @@ An antifreeze protein [AnAFP](http://parts.igem.org/Part:BBa_K4765015), derived 
 
 Taking inspiration from the remarkable resilience of tardigrades in extremely dry environments, we engineered *E. coli* to withstand desiccation by expressing two key proteins, [SAHS](http://parts.igem.org/Part:BBa_K2306003)[^14] [^15] and [mtSSB](http://parts.igem.org/Part:BBa_K4765016)[^16].
 
-TDPs(SAHS) were identified for their role in tardigrade desiccation tolerance. TDPs undergo a transition into non-crystalline amorphous solids during desiccation, mirroring their protective attributes.
+TDPs (SAHS) were identified for their role in tardigrade desiccation tolerance. TDPs undergo a transition into non-crystalline amorphous solids during desiccation, mirroring their protective attributes.
 
 *H. ex* mtSSB binds single-stranded DNA to buffer against DNA damage under harsh conditions like desiccation heat and radiation.
 
@@ -230,9 +230,9 @@ Our Terraforming System equips our biofilm with **surface adhesion** and **rock 
 
 #### A) EPS Module
 
-Exopolysaccharide (EPS) is a key agent in soil stability, fertility, and defense against abiotic stressors. We integrated EPS to grant our biofilm robust adhesion to the Martian surface and survival capabilities by exerting the following functions[^22],[^23]:
+Exopolysaccharide (EPS) is a key agent in soil stability, fertility, and defense against abiotic stressors. We integrated EPS to grant our biofilm robust adhesion to the Martian surface and survival capabilities by exerting the following functions[^22][^23]:
 
-1. Enhancing **surface adhesion** through interactions among functional groups
+1. Enhancing **surface adhesion** through interactions among functional groups.
 2. Foster **aggregation and stabilization** of dust particles on the Martian surface, contributing to improved soil stability and fertility.
 3. **Defense** against abiotic stressors, such as drought, freezing temperature and UV, granting the ecological biofilm greater survival capabilities.
 
@@ -263,15 +263,14 @@ In terrestrial ecosystems, oxalic acid, secreted by pioneer plants like lichens,
 
 
 
-## **Function Summary**
+## **Summary of Modules**
 
 - Our biofilm, meticulously designed through modular construction, showcases remarkable **extreme tolerance**, including resistance to UV radiation, freezing temperatures, and desiccation.
 - It has achieved **autotrophic survival**, providing a foundation for sustainable ecosystems.
 - Moreover, our biofilm establishes **a robust physical framework** that promotes material exchange and facilitates two-dimensional expansion, vital for terraforming efforts.
-- Additionally, our biofilm demonstrates the capability to synthesize oxalic acid, which expedites the geological weathering of rocks, a key component of terraforming. It firmly adheres to the Martian terrain through EPS, enhancing its stability and functionality.
+- Additionally, our biofilm has the capability to synthesize oxalic acid, which expedites the geological weathering of rocks, a key component of terraforming. It firmly adheres to the Martian terrain through EPS, enhancing its stability and functionality.
 
-To introduce heterologous genes into *E. coli*, we strategically **implemented a self-cleaving ribozyme(see more in [Software](/software/)), which proved highly effective in minimal cargo DNA insertion into the biofilm**. This innovation is pivotal in achieving the functionalities mentioned above. This venture brings us one step closer to realizing our grand vision: the creation of a second home for humanity on terrestrial planets, expanding our horizons beyond Earth's borders.
-
+To introduce heterologous genes into *E. coli*, we strategically implemented a self-cleaving ribozyme (see more in [Software](/software/)), which proved highly effective in minimal cargo DNA insertion into chassis. This is pivotal in achieving all functionalities mentioned above. This venture brings us one step closer to realizing our grand vision: the creation of a second home for humanity on terrestrial planets, expanding our horizons beyond Earth's borders.
 
 
 
@@ -279,14 +278,14 @@ To introduce heterologous genes into *E. coli*, we strategically **implemented a
 
 ### Challenges & Proposed Resolutions
 
-1. **Water Source**: Our biofilm requires basic water for growth, and the prevalent ice on Mars could provide this. However, it would need to be melted and sprinkled on our biofilm ― this calls for integrated heating and hydration devices.
+1. **Water Source**: Our biofilm requires basic water for growth, and the prevalent ice on Mars could provide this. However, it would need to be melted and sprayed on our biofilm ― this calls for integrated heating and hydration devices.
 2. **Reactive Compound Risk**: The intense UV and X-ray radiation on Mars turns ions into highly reactive compounds, including toxic perchlorate salts. An approach that reduces percholate[^28] within the biofilm could pave the way to a sustainable terrestrial ecosystem.
 3. **Osmotic Pressure Barrier**: Lastly, our biofilm must endure excessive osmotic pressure, requiring it to accumulate osmotic solutes within the microbial cytoplasm.
 
 
-### **Opportunities for Enhancement**
+### **Opportunities for Improvement**
 
-We envision the following enhancements for our biofilm:
+We envision the following for our biofilm:
 
 1. **Iron-Oxidizing Bacteria Integration**:
 
@@ -294,7 +293,9 @@ We envision the following enhancements for our biofilm:
 
 2. **Expansion to Other Organisms**:
 
-   Our current choice of *E. coli* due to its amenability to genetic engineering needs diversification. Transposing these bio-bricks into other soil-based microorganisms, such as *Bacillus spp.*, could contribute to diverse ecological functions within soil ecosystems from nutrient cycling to coferring stress tolerance to plants[^31]. This approach ensures the preservation of soil safety for future colonizers.
+   Our current choice of *E. coli* due to its amenability to genetic engineering. We build [BBa_K4765130](http://parts.igem.org/Part:BBa_K4765130) to test ribozyme
+in cyanbacteria.
+   Transposing these BioBricks into other soil-based microorganisms, such as *Bacillus spp.*, could contribute to diverse ecological functions within soil ecosystems from nutrient cycling to coferring stress tolerance to plants[^31]. It could ensure the preservation of soil safety for future colonizers.
 
 3. **Adapting for Extraterrestrial Environments**:
 
@@ -303,7 +304,7 @@ We envision the following enhancements for our biofilm:
 
 ### **Terrestrial Benefits**
 
-Our project's potential doesn't just float on Mars! It offers promising applications here on Earth (See more in [Implementation](/implementation/)):
+Our project's potential doesn't just float on Mars! It offers promising applications here on Earth (see more in [Implementation](/implementation/)):
 
 1. **Addressing Environmental Problems**: Our biofilm could combat soil salinization and stabilize sand particles, enabling afforestation and ecological restoration.
 

@@ -59,9 +59,9 @@ Our experimental results demonstrated that most DNA repair and binding proteins 
 
 ### Anti-Freeze Module
 
-AnAFP (Details in [BBa_K4765015](http://parts.igem.org/Part:BBa_K4765015)) is an antifreeze protein derived from *Ammopiptanthus nanus*, we heterologously expressed  AnAFP in *E. coli*, endowing it with antifreeze capability.
+AnAFP (Details in [BBa_K4765015](http://parts.igem.org/Part:BBa_K4765015)) is an anti-freeze protein derived from *Ammopiptanthus nanus*, we heterologously expressed  AnAFP in *E. coli*, endowing it with anti-freeze capability.
 
-To test the antifreeze capability of AnAFP, we subjected *E. coli* expressing AnAFP to cold treatment at 0°C. Samples were collected at 0, 24, 48, and 96 hours for CFU counting, and a survival rate curve was plotted.
+To test the anti-freeze capability of AnAFP, we subjected *E. coli* expressing AnAFP to cold treatment at 0°C. Samples were collected at 0, 24, 48, and 96 hours for CFU counting, and a survival rate curve was plotted.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/anafp-protocol.png"
@@ -74,7 +74,7 @@ style='width:70%'>
 </div>
 
 
-As shown in the following figure, *E. coli* expressing AnAFP exhibited a higher survival rate under prolonged cold treatment conditions compared to *E. coli* transformed with an empty PET28 vector, indicating that **AnAFP possesses antifreeze ability**.
+As shown in the following figure, *E. coli* expressing AnAFP exhibited a higher survival rate under prolonged cold treatment conditions compared to *E. coli* transformed with an empty PET28 vector, indicating that **AnAFP possesses anti-freeze ability**.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/anafp-survival-curve.png"
@@ -256,7 +256,7 @@ The differences in sedimentation patterns may arise from variations in cyanobact
 style='width:300%'>
 <br>
 <div>
-<p><small style="color: gray">Figure 17: Bacteria Remaining in the Supernatant at 0,2,6,24 Hours<br> A: intimin-LCA <em>E.coli</em> / <em>Synechococcus elongatus</em>  B: intimin-MVN <em>E.coli</em> / <em>Microcystis aeruginosa</em><br>The bacterial quantity in the supernatant is reflected by measuring the OD<sub>600</sub>（1 OD<sub>600</sub> corresponds to 10<sup>8</sup> bacterial particles）
+<p><small style="color: gray">Figure 17: Bacteria Remaining in the Supernatant at 0,2,6,24 Hours<br> A: intimin-LCA <em>E.coli</em> / <em>Synechococcus elongatus</em>  B: intimin-MVN <em>E.coli</em> / <em>Microcystis aeruginosa</em><br>The bacterial quantity in the supernatant is reflected by measuring the OD<sub>600</sub> (1 OD<sub>600</sub> corresponds to 10<sup>8</sup> bacterial particles)
 </small></p>
 </div>
 </div>

@@ -94,7 +94,7 @@ style='width:70%'>
 
 To expand the reach and quality of our educational initiatives, we have collaborated with multiple universities on several picture book projects, including [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), [Tongji-China iGEM 2023](https://2023.igem.wiki/tongji-china/), and [NUDT-China iGEM 2023](https://2023.igem.wiki/nudt-china/). In those projects, our shared goal is to make synthetic biology more accessible to a broader audience through engaging visual storytelling and simplifying complex concepts. Each university has made significant contributions to the design, illustration, and printing of several picture books.
 
-In addition, we have partnered with [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) for further educational activities, such as exchange programs with FDIS (See more details on our [Education](/education/#feed-curious-minds) page).
+In addition, we have partnered with [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) for further educational activities, such as exchange programs with FDIS (see more details on our [Education](/education/#feed-curious-minds) page).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/hp/3.png"
