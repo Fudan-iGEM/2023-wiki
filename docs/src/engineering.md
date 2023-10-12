@@ -8,19 +8,19 @@ authorlink:
 - /fudan/team/#zhiyue-chen-the-software-wizard
 - /fudan/team/#zhenmao-ye-the-multifaceted-talent
 ---
-## Selecting Surface Display Systems through Aggregation Assay
+## Surface Display for Bacteria
 
 ### Design
 
-In our biofilm research, we introduced a biofilm formation system, which displays antigen/nanobody pairs on the surface of *E.coli*. To achieve our objective more efficiently, we needed to identify a suitable surface display system for antigen/ nanobody transporting. After researching, we have identified two candidate proteins: INPNC and Intimin. The former has been used by multiple teams in previous projects [BBa_K4195034](http://parts.igem.org/Part:BBa_K4195034) while the latter has been reported to show promising results in the literature[^1]. Therefore, our plan is to compare the surface display efficiency of intimin and INPNC by evaluating their biofilm formation capabilities facilitated through fusion with antigen and nanobody.
+In our biofilm research, we employed a biofilm formation system, which displays antigen/nanobody pairs on the surface of *E.coli*. To achieve our objective efficiently, we needed to identify a suitable surface display system for antigen, nanobody or lectin. After [Registry](/software/) and literature search, we have identified two candidate proteins: INPNC and intimin. The former has been used by multiple teams in previous projects [BBa_K4195034](http://parts.igem.org/Part:BBa_K4195034), while the latter has been reported to show promising results in the literature[^1][^2]. Therefore, our plan is to compare the surface display efficiency of intimin and INPNC by evaluating their biofilm formation capabilities, after fusion with antigen or nanobody.
 
 ### Build
 
-We constructed four parts, including intimin-Ag3 fusion ([BBa_K4765105](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765105)), intimin-Nb3 fusion ([BBa_K4765106](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765106)), INPNC-Ag3 fusion ([BBa_K4765107](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765107)), and INPNC-Nb3 ([BBa_K4765108](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765108)) fusion. When designing these parts, we utilized the ribozyme-assisted polycistronic co-expression (pRAP) system, which promotes the stable expression of sequences.
+We constructed four parts, including intimin-Ag3 fusion ([BBa_K4765105](http://parts.igem.org/Part:BBa_K4765105)), intimin-Nb3 fusion ([BBa_K4765106](http://parts.igem.org/Part:BBa_K4765106)), INPNC-Ag3 fusion ([BBa_K4765107](http://parts.igem.org/Part:BBa_K4765107)), and INPNC-Nb3 fusion ([BBa_K4765108](http://parts.igem.org/Part:BBa_K4765108)). When designing these parts, we utilized the ribozyme-assisted polycistronic co-expression (pRAP) system[^3], which promotes the stable expression of multiple coding sequences.
 
 ### Test
 
-We compared the efficiency of the two surface display system by mixing the *E.coli* pairs mentioned above. As Figure 1 indicates, When both the antigen and nanobody select intimin as the display protein, the results are significantly better than other combinations.
+We compared the efficiency of the two surface display systems by mixing the *E.coli* pairs mentioned above. As Figure 1 indicates, When both the antigen and nanobody select intimin as the display protein, the results are significantly better than other combinations.
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/intimin-vs-inpnc.jpg" style='width:70%'>
@@ -33,26 +33,30 @@ We compared the efficiency of the two surface display system by mixing the *E.co
 
 ### Learn
 
-In aggregation experiments, we compare the surface display efficiency of intimin and INPNC. The optimal biofilm formation was observed when both antigen and nanobody were presented using intimin. Consequently, we predominantly employ intimin as the display protein in our subsequent experiments.
+As described above, we compare the surface display efficiency of intimin and INPNC. The optimal aggregation formation was observed when both antigen and nanobody were presented using intimin. Consequently, we predominantly employ intimin as the display fusion partner in our subsequent experiments.
+
+This DBTL cycle is just one example of our web lab engineering. Please refer to main pages of [our parts on the Registry](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan).
 
 ## Developing our software: RAP
 
 ### Cycle 1: Design
 
-During the initial design phase of the RAP, our emphasis lies on the RAP's purpose and its intended outputs. We engaged in consultations with team members of the Fudan iGEM 2022, and they presented two primary requisites to us:
+During the initial design phase of the RAP, our emphasis lies on the RAP's purpose and its intended outputs. We engaged in consultations with team members of the [Fudan iGEM 2022](https://2022.igem.wiki/fudan/team/), and they presented two primary requisites to us:
 
-1. Modeling the optimization of metabolic flux
-2. Designing of synthetic ribosome binding site (RBS) for pRAP system
+1. Modeling the metabolic flux
+2. Designing of synthetic ribosome binding site (RBS)
 
-Hence, we have defined the purpose of RAP as the development of software for the quantitative optimization of the pRAP system design. Following a comprehensive background survey on metabolic optimization, we identified a requirement for an enzyme kinetics database. And the outputs of RAP should be pRAP sequence. At the same time, we considered an intuitive user interface, and we finally decided to develop a web UI based on Vue.js. To streamline the development of RAP, we have chosen Python as the backend programming language and MySQL as the database for enzyme dynamics.
+Following a background survey on metabolic optimization, we identified requirement for an enzyme kinetics database.
+
+Since the output of the software should be DNA sequence ready for order, we considered to build an intuitive user interface. After research, we decided to develop a web UI based on [Vue.js](https://vuejs.org/). To streamline the development using existing open-sourced libraries, we have chosen Python as the backend programming language and MySQL as the database for enzyme dynamics.
 
 ### Cycle 1: Build
 
-In order to facilitate debugging and maintenance for the software, we have opted to modularize the development of RAP with docker. Consequently, we have developed three modules necessary to implement our design: KineticHub, RAP Builder, Web UI.
+In order to facilitate debugging, maintenance and distribution of the software, we have opted to modularize the development with docker. Consequently, we have developed three modules necessary to implement our design: KineticHub, RAP Builder, Web UI.
 
-- KineticHub aims at quantitative optimization of the pRAP system
-- RAP Builder designs synthetic RBS and output pRAP sequence
-- Web UI offers an intuitive user interface for users
+- KineticHub aims at quantitative optimization according to metabolic flux
+- RAP Builder designs synthetic RBS and output DNA sequence ready for order
+- Web UI offers an intuitive user interface for world-wide users
 
 We obtained data from the open-source version of BRENDA to build KineticHub with MySQL and provide RESTFul APIs with Flask. We utilize a thermodynamic model based on Gibbs free energy and Monte Carlo algorithm for RAP Builder to design synthetic RBS in Cycle 1. [RAP (v0.2.0-beta)](https://gitlab.igem.org/2023/software-tools/fudan/-/tree/v0.2.0-beta) was released in this phase.
 
@@ -72,31 +76,31 @@ RAP Builder's Monte Carlo algorithm has a good search efficiency and can get a s
 
 ### Cycle 1: Learn
 
-We initiated RAP trials involving the team members responsible for experiments, along with the Fudan iGEM 2022 team members, engaging in two-way dialogues with them. They were introduced to the workflow of RAP and instructed on how to use RAP. Simultaneously, they provided us with valuable suggestions for further enhancing the RAP system (Figure 3).
+We initiated RAP trials involving the team members participating experiments, along with previous [Fudan iGEM 2022](https://2022.igem.wiki/fudan/) team members, engaging in two-way dialogues with them. They were introduced to the workflow of RAP and instructed on how to use RAP. Simultaneously, they gave valuable suggestions for further enhancing the RAP system (Figure 3).
 
-Review: It was observed that RAP also requires external sequence searching to construct the pRAP system. However, Fudan iGEM 2022 already has a PartHub for Parts searching. Therefore, further enhancements to PartHub and its integration into the RAP workflow could potentially enhance RAP even further.
+Review: It was observed that the user requires to input coding sequences as the first step to construct. Because, last year we already have a [PartHub for Parts](https://2022.igem.wiki/fudan/software/) searching and seuqence fetching. Therefore, further enhancements to PartHub and its integration into the RAP workflow could potentially enhance RAP.
 
 ### Cycle 2: Design
 
-For PartHub 2, our emphasis was primarily on the following features:
+For PartHub&nbsp;2, our emphasis was primarily on the following features:
 
-1. Updating database with 2022 iGEM Registery of Standard Biological Parts
-2. Improving the user interaction interface
+1. Updating database with **2022 iGEM Registry of Standard Biological Parts**
+2. Improving its user interaction interface
 3. Developing a diversified recommendation algorithm utilizing graph algorithms
 
-Similar to PartHub, we continued to employ Neo4j as the graph database for the storage of Parts. However, this year, we designed RESTful APIs to PartHub, expanding its capabilities for more advanced functionality. We designed a diversified recommendation algorithm using the PageRank and Louvain method.
+As in the previous [PartHub](https://2022.igem.wiki/fudan/software/), we continued to employ Neo4j as the graph database for the storage of Parts information. However, this year, we designed RESTful APIs, to expand its capabilities for flexible intergation. For the third feature, we employed a diversified recommendation algorithm using the [PageRank](https://en.wikipedia.org/wiki/PageRank) and [Louvain method](https://en.wikipedia.org/wiki/Louvain_method).
 
 ### Cycle 2: Build
 
-We used the web crawler of PartHub to obtain Parts in 2022 iGEM Registery of Standard Biological Parts. PageRank and Louvain method was performed with [Neo4j Graph Data Science (GDS) library](https://neo4j.com/docs/graph-data-science/current/). [RAP (v0.3.0-beta)](https://gitlab.igem.org/2023/software-tools/fudan/-/tree/v0.3.0-beta) was released in this phase.
+We used the web crawler of PartHub to obtain Parts from 2022. [PageRank](https://en.wikipedia.org/wiki/PageRank) and [Louvain method](https://en.wikipedia.org/wiki/Louvain_method) was performed with [Neo4j Graph Data Science (GDS) library](https://neo4j.com/docs/graph-data-science/current/). [RAP (v0.3.0-beta)](https://gitlab.igem.org/2023/software-tools/fudan/-/tree/v0.3.0-beta) was released in this phase.
 
 ### Cycle 2: Test
 
-We utilized PartHub 2 to search for all the Parts we employed. Detailed records can be found in our [Improve](/improve/) page.
+We utilized PartHub&nbsp;2 to find existing parts matching our needs, which was the first step for all [the Parts we have developed this year](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan). Details on our [Improve](/improve/) page.
 
 ### Cycle 2: Learn
 
-We had a discussion with the team member responsible for the wet lab regarding the feasibility of experimentally validating RAP. In addition, we collaborated with external users ([SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/other-teams6) & Nanjing-China iGEM 2023) and conducted a two way dialogue on the user interface.
+We had internal discussion regarding the feasibility of using RAP. In addition, we collaborated with external users ([SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/other-teams6) and [Nanjing-China iGEM 2023](https://2023.igem.wiki/nanjing-china/) on the user interface.
 
 <div style="text-align: center;" id="fig-2">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png" style='width:70%'>
@@ -114,24 +118,26 @@ We had a discussion with the team member responsible for the wet lab regarding t
 </div>
 </div>
 
-Review: During the discussion regarding the experimental validation of RAP, we have put forth a new proposal for the design of an additional regulatory element for the pRAP system: stem-loop. During the discussion with SCUT-China iGEM 2023, their team members presented a valuable suggestion: to enhance user-friendliness, it was proposed to create an annotation file for the generated results.
+Review: During the discussion regarding the experimental validation of RAP, we proposed to change the stem-loop in the orignal pRAP[^3], to enable regulated expression level. During the discussion with [SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/), they suggested to create an annotation file for local storage of results.
 
 ### Cycle 3: Design
 
-Similar to the RBS design already implemented in RAP at that time, we have also developed a thermodynamic model for the design of the stem-loop. For more details, visit our [software page](/software/#assumption-4).
+Similar to how the RBS design was implemented in DBTL Cycle 1, firstly, we developed a thermodynamic model for the design of the stem-loop. For more details, visit our [Software](/software/#assumption-4) page.
 
 ### Cycle 3: Build
 
-We employed support vector regression to determine the relationship between stem-loop structures and protein expression in pRAP. Additionally, when generating sequences in RAP, an `annotation.csv` file was provided to the user. [RAP (v0.4.0-beta)](https://gitlab.igem.org/2023/software-tools/fudan/-/tree/v0.4.0-beta) was released in this phase.
+We employed support vector regression to determine the relationship between stem-loop structures and protein expression. Additionally, when displaying the DNA sequences, an `annotation.csv` file will be provided to the user. [RAP (v0.4.0-beta)](https://gitlab.igem.org/2023/software-tools/fudan/-/tree/v0.4.0-beta) was released in this phase.
 
 ### Cycle 3: Test
 
-We designed experiments to validate the synthetic stem loop generated by RAP and obtained positive results. For more information, please refer to our [software page](/software/#assumption-4).
+We designed experiments to validate the synthetic stem-loop generated by the software and documented on [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129). For more information, please also refer to our [Software](/software/#assumption-4) page.
 
-### Cycle3: Learn
+### Cycle 3: Learn
 
-Following the previous DBTL cycles, we believe that RAP exhibits reliability in the system design for pRAP, and this system holds significant relevance for gene circuit design.
+Following the previous DBTL cycles, we now believe that our [RAP](https://gitlab.igem.org/2023/software-tools/fudan/) is [the software tool](/software/) to expediate DNA sequence design for ribozyme-assistant polycistronic sytem. We hope it will boost productivity in synthetic biology research.
 
 ## References
 
-[^1]: Glass, D. S., & Riedel-Kruse, I. H. (2018). A Synthetic Bacterial Cell-Cell Adhesion Toolbox for Programming Multicellular Morphologies and Patterns. *Cell*, *174*(3), 649-658.e16. https://doi.org/10.1016/j.cell.2018.06.041
+[^1]: Glass DS, Riedel-Kruse IH (2018). A Synthetic Bacterial Cell-Cell Adhesion Toolbox for Programming Multicellular Morphologies and Patterns. *Cell*, *174*(3), 649-658.e16. https://doi.org/10.1016/j.cell.2018.06.041
+[^2]: Kim H, Skinner DJ, Glass DS, Hamby AE, Stuart BAR, Dunkel J, Riedel-Kruse IH (2022 Aug). 4-bit adhesion logic enables universal multicellular interface patterning. *Nature*, *608*(7922): 324-329. https://doi.org/10.1038/s41586-022-04944-2
+[^3]: Liu Y, Wu Z, Wu D, Gao N, Lin J (2023). Reconstitution of Multi-Protein Complexes through Ribozyme-Assisted Polycistronic Co-Expression. *ACS Synth Biol*, *12*(1): 136-143. https://doi.org/10.1021/acssynbio.2c00416

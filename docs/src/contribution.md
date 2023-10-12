@@ -60,7 +60,7 @@ In [our project](/description), in order to enable bacteria to survive under the
 
 These parts empower bacteria to withstand challenging environments, making them highly valuable for projects related to astrobiology or extreme environmental applications.
 
-### Improved Ribozyme-Assisted Polycistronic co-expression (pRAP) System
+### Improved Ribozyme-Assisted Polycistronic co-expression System
 
 The use of ribozymes can help us to simultanously express genes of interested, but cleavaged mRNA might not stable and less usable. Therefore, we have incorporated a stem-loop structure at the 3' end of each coding sequence (CDS), before the ribozyme cleavage site.
 
