@@ -4,7 +4,7 @@ title: Notebook
 ---
 ## January
 
-<p><small style="color: gray">📅 Date: Jan. 7th - Jan. 16th<br>👤 Participants: All members</small></p>
+<p><small style="color: gray">👤 Participants: All members</small></p>
 
 From January 7th to January 16th, all new members in Fudan iGEM 2023 embarked on **a ten-day training** centered around synthetic biology and iGEM.
 
@@ -51,7 +51,7 @@ style='width:70%'>
 
 ## February
 
-<p><small style="color: gray">📅 Date: Feb.<br>👤 Participants: All members</small></p>
+<p><small style="color: gray">👤 Participants: All members</small></p>
 
 In February, our team members immersed themselves in **extensive literature research** focused on the three project topics that had surfaced during our brainstorming sessions in January. These projects included:
 
@@ -73,7 +73,7 @@ style='width:70%'>
 
 ## March
 
-<p><small style="color: gray">📅 Date: Mar.<br>👤 Participants: All members</small></p>
+<p><small style="color: gray">👤 Participants: All members</small></p>
 
 In March, we have already embarked on an extensive literature review focusing on the initial three project topics we had proposed. However, we encountered challenges in identifying significant breakthroughs within these domains. The experimental design limitations associated with these topics left us feeling that they lacked the potential to evoke a "wow" factor. Consequently, we made the decision to temporarily set aside our original brainstorming concepts and turned our attention to the **exploration of fresh perspectives**.
 
@@ -160,7 +160,7 @@ style='width:70%'>
 
 <p><small style="color: gray">📅 Date: May. 13th<br>👤 Participants: Yijun Wang</small></p>
 
-Under the guidance of previous year's team members, Yijun Wang successfully conducted an instrument calibration laboratory session as part of the **Interlab** program.
+Under the guidance of previous year's team members, Yijun Wang successfully conducted an instrument calibration laboratory session as part of [the Interlab program](https://technology.igem.org/interlabs/2023).
 
 <p><small style="color: gray">📅 Date: May. 21st - May. 26th<br>👤 Participants: All members</small></p>
 
@@ -190,7 +190,7 @@ Prof. Fang is a professor and doctoral supervisor at the School of Life Sciences
 
 <p><small style="color: gray">📅 Date: Jun. 4th<br>👤 Participants: Zhe Dong, Zhenmao Ye, Siliang Zhan</small></p>
 
-Prof. Quan is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on the **physiological and biochemical characteristics of comammox and its role in the ecosystem**. As a lecturer in microbiology, he has extensive knowledge of microbes under extreme conditions. We interviewed Prof.Quan and during the interview, Prof. Quan mentioned many microbes adapting to extreme living conditions,  which greatly inspired us.
+Prof. Quan is a professor and doctoral supervisor at the School of Life Sciences, Fudan University, China. He has long been engaged in research on the **physiological and biochemical characteristics of comammox and its role in the ecosystem**. As a lecturer in microbiology, he has extensive knowledge of microbes under extreme conditions. We interviewed Prof. Quan and during the interview, Prof. Quan mentioned many microbes adapting to extreme living conditions,  which greatly inspired us.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/qzx.jpg"
@@ -207,7 +207,7 @@ style='width:70%'>
 
 <p><small style="color: gray">📅 Date: Jul. 8th - Jul. 10th<br>👤 Participants: Qingying Yang, Yijun Wang, Chenye Li, Zhiyue Chen</small></p>
 
-We attended the **China iGEM Community Conference (CCiC)**, an annual conference initiated by the China iGEM team. Participating in CCiC allowed us to witness the remarkable development of synthetic biology in China. We are committed to **strengthening inter-regional ties, expanding territorial boundaries, and taking the initiative to establish the iGEM Alliance of the Yangtze River Delta**. The consortium, which consists of renowned institutions such as Shanghai University of Science and Technology, Tianjin University, Zhejiang University, Peking University and Shanghai Jiao Tong University, represents a unified regional community dedicated to advancing synthetic biology. In addition, we have **cooperated with the Shanghai Genetic Society**. To date, the schools in the alliance have collaborated to produce a series of educational picture books for children. With our joint efforts, we are confident that the iGEM Alliance will leave a deep and lasting mark on the future landscape of synthetic biology in China and beyond."
+We attended [the China iGEM Community Conference](https://mp.weixin.qq.com/s/Qp5YKL9wRPTnfi_eWqn2Ow) (CCiC), an annual conference initiated by the China iGEM team. Participating in CCiC allowed us to witness the remarkable development of synthetic biology in China. We are committed to **strengthening inter-regional ties, expanding territorial boundaries, and taking the initiative to establish the iGEM Alliance of the Yangtze River Delta**. The consortium, which consists of renowned institutions such as Shanghai University of Science and Technology, Tianjin University, Zhejiang University, Peking University and Shanghai Jiao Tong University, represents a unified regional community dedicated to advancing synthetic biology. In addition, we have **cooperated with the Shanghai Genetic Society**. To date, the schools in the alliance have collaborated to produce a series of educational picture books for children. With our joint efforts, we are confident that the iGEM Alliance will leave a deep and lasting mark on the future landscape of synthetic biology in China and beyond."
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/ccic.png"
@@ -239,7 +239,7 @@ style='width:70%'>
 
 <p><small style="color: gray">📅 Date: Jul. 19th - Jul. 25th <br>👤 Participants: Chenye Li, Zhiyue Chen</small></p>
 
-Nestled in an area blessed with a pristine starry sky, **the Shizuishan School** provided an ideal backdrop for our “Tianwen Program”, a week-long summer camp blending astronomy and biology. Collaborating with **the Fudan University Astronomy Association**, we organized immersive experience included captivating stargazing sessions, an introduction to synthetic biology and its captivating potential within space exploration. We firmly believe that the **interdisciplinary fusion** of synthetic biology with other scientific disciplines can open new avenues to engage a wider audience in the wonders of synthetic biology.
+Nestled in an area blessed with a pristine starry sky, **the Shizuishan School** provided an ideal backdrop for our “Tianwen Program”, a week-long summer camp blending astronomy and biology. Collaborating with [the Fudan University Astronomy Association](https://mp.weixin.qq.com/s/mcFn5nIBgMYtN_50QZ78hg), we organized immersive experience included captivating stargazing sessions, an introduction to synthetic biology and its captivating potential within space exploration. We firmly believe that the **interdisciplinary fusion** of synthetic biology with other scientific disciplines can open new avenues to engage a wider audience in the wonders of synthetic biology.
 
 <p><small style="color: gray">📅 Date: Jul. 20th <br>👤 Participants: Qingying Yang</small></p>
 
@@ -251,7 +251,7 @@ We began the preparatory work related to molecular cloning experiments.
 
 <p><small style="color: gray">📅 Date: Jul. 22nd <br>👤 Participants: All members</small></p>
 
-We actively participated in the "Decoding Life": **excellent high school student summer camp** organized by the School of Life Sciences at Fudan University. During this event, we engaged in insightful discussions with high school students hailing from the Yangtze River Delta region.
+We actively participated in the ["Decoding Life"](https://mp.weixin.qq.com/s/STqVKyVcpHO6wS6KVQVsnA): **excellent high school student summer camp** organized by the School of Life Sciences at Fudan University. During this event, we engaged in insightful discussions with high school students hailing from the Yangtze River Delta region.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/gaozhongsheng-new.jpg"
@@ -273,27 +273,22 @@ The iGEM Technology hosted a space webinar entitled ***Synthetic Biology in Spac
 
 <p><small style="color: gray">📅 Date: Jul. 28th<br>👤 Participants: Zhikai Jiang, Yijun Wang, Zhenmao Ye, Siliang Zhan</small></p>
 
-We began molecular cloning experiments based on gene circuit design.
-
+We began molecular cloning experiments, after receiving the first shipment from [Twist](https://www.twistbioscience.com/) and the second from [IDT](https://sg.idtdna.com/).
 
 
 ## August
 
 <p><small style="color: gray">📅 Date: Aug. 8th<br>👤 Participants: Zhikai Jiang, Yijun Wang</small></p>
 
-**Team ShanghaiTech-China iGEM 2023** provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, XMU-China iGEM 2022 contributed to the sequence for INPNC, which was a significant help in our plasmid construction. We are very grateful for their assistance in our wet lab experiments.
+Team [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/) provided us with plasmids containing the *SacC* and *CscB* genes, as well as a strain of cyanobacteria. This greatly facilitated our molecular cloning experiments and bacterial cultures. What's more, [XMU-China iGEM 2022](https://2022.igem.wiki/xmu-china/) sent us the plasmids and the sequence for INPNC. We are very grateful for their assistance in our wet lab experiments.
 
 <p><small style="color: gray">📅 Date: Aug. 12th <br>👤 Participants: Qingying Yang</small></p>
 
-Collaborating with Fudan University's Expedition Community, we connected with **Li students**, who belong to **a minority nationality** in China, in Hainan Province. Recognizing **the cultural differences** between the Li and the Han people, we integrated elements of Li culture into our course content. Additionally, we provided iGEM souvenirs as gifts. Many students shared post-class reflections about their understanding of synthetic biology and their expectations for its future applications.
+Collaborating with [Fudan University's Expedition Community](https://mp.weixin.qq.com/s/HXoECW71hKry4gbRk-CvXA), we connected with **Li students**, who belong to **a minority nationality** in China, in Hainan Province. Recognizing **the cultural differences** between the Li and the Han people, we integrated elements of Li culture into our course content. Additionally, we provided iGEM souvenirs as gifts. Many students shared post-class reflections about their understanding of synthetic biology and their expectations for its future applications.
 
 <p><small style="color: gray">📅 Date: Aug. 14th <br>👤 Participants: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</small></p>
 
-We conduct molecular cloning experiments.
-
-<p><small style="color: gray">📅 Date: Aug. 14th <br>👤 Participants: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</small></p>
-
-"Intern Researcher" is program featured cooperation between the **Shanghai Natural History Museum **and universities, which provides high school students with the opportunity to gain insights into real research and engage in short-term independent projects under the mentorship of experienced seniors.  This year, we hosted **the Lab Experience Day for the 2023 Intern Researcher** in partnership with Shanghai Natural History Museum.  Our day began with an engaging workshop titled "Navigating Scientific Challenges", where we introduced the scientific research process, emphasizing problem-solving and research literature exploration. We also initiated a lively discussion on synthetic biology and our iGEM project.  Prior to the workshop, these high school students had already undergone safety training at Fudan University labs while working on their individual research projects.  Following our workshop, we ensured an additional layer of safety by providing students with a comprehensive lab safety lecture. With parental consent and voluntary signing of a safety guarantee letter, the students were invited into our laboratory, where they received guidance from four experienced members of the Fudan 2023 iGEM team.
+"Intern Researcher" is program featured cooperation between**"Intern Researcher"** is program featured cooperation between the [Shanghai Natural History Museum](http://www.snhm.org.cn/) and universities, which provides high school students with the opportunity to gain insights into real research and engage in short-term independent projects under the mentorship of experienced seniors.  This year, we hosted **the Lab Experience Day for the 2023 Intern Researcher** in partnership with Shanghai Natural History Museum.  Our day began with an engaging workshop titled "Navigating Scientific Challenges", where we introduced the scientific research process, emphasizing problem-solving and research literature exploration. We also initiated a lively discussion on synthetic biology and our iGEM project.  Prior to the workshop, these high school students had already undergone safety training according to Fudan University labs safety regulation.  Following our workshop, we ensured an additional layer of safety by providing students with a comprehensive lab safety lecture. With parental consent and voluntary signing of a safety guarantee letter, the students were invited into our laboratory, where they received guidance from four experienced members of [the team](/team/).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/zhibo-new.jpg"
@@ -314,11 +309,11 @@ We organized a biology seminar for fourth-grade students in Cangnan County, Zhej
 
 <p><small style="color: gray">📅 Date: Sep. 4th <br>👤 Participants: Zhe Dong, Xiaohan Jiang, Zhenmao ye, Mingfang Zheng, Siliang Zhan</small></p>
 
-The experimenters continue molecular cloning experiments and search for anti-plasmid information. The artist designs the picture book and finalizes the final style. Design and customize team uniforms.
+The experimenters continue molecular cloning and characterization experiments. The artists design the picture book and finalize with a public preview. We design and placed an order for team uniforms.
 
 <p><small style="color: gray">📅 Date: Sep. 10th <br>👤 Participants: Zhe Dong, Yijun Wang, Qingying Yang</small></p>
 
-We established a robust partnership with the **Shanghai Astronomy Museum**, recognized as the world's largest astronomy museum, drawing approximately 6,000 daily visitors in China. Leveraging this collaboration, we orchestrated the **Star Exploration Camp**, a dynamic initiative aimed at imparting fundamental knowledge in biology and Mars exploration to children and their parents.
+We established a partnership with [the Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home), which is recognized as the world's largest astronomy museum, drawing approximately 6,000 daily visitors in China. Leveraging this partnership, we orchestrated the **Star Exploration Camp**, a dynamic initiative aimed at imparting fundamental knowledge in biology and Mars exploration to children and their parents.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/tianwenguan-a.jpg"
@@ -332,7 +327,7 @@ style='width:70%'>
 
 <p><small style="color: gray">📅 Date: Sep.12th<br>👤 Participants: Qingying Yang, Yijun Wang</small></p>
 
-Graduating from the University of Pennsylvania, America, **Dr. Mingjun Zhang** is an expert in **biological philosophy and environmental ethics** and is now interested in evolutionary game theory. He considered our project as a relatively positive action for the benefit of all mankind.  He argued that it was our duty to explore and understand the planet we want to transform as much as possible.  Although there is little chance of life existing on Mars, our team should be responsible for the entire universe as well as human civilization.
+Graduating from the University of Pennsylvania, America, **Dr. Mingjun Zhang** is an expert in **biological philosophy and environmental ethics** and is working on evolutionary game theory. He considered our project as a relatively positive action for the benefit of all mankind.  He argued that it was our duty to explore and understand the planet we want to transform as much as possible.  Although there is little chance of life existing on Mars, our team should be responsible for the entire universe as well as human civilization.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/zmj.jpg"
@@ -358,7 +353,7 @@ style='width:70%'>
 </div>
 <p><small style="color: gray">📅 Date: Sep. 13th <br>👤 Participants: Zhe Dong, Xiaohan Jiang, Qingying Yang, Chenye Li</small></p>
 
-During this comprehensive open house event, we **initiated the collaboration with iGEM teams: ShanghaiTech-China 2023, XJTLU-CHINA 2023, and Fudan 2022.**
+During this comprehensive open house event, we initiated the collaboration with iGEM teams: [ShanghaiTech-China iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), [XJTLU-CHINA 2023](https://2023.igem.wiki/xjtlu-china/), and [Fudan 2022](https://2022.igem.wiki/fudan/).
 
 - **Visit to the Tan Jiazhen Museum:** Honoring Mr. Tan, a renowned biologist who pioneered life sciences education in China.
 - **Fireside Chat:** Fostering dialogue between iGEMers and high school students to brainstorm developments in synthetic biology.
@@ -376,7 +371,7 @@ style='width:70%'>
 </div>
 <p><small style="color: gray">📅 Date: Sep. 14th <br>👤 Participants: Xiaohan Jiang, Yijun Wang, Mingfang Zheng, Zhenmao Ye, Siliang Zhan</small></p>
 
-Finalize the final video draft, complete the subtitles, recording and video screen adjustment, and complete the final design of the picture book. Experimenters conduct experiments. Verify the efficacy of antifreeze and antidesiccation proteins.
+Export the promotion video draft, complete the subtitles, recording and video screen adjustment. Complete the design of the picture book. Experimenters continue experiments. Successfully verify the efficacy of anti-freeze and anti-desiccation proteins.
 
 <p><small style="color: gray">📅 Date: Sep. 5th - Sep. 17th <br>👤 Participants: Zhe Dong, Chenye Li, Xiaohan Jiang, Qingying Yang</small></p>
 
@@ -413,28 +408,28 @@ Dr. Zhang is now a young researcher at the School of Life Sciences, Fudan Univer
 style='width:70%'>
 	<br>
 	<div>
-		<p><small style="color: gray">Our team members are having lunch with Dr. Jingwei Zhang and his students.</small></p>
+		<p><small style="color: gray">Our team members lunch with Dr. Jingwei Zhang and his students.</small></p>
 	</div>
 </div>
 <p><small style="color: gray">📅 Date: Sep. 22th<br>👤 Participants: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</small></p>
 
-We conducted validation experiments to prove the efficiency of molecular cloning. Bacterial transformation sedimentation experiment and agglutinin sedimentation experiment were carried out. The efficacy of antidesiccation protein was verified.
+We conducted validation experiments to prove the efficiency of ribozyme. Developed sedimentation assays for functional analysis. The efficacy of anti-desiccation protein was repeated.
 
 <p><small style="color: gray">📅 Date: Sep. 20th<br>👤 Participants: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</small></p>
 
-We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had **extensive online discussions with CAU-China iGEM 2023**, with expertise in this area, regarding the feasibility and operational details of the oxalate module. They suggested heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid. We've now finalized our oxalic acid production genetic circuit in collaboration with CAU-China iGEM 2023.
+We plan to engineer *E. coli* for oxalic acid production, seeking solutions for altering metabolic pathways while safeguarding *E. coli*'s survival. Therefore, we had **extensive** online discussions with [CAU-China iGEM 2023](https://2023.igem.wiki/cau-china/), with expertise in this area, regarding the feasibility and operational details of their oxalate module (heterologous expression of *obcA* and *obcB* genes under a single promoter and the addition of FpOAR to enhance *E. coli*'s viability in the presence of oxalic acid).
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/cau-tiny.png"
 style='width:70%'>
 	<br>
 	<div>
-		<p><small style="color: gray">The online exchange meeting between Fudan iGEM 2023 and CAU-Chian iGEM 2023</small></p>
+		<p><small style="color: gray">The online meeting between [Fudan iGEM 2023](/) and [CAU-China iGEM 2023](https://2023.igem.wiki/cau-china/)</small></p>
 	</div>
 </div>
 <p><small style="color: gray">📅 Date: Sep. 26th<br>👤 Participants: Zhe Dong, Yijun Wang</small></p>
 
-We reached out to the editor from "Same As Child" **for feedback**. Based on the editor's suggestions, we optimized the font size, layout, and text.
+We reached out to the editor from [Same As Child](https://www.xiaohongshu.com/user/profile/5b38cbd0f7e8b9039d2e7849) **for feedback**. Based on the editor's suggestions, we optimized the font size, layout, and text of our picture book: [What is gene](https://static.igem.wiki/teams/4765/wiki/education/picture-book-what-is-gene-final.pdf) and [Gene editing](https://static.igem.wiki/teams/4765/wiki/education/picture-book-gene-editing.pdf).
 
 <p><small style="color: gray">📅 Date: Sep. 29th<br>👤 Participants: All memebers</small></p>
 
@@ -445,13 +440,13 @@ We discussed with the `Promise<Pending>` group about **the immersive metaverse g
 style='width:70%'>
 	<br>
 	<div>
-		<p><small style="color: gray">We tested the metaverse game.</small></p>
+		<p><small style="color: gray">We tested the metaverse game in house.</small></p>
 	</div>
 </div>
 
 <p><small style="color: gray">📅 Date: Sep. 29th<br>👤 Participants: Zhiyue Chen, Xiaohan Jiang, Chenye Li, Siliang Zhan</small></p>
 
-We collaborated with **Nanjing-China iGEM 2023** to enhance the user interface, making it more user-friendly. Furthermore, we discussed with **SCUT-China iGEM 2023** about using the software for wet lab design of sequence, exchanging project ideas and thoroughly understanding their requirements to improve our software.
+We collaborated with [Nanjing-China iGEM 2023](https://2023.igem.wiki/nanjing-china/) to enhance the user interface, improving user-friendly. Furthermore, we discussed with [SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/) about using the software for wet lab design, exchanging project ideas and thoroughly understanding their requirements to improve our software.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/scut-tiny.png"
@@ -467,7 +462,7 @@ style='width:70%'>
 
 <p><small style="color: gray">📅 Date: Oct. 1st <br>👤 Participants: Zhe Dong, Qingying Yang, Xiaohan Jiang</small></p>
 
-We invited children to participate in our **reading activities**, guiding them through the picture books, encouraging them to contemplate the questions, and complete interactive tasks like drawing in the books. This approach allowed us to not only promote synthetic biology by distributing our books but also receive authentic feedback from children, which helped us continually improve our books.
+We invited children to participate in our **reading activities**, guiding them through the picture books, encouraging them to contemplate the questions, and complete interactive tasks in the books. This approach allowed us to not only promote synthetic biology by distributing our books but also receive authentic feedback from children, which helped us continually improve our books.
 
 <div style="text-align: center;">
 	<img src="https://static.igem.wiki/teams/4765/wiki/notebook/picbook.jpg"
@@ -477,3 +472,7 @@ style='width:70%'>
 		<p><small style="color: gray">We consulted the editor and organized picture book reading activities.</small></p>
 	</div>
 </div>
+
+<p><small style="color: gray">👤 Participants: Zhe Dong, Qingying Yang, Xiaohan Jiang</small></p>
+
+All members work in lab 24x7.

@@ -68,7 +68,7 @@ We were committed to creating an efficient educational model that enabled childr
 
 ::: details
 **Preliminary Research**
-Considering children's reading habits, our focus was on creating engaging picture books with concise content. We also **received advice from an editor** at "[Same As Child](https://www.xiaohongshu.com/user/profile/5b38cbd0f7e8b9039d2e7849)," a renowned children's picture book publishing house, selecting essential concepts in synthetic biology, using simplified language and valid examples, and incorporating visualizations.
+Considering children's reading habits, our focus was on creating engaging picture books with concise content. We also **received advice from an editor** at "[Same As Child](https://www.xiaohongshu.com/user/profile/5b38cbd0f7e8b9039d2e7849)", a renowned children's picture book publishing house, selecting essential concepts in synthetic biology, using simplified language and valid examples, and incorporating visualizations.
 :::
 
 
