@@ -100,7 +100,6 @@ With specific genes inserted into pRAP system, this module confers bacteria the 
 | [BBa_K4765117](http://parts.igem.org/Part:BBa_K4765117) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020                 |
 | [BBa_K4765118](http://parts.igem.org/Part:BBa_K4765118) | DNA    | ribozyme connected: MysABCDH                                 |
 | [BBa_K4765123](http://parts.igem.org/Part:BBa_K4765123) | DNA    | ribozyme connected: XRCC1 + Dsup + FEN1                      |
-| [BBa_K4765124](http://parts.igem.org/Part:BBa_K4765124) | DNA    | ribozyme connected: Dsup + XRCC1 + FEN1                      |
 | [BBa_K4765126](http://parts.igem.org/Part:BBa_K4765126) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020 + AnAFP         |
 | [BBa_K4765127](http://parts.igem.org/Part:BBa_K4765127) | DNA    | ribozyme connected: H. ex mtSSB + AnAFP + SAHS 33020         |
 | [BBa_K4765128](http://parts.igem.org/Part:BBa_K4765128) | DNA    | ribozyme connected: AnAFP + SAHS 33020 + H. ex mtSSB         |
