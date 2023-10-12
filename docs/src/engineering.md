@@ -12,7 +12,7 @@ authorlink:
 
 ### Design
 
-In our biofilm research, we employed a biofilm formation system, which displays antigen/nanobody pairs on the surface of *E.coli*. To achieve our objective efficiently, we needed to identify a suitable surface display system for antigen, nanobody or lectin. After [Registry](/software/) and literature search, we have identified two candidate proteins: INPNC and intimin. The former has been used by multiple teams in previous projects [BBa_K4195034](http://parts.igem.org/Part:BBa_K4195034), while the latter has been reported to show promising results in the literature[^1][^2]. Therefore, our plan is to compare the surface display efficiency of intimin and INPNC by evaluating their biofilm formation capabilities, after fusion with antigen or nanobody.
+In our biofilm research, we employed a [biofilm formation system](https://2023.igem.wiki/fudan/description/#our-solution), which displays antigen-nanobody pairs on the surface of *E.coli*. To achieve our objective efficiently, we needed to identify a suitable surface display system for antigen, nanobody or lectin. After [Registry](/software/) and literature search, we have identified two candidate proteins: INPNC and intimin. The former has been used by multiple teams in previous projects [BBa_K4195034](http://parts.igem.org/Part:BBa_K4195034), while the latter has been reported to show promising results in the literature[^1][^2]. Therefore, our plan is to compare the surface display efficiency of intimin and INPNC by evaluating their biofilm formation capability, after fusion with antigen or nanobody.
 
 ### Build
 
@@ -20,7 +20,7 @@ We constructed four parts, including intimin-Ag3 fusion ([BBa_K4765105](http://p
 
 ### Test
 
-We compared the efficiency of the two surface display systems by mixing the *E.coli* pairs mentioned above. As Figure 1 indicates, When both the antigen and nanobody select intimin as the display protein, the results are significantly better than other combinations.
+We compared the efficiency of the two surface display systems by mixing the *E.coli* pairs mentioned above. As Figure 1 indicates, when we select intimin as the display protein for both antigen and nanobody, the results are significantly better than other combinations.
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/yzm/intimin-vs-inpnc.jpg" style='width:70%'>
@@ -35,7 +35,7 @@ We compared the efficiency of the two surface display systems by mixing the *E.c
 
 As described above, we compare the surface display efficiency of intimin and INPNC. The optimal aggregation formation was observed when both antigen and nanobody were presented using intimin. Consequently, we predominantly employ intimin as the display fusion partner in our subsequent experiments.
 
-This DBTL cycle is just one example of our web lab engineering. Please refer to main pages of [our parts on the Registry](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan).
+This DBTL cycle is just one example of our wet lab engineering. Please refer to main pages of [our parts on the Registry](http://parts.igem.org/cgi/partsdb/pgroup.cgi?pgroup=iGEM2023&group=Fudan).
 
 ## Developing our software: RAP
 
@@ -100,7 +100,7 @@ We utilized PartHub&nbsp;2 to find existing parts matching our needs, which was 
 
 ### Cycle 2: Learn
 
-We had internal discussion regarding the feasibility of using RAP. In addition, we collaborated with external users ([SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/other-teams6) and [Nanjing-China iGEM 2023](https://2023.igem.wiki/nanjing-china/) on the user interface.
+We had internal discussion regarding the feasibility of using RAP. In addition, we collaborated with external users ([SCUT-China iGEM 2023](https://2023.igem.wiki/scut-china/other-teams6) and [Nanjing-China iGEM 2023](https://2023.igem.wiki/nanjing-china/)) on the user interface.
 
 <div style="text-align: center;" id="fig-2">
 <img src="https://static.igem.wiki/teams/4765/wiki/collaboration/scut-tiny.png" style='width:70%'>
