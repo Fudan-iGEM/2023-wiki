@@ -12,7 +12,7 @@ authorlink:
 
 ### Design
 
-In our biofilm research, we employed a [biofilm formation system](https://2023.igem.wiki/fudan/description/#our-solution), which displays antigen-nanobody pairs on the surface of *E.coli*. To achieve our objective efficiently, we needed to identify a suitable surface display system for antigen, nanobody or lectin. After [Registry](/software/) and literature search, we have identified two candidate proteins: INPNC and intimin. The former has been used by multiple teams in previous projects [BBa_K4195034](http://parts.igem.org/Part:BBa_K4195034), while the latter has been reported to show promising results in the literature[^1][^2]. Therefore, our plan is to compare the surface display efficiency of intimin and INPNC by evaluating their biofilm formation capability, after fusion with antigen or nanobody.
+In our biofilm research, we employed a [biofilm formation system](/description/#our-solution), which displays antigen-nanobody pairs on the surface of *E.coli*. To achieve our objective efficiently, we needed to identify a suitable surface display system for antigen, nanobody or lectin. After [Registry](/software/) and literature search, we have identified two candidate proteins: INPNC and intimin. The former has been used by multiple teams in previous projects [BBa_K4195034](http://parts.igem.org/Part:BBa_K4195034), while the latter has been reported to show promising results in the literature[^1][^2]. Therefore, our plan is to compare the surface display efficiency of intimin and INPNC by evaluating their biofilm formation capability, after fusion with antigen or nanobody.
 
 ### Build
 
