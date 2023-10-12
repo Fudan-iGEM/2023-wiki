@@ -123,7 +123,7 @@ Biofilm demonstrates remarkable resilience against environmental stressors, emph
 As the solar energy heats the Martian atmosphere, driving global airflow cycles and violent dust storms[^8], our biofilm has to exhibit exceptional adhesion and the capacity to aggregate the omnipresent Martian dust. Furthermore, the Martian regolith primarily comprises silicate and sulfate rock. The function of our biofilm hinges on its ability to secrete chemical weathering agents, which dissolve these rock components.
 
 <div style="text-align: center;" >
-    <img src="https://static.igem.wiki/teams/4765/wiki/description/6.png" style='width:80%'>
+    <img src="https://static.igem.wiki/teams/4765/wiki/jzk/description-figure6.png" style='width:80%'>
     <br>
     <div>
     	<p><small style="color: gray">Figure 6: Multiple obstacles in our project design</small></p>
@@ -137,7 +137,7 @@ As the solar energy heats the Martian atmosphere, driving global airflow cycles 
 To address the challenges mentioned above, B.HOME presents a promising strategy involving four interdependent systems: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming Systems**. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/4765/wiki/description/four-system.png" style='width:80%'>
+    <img src="https://static.igem.wiki/teams/4765/wiki/jzk/description-figure7.png" style='width:80%'>
     <br>
     <div>
     	<p><small style="color: gray">Figure 7: Four systems of B. HOME</small></p>
