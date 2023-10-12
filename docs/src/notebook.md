@@ -292,7 +292,14 @@ We organized a **[biology seminar](/education/#volunteer-teaching-in-rural-areas
 <p><small style="color: gray">📅 Date: Sep. 4th <br>👤 Participants: Zhe Dong, Xiaohan Jiang, Zhenmao ye, Mingfang Zheng, Siliang Zhan</small></p>
 
 The experimenters continue molecular cloning and characterization experiments. The artists design the picture book and finalize with a public preview. We design and placed an order for team uniforms.
-
+<div style="text-align: center;">
+	<img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/uv-cfu.png"
+style='width:70%'>
+	<br>
+	<div>
+		<p><small style="color: gray">Anti-UV Moddule Verification</small></p>
+	</div>
+</div>
 <p><small style="color: gray">📅 Date: Sep. 10th <br>👤 Participants: Zhe Dong, Yijun Wang, Qingying Yang</small></p>
 
 We established a partnership with [the Shanghai Astronomy Museum](https://www.sstm-sam.org.cn/#/home), which is recognized as the world's largest astronomy museum, drawing approximately 6,000 daily visitors in China. Leveraging this partnership, we orchestrated the [**Star Exploration Camp**](/education/#star-exploration-camp-parent-child-science-curriculum), a dynamic initiative aimed at imparting fundamental knowledge in biology and Mars exploration to children and their parents.
@@ -350,6 +357,15 @@ style='width:70%'>
 <p><small style="color: gray">📅 Date: Sep. 14th <br>👤 Participants: Xiaohan Jiang, Yijun Wang, Mingfang Zheng, Zhenmao Ye, Siliang Zhan</small></p>
 
 Export the promotion video draft, complete the subtitles, recording and video screen adjustment. Complete the design of the picture book. Experimenters continue experiments. Successfully verify the efficacy of anti-freeze and anti-desiccation proteins.
+<div style="text-align: center;">
+	<img src="https://static.igem.wiki/teams/4765/wiki/zsl/anti-desiccation-protocol.png"
+style='width:70%'>
+	<br>
+	<div>
+		<p><small style="color: gray">Desiccation Survival Assay</small></p>
+	</div>
+</div>
+
 
 <p><small style="color: gray">📅 Date: Sep. 5th - Sep. 17th <br>👤 Participants: Zhe Dong, Chenye Li, Xiaohan Jiang, Qingying Yang</small></p>
 
@@ -392,6 +408,14 @@ style='width:70%'>
 <p><small style="color: gray">📅 Date: Sep. 22th<br>👤 Participants: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</small></p>
 
 We conducted validation experiments to prove the efficiency of ribozyme. Developed sedimentation assays for functional analysis. The efficacy of anti-desiccation protein was repeated.
+<div style="text-align: center;">
+	<img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/96-23ll-plate.jpg"
+style='width:70%'>
+	<br>
+	<div>
+		<p><small style="color: gray">The bottom view of the 96 well plate of bacterial overnight cultures.</small></p>
+	</div>
+</div>
 
 <p><small style="color: gray">📅 Date: Sep. 20th<br>👤 Participants: Zhe Dong, Zhikai Jiang, Yijun Wang, Siliang Zhan</small></p>
 
