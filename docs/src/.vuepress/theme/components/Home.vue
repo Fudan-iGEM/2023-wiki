@@ -46,8 +46,18 @@
           </div>
       </section>
       <section class="page-5">
+        <div style="flex: 1">
         <div data-aos="zoom-in-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:5vw;padding-right:5vw;color:#242424;font-size: 1.5vw;">We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and <em>Escherichia coli</em>, and can transmute Martian rocks into fertile soil and endure harsh Martian conditions.<br><br>The B.HOME project revolves around four interdependent systems: Survival, Symbiotic, Biofilm Formation, and Terraforming Systems. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.</p>
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:2vw;padding-right:2vw;color:#242424;font-size: 1.5vw;">We have developed an ecological biofilm that mimics a symbiotic relationship between cyanobacteria and <em>Escherichia coli</em>, and can transmute Martian rocks into fertile soil and endure harsh Martian conditions.</p>
+        </div>
+        </div>
+        <div style="flex: 1;text-align: center">
+            <img src="https://static.igem.wiki/teams/4765/wiki/czy/logo-czy.svg" style="width: 20vw">
+        </div>
+        <div style="flex: 1">
+        <div data-aos="zoom-in-down" data-aos-duration="3000" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
+            <p style="margin:0;padding-top:20vh;padding-bottom: 20vh;padding-left:2vw;padding-right:2vw;color:#242424;font-size: 1.5vw;flex: 1">The B.HOME project revolves around four interdependent systems: Survival, Symbiotic, Biofilm Formation, and Terraforming Systems. Through these systems, we have constructed an ecological biofilm with extreme tolerance, autotrophic survival, physical structure, and rock weathering function.</p>
+        </div>
         </div>
       </section>
       <section class="page-6">
@@ -255,7 +265,7 @@ export default defineComponent({
   }
   .page-6 {
     background-image: url("https://static.igem.wiki/teams/4765/wiki/czy/backgorund-last-home.png");
-    background-repeat: round;
+    background-repeat: no-repeat;
     width: calc(100vw - 5px);
     //height: 100vh;
     display: flex;
