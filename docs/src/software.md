@@ -8,7 +8,7 @@ authorlink:
 ---
 
 ::: tip
-Live demo of our software RAP is available. Visit our live demo [http://54.169.242.254:5000/](http://54.169.242.254:5000/)! To run your own with `docker-compose`, please follow these three links, [1](https://hub.docker.com/repository/docker/mistyfield/kinetichub/general) [2](https://hub.docker.com/repository/docker/mistyfield/parthub/general) [3](https://hub.docker.com/repository/docker/mistyfield/rap/general).
+Live demo of our software RAP is available. Visit our live demo [http://54.169.242.254:5000/](http://54.169.242.254:5000/)! To run your own with `docker`, please follow these three links, [1](https://hub.docker.com/repository/docker/mistyfield/kinetichub/general) [2](https://hub.docker.com/repository/docker/mistyfield/parthub/general) [3](https://hub.docker.com/repository/docker/mistyfield/rap/general).
 :::
 
 ## Overview
