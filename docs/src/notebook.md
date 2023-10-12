@@ -297,7 +297,7 @@ The experimenters continue molecular cloning and characterization experiments. T
 style='width:70%'>
 	<br>
 	<div>
-		<p><small style="color: gray">Anti-UV Moddule Verification</small></p>
+		<p><small style="color: gray">Anti-UV Module Verification</small></p>
 	</div>
 </div>
 <p><small style="color: gray">📅 Date: Sep. 10th <br>👤 Participants: Zhe Dong, Yijun Wang, Qingying Yang</small></p>
