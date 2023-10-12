@@ -97,6 +97,8 @@ In our model, $A$ and $B$ represent the concentrations of two types of *E. coli*
 
 ## Results
 
+### Results from code
+
 In our model, the expansion process of the biofilm is depicted as shown in [Figure 1](#fig-1).
 
 <div style="text-align: center;" id="fig-1">
@@ -154,6 +156,19 @@ Different initial bacterial concentration distributions (start) and biofilm patt
 </div>
 </div>
 
+### Results from experiments
+
+In our [*E. coli - E. coli* Binding experiment](https://2023.igem.wiki/fudan/results/#_3-biofilm-formation-system), we simulated the expansion process of biofilm, as depicted in the [Figure 5](#fig-5). This closely resembles the results shown in our code, confirming the validity of our model's predictions. This also underscores the instructive value of our model for our experiment design.
+
+<div style="text-align: center;" id="fig-5">
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/experiment-1.png"
+style='width:70%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 5: Simulation of biofilm expansion in experiment.</small></p>
+</div>
+</div>
+
 
 ## Conclusion
 
@@ -165,7 +180,7 @@ In conclusion, this model has provided us with **a qualitative understanding of 
 
 ## Code Accessibility
 
-The source code that generates the images on this page is as follows:
+MATLAB code that generates the pictures above is shown below, or you can download it [here](https://static.igem.wiki/teams/4765/wiki/jzk/fudan2023-model.pdf).
 
 ```matlab
 %%
