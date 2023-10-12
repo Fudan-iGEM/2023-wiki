@@ -154,7 +154,7 @@ style='width:30%'>
 
 **Action**
 
-We had lunch with Mr. Zhang and shared our opinions on the industry of synthetic biology. Dr. Zhang pointed out that the subjective agency of living creatures could potentially join hands with synthetic biology techniques. He believed that the combination of **artificial BioBricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
+We had lunch with Dr. Zhang and shared our opinions on the industry of synthetic biology. Dr. Zhang pointed out that the subjective agency of living creatures could potentiaDlly join hands with synthetic biology techniques. He believed that the combination of **artificial BioBricks** and **the well-evolved genetic system of our chassis** would further unleash the potential of synthetic biology. From this perspective, there remains full potential to **improve efficiency** and **reduce the cost** in the development of the synthetic biology industry.
 
 In terms of our project, Dr. Zhang believed that its environmental benefits could bring about commercial values, just like the invention of new energy cars. What really matters is to **find a suitable application** so that the reward can overcome the cost.
 
