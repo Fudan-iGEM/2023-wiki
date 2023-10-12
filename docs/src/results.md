@@ -18,7 +18,7 @@ To expand humanity's horizons beyond Earth, our project, named **Biofilm Harness
     <img src="https://static.igem.wiki/teams/4765/wiki/jzk/description-figure7.png" style='width:90%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 1: Systems Overview<br>B.HOME is composed of four interconnected systems: Survival, Symbiotic, Biofilm Formation, and Terraforming Systems</small></p>
+        <p><small style="color: gray">Figure 1: Systems Overview<br>B.HOME is composed of four interconnected systems: Survival, Symbiotic, Biofilm Formation, and Terraforming Systems</small></p>
     </div>
 </div>
 
@@ -39,7 +39,7 @@ We employed the [Colony-Forming Unit](/experiments/#cfu-counting) (CFU) assay. A
     <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/uv.jpg" style='width:50%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 2: Anti-UV Assay<br>
+        <p><small style="color: gray">Figure 2: Anti-UV Assay<br>
             After plating, half of the plate is exposed to UV radiation. In the initial phase of assay development, we tried to shield the place with a smaller paperboard (shown on the right). We found the boundary of UV vs not-irradiated is not clear, and there is no need to try smaller paperboard. For CFU, it is better to UV the entire plate or not, to avoid counting confusion at the boundary.</small></p>
     </div>
 </div>
@@ -51,7 +51,7 @@ Our experimental results demonstrated that most DNA repair and binding proteins 
     <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/uvresults.png" style='width:40%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 3: Survival Rate after UV Exposure<br> Percentage of viable <em>E. coli</em> expressing proteins following UV radiation exposure<br> (Note: The quantitative graph is based on the whole plate CFU to avoid the blurriness at the boundaries of the paperboard-shielded area from UV.)</small></p>
+        <p><small style="color: gray">Figure 3: Survival Rate after UV Exposure<br> Percentage of viable <em>E. coli</em> expressing proteins following UV radiation exposure<br> (Note: The quantitative graph is based on the whole plate CFU to avoid the blurriness at the boundaries of the paperboard-shielded area from UV.)</small></p>
     </div>
 </div>
 
@@ -129,7 +129,7 @@ We measure the growth curve through measuring optical density at a wavelength of
     <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/sacprotocol.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 8: Growth Curve Assay<br> Cultured sucrose-utilizing (SacC) and plain <em>E. coli</em> in nutrient-supplemented M9 medium to measure the growth curve by tracking OD<sub>600</sub>.</small></p>
+        <p><small style="color: gray">Figure 8: Growth Curve Assay<br> Cultured sucrose-utilizing (SacC) and plain <em>E. coli</em> in nutrient-supplemented M9 medium to measure the growth curve by tracking OD<sub>600</sub>.</small></p>
     </div>
 </div>
 
@@ -143,7 +143,7 @@ To pinpoint the limiting factors, we conducted a follow-up experiment at the 25-
     <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/sacresult-1.png" style='width:90%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 9: Growth Curve of SacC Experiments<br> Growth Curve of <em>E. coli</em> in M9 minimal medium with carbon source and extra nutrient factor</small></p>
+        <p><small style="color: gray">Figure 9: Growth Curve of SacC Experiments<br> Growth Curve of <em>E. coli</em> in M9 minimal medium with carbon source and extra nutrient factor</small></p>
     </div>
 </div>
 
@@ -305,4 +305,65 @@ style='width:40%'>
 
 These results collectively affirm that EPS effectively mediates *E. coli* adhesion to surfaces, thereby enhancing the terraforming process.
 
+
+## 5. Software Validation
+
+This year, we developed a [software tool](http://54.169.242.254:5000/) for quantitatively design ribozyme-assisted polycistronic co-expression system. We also performed experimental validation for our software, as shown in [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129).
+
+We inserted different stem-loops between stayGold and Twister P1, and compared the red-green fluorescence intensity ratio to assess **the stem-loop's ability to prevent [mRNA degradation](/software/#assumption-1-2)**.
+
+<div style="text-align: center;">
+<img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/1292.png"
+style='width:60%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 21: Biobricks in BBa_K4765129.<br>BBa_K765129 includes promoter, stayGold, Twister P1 (self-cleaving ribozyme), mScarlet, and terminator.
+</small></p>
+</div>
+</div>
+
+:::Stem-loops
+nsl: no stem-loop
+liu2023: natural occurred, described [previously](https://doi.org/10.1021/acssynbio.2c00416)
+new2/6/10 & old6/10: stem-loops designed by our software with different free energy change of reaction
+
+```
+nsl:     5-AAACACCCACCACAAUUUCCACCGUUU UUUGU-3
+liu2023: 5-AAACACCCACCACAAUUUCCACCGUUU CCCGACGCUUCGGCGUCGGG UUUGU-3
+new2:    5-AAACACCCACCACAAUUUCCACCGUUU CCCCGUCGGCUGCU UUUGU-3
+new6:    5-AAACACCCACCACAAUUUCCACCGUUU AGACGCUCGGCGUCCU UUUGU-3
+new10:   5-AAACACCCACCACAAUUUCCACCGUUU ACUGGGGGGAUCGAGGUCUUU UUUGU-3
+old6:    5-AAACACCCACCACAAUUUCCACCGUUU AGACGCUCGGCGUCCU UUUGU-3
+old10:   5-AAACACCCACCACAAUUUCCACCGUUU GGCGGCGCUACAGCGUCGU UUUGU-3
+```
+
+:::
+
+Our experimental findings unveiled a clear connection: as the change in free energy (ΔG) within the reaction decreases, mRNA stability increases, resulting in a higher GFP/RFP ratio. In summary, designing stem-loops with lower ΔG values enhances their ability to shield mRNA from degradation.
+
+<div style="text-align: center;">
+<img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/ribozyme-czy.jpg"
+style='width:70%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 22: The relationship between the free enegy of stem-loop and GFP/OD and RFP/OD.<br>
+Bacteria were cultured without IPTG, both GFP and RFP signal were driven by the T7 leaky promoter. In cells with higher leaky, stronger RFP/OD were observed. RFP signal is from the mScarlet CDS before T7 terminator, which uses the stem-loop structure formed by the terminator, and is most stable. We suggest to put the CDS needed most at the last position.
+</small></p>
+</div>
+</div>
+
+<div style="text-align: center;">
+<img src="https://static.igem.wiki/teams/4765/wiki/czy/result.svg"
+style='width:50%'>
+<br>
+<div>
+<p><small style="color: gray">Figure 23: The relationship between the free enegy of stem-loop and mRNA degradation rate.
+</small></p>
+</div>
+</div>
+
+
+
 **In summary, the four Survival, Symbiotic, Biofilm Formation and Terraforming Systems for our biofilm, all have been made and test. All performed as designed. Having them together in one bacteria will be our choice of terraforming space explorer - B.HOME v1** ([BBa_K4765140](http://parts.igem.org/Part:BBa_K4765140)). We are also in the process of using shuttle test ([BBa_K4765130](http://parts.igem.org/Part:BBa_K4765130)) to empower cyanobacteria with Anti-UV Module, Anti-Freeze Module and Anti-Desiccation capabilities.
+
+The composite part [BBa_K4765129](http://parts.igem.org/Part:BBa_K4765129) represents **a novel strategy to employ 3' stem-loops for regulating mRNA stability and targeted protein levels, especially during polycistronic experssion**. It also provides opportunity to examine various natural occurring stem-loops sequences from sequencing databases, and could be a useful tool to uncover novel RNA regulation mechanisms.
