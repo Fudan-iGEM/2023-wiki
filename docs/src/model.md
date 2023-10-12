@@ -11,15 +11,9 @@ authorlink:
 
 Our biofilm structure is primarily formed by two different strains of *Escherichia coli* that express antigens and nanobodies, respectively. We hope that the *E. coli* biofilm can smoothly **unfold over time**, and we aim to **manipulate the shape and diffusion rate** of the biofilm unfolding by adjusting parameters such as the **concentrations** of the two strains and their **binding strength**. Before conducting wet experiments, we wish to use mathematical physics models to preliminarily validate our ideas.
 
-The inspiration for our model comes from the **Turing morphogenesis system**[^1], originally proposed by Alan Turing, the father of computer graphics, to describe the mechanisms behind the generation of natural patterns such as spots and stripes in the natural world. We hope to utilize the Turing morphogenesis system to simulate the process of *E. coli* forming a biofilm expressing antigens and nanobodies in a two-dimensional plane, and analyze the effects of changing various parameters.
-
 ## Model Design
 
-In Alan Turing's early research paper [^1], he proposed a model for simulating the generation of natural patterns in the natural world using **two interacting substances involved in diffusion**. This model is known as a **reaction-diffusion system**, which is essentially the Turing morphogenesis system. The specific form of interaction between the two elements in this system is not constrained, and in our model, we use two strains of *E. coli* that express antigens and nanobodies as interacting elements in the system with diffusive properties.
-
-Our model is primarily based on two existing models. The first one is the model[^2] which defines a tensor called the diffusion coefficient related to the velocity vector distribution field. This coefficient is dependent on the direction and rate of diffusion and is used to describe the diffusion and reaction terms in the Turing morphogenesis system.
-
-The second model is the Gray-Scott model[^3], which introduces a parameter called the diffusion rate, a scalar value related to the diffusion rate. This model is used to describe a specific chemical reaction.
+In Alan Turing's early research paper [^1], he proposed a model for simulating the generation of natural patterns in the natural world using **two interacting substances involved in diffusion**. This model is known as a **reaction-diffusion system**, which is essentially the **Turing morphogenesis system**. The specific form of interaction between the two elements in this system is not constrained, and in our design, we regard two strains of *E. coli* that express antigens and nanobodies respectively as interacting elements in the system with diffusive properties.
 
 ## Parameter
 
@@ -43,7 +37,10 @@ The second model is the Gray-Scott model[^3], which introduces a parameter calle
 
 ## Model Establishment
 
-In the model proposed by Ercan M. Dede[^2], the core expression is:
+Our model is primarily based on two existing models. 
+
+The first one is proposed by Ercan M. Dede[^2], which defines a tensor called the diffusion coefficient related to the velocity vector distribution field. This coefficient is dependent on the direction and rate of diffusion and is used to describe the diffusion and reaction terms in the Turing morphogenesis system.
+In this model the core expression is:
 $$
 \dfrac{\partial U}{\partial t}=\nabla·D_u\nabla{U}+R_u(U,V)
 $$
@@ -52,9 +49,9 @@ $$
 \dfrac{\partial V}{\partial t}=\nabla·D_v\nabla{V}+R_v(U,V)
 $$
 
-In the model,  $R_u(U,V)$ and $R_v(U,V)$ represent the reaction terms, and $\nabla·D_u\nabla{U}$ and $\nabla·D_v\nabla{V}$ stand for the diffusion terms, while $D_u$ and $D_v$ are the diffusion coefficients mentioned above.
+Here $R_u(U,V)$ and $R_v(U,V)$ represent the reaction terms, and $\nabla·D_u\nabla{U}$ and $\nabla·D_v\nabla{V}$ stand for the diffusion terms, while $D_u$ and $D_v$ are the diffusion coefficients mentioned above.
 
-In the Gray-Scott model[^3], the core expression is:
+The second model is the Gray-Scott model[^3], which introduces a parameter called the diffusion rate, a scalar value related to the diffusion rate. This model is used to describe a specific chemical reaction. In the Gray-Scott model, the core expression is:
 $$
 \dfrac{\partial u}{\partial t}=l_u\nabla^2{u}-uv^2+F(1-u)
 $$
@@ -93,7 +90,7 @@ $$
 
 Where $A$ and $B$ represent the concentrations of two substances, $F$ is the supply rate, $K$ is the consumption rate, $D_a$ and $D_b$ are diffusion coefficients, $l_a$ and $l_b$ are diffusion rates, $\overrightarrow{V}$ is the velocity distribution field, $\bigotimes$ denotes the tensor product, and $\delta_{ij}$ is the unit matrix.
 
-In our model, $A$ and $B$ represent the concentrations of two types of *E. coli* expressing antigens and nanobodies, respectively. $F$ and $K$ represent **the rates of *E. coli* division and the rate of connection formation between two cells** under certain antigen-nanobody binding strength conditions.
+In our model, $A$ and $B$ represent the **concentrations of two types of *E. coli* expressing antigens and nanobodies**, respectively. $F$ and $K$ represent **the rates of *E. coli* division and the rate of connection formation between two cells** under certain antigen-nanobody binding strength conditions.
 
 ## Results
 
