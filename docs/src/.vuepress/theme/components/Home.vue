@@ -34,7 +34,7 @@
               <lottie :options="rocketOptions"></lottie>
           </div>
           <div data-aos="flip-left" data-aos-duration="4500" data-aos-easing="ease-out-cubic" data-aos-anchor-placement="bottom-bottom">
-            <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;background: linear-gradient(#fcc6ae,#e37654);background-clip: text; -webkit-background-clip: text;font-size: 1.5vw;color: transparent;">However, before Mars can truly become a hospitable home for us humanity, it must undergo a transformative process known as terraforming, reshaping the planet's surface to mimic Earth's conditions.<br>The journey to Mars presents formidable challenges, with its barren landscape; covered in rocks and dusts. To create a sustainable ecosystem, the terraforming of Martian soil is a pivotal step.</p>
+            <p style="margin:0;padding-top:10vh;padding-bottom: 10vh;padding-left:5vw;padding-right:5vw;background: linear-gradient(#fcc6ae,#e37654);background-clip: text; -webkit-background-clip: text;font-size: 1.5vw;color: transparent;"><strong>However, before Mars can truly become a hospitable home for us humanity, it must undergo a transformative process known as terraforming, reshaping the planet's surface to mimic Earth's conditions.<br>The journey to Mars presents formidable challenges, with its barren landscape; covered in rocks and dusts. To create a sustainable ecosystem, the terraforming of Martian soil is a pivotal step.</strong></p>
           </div>
       </section>
       <section class="page-4">
