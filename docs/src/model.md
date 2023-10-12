@@ -161,7 +161,7 @@ Different initial bacterial concentration distributions (start) and biofilm patt
 In our [*E. coli - E. coli* Binding experiment](https://2023.igem.wiki/fudan/results/#_3-biofilm-formation-system), we simulated the expansion process of biofilm, as depicted in the [Figure 5](#fig-5). This closely resembles the results shown in our code, confirming the validity of our model's predictions. This also underscores the instructive value of our model for our experiment design.
 
 <div style="text-align: center;" id="fig-5">
-<img src="https://static.igem.wiki/teams/4765/wiki/jzk/experiment-1.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/experiment-2.png"
 style='width:70%'>
 <br>
 <div>
