@@ -84,6 +84,9 @@ The need of user interface improvements were mentioned in several **Learn** phas
 
 RAP provides a detailed [online](https://mistyfield.github.io/RAP-Docs/) and [offline](https://static.igem.wiki/teams/4765/wiki/czy/documentation-1012.pdf) documentation and you can get the source code of Web UI [here](https://gitlab.igem.org/2023/software-tools/fudan/-/tree/main/webUI). Web UI is based on [Vue.js](https://vuejs.org/), using [Ant Design Vue](https://antdv.com/docs/vue/introduce) as the front-end component library and [Axios](https://axios-http.com/) to access and process the APIs. [Neovis.js](https://github.com/neo4j-contrib/neovis.js) was used to visualize the network structure in [PartHub 2](#parthub-2).
 
+<iframe src="https://static.igem.wiki/teams/4765/wiki/czy/documentation-1012.pdf" width="100%" height='500px'></iframe>
+
+
 ### Tutorials
 
 In this tutorial, we will demonstrate the utilization of RAP for the purpose of constructing pRAP sequence similar to [BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121) or [BBa_K4765122](http://parts.igem.org/Part:BBa_K4765122). To obtain the requisite information (refer to Table S1), click "see more" below. Alternatively, you can directly access our pre-built [demo](http://54.169.242.254:5000/demo/) to generate the sequence.

@@ -15,7 +15,7 @@ authorlink:
 To expand humanity's horizons beyond Earth, our project, named **Biofilm Harnessing for Offworld Mankind Establishment** ([B.HOME](/description/#b-home-project-overview)), has raised a groundbreaking approach to terraforming, transforming barren rocks on terrestrial planets in fertile soil. Drawing inspiration from the pioneer plants of lichens, we have developed an ecological biofilm with the symbiotic relationship between cyanobacteria and *Escherichia coli* (*E. coli*). We integrated four interconnected systems into our biofilm: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming** Systems. Through these systems, we have engineered an ecological biofilm with remarkable resilience, autotrophic survival capabilities, structural integrity, and terraforming functionality.
 
 <div style="text-align: center;">
-    <img src="https://static.igem.wiki/teams/4765/wiki/results-wyj/overview.png" style='width:90%'>
+    <img src="https://static.igem.wiki/teams/4765/wiki/jzk/description-figure7.png" style='width:90%'>
     <br>
     <div>
     	<p><small style="color: gray">Figure 1: Systems Overview<br>B.HOME is composed of four interconnected systems: Survival, Symbiotic, Biofilm Formation, and Terraforming Systems</small></p>
@@ -183,7 +183,7 @@ style='width:50%'>
 We also employed microscopy imaging to observe the growth and expansion of biofilm. Glass slides were treated with PDL (Poly-D-Lysine) for 10 seconds, followed by mixing *E. coli* expressing intimin-Ag3 ([BBa_K4765105](http://parts.igem.org/Part:BBa_K4765105)) and intimin-Nb3 + mScarlet ([BBa_K4765133](http://parts.igem.org/Part:BBa_K4765133)) on these slides. After several washes with LB KanR medium, 500 μL of LB KanR medium was added. The location of the founder cell was determined, and imaging was initiated on the microscope stage at 25°C, capturing photographs at 0, 2, and 5.5 hours or time-laspse with 5-minute interval. A bacterial lawn covering the field at the end of image.
 
 <div style="text-align: center;">
-<img src="https://static.igem.wiki/teams/4765/wiki/yzm/microscopy-show-2.png"
+<img src="https://static.igem.wiki/teams/4765/wiki/jzk/results-figure12.png"
 style='width:65%'>
 <br>
 <div>
