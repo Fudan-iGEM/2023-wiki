@@ -18,11 +18,13 @@ z = sorted([
     'BBa_K4765001',
     'BBa_K4765003',
     'BBa_K4765021',
+    'BBa_K4765005',
     'BBa_K4765007',
     'BBa_K4765015',
     'BBa_K2306003',
     'BBa_K4765016',
     'BBa_K4765025',
+    'BBa_K4765018',
     'BBa_K4765019',
     'BBa_K4765002',
     'BBa_K4765004',
@@ -31,7 +33,6 @@ z = sorted([
     'BBa_K4765017',
     'BBa_K1378003',
     'BBa_K4765009',
-    'BBa_K4765018',
     'BBa_K4765113',
     'BBa_K4765112',
     'BBa_K4765013',
@@ -57,10 +58,9 @@ z = sorted([
     'BBa_K2644007',
     'BBa_K4765102',
     'BBa_K4765104',
-    'BBa_K4765005',
     'BBa_K4765106' ])
-z += range(1, 27)
-z += range(101, 140)
+z += range(1, 28)
+z += range(101, 141)
 table_th = ('Part Name', 'Short Description', 'Part Type', 'Designer(s)')
 fff = open('groupparts.md', 'w')
 fff.write('| | | Part Name | Description | Part Type | Designer(s) | Length | |\n')
