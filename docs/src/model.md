@@ -250,6 +250,6 @@ end
 
 [^1]: Turing, A. M. (1952). The chemical basis of morphogenesis.  *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, *237*(641), 37–72. https://doi.org/10.1098/rstb.1952.0012
 [^2]: Dede, E. M., Zhou, Y., & Nomura, T. (2020). Inverse design of microchannel fluid flow networks using Turing pattern dehomogenization. *Structural and Multidisciplinary Optimization*, *62*(4), 2203–2210. https://doi.org/10.1007/s00158-020-02580-w
-[^3]:  *Reaction-Diffusion by the Gray-Scott Model: Pearson’s Parameterization at MROB*. (n.d.). Retrieved October 9, 2023, from http://www.mrob.com/pub/comp/xmorphia/
+[^3]:  *Reaction-Diffusion by the Gray-Scott Model: Pearson's Parameterization at MROB*. (n.d.). Retrieved October 9, 2023, from http://www.mrob.com/pub/comp/xmorphia/
 
-[^4]: *Pearson’s Classification (Extended) of Gray-Scott System Parameter Values at MROB*. (n.d.). Retrieved October 9, 2023, from http://www.mrob.com/pub/comp/xmorphia/pearson-classes.html
+[^4]: *Pearson's Classification (Extended) of Gray-Scott System Parameter Values at MROB*. (n.d.). Retrieved October 9, 2023, from http://www.mrob.com/pub/comp/xmorphia/pearson-classes.html

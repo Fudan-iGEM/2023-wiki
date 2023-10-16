@@ -30,7 +30,7 @@ In the Survival System, we introduced **Anti-UV Module**, **Anti-Freeze Module**
 
 ### Anti-UV Module
 
-In the Anti-UV module, we introduced various **DNA repair or binding proteins** (Rv Dsup, FEN1, XRCC1, and *Hypsibius exemplaris* mtSSB) (sequence details and functional characterization in [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025), [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018), [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019), and [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016)) and MAA producing enzymes (MysA/B/C/D/H, details in [Part:BBa_K4765118](http://parts.igem.org/Part:BBa_K4765118)) that regulate **UV-absorbing substances** to enhance *E. coli* ’s resistance to UV radiation.
+In the Anti-UV module, we introduced various **DNA repair or binding proteins** ([Rv Dsup](/description/#fn10), FEN1, XRCC1, and *Hypsibius exemplaris* mtSSB) (sequence details and functional characterization in [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025), [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018), [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019), and [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016)) and MAA producing enzymes (MysA/B/C/D/H, details in [Part:BBa_K4765118](http://parts.igem.org/Part:BBa_K4765118)) that regulate **UV-absorbing substances** to enhance *E. coli*'s resistance to UV radiation.
 
 
 We employed the [Colony-Forming Unit](/experiments/#cfu-counting) (CFU) assay. After plasmid transformation and plating, we shielded half of the agar plate from UV light using a black paperboard, while the other half was exposed to UV irradiation (6W power) with combined wavelengths of 254 nm and 365 nm for 10 seconds.
@@ -91,7 +91,7 @@ style='width:70%'>
 
 *H. ex* mtSSB (details in [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016)) is a type of mitochondrial single-stranded DNA binding protein, it can prevent DNA damage during genotoxic stress.
 
-In Anti-Desiccation Module, we tested the anti-desiccation capability of *E. coli* expressing mtSSB alone, or co-expressing mtSSB, AnAFP and another TDP protein [SAHS 33020](http://parts.igem.org/Part:BBa_K2306003). Experiment was conducted as following: we centrifuged the liquid culture of the experimental groups, and removed the supernatant. Pellets are dried for 6.5 hr in SpeedVac under 4°C .Finally, the pellets are weighed and resuspended in LB medium and diluted 10^5^-fold for [CFU counting](/experiments/#cfu-counting).
+In Anti-Desiccation Module, we tested the anti-desiccation capability of *E. coli* expressing [mtSSB alone](/description/#fn16), or co-expressing mtSSB, AnAFP and another TDP protein [SAHS 33020](http://parts.igem.org/Part:BBa_K2306003). Experiment was conducted as following: we centrifuged the liquid culture of the experimental groups, and removed the supernatant. Pellets are dried for 6.5 hr in SpeedVac under 4°C .Finally, the pellets are weighed and resuspended in LB medium and diluted 10^5^-fold for [CFU counting](/experiments/#cfu-counting).
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/anti-desiccation-protocol.png"

@@ -11,9 +11,9 @@ authorlink:
 
 ## Inspiration
 
-**What if our next home isn’t on Earth?**
+**What if our next home isn't on Earth?**
 
-In [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)'s visionary novel *The Songs of the Distant Earth*, he paints a future where humanity seeks refuge on a distant planet called Salazar to escape the Sun’s impending supernova explosion.
+In [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)'s visionary novel *The Songs of the Distant Earth*, he paints a future where humanity seeks refuge on a distant planet called Salazar to escape the Sun's impending supernova explosion.
 
 In our current era, as Earth grapples with escalating ecological and demographic crises, the notion of **planetary colonization** rises not merely as the stuff of science fiction but also as a pressing, real-world imperative.
 
@@ -39,7 +39,7 @@ Among the array of celestial bodies in our cosmic neighborhood, Mars shines as t
 
 **The Terraforming Imperative**
 
-However, before Mars can welcome Earth’s denizens, it must first undergo a profound transformation through the process of **terraforming** — essentially, reshaping a planet's surface to mimic Earth's hospitable conditions.
+However, before Mars can welcome Earth's denizens, it must first undergo a profound transformation through the process of **terraforming** — essentially, reshaping a planet's surface to mimic Earth's hospitable conditions.
 
 Unlike our home planet with fertile lands, the Martian surface is predominantly a barren landscape covered in basalt, dotted with silicate and sulfate rock[^3]. A sustainable ecosystem, then, must begin with the transformation of **Martian soil.**
 
@@ -85,7 +85,7 @@ In an audacious effort to extend humanity's reach beyond our blue planet, our te
     <img src="https://static.igem.wiki/teams/4765/wiki/description/5.png" style='width:80%'>
     <br>
     <div>
-    	<p><small style="color: gray">Figure 5: Our initiative <strong>B.HOME</strong> suggests a “plan B” for establishing human habitat and settlement beyond Earth’s borders.</small></p>
+    	<p><small style="color: gray">Figure 5: Our initiative <strong>B.HOME</strong> suggests a “plan B” for establishing human habitat and settlement beyond Earth's borders.</small></p>
     </div>
 </div>
 
@@ -152,7 +152,7 @@ In the Survival System, we introduced the **Anti-UV Module**, **Anti-Freeze Modu
 
 We tested multiple proteins in *E. coli* to enhance its resistance to UV radiation, mitigating biomolecule damage induced by radiation.
 
-1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv DSup[^9], [*Hypsibius exemplaris* mtSSB](http://parts.igem.org/Part:BBa_K4765016)[^10]) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](http://parts.igem.org/Part:BBa_K4765018) and [XRCC1](http://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
+1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv Dsup[^9][^10], [*Hypsibius exemplaris* mtSSB](http://parts.igem.org/Part:BBa_K4765016)) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](http://parts.igem.org/Part:BBa_K4765018) and [XRCC1](http://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
 
 2.   **Transfer UV Absorption:** Informed by insights from [LINKS-China_2022](https://2022.igem.wiki/links-china/description)[^11], we enriched *E.coli* with UV-absorbing[^12] substance, Mycosporine-like amino acids (MAAs), acting as a sunscreen for the biofilm.
 
@@ -182,7 +182,7 @@ Taking inspiration from the remarkable resilience of tardigrades in extremely dr
 
 TDPs were identified for their role in tardigrade desiccation tolerance. TDPs undergo a transition into non-crystalline amorphous solids during desiccation, mirroring their protective attributes.
 
-*H. ex* mtSSB binds single-stranded DNA to buffer against DNA damage under harsh conditions like desiccation heat and radiation.
+*H. ex* mtSSB binds single-stranded DNA to buffer against DNA damage under harsh conditions like desiccation[^16], heat and radiation.
 
  <div style="text-align: center;" id="fig-1">
     <img src="https://static.igem.wiki/teams/4765/wiki/description/desiccation-module-new.png" style='width:80%'>
@@ -328,13 +328,13 @@ Our project's potential doesn't just float on Mars! It offers promising applicat
 [^7]: https://en.wikipedia.org/wiki/Water_distribution_on_Earth
 [^8]: Smith, M. D. (2008). Spacecraft Observations of the Martian Atmosphere. *Annual Review of Earth and Planetary Sciences*, *36*(1), 191–219. https://doi.org/10.1146/annurev.earth.36.031207.124334
 [^9]: Chavez, C., Cruz-Becerra, G., Fei, J., Kassavetis, G. A., & Kadonaga, J. T. (2019). The tardigrade damage suppressor protein binds to nucleosomes and protects DNA from hydroxyl radicals. eLife, 8, e47682. https://doi.org/10.7554/eLife.47682
-[^10]: Hibshman, J. D., Clark-Hachtel, C. M., Bloom, K. S., & Goldstein, B. (2023). A bacterial expression cloning screen reveals tardigrade single-stranded DNA-binding proteins as potent desicco-protectants (p. 2023.08.21.554171). *bioRxiv*. https://doi.org/10.1101/2023.08.21.554171
+[^10]: Clark-Hachtel CM,  Hibshman JD,  Buysscher TD,  Goldstein B (2023). Tardigrades dramatically upregulate DNA repair pathway genes in response to ionizing radiation (p. 2023.09.07.556677). *bioRxiv*. https://doi.org/10.1101/2023.09.07.556677
 [^11]: https://2022.igem.wiki/links-china/description
 [^12]: Gao, Q., & Garcia-Pichel, F. (2011). Microbial ultraviolet sunscreens. *Nature Reviews Microbiology*, *9*(11), Article 11. https://doi.org/10.1038/nrmicro2649
 [^13]: Yu, H., Zheng, H., Liu, Y., Yang, Q., Li, W., Zhang, Y., & Fu, F. (2021). Antifreeze protein from Ammopiptanthus nanus functions in temperature-stress through domain A. *Scientific Reports*, *11*, 8458. https://doi.org/10.1038/s41598-021-88021-0
 [^14]: Boothby, T. C., Tapia, H., Brozena, A. H., Piszkiewicz, S., Smith, A. E., Gio vannini, I., Rebecchi, L., Pielak, G. J., Koshland, D., & Goldstein, B. (2017). Tardigrades Use Intrinsically Disordered Proteins to Survive Desiccation. *Molecular Cell*, *65*(6), 975-984.e5. https://doi.org/10.1016/j.molcel.2017.02.018
 [^15]: https://2017.igem.org/Team:TUDelft
-[^16]: Hibshman, J. D., Clark-Hachtel, C. M., Bloom, K. S., & Goldstein, B. (2023). A bacterial expression cloning screen reveals tardigrade single-stranded DNA-binding proteins as potent desicco-protectants (p. 2023.08.21.554171). bioRxiv. https://doi.org/10.1101/2023.08.21.554171
+[^16]: Hibshman, J. D., Clark-Hachtel, C. M., Bloom, K. S., & Goldstein, B. (2023). A bacterial expression cloning screen reveals tardigrade single-stranded DNA-binding proteins as potent desicco-protectants (p. 2023.08.21.554171). *bioRxiv*. https://doi.org/10.1101/2023.08.21.554171
 [^17]: https://2022.igem.wiki/shanghaitech-china/
 [^18]: Fedeson, D. T., & Ducat, D. C. (2017). Cyanobacterial Surface Display System Mediates Engineered Interspecies and Abiotic Binding. *ACS Synthetic Biology*, *6*(2), 367–374. https://doi.org/10.1021/acssynbio.6b00254
 [^19]: Chen, B., Kang, W., Sun, J., Zhu, R., Yu, Y., Xia, A., Yu, M., Wang, M., Han, J., Chen, Y., Teng, L., Tian, Q., Yu, Y., Li, G., You, L., Liu, Z., & Dai, Z. (2022). Programmable living assembly of materials by bacterial adhesion. *Nature Chemical Biology*, *18*(3), Article 3. https://doi.org/10.1038/s41589-021-00934-z
