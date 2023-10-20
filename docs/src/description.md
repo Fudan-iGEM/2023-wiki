@@ -154,7 +154,7 @@ We tested multiple proteins in *E. coli* to enhance its resistance to UV radiati
 
 1. **Upregulate DNA Repair or Binding:** Tardigrades are renowned for their radio tolerance. They upregulate DNA repair or binding proteins (Rv Dsup[^9][^10], [*Hypsibius exemplaris* mtSSB](http://parts.igem.org/Part:BBa_K4765016)) as protective measures to maintain DNA integrity. We also introduced DNA repair-related proteins [FEN1](http://parts.igem.org/Part:BBa_K4765018) and [XRCC1](http://parts.igem.org/Part:BBa_K4765019). The anti-UV capability of these proteins was tested in [Results](/results/).
 
-2.   **Transfer UV Absorption:** Informed by insights from [LINKS-China_2022](https://2022.igem.wiki/links-china/description)[^11], we enriched *E.coli* with UV-absorbing[^12] substance, Mycosporine-like amino acids (MAAs), acting as a sunscreen for the biofilm.
+2.   **Transfer UV Absorption:** Informed by insights from [LINKS iGEM 2022](https://2022.igem.wiki/links-china/description)[^11], we enriched *E.coli* with UV-absorbing[^12] substance, Mycosporine-like amino acids (MAAs), acting as a sunscreen for the biofilm.
 
 <div style="text-align: center;">
     <img src="https://static.igem.wiki/teams/4765/wiki/description/anti-uv-module.png" style='width:80%'>
@@ -197,7 +197,7 @@ TDPs were identified for their role in tardigrade desiccation tolerance. TDPs un
 
 ### 2. Symbiotic System
 
-We have established a symbiotic system in which cyanobacteria serve as carbon-fixing power cells, while genetically-equipped *E. coli* take on the roles of consumer and functional executor. Inspired by [ShanghaiTech_2022](https://2022.igem.wiki/shanghaitech-china/)[^17], we integrated the *CscB* gene into cyanobacteria to express the sucrose channel for **enhanced secretion**. Alongside this, we equipped *E. coli* with *SacC* gene to improve its sucrose **absorption and utilization**.
+We have established a symbiotic system in which cyanobacteria serve as carbon-fixing power cells, while genetically-equipped *E. coli* take on the roles of consumer and functional executor. Inspired by [ShanghaiTech iGEM 2022](https://2022.igem.wiki/shanghaitech-china/)[^17], we integrated the *CscB* gene into cyanobacteria to express the sucrose channel for **enhanced secretion**. Alongside this, we equipped *E. coli* with *SacC* gene to improve its sucrose **absorption and utilization**.
 
   <div style="text-align: center;" >
     <img src="https://static.igem.wiki/teams/4765/wiki/description/11symbiotic-system.png" style='width:80%'>
@@ -236,7 +236,7 @@ Exopolysaccharide (EPS) is a key agent in soil stability, fertility, and defense
 2. Foster **aggregation and stabilization** of dust particles on the Martian surface, contributing to improved soil stability and fertility.
 3. **Defense** against abiotic stressors, such as drought, freezing temperature and UV, granting the ecological biofilm greater survival capabilities.
 
-In this module, we refined the [XJTU_2022](https://2020.igem.org/Team:XJTU-China) strategy[^24], and optimized the expression of key enzymes, [*pgmA* and *galU*](http://parts.igem.org/Part:BBa_K4765121), in the EPS biosynthesis pathway to increase production. Ultimately, this enhancement contributed to an improved ability to adhere to the Martian surface.
+In this module, we refined the [XJTU iGEM 2020](https://2020.igem.org/Team:XJTU-China) strategy[^24], and optimized the expression of key enzymes, [*pgmA* and *galU*](http://parts.igem.org/Part:BBa_K4765121), in the EPS biosynthesis pathway to increase production. Ultimately, this enhancement contributed to an improved ability to adhere to the Martian surface.
 
 <div style="text-align: center;" >
     <img src="https://static.igem.wiki/teams/4765/wiki/description/13eps-module.png" style='width:80%'>
@@ -249,7 +249,7 @@ In this module, we refined the [XJTU_2022](https://2020.igem.org/Team:XJTU-China
 
 #### B) Oxalic Acid Module
 
-Mimicking natural weathering, we selected oxalic acid to expedite mineral hydrolysis, adopting the [CAU_2022](https://2022.igem.wiki/cau-china/) approach[^25].
+Mimicking natural weathering, we selected oxalic acid to expedite mineral hydrolysis, adopting the [CAU iGEM 2022](https://2022.igem.wiki/cau-china/) approach[^25].
 
 In terrestrial ecosystems, oxalic acid, secreted by pioneer plants like lichens, is believed to play a crucial role in the geochemical weathering process[^26]. This acid forms cation-organic complexes with mineral cations, inducing a transfer of electron density towards the mineral framework, thereby expediting mineral hydrolysis[^27].
 

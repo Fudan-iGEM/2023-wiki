@@ -120,7 +120,7 @@ style='width:40%'>
 
 ## 2. Symbiotic System
 
-In the symbiotic system, we adopted the approach from the [ShanghaiTech-China iGEM 2022](https://2022.igem.wiki/shanghaitech-china/) project, wherein we introduced the fructofuranosidase enzyme (SacC) (details in [BBa_K4115017](http://parts.igem.org/Part:BBa_K4115017)) into *E. coli* to promote the hydrolysis of sucrose into fructose and glucose, enabling *E. coli* to sefficiently utilize sucrose as a carbon source.
+In the symbiotic system, we adopted the approach from the [ShanghaiTech iGEM 2022](https://2022.igem.wiki/shanghaitech-china/) project, wherein we introduced the fructofuranosidase enzyme (SacC) (details in [BBa_K4115017](http://parts.igem.org/Part:BBa_K4115017)) into *E. coli* to promote the hydrolysis of sucrose into fructose and glucose, enabling *E. coli* to sefficiently utilize sucrose as a carbon source.
 
 
 We measure the growth curve through measuring optical density at a wavelength of 600 nm (OD~600~).

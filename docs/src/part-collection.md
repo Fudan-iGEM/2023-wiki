@@ -170,7 +170,7 @@ Our objective is to modify the biofilm to firmly attach to the surfaces of Marti
 
 As for the oxalic acid module, following multiple rounds of discussions with [CAU-China_2022](/collaborations/#with-cau-china-project-design), we have decided to adopt their composite part ([BBa_K4192120](http://parts.igem.org/Part:BBa_K4192120)) to produce oxalic acid.
 
-Regarding the EPS module, inspired by [XJTU-China iGEM 2020](https://2020.igem.org/Team:XJTU-China), we have overexpressed the key enzymes, PgmA and GalU, both from *E. coli* involved in EPS synthesis, to increase the amount of EPS on bacteria. To facilitate EPS functional characterization, we have also incorporated these enzymes into the pRAP system ([BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121)), connected with a red fluorescent protein.
+Regarding the EPS module, inspired by [XJTU iGEM 2020](https://2020.igem.org/Team:XJTU-China), we have overexpressed the key enzymes, PgmA and GalU, both from *E. coli* involved in EPS synthesis, to increase the amount of EPS on bacteria. To facilitate EPS functional characterization, we have also incorporated these enzymes into the pRAP system ([BBa_K4765121](http://parts.igem.org/Part:BBa_K4765121)), connected with a red fluorescent protein.
 
 <div style="text-align: center;" id="fig-1">
 <img src="https://static.igem.wiki/teams/4765/wiki/jzk/5-pc.png"

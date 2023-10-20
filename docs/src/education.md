@@ -120,7 +120,7 @@ style='width:80%'>
 </div>
 
 
-During this **comprehensive open house event** ([schedule](https://static.igem.wiki/teams/4765/wiki/slides/fufuarrangement.pdf)), we initiated the collaboration with iGEM teams: [ShanghaiTech-China 2023](https://2023.igem.wiki/shanghaitech-china/), [XJTLU-CHINA 2023](https://2023.igem.wiki/xjtlu-china/), and [Fudan 2022](https://2022.igem.wiki/fudan/).
+During this **comprehensive open house event** ([schedule](https://static.igem.wiki/teams/4765/wiki/slides/fufuarrangement.pdf)), we initiated the collaboration with iGEM teams: [ShanghaiTech iGEM 2023](https://2023.igem.wiki/shanghaitech-china/), [XJTLU iGEM 2023](https://2023.igem.wiki/xjtlu-china/), and our [2022](https://2022.igem.wiki/fudan/) team members.
 
 - **Visit to the Tan Jiazhen Museum:** Honoring Mr. Tan, a renowned biologist who pioneered life sciences education in China.
 - **Lunch meeting:** Fostering dialogue between iGEMers and high school students to brainstorm developments in synthetic biology.
