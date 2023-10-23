@@ -36,14 +36,14 @@
 | |  | [BBa_K4765022](http://parts.igem.org/Part:BBa_K4765022) | mScarlet | Coding | Siliang Zhan | Length:  699 bp | basic |
 | |  | [BBa_K4765023](http://parts.igem.org/Part:BBa_K4765023) | PmeI linker | RNA | Siliang Zhan | Length:  27 bp | basic |
 | |  | [BBa_K4765024](http://parts.igem.org/Part:BBa_K4765024) | stem-loop 2 | RNA | Siliang Zhan | Length:  16 bp | basic |
-| |  | [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025) | Rv Dsup codon optimized | Coding | Siliang Zhan | Length:  1188 bp | basic |
+| |  | [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025) | FEN1 v2 | Coding | Siliang Zhan | Length:  1188 bp | basic |
 | |  | [BBa_K4765102](http://parts.igem.org/Part:BBa_K4765102) | Twister P1 + T7_RBS + intimin-Nb1 fusion + stem-loop | DNA | Siliang Zhan | Length:  2427 bp | BBa_K4765020 BBa_K4162006 BBa_K4765001 BBa_K4765003 BBa_K4765021 |
 | |  | [BBa_K4765104](http://parts.igem.org/Part:BBa_K4765104) | Twister P1 + T7_RBS + intimin-Nb2 fusion + stem-loop | DNA | Siliang Zhan | Length:  2439 bp | BBa_K4765020 BBa_K4162006 BBa_K4765001 BBa_K4765005 BBa_K4765021 |
 | |  | [BBa_K4765106](http://parts.igem.org/Part:BBa_K4765106) | Twister P1 + T7_RBS + intimin-Nb3 fusion + stem-loop | DNA | Siliang Zhan | Length:  2394 bp | BBa_K4765020 BBa_K4162006 BBa_K4765001 BBa_K4765007 BBa_K4765021 |
 | |  | [BBa_K4765111](http://parts.igem.org/Part:BBa_K4765111) | Twister P1  + T7_RBS + AnAFP + stem-loop | DNA | Siliang Zhan | Length:  693 bp | BBa_K4765020 BBa_K4162006 BBa_K4765015 BBa_K4765021 |
 | |  | [BBa_K4765112](http://parts.igem.org/Part:BBa_K4765112) | Twister P1 + T7_RBS + SAHS 33020 + stem-loop | DNA | Siliang Zhan | Length:  590 bp | BBa_K4765020 BBa_K4162006 BBa_K2306003 BBa_K4765021 |
 | |  | [BBa_K4765113](http://parts.igem.org/Part:BBa_K4765113) | Twister P1 + T7_RBS + H. ex mtSSB + stem-loop | DNA | Siliang Zhan | Length:  702 bp | BBa_K4765020 BBa_K4162006 BBa_K4765016 BBa_K4765021 |
-| |  | [BBa_K4765114](http://parts.igem.org/Part:BBa_K4765114) | Twister P1 + T7_RBS + Rv Dsup + stem-loop | DNA | Siliang Zhan | Length:  1269 bp | BBa_K4765020 BBa_K4162006 BBa_K4765025 BBa_K4765021 |
+| |  | [BBa_K4765114](http://parts.igem.org/Part:BBa_K4765114) | Twister P1 + T7_RBS + FEN1 v2 + stem-loop | DNA | Siliang Zhan | Length:  1269 bp | BBa_K4765020 BBa_K4162006 BBa_K4765025 BBa_K4765021 |
 | |  | [BBa_K4765115](http://parts.igem.org/Part:BBa_K4765115) | Twister P1 + T7_RBS + FEN1 + stem-loop | DNA | Siliang Zhan | Length:  1266 bp | BBa_K4765020 BBa_K4162006 BBa_K4765018 BBa_K4765021 |
 | |  | [BBa_K4765116](http://parts.igem.org/Part:BBa_K4765116) | Twister P1 + T7_RBS + XRCC1 + stem-loop | DNA | Siliang Zhan | Length:  2307 bp | BBa_K4765020 BBa_K4162006 BBa_K4765019 BBa_K4765021 |
 | |  | [BBa_K4765001](http://parts.igem.org/Part:BBa_K4765001) | intimin | Coding | Siliang Zhan | Length:  1968 bp | basic |
