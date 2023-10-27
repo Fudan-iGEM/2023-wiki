@@ -30,7 +30,7 @@ In the Survival System, we introduced **Anti-UV Module**, **Anti-Freeze Module**
 
 ### Anti-UV Module
 
-In the Anti-UV module, we introduced various **DNA repair or binding proteins** ([Rv Dsup](/description/#fn10), FEN1, XRCC1, and *Hypsibius exemplaris* mtSSB) (sequence details and functional characterization in [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025), [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018), [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019), and [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016)) and MAA producing enzymes (MysA/B/C/D/H, details in [Part:BBa_K4765118](http://parts.igem.org/Part:BBa_K4765118)) that regulate **UV-absorbing substances** to enhance *E. coli*'s resistance to UV radiation.
+In the Anti-UV module, we introduced various **DNA repair or binding proteins** (FEN1, XRCC1, and *Hypsibius exemplaris* mtSSB) (sequence details and functional characterization in [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018), [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019), and [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016)) and MAA producing enzymes (MysA/B/C/D/H, details in [Part:BBa_K4765118](http://parts.igem.org/Part:BBa_K4765118)) that regulate **UV-absorbing substances** to enhance *E. coli*'s resistance to UV radiation.
 
 
 We employed the [Colony-Forming Unit](/experiments/#cfu-counting) (CFU) assay. After plasmid transformation and plating, we shielded half of the agar plate from UV light using a black paperboard, while the other half was exposed to UV irradiation (6W power) with combined wavelengths of 254 nm and 365 nm for 10 seconds.

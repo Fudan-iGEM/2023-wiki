@@ -56,7 +56,6 @@ In [our project](/description), in order to enable bacteria to survive under the
 | [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016) | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) |
 | [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018) | FEN1                                                         |
 | [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019) | XRCC1                                                        |
-| [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025) | Rv Dsup codon optimized                                      |
 
 These parts empower bacteria to withstand challenging environments, making them highly valuable for projects related to astrobiology or extreme environmental applications.
 

@@ -93,20 +93,15 @@ With specific genes inserted into pRAP system, this module confers bacteria the 
 | [BBa_K4765016](http://parts.igem.org/Part:BBa_K4765016) | Coding | H.exemplaris mitochondrial single-stranded DNA binding protein (H. ex mtSSB) |
 | [BBa_K4765018](http://parts.igem.org/Part:BBa_K4765018) | Coding | FEN1                                                         |
 | [BBa_K4765019](http://parts.igem.org/Part:BBa_K4765019) | Coding | XRCC1                                                        |
-| [BBa_K4765025](http://parts.igem.org/Part:BBa_K4765025) | Coding | Rv Dsup codon optimized                                      |
 | [BBa_K4765111](http://parts.igem.org/Part:BBa_K4765111) | DNA    | Twister P1 + T7_RBS + AnAFP + stem-loop                      |
 | [BBa_K4765112](http://parts.igem.org/Part:BBa_K4765112) | DNA    | Twister P1 + T7_RBS + SAHS 33020 + stem-loop                 |
 | [BBa_K4765113](http://parts.igem.org/Part:BBa_K4765113) | DNA    | Twister P1 + T7_RBS + H. ex mtSSB + stem-loop                |
-| [BBa_K4765114](http://parts.igem.org/Part:BBa_K4765114) | DNA    | Twister P1 + T7_RBS + Rv Dsup + stem-loop                    |
 | [BBa_K4765117](http://parts.igem.org/Part:BBa_K4765117) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020                 |
 | [BBa_K4765118](http://parts.igem.org/Part:BBa_K4765118) | DNA    | ribozyme connected: MysABCDH                                 |
-| [BBa_K4765123](http://parts.igem.org/Part:BBa_K4765123) | DNA    | ribozyme connected: XRCC1 + Dsup + FEN1                      |
 | [BBa_K4765126](http://parts.igem.org/Part:BBa_K4765126) | DNA    | ribozyme connected: H. ex mtSSB + SAHS 33020 + AnAFP         |
 | [BBa_K4765127](http://parts.igem.org/Part:BBa_K4765127) | DNA    | ribozyme connected: H. ex mtSSB + AnAFP + SAHS 33020         |
 | [BBa_K4765128](http://parts.igem.org/Part:BBa_K4765128) | DNA    | ribozyme connected: AnAFP + SAHS 33020 + H. ex mtSSB         |
-| [BBa_K4765134](http://parts.igem.org/Part:BBa_K4765134) | DNA  | ribozyme connected: Dsup + FEN1 + H. ex mtSSB + SAHS 33020 + XRCC1 |
-| [BBa_K4765135](http://parts.igem.org/Part:BBa_K4765135) | DNA  | ribozyme connected: Dsup + H. ex mtSSB + SAHS 33020 + XRCC1 + FEN1 |
-| [BBa_K4765136](http://parts.igem.org/Part:BBa_K4765136) | DNA  | ribozyme connected: FEN1 + H. ex mtSSB + SAHS 33020 + XRCC1 + Dsup |
+| [BBa_K4765140](http://parts.igem.org/Part:BBa_K4765140) | DNA | B.HOME v1
 
 
 ## Symbiotic System
