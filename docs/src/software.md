@@ -7,6 +7,8 @@ authorlink:
    - /fudan/team/#zhiyue-chen-the-software-wizard
 ---
 
+Updated on 2023-11-5: we won [the Best Software Tool (Undergrad)](https://jamboree.igem.org/2023/results?scroll=Best%20Software%20Tool#special-prizes).
+
 ::: tip
 Live demo of our software RAP is available. Visit our live demo [http://54.169.242.254:5000/](http://54.169.242.254:5000/)! To run your own with `docker`, please follow these three links, [1](https://hub.docker.com/repository/docker/mistyfield/kinetichub/general) [2](https://hub.docker.com/repository/docker/mistyfield/parthub/general) [3](https://hub.docker.com/repository/docker/mistyfield/rap/general).
 :::

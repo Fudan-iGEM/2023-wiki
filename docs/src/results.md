@@ -10,6 +10,9 @@ authorlink:
 - /fudan/team/#zhenmao-ye-the-multifaceted-talent
 - /fudan/team/#yijun-wang-the-meticulous-leader
 ---
+
+Updated on 2023-11-5: we won [the Best Environment Project (Undergrad)](https://jamboree.igem.org/2023/results?scroll=Environment#village-awards).
+
 ## Overview
 
 To expand humanity's horizons beyond Earth, our project, named **Biofilm Harnessing for Offworld Mankind Establishment** ([B.HOME](/description/#b-home-project-overview)), has raised a groundbreaking approach to terraforming, transforming barren rocks on terrestrial planets in fertile soil. Drawing inspiration from the pioneer plants of lichens, we have developed an ecological biofilm with the symbiotic relationship between cyanobacteria and *Escherichia coli* (*E. coli*). We integrated four interconnected systems into our biofilm: **Survival, Symbiotic, Biofilm Formation,** and **Terraforming** Systems. Through these systems, we have engineered an ecological biofilm with remarkable resilience, autotrophic survival capabilities, structural integrity, and terraforming functionality.

@@ -9,6 +9,8 @@ authorlink:
 - /fudan/team/#siliang-zhan-the-conscientious-researcher
 ---
 
+Updated on 2023-11-5: we won [the Best Environment Project (Undergrad)](https://jamboree.igem.org/2023/results?scroll=Environment#village-awards).
+
 ## Inspiration
 
 **What if our next home isn't on Earth?**
