@@ -7,7 +7,8 @@ authorlink:
 - /fudan/team/#zhikai-jiang-the-model-specialist
 ---
 
-Our favourite part is [BBa_K4765129 (stem-loop test)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129)
+Our favourite part is [BBa_K4765129 (stem-loop test)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K4765129).
+
 ## Ribozyme-Assisted Polycistronic co-expression
 
 We've improved previously published **Ribozyme-Assisted Polycistronic co-expression (pRAP) system**[^1]. This improvement allows for the simultaneous expression of multiple proteins by inserting all B.HOME CDS sequences into [one](http://parts.igem.org/Part:BBa_K4765140). Our Software [RAP](/software/) could: 1) design synthetic stem-loops with different strengths to control avaiable mRNA; 2) leverages enzyme $k_{cat}$ values to design RBS with varying strengths, thereby controlling the initial translation rates. These fine-tuning enable the modulation of *Escherichia coli*'s metabolic flux, reducing metabolic stress.
@@ -187,7 +188,7 @@ This module assists bacteria to attach to Martian rocks while facilitating rock 
 | [BBa_K4765122](http://parts.igem.org/Part:BBa_K4765122) | DNA  | ribozyme connected: pgmA + galU + mScarlet |
 
 
-In summary, our Survival System, Biofilm Formation System and Terraforming System were all sucessfully built and test functionally, proving our concept of using synthetic biology to promote terraforming.
+In summary, our Survival System, Biofilm Formation System and Terraforming System were all sucessfully built and test functionally, proving our concept of using synthetic biology to promote terraforming. Later, we functional characterized B.HOME v1 (intimin-MVN, mtSSB, AnAFP, SAHS, pgmA, galU, mScarlet), all modules in one bacteria and function as designed.
 
 
 ## References
