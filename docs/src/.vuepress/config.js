@@ -59,7 +59,6 @@ module.exports = {
           { text: 'Engineering', link: '/engineering' },
           { text: 'Experiments', link: '/experiments' },
           { text: 'Implementation', link: '/implementation' },
-          { text: 'Judging Form', link: 'https://competition.igem.org/deliverables/judging-form' },
           { text: 'Measurement', link: '/measurement' },
           { text: 'Model', link: '/model' },
           { text: 'Notebook', link: '/notebook' },
