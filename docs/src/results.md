@@ -66,7 +66,7 @@ Our experimental results demonstrated that most DNA repair and binding proteins 
 
 AnAFP (details in [BBa_K4765015](http://parts.igem.org/Part:BBa_K4765015)) is an anti-freeze protein derived from *Ammopiptanthus nanus*, we heterologously expressed  AnAFP in *E. coli*, endowing the bacteria with anti-freeze capability.
 
-To test the anti-freeze capability of AnAFP, we subjected *E. coli* expressing AnAFP to cold treatment at 0°C. Bacteria were placed on iced water, maintained in cold room, and samples were collected after 0, 24, 48, and 96 hours for CFU counting, and a survival rate curve was plotted.
+To test the anti-freeze capability of AnAFP, we subjected *E. coli* expressing AnAFP to cold treatment at 0°C. Bacteria were placed on iced water, maintained in cold room, and samples were collected after 0, 24, 48, and 96 hours for CFU counting, and a survival rate curve was plotted. We did not use -30 or -80 degrees for testing, because *E. coli* stock is usually kept at those temperatures where bacteria can survive for years. Surviving at 0 degree would be very challenging for bacteria. We did not test the number of freeze-thawn cycles our bacteria could survive.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/anafp-protocol.png"
@@ -79,7 +79,7 @@ style='width:70%'>
 </div>
 
 
-As shown in the following figure, *E. coli* expressing AnAFP exhibited a higher survival rate under prolonged cold treatment conditions compared to *E. coli* transformed with an empty pET28 vector, indicating that **AnAFP expressing enables bacteria to possess anti-freeze ability**.
+As shown in the following figure, *E. coli* expressing AnAFP exhibited a higher survival rate under prolonged cold treatment conditions compared to *E. coli* transformed with an empty pET28 vector, indicating that **AnAFP expressing enables bacteria to possess anti-freeze ability**, surviving at 0 degree for extended time.
 
 <div style="text-align: center;">
 <img src="https://static.igem.wiki/teams/4765/wiki/zsl/anafp-survival-curve.png"
